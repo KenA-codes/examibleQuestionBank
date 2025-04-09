@@ -92,8 +92,11 @@ exports.uploadQuestions = async (req, res) => {
     const filePath = req.file.path; // Ensure your multer middleware handles this correctly
 
     const result = await readDOCX(filePath);
+
     if (!result) {
-      return res.status(400).json({ message: "Failed to extract questions" });
+      return res.status(400).json({ 
+        message: "Failed to extract questions" 
+      });
     }
 
     const { subjectName, year } = req.body; // Assuming these are sent from frontend
@@ -105,6 +108,10 @@ exports.uploadQuestions = async (req, res) => {
     });
 
     await newQuestion.save();
+
+     // Delete the file after processing
+     await fs.promises.unlink(filePath);
+     console.log("Temporary file deleted successfully");
 
     res.status(201).json({ 
       message: "Questions uploaded successfully!",
