@@ -28,64 +28,6 @@ exports.createQuestion = async (req, res) => {
   }
 };
 
-// exports.uploadQuestions = async (req, res) => {
-//   try {
-//     const { subjectName, year } = req.body;
-
-//     if (!req.file) {
-//       return res.status(400).json({ 
-//         message: "No file uploaded" 
-//       });
-//     }
-
-//     const questions = await readDOCX(req.file.path);
-
-//     if (questions.length === 0) {
-//       return res.status(400).json({ 
-//         message: "No questions found in file" 
-//       });
-//     }
-
-//     // Create a new document in MongoDB
-//     const newEntry = new questionModel({
-//       subjectName: subjectName || "Unknown Subject",
-//       year,
-//       question: questions,
-//     });
-
-//     await newEntry.save();
-
-//     res.status(201).json({
-//       message: "Questions saved successfully",
-//       data: newEntry,
-//     });
-//   } catch (error) {
-//     console.error("Error processing file:" + error.message);
-//     res.status(500).json({ 
-//       message: "Internal Server Error" 
-//     });
-//   }
-// };
-
-
-// const readDOCX = async (filePath) => {
-//   try {
-//     const text = await textract.fromFileWithPath(filePath);
-//     if (!text) throw new Error("No content extracted from file");
-
-//     const lines = text.split("\n").filter((line) => line.trim() !== "");
-
-//     return {
-//       questions: lines.map((line, index) => ({
-//         id: index + 1,
-//         question: line.trim(),
-//       })),
-//     };
-//   } catch (error) {
-//     console.error("Error reading DOCX:", error.message);
-//     return null;
-//   }
-// };
 
 exports.uploadQuestions = async (req, res) => {
   try {
@@ -99,14 +41,13 @@ exports.uploadQuestions = async (req, res) => {
       });
     }
 
-    const { subjectName, year } = req.body; // Assuming these are sent from frontend
+    // const { subjectName, year } = req.body; // Assuming these are sent from frontend
+    let subjectName = req.body.subjectName;
+    const year = req.body.year;
 
-     // Map the questions into the expected format
-    //  const newQuestions = result.questions.map((q) => ({
-    //   question: q.question,
-    //   options: q.options,  // Ensure options are being mapped correctly
-    //   answer: ""           // Placeholder for answer if required
-    // }));
+
+ // Ensure subjectName is always an array
+ subjectName = Array.isArray(subjectName) ? subjectName : [subjectName];
 
     const newQuestion = new questionModel({
       subjectName,
@@ -176,17 +117,18 @@ const readDOCX = async (filePath) => {
         options.push(optionMatch[1].trim());
       }
 
-      if (options.length === 4) {
-        questions.push({
-          subheading: currentSubheading,
-          question: questionText,
-          options,
-          answer: ""
-        });
-      }
-    });
 
-    console.log("Parsed Questions:", questions);
+    if (options.length === 4 && questionText) {
+      questions.push({
+        number: questionNumber.toString(),
+        subheading: currentSubheading,
+        question: questionText,
+        options,
+        answer: ""
+      });
+    }
+  });
+
 
     return { questions };
 
@@ -199,32 +141,7 @@ const readDOCX = async (filePath) => {
 
 
 
-// const readDOCX = async (filePath) => {
-//   try {
-//     if (!fs.existsSync(filePath)) {
-//       throw new Error("File does not exist");
-//     }
 
-//     const buffer = fs.readFileSync(filePath);
-//     const { value: text } = await mammoth.extractRawText({ buffer });
-
-//     if (!text || text.trim() === "") throw new Error("No content extracted from file");
-
-//     // Split the text into individual questions using regex to match numbered patterns
-//     const questions = text
-//       .split(/\n(?=\d+[\.\s])/) // Splits at new lines followed by a number
-//       .filter((q) => q.trim() !== "")
-//       .map((q, index) => ({
-//         id: index + 1,
-//         question: q.trim(),
-//       }));
-
-//     return { questions };
-//   } catch (error) {
-//     console.error("Error reading DOCX:", error.message);
-//     return null;
-//   }
-// };
 
 exports.getQuestionsByYearAndSubject = async (req, res) => {
   try {
