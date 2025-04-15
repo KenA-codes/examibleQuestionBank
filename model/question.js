@@ -38,11 +38,12 @@ const questionSchema = new mongoose.Schema({
         type: Number,
         required: true
     },
-    question: [{
-        // type: mongoose.SchemaTypes.ObjectId,
-        // ref: 'Rooms'
-        type: String,
-        default: []
+    questions: [{
+        number: { type: String },
+    subheading: { type: String },
+    question: { type: String, required: true },
+    options: { type: [String], required: true },
+    answer: { type: String, default: "" }
     }]
 }, {
     timestamps: true

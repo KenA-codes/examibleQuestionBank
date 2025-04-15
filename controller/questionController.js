@@ -93,7 +93,7 @@ exports.uploadQuestions = async (req, res) => {
 
     const result = await readDOCX(filePath);
 
-    if (!result) {
+    if (!result || result.questions.length === 0 || !result.questions) {
       return res.status(400).json({ 
         message: "Failed to extract questions" 
       });
@@ -101,10 +101,19 @@ exports.uploadQuestions = async (req, res) => {
 
     const { subjectName, year } = req.body; // Assuming these are sent from frontend
 
+     // Map the questions into the expected format
+    //  const newQuestions = result.questions.map((q) => ({
+    //   question: q.question,
+    //   options: q.options,  // Ensure options are being mapped correctly
+    //   answer: ""           // Placeholder for answer if required
+    // }));
+
     const newQuestion = new questionModel({
       subjectName,
       year,
-      question: result.questions.map((q) => q.question), // Extract only the question text
+      // question: result.questions.map((q) => q.question), // Extract only the question text
+      questions: result.questions
+      // questions: newQuestions
     });
 
     await newQuestion.save();
@@ -126,30 +135,96 @@ exports.uploadQuestions = async (req, res) => {
 
 const readDOCX = async (filePath) => {
   try {
-    if (!fs.existsSync(filePath)) {
-      throw new Error("File does not exist");
-    }
-
     const buffer = fs.readFileSync(filePath);
     const { value: text } = await mammoth.extractRawText({ buffer });
 
-    if (!text || text.trim() === "") throw new Error("No content extracted from file");
+    if (!text || text.trim() === "") throw new Error("No content extracted");
 
-    // Split the text into individual questions using regex to match numbered patterns
-    const questions = text
-      .split(/\n(?=\d+[\.\s])/) // Splits at new lines followed by a number
-      .filter((q) => q.trim() !== "")
-      .map((q, index) => ({
-        id: index + 1,
-        question: q.trim(),
-      }));
+    console.log("Extracted Text:\n", text);
+
+    const subheadings = [];
+    const subheadingRegex = /Use the (diagram|graph) below to answer questions (\d+) and (\d+)/g;
+    let subheadingMatch;
+    while ((subheadingMatch = subheadingRegex.exec(text)) !== null) {
+      subheadings.push({
+        text: subheadingMatch[0],
+        start: parseInt(subheadingMatch[2]),
+        end: parseInt(subheadingMatch[3]),
+      });
+    }
+
+    const questionMatches = [...text.matchAll(/(\d+)\.\s*((?:.|\n)*?)(?=\d+\.\s|$)/g)];
+    console.log("Number of questions found:", questionMatches.length);
+
+    const questions = [];
+
+    questionMatches.forEach((match) => {
+      const questionNumber = parseInt(match[1]);
+      const fullText = match[2].replace(/\n/g, " ").trim();
+
+      const currentSubheading = subheadings.find(
+        (s) => questionNumber >= s.start && questionNumber <= s.end
+      )?.text || null;
+
+      const questionTextMatch = fullText.match(/^(.*?)(?:\s*A\.\s)/);
+      const questionText = questionTextMatch ? questionTextMatch[1].trim() : "";
+
+      const optionRegex = /[A-D]\.\s(.*?)(?=\s+[A-D]\.|$)/g;
+      const options = [];
+      let optionMatch;
+      while ((optionMatch = optionRegex.exec(fullText)) !== null) {
+        options.push(optionMatch[1].trim());
+      }
+
+      if (options.length === 4) {
+        questions.push({
+          subheading: currentSubheading,
+          question: questionText,
+          options,
+          answer: ""
+        });
+      }
+    });
+
+    console.log("Parsed Questions:", questions);
 
     return { questions };
+
   } catch (error) {
-    console.error("Error reading DOCX:", error.message);
+    console.error("Error in readDOCX:", error.message);
     return null;
   }
 };
+
+
+
+
+// const readDOCX = async (filePath) => {
+//   try {
+//     if (!fs.existsSync(filePath)) {
+//       throw new Error("File does not exist");
+//     }
+
+//     const buffer = fs.readFileSync(filePath);
+//     const { value: text } = await mammoth.extractRawText({ buffer });
+
+//     if (!text || text.trim() === "") throw new Error("No content extracted from file");
+
+//     // Split the text into individual questions using regex to match numbered patterns
+//     const questions = text
+//       .split(/\n(?=\d+[\.\s])/) // Splits at new lines followed by a number
+//       .filter((q) => q.trim() !== "")
+//       .map((q, index) => ({
+//         id: index + 1,
+//         question: q.trim(),
+//       }));
+
+//     return { questions };
+//   } catch (error) {
+//     console.error("Error reading DOCX:", error.message);
+//     return null;
+//   }
+// };
 
 exports.getQuestionsByYearAndSubject = async (req, res) => {
   try {
