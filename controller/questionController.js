@@ -34,6 +34,7 @@ exports.uploadQuestions = async (req, res) => {
     const filePath = req.file.path; // Ensure your multer middleware handles this correctly
 
     const result = await readDOCX(filePath);
+    console.log("DOCX extraction result:", result);
 
     if (!result || result.questions.length === 0 || !result.questions) {
       return res.status(400).json({ 
@@ -74,6 +75,10 @@ exports.uploadQuestions = async (req, res) => {
   }
 };
 
+
+
+
+//This is what was used fo the hackathon
 const readDOCX = async (filePath) => {
   try {
     const buffer = fs.readFileSync(filePath);
@@ -83,6 +88,7 @@ const readDOCX = async (filePath) => {
 
     console.log("Extracted Text:\n", text);
 
+    // Extract subheadings
     const subheadings = [];
     const subheadingRegex = /Use the (diagram|graph) below to answer questions (\d+) and (\d+)/g;
     let subheadingMatch;
@@ -94,42 +100,35 @@ const readDOCX = async (filePath) => {
       });
     }
 
-    const questionMatches = [...text.matchAll(/(\d+)\.\s*((?:.|\n)*?)(?=\d+\.\s|$)/g)];
+    console.log("Subheadings found:", subheadings);
+
+    // Extract questions using new pattern
+    const questions = [];
+    const questionPattern = /(.+?)\s*A\.\s*(.+?)\s*B\.\s*(.+?)\s*C\.\s*(.+?)\s*D\.\s*(.+?)\s*Answer:\s*([A-D])/gs;
+    const questionMatches = [...text.matchAll(questionPattern)];
     console.log("Number of questions found:", questionMatches.length);
 
-    const questions = [];
+    questionMatches.forEach((match, i) => {
+      const questionText = match[1].trim();
+      const options = [match[2], match[3], match[4], match[5]].map((opt) => opt.trim());
+      const answer = match[6].trim();
 
-    questionMatches.forEach((match) => {
-      const questionNumber = parseInt(match[1]);
-      const fullText = match[2].replace(/\n/g, " ").trim();
+      const questionNumber = (i + 1).toString();
 
       const currentSubheading = subheadings.find(
-        (s) => questionNumber >= s.start && questionNumber <= s.end
+        (s) => parseInt(questionNumber) >= s.start && parseInt(questionNumber) <= s.end
       )?.text || null;
 
-      const questionTextMatch = fullText.match(/^(.*?)(?:\s*A\.\s)/);
-      const questionText = questionTextMatch ? questionTextMatch[1].trim() : "";
-
-      const optionRegex = /[A-D]\.\s(.*?)(?=\s+[A-D]\.|$)/g;
-      const options = [];
-      let optionMatch;
-      while ((optionMatch = optionRegex.exec(fullText)) !== null) {
-        options.push(optionMatch[1].trim());
-      }
-
-
-    if (options.length === 4 && questionText) {
       questions.push({
-        number: questionNumber.toString(),
+        number: questionNumber,
         subheading: currentSubheading,
         question: questionText,
         options,
-        answer: ""
+        answer,
       });
-    }
-  });
+    });
 
-
+    console.log("New Extracted Questions:\n", questions);
     return { questions };
 
   } catch (error) {
@@ -137,6 +136,79 @@ const readDOCX = async (filePath) => {
     return null;
   }
 };
+
+
+//This was done before
+// const readDOCX = async (filePath) => {
+//   try {
+//     const buffer = fs.readFileSync(filePath);
+//     const { value: text } = await mammoth.extractRawText({ buffer });
+
+//     if (!text || text.trim() === "") throw new Error("No content extracted");
+
+//     console.log("Extracted Text:\n", text);
+
+//     const subheadings = [];
+//     const subheadingRegex = /Use the (diagram|graph) below to answer questions (\d+) and (\d+)/g;
+//     let subheadingMatch;
+//     while ((subheadingMatch = subheadingRegex.exec(text)) !== null) {
+//       subheadings.push({
+//         text: subheadingMatch[0],
+//         start: parseInt(subheadingMatch[2]),
+//         end: parseInt(subheadingMatch[3]),
+//       });
+//     }
+
+//     const questionMatches = [...text.matchAll(/(\d+)\.\s*((?:.|\n)*?)(?=\d+\.\s|$)/g)];
+//     console.log("Number of questions found:", questionMatches.length);
+
+//     const questions = [];
+
+//     questionMatches.forEach((match) => {
+//       const questionNumber = parseInt(match[1]);
+//       const fullText = match[2].replace(/\n/g, " ").trim();
+
+//       const currentSubheading = subheadings.find(
+//         (s) => questionNumber >= s.start && questionNumber <= s.end
+//       )?.text || null;
+
+//       const questionTextMatch = fullText.match(/^(.*?)(?:\s*A\.\s)/);
+//       const questionText = questionTextMatch ? questionTextMatch[1].trim() : "";
+
+//       const optionRegex = /[A-D]\.\s(.*?)(?=\s+[A-D]\.|$)/g;
+//       const options = [];
+//       let optionMatch;
+//       while ((optionMatch = optionRegex.exec(fullText)) !== null) {
+//         options.push(optionMatch[1].trim());
+//       }
+
+         
+
+
+//     if (options.length === 4 && questionText) {
+//       questions.push({
+//         number: questionNumber.toString(),
+//         subheading: currentSubheading,
+//         question: questionText,
+//         options,
+//         answer: "", // Default answer field
+//       });
+//     }
+//   });
+
+//   console.log("New Extracted Questions:\n", questions);
+//     return { questions };
+
+    
+
+//   } catch (error) {
+//     console.error("Error in readDOCX:", error.message);
+//     return null;
+//   }
+// };
+
+
+
 
 
 
