@@ -218,6 +218,7 @@ const readDOCX = async (filePath) => {
 exports.getQuestionsByYearAndSubject = async (req, res) => {
   try {
     const { year, subjectName } = req.params; 
+    const numYear = +year;
 
     if (!year || !subjectName) {
       return res.status(400).json({
@@ -225,10 +226,15 @@ exports.getQuestionsByYearAndSubject = async (req, res) => {
       });
     }
 
-    const questions = await questionModel.findOne({
-      year,
-      subjectName: { $regex: new RegExp(subjectName, "i") }, // Case-insensitive match
-    });
+    // const questions = await questionModel.findOne({
+    //   year: numYear,
+    //   subjectName: { $regex: new RegExp(subjectName, "i") }, 
+    // });
+
+   const questions = await questionModel.findOne({
+  year: numYear,
+  subjectName: { $elemMatch: { $regex: new RegExp(subjectName, "i") } },
+});
 
     if (!questions) {
       return res.status(404).json({

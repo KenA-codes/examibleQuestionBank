@@ -5,7 +5,8 @@ const questionSchema = new mongoose.Schema(
     subjectName: {
       type: [String],
       enum: [
-        "English Language",
+        // "English Language",
+        "English",
         "Mathematics",
         "Biology",
         "Physics",
