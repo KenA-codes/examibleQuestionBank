@@ -254,3 +254,62 @@ exports.getQuestionsByYearAndSubject = async (req, res) => {
     });
   }
 };
+
+
+// exports.getAllSubjectsAndYears = async (req, res) => {
+//   try {
+//     const subjects = await questionModel.distinct("subjectName");
+//     const years = await questionModel.distinct("year");
+
+//     return res.status(200).json({
+//       message: "Subjects and Years retrieved successfully",
+//       data: {
+//         subjects,
+//         years,
+//       },
+//     });
+//   } catch (error) {
+//     console.error("Error fetching subjects and years:", error.message);
+//     return res.status(500).json({
+//       message: "Internal server error",
+//       error: error.message,
+//     });
+//   }
+// };
+
+exports.getAllSubjectsAndYears = async (req, res) => {
+  try {
+    const result = await questionModel.aggregate([
+      {
+        $group: {
+          _id: "$subjectName",            // group by subject
+          years: { $addToSet: "$year" }   // collect unique years
+        }
+      },
+      {
+        $project: {
+          _id: 0,
+          subject: "$_id",
+          years: 1
+        }
+      }
+    ]);
+
+    // Convert array to object (optional, if you prefer a map)
+    const data = {};
+    result.forEach(item => {
+      data[item.subject] = item.years.sort(); // sort years if needed
+    });
+
+    return res.status(200).json({
+      message: "Subjects and their years retrieved successfully",
+      data
+    });
+  } catch (error) {
+    console.error("Error fetching subjects and years:", error.message);
+    return res.status(500).json({
+      message: "Internal server error",
+      error: error.message,
+    });
+  }
+};

@@ -41,13 +41,6 @@ const questionSchema = new mongoose.Schema(
       type: Number,
       required: true,
     },
-    // questions: [{
-    //     number: { type: String },
-    // subheading: { type: String },
-    // question: { type: String, required: true },
-    // options: { type: [String], required: true },
-    // answer: { type: String, default: "" }
-    // }]
 
     questions: [
       {
