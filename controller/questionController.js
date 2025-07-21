@@ -282,8 +282,8 @@ exports.getAllSubjectsAndYears = async (req, res) => {
     const result = await questionModel.aggregate([
       {
         $group: {
-          _id: "$subjectName",            // group by subject
-          years: { $addToSet: "$year" }   // collect unique years
+          _id: "$subjectName",            
+          years: { $addToSet: "$year" }   
         }
       },
       {

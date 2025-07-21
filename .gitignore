@@ -1,2 +1,4 @@
 node_modules
 .env
+update.js
+upload.js
