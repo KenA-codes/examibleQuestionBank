@@ -1,70 +1,70 @@
-{"_id":{"$oid":""},
-    "subjectName": "English",
-  "year": "2003",
+{
+  "subjectName": ["Literature in English"],
+  "year": 2024,
   "questions": [
     {
       "number": "1",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "<span style=\"font-weight: bold;\">Wole Soyinka: <span style=\"text-decoration: underline;\">The Lion and the Jewel</span></span>",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE I",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The basic causes of the elimination of certain animals from the earth include",
+      "question": "The age of Lakunle's Pupils in The Lion and the Jewel is_____",
       "options": [
-        "man’s decision to live in cities and the development of large farmlands",
-        "extensivekilling of animals and the fast disappearance of their favourable habitats",
-        "man’s penchant for meat and the sale of animals for meat and hides",
-        "a deliberate battle against Nature and the quest for leopard skin."
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "2",
-      "subheadingA": "COMPREHENSION",
-      "diagramUrlA": "",
-      "subheadingB": "PASSAGE I",
-      "diagramUrlB": "",
-      "question": "From the passage, the attitude of the writer can be described as.",
-      "options": [
-        "partial",
-        "optimistic",
-        "indifferent",
-        "pessimistic"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "3",
-      "subheadingA": "COMPREHENSION",
-      "diagramUrlA": "",
-      "subheadingB": "PASSAGE I",
-      "diagramUrlB": "",
-      "question": "The expression  when man evolved a conscience  means when",
-      "options": [
-        "man developed an awareness of right and wrong",
-        "man’s intellect improved tremendously",
-        "man acquired new habits",
-        "man became a critical creature."
+        "pre-teens",
+        "teens",
+        "young adults",
+        "adults"
       ],
       "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "4",
-      "subheadingA": "COMPREHENSION",
+      "number": "2",
+      "subheadingA": "Baroka: The time has come when I can fool myself no more. I am no man, Sadiku.\nMy manhood ended near a week ago.",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE I",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Which of the following statements is true according to the passage?",
+      "question": "Baroka's speech above illustrates the use of____",
       "options": [
-        "Man kills animals only when he can afford to do so.",
-        "Man cannot spare those animals that eat his kind.",
-        "Man eats all categories of animals.",
-        "Man poses the greatest threat to Nature."
+        "a dramatic irony",
+        "dramatic monologue",
+        "dramatic licence",
+        "dramatic exigency"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The humorous character in the play is _______",
+      "options": [
+        "Sidi",
+        "Lakunle",
+        "Sadiku",
+        "Surveyor"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Lakunle condenms the culture of paying the bride in a _________ language.",
+      "options": [
+        "vulgar",
+        "condensed",
+        "simple",
+        "bombastic"
       ],
       "answer": "D",
       "aiGeneratedResponses": [],
@@ -72,33 +72,33 @@
     },
     {
       "number": "5",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE I",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The sentence  There will be twice as many of us before most of us are dead  means",
+      "question": "\"....Well, do as you please. But Sidi will not make herself a cheap bowl for the village spit\"\nWHat prompts the above speech?",
       "options": [
-        "some increase in human and animal population growth rates",
-        "mankind is fast spreading across the earth",
-        "many of us will die as a result of population explosion",
-        "the population growth rate will double before our death."
+        "payment of bride price",
+        "seduction of Sidi",
+        "dance of virility",
+        "dance of the lost traveller"
       ],
-      "answer": "B",
+      "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "6",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "<span style=\"font-weight: bold;\">John Osborne: <span style=\"text-decoration: underline;\">Look Back in Anger</span></span>",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE II",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Which of the following captures the writer’s suggestion on how the Eagles could improve their performance in subsequent matches?",
+      "question": "In the play, the character associated with peace is",
       "options": [
-        "Better goalkeeping, a better attack and a stronger midfield.",
-        "Replacement of injured players, stronger attackers and a rugged defence.",
-        "Good coaching, more strikers and more defenders.",
-        "Fair officiating, good goalkeeping and fast players."
+        "Helena",
+        "Lewis",
+        "Alison",
+        "Redfern"
       ],
       "answer": "B",
       "aiGeneratedResponses": [],
@@ -106,50 +106,50 @@
     },
     {
       "number": "7",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE II",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "A suitable title for this passage is",
+      "question": "The relationship dynamics between Jimmy and Alison is affected by ythe diferences in their",
       "options": [
-        "African Teams in the 2002 World Cup",
-        "The FIFA Korea/Japan 2002",
-        "The Nigerian and the Senegalese Teams",
-        "The Eagles in World Cup 2002."
+        "class",
+        "education",
+        "age",
+        "background"
       ],
-      "answer": "C",
+      "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "8",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE II",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "From the argument in the last paragraph, it can be concluded that the Eagles were",
+      "question": "The first act of th eplay starts on _____",
       "options": [
-        "more experienced than the Senegalese team",
-        "not as strong as the Senegalese team.",
-        "more timid and goal-shy than their opponents",
-        "not sure of getting to the next round of the tournament."
+        "Monday",
+        "Wednesday",
+        "Friday",
+        "Sunday"
       ],
-      "answer": "C",
+      "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "9",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE II",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The word  debutants , as used in the passage, means",
+      "question": "Jimmy's first girl friend is",
       "options": [
-        "A. hard-fighters",
-        "B. under-dogs",
-        "C. first-timers",
-        "D. giant killers."
+        "Webster",
+        "Drury",
+        "Madeline",
+        "Helena"
       ],
       "answer": "C",
       "aiGeneratedResponses": [],
@@ -157,33 +157,33 @@
     },
     {
       "number": "10",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE II",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "From the passage, it can be concluded that the writer",
+      "question": "The play, Look Back in Anger is set in the mid-______",
       "options": [
-        "was optimistic about the chances of the Eagles",
-        "did not fancy the Eagles’ chances",
-        "was non-committal about the chances of the Eagles",
-        "was certain about the Eagles’ chances."
+        "1940s",
+        "1950s",
+        "1960s",
+        "1970s"
       ],
-      "answer": "A",
+      "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "11",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "<span style=\"font-weight: bold;\">Alex Agyer-Agyir- <span style=\"text-decoration: underline;\">Unexpected Joy At Dawn</span></span>",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE III",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The positions maintained by the moralist and the economist can be described as being",
+      "question": "The protagonist of the novel, Unexpected Joy At Dawn is",
       "options": [
-        "at variance",
-        "B. very agreeable",
-        "C. quite indifferent",
-        "D. very passionate"
+        "Moses Nii",
+        "Joe Boye",
+        "Mama Orojo",
+        "Aaron Tsuru"
       ],
       "answer": "A",
       "aiGeneratedResponses": [],
@@ -191,322 +191,322 @@
     },
     {
       "number": "12",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE III",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Which of the following statements is true according to the passage?",
+      "question": "The novel, Unexpected Joy At Dawn falls into the category of novel.",
       "options": [
-        "People who drink or smoke surely die of cancer.",
-        "Everyone ignores the moralist view on drinking and smoking.",
-        "Smoking and drinking may have positive effects on the economy.",
-        "Total abstinence from drinking and smoking is a religious obligation."
+        "epistolary",
+        "gothic",
+        "historical",
+        "bildungsroman"
       ],
-      "answer": "C",
+      "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "13",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE III",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "It can be concluded from the passage that morality, religion and economy are",
+      "question": "The age of Massa at the beginning of the novel is",
       "options": [
-        "clearly interconnected",
-        "B. certainly different",
-        "C. somewhat interconnected",
-        "D. certainly unrelated."
+        "twenty",
+        "twenty one",
+        "twenty two",
+        "twenty three"
       ],
-      "answer": "A",
+      "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "14",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "<span style=\"font-weight: bold;\">Buchi Emecheta:<span style=\"text-decoration: underline;\">Second Class Citizen</span></span>",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE III",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The view expressed by the writer in the last paragraph is that",
+      "question": "The novel, Second Class Citizen is an example of a ______",
       "options": [
-        "the number of alcoholics and smokers is certainly increasing",
-        "more people now abstain from drinking and smoking",
-        "more people appear to take to drinking and smoking",
-        "sales of alcohol and tobacco products have improved tremendously."
+        "memoir",
+        "fiction",
+        "farce",
+        "faction"
       ],
-      "answer": "C",
+      "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "15",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE III",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "According to the passage,  the moralist idea  is that",
+      "question": "The structure of the novel's plot can be described as _______",
       "options": [
-        "it is typically African not to smoke cigarettes",
-        "people should accept a point of view only when they are convinced",
-        "smoking is not good but a little alcohol may be permitted",
-        "the smoking of cigarettes is bad and unacceptable."
+        "rambling",
+        "lineal",
+        "epiodie",
+        "cyclical"
       ],
-      "answer": "D",
+      "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "16",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE IV",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "A …16… delivery is one in which the speech has been written out word for word and is read to",
+      "question": "The character that is infected with meningitis virus is",
       "options": [
-        "A. document",
-        "B. free",
-        "C. manuscript",
-        "D. quantum"
+        "Pa Noble",
+        "Bubu",
+        "Titi",
+        "Vicky"
       ],
-      "answer": "C",
+      "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "17",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "<span style=\"font-weight: bold;\">Emily Bronte: <span style=\"text-decoration: underline;\">Wuthering Heights</span></span>",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE IV",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "...read to ...17...",
+      "question": "Wuthering Heights is a      novel",
       "options": [
-        "A. a gathering",
-        "B. a conference",
-        "C. a congregation",
-        "D. an audience"
+        "picaresque",
+        "gothic",
+        "epistolary",
+        "bildungsroman"
       ],
-      "answer": "D",
+      "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "18",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE IV",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "This kind of delivery is usually reserved for very  …18…  occasions when exact wording is  …19…",
+      "question": "The matriarch of the Lintons is",
       "options": [
-        "A. formal",
-        "B. genuine",
-        "C. impromptu",
-        "D. guaranteed"
+        "Frances",
+        "Catherine",
+        "Mary",
+        "Nelly"
       ],
-      "answer": "A",
+      "answer": "C",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "19",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE IV",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "exact wording is  …19…",
+      "question": "What is inscribed on the principal door of Wuthering Heights castle?",
       "options": [
-        "A. conclusive",
-        "B. critical",
-        "C. reportive",
-        "D. speculative"
+        "Hareton Earnshaw 1801",
+        "Catherine Earnshaw 1800",
+        "Hareton Earnshaw 1500",
+        "Linton Heathcliff 1500"
       ],
-      "answer": "B",
+      "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "20",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE IV",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "United Nations General  …20…",
+      "question": "\"Mamma never told me I had a father? Where does he live?\n I'd rather stay with uncle?\" This statement was made by Linton Heathcliff feeling _________",
       "options": [
-        "A. Negotiation",
-        "B. Organization",
-        "C. Assembly",
-        "D. Audience"
+        "perplexed",
+        "joyful",
+        "displeased",
+        "satisfied"
       ],
-      "answer": "C",
+      "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "21",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "<span style=\"font-weight: bold;\">AFRICAN POETRY\nLeopold Sedar Senghor: <span style=\"text-decoration: underline\">Black Woman</span></span>",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE IV",
+      "subheadingB": "In your shadow I have grown up, the gentleness of your hands was laid over my eyes.",
       "diagramUrlB": "",
-      "question": "The primary advantage is that the speech may be highly  …21…  in terms of word choice, turns of phrase, and development of ideas.",
+      "question": "The dominant literary device in the above excerpt from Senghor's “Black Woman\"is _______ ",
       "options": [
-        "A. polished",
-        "B. advanced",
-        "C. analogous",
-        "D. discreet"
+        "innuendo",
+        "contrast",
+        "paradox",
+        "personification"
       ],
-      "answer": "A",
+      "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "22",
-      "subheadingA": "COMPREHENSION",
+      "subheadingA": "<span style=\"font-weight: bold;\">Niyi Osundare:<span style=\"text-decoration: underline\">The Leader and the Led</span></span>",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE IV",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Reading aloud with meaningful  …22…  inflection requires the speaker to be very familiar with the text.",
+      "question": "The major theme of Osundare's poem, The Leader and the Led is the problem associated with",
       "options": [
-        "A. anticipatory",
-        "B. profuse",
-        "C. bifocal",
-        "D. vocal"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "23",
-      "subheadingA": "COMPREHENSION",
-      "diagramUrlA": "",
-      "subheadingB": "PASSAGE IV",
-      "diagramUrlB": "",
-      "question": "Such poor delivery could destroy any  …23…  effects created by the carefully chosen  …24…",
-      "options": [
-        "A. interactive",
-        "B. restrictive",
-        "C. positive",
-        "D. decisive"
+        "ruling elite",
+        "economic crisis",
+        "political instability",
+        "political transition"
       ],
       "answer": "C",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "24",
-      "subheadingA": "COMPREHENSION",
+      "number": "23",
+      "subheadingA": "<span style=\"font-weight: bold;\">Agostinho Neto:<span style=\"text-decoration: underline\">The Grieved Land</span></span>",
       "diagramUrlA": "",
-      "subheadingB": "PASSAGE IV",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "carefully chosen  …24…",
+      "question": "The prevailing mood that pervades Neto's poem, The Grieved Lands is",
       "options": [
-        "A. language",
-        "B. slang",
-        "C. dialect",
-        "D. rhetoric"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "25",
-      "subheadingA": "COMPREHENSION",
-      "diagramUrlA": "",
-      "subheadingB": "PASSAGE IV",
-      "diagramUrlB": "",
-      "question": "Lack of familiarity with the  …25…  could also prevent the speaker from maintaining eye contact with people being addressed.",
-      "options": [
-        "A. exchange",
-        "B. text",
-        "C. note",
-        "D. context"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "26",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "select the option that best explains the information conveyed in the sentence.",
-      "diagramUrlB": "",
-      "question": "In spite of his humble beginning, Audu now throws his weight around.",
-      "options": [
-        "Audu is arrogant despite his simple upbringing.",
-        "Despite his obvious poverty, Audu is a proud man.",
-        "Hisnoble birth notwithstanding, Audu is a corrupt man.",
-        "From his poor background, Audu is nowa rich man."
+        "sadness",
+        "anger",
+        "excitement",
+        "impatience"
       ],
       "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "27",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
+      "number": "24",
+      "subheadingA": "<span style=\"font-weight: bold;\">Farouk Sesay:<span style=\"text-decoration: underline\">The Song of the Women of my Land</span></span>",
       "diagramUrlA": "",
-      "subheadingB": "select the option that best explains the information conveyed in the sentence.",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Ngozi has always considered her father to be an impassioned man.",
+      "question": "The prevailing mood that pervades Neto's poem, The Grieved Lands is",
       "options": [
-        "Her father is a very lively man.",
-        "Her father is an emotional man.",
-        "Her father is a disciplined man.",
-        "Her father is a very strict man."
+        "Ghana",
+        "Sierra Leone",
+        "Liberia",
+        "The Gambia"
       ],
       "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "28",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
+      "number": "25",
+      "subheadingA": "<span style=\"font-weight: bold;\">Lade Wosornu:<span style=\"text-decoration: underline\">Raider of the Treasure Trove</span></span>",
       "diagramUrlA": "",
-      "subheadingB": "select the option that best explains the information conveyed in the sentence.",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The elders rebuked Olu for taking issue with his principal.",
+      "question": "In Wosornu's Raider of the Treasure Trove, rage is directly portrayed as human because it_______",
       "options": [
-        "Olu was cautioned for shouting at his principal.",
-        "Olu was scolded for acting in collusion with his principal.",
-        "Olu was reprimanded for arguing with his principal.",
-        "Olu was blamed for issuing a statement denying\t his principal."
+        "sets sail",
+        "spells calamity",
+        "is a thief",
+        "drags rags after you"
       ],
       "answer": "C",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "29",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
+      "number": "26",
+      "subheadingA": "<span style=\"font-weight: bold;\">Onu Chibuike:<span style=\"text-decoration: underline\">A Government Driver on His Retirement</span></span>",
       "diagramUrlA": "",
-      "subheadingB": "select the option that best explains the information conveyed in the sentence.",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The manager paid us in hard currency.",
+      "question": "The feeling created in the last stanza of Chibuike's poem\nA Government Driver on His Retirement is _________",
       "options": [
-        "We were paid in new notes.",
-        "We were paid in foreign currency.",
-        "We were paid in dollars and pound sterling.",
-        "We were paid in a strong and stable currency."
+        "hatred",
+        "surprise",
+        "sadness",
+        "excitement"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "<span style=\"font-weight: bold;\">NON-AFRICANPOETRY</span>",
+      "diagramUrlA": "",
+      "subheadingB": "<span style=\"font-weight: bold;\">John Donne:<span style=\"text-decoration: underline\">The Good Morrow</span></span>",
+      "diagramUrlB": "",
+      "question": "The dominant feature of the metaphysical poem in Donne's\nThe Good Morrow is the use of______",
+      "options": [
+        "conceit",
+        "litotes",
+        "parallelism",
+        "irony"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "<span style=\"font-weight: bold;\">Maya Angelou:<span style=\"text-decoration: underline\">Caged Bird</span></span>",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Angelou's, Caged bird is a poem of",
+      "options": [
+        "reconciliation",
+        "instigation",
+        "schism",
+        "protest"
       ],
       "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "30",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
+      "number": "29",
+      "subheadingA": "<span style=\"font-weight: bold;\">T.S Elliot:<span style=\"text-decoration: underline\">The Journey of Magi</span></span>",
       "diagramUrlA": "",
-      "subheadingB": "select the option that best explains the information conveyed in the sentence.",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "If he went to London, he would see the Queen.",
+      "question": "“And the cities hostile and the towns unfriendly. And the villages dirty and charging high price.” The above excerpt from Eliot's Journey of the Magi illustrates the use of _______",
       "options": [
-        "When he goes to London, he will see the Queen.",
-        "He did not go to London and did not see the Queen.",
-        "He did not see the Queen when he went to London.",
-        "He would like to see the Queen when he goes to London."
+        "transferred epithet",
+        "dramatic monologue",
+        "paradox",
+        "euphemism"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "<span style=\"font-weight: bold;\">D.H Lawrence:<span style=\"text-decoration: underline\">Bats</span></span>",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Beyond Pisa, beyond the mountains of Carrara\nThe excerpt above from Lawrence's poem Bats refers to setting",
+      "options": [
+        "temporal",
+        "spatial",
+        "dynamic",
+        "unique"
       ],
       "answer": "B",
       "aiGeneratedResponses": [],
@@ -514,33 +514,33 @@
     },
     {
       "number": "31",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
+      "subheadingA": "<span style=\"font-weight: bold;\">GENERAL LITERARY PRINCIPLES</span>",
       "diagramUrlA": "",
-      "subheadingB": "choose the  option opposite  in meaning to the word(s) or phrase in italics.",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Only those who are  gullible  fall victim to his trickery.",
+      "question": "Fiction that deals with the adventure of rogues, scoundrels, reprobates and rascals is called",
       "options": [
-        "A. saucy",
-        "B. devastated",
-        "C. courteous",
-        "D.  astute"
+        "gothic",
+        "epistolary",
+        "picaresque",
+        "bildungsroman"
       ],
-      "answer": "D",
+      "answer": "C",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "32",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "choose the  option opposite  in meaning to the word(s) or phrase in italics.",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "He is well known for his  inordinate  ambition.",
+      "question": "Two successive rhyming lines in a poem is called",
       "options": [
-        "A. excessive",
-        "B. passionate",
-        "C. moderate",
-        "D. sound"
+        "quatrain",
+        "septet",
+        "couplet",
+        "tercet"
       ],
       "answer": "C",
       "aiGeneratedResponses": [],
@@ -548,1140 +548,137 @@
     },
     {
       "number": "33",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "choose the  option opposite  in meaning to the word(s) or phrase in italics.",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Students could be  timid .",
+      "question": "Comic relief is used in tragic play to _____",
       "options": [
-        "A. friendly",
-        "B. bold",
-        "C. covetous",
-        "D. pugnacious"
+        "reduce tension",
+        "create humour",
+        "checkmate villian",
+        "protect protagonist"
       ],
-      "answer": "B",
+      "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "34",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "choose the  option opposite  in meaning to the word(s) or phrase in italics.",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The witness decided to  conceal  the evidence.",
+      "question": "A long narrative poem that can be set to music is a______",
       "options": [
-        "A. divulge",
-        "B. hide",
-        "C. destroy",
-        "D. pugnacious"
+        "sonnet",
+        "nonsense",
+        "dirge",
+        "ballad"
       ],
-      "answer": "A",
+      "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "35",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
+      "subheadingA": "",
       "diagramUrlA": "",
-      "subheadingB": "choose the  option opposite  in meaning to the word(s) or phrase in italics.",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The members of the congregation were  inspired  by the sermon.",
+      "question": "The piece of writing that begins a literary work is called a/an ______",
       "options": [
-        "A. bewitched",
-        "B. enthralled",
-        "C. disenchanted",
-        "D. disorientated"
+        "epitaph",
+        "prologue",
+        "epilogue",
+        "epigram"
       ],
-      "answer": "C",
+      "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "36",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
+      "subheadingA": "<span style=\"font-weight: bold;\">LITERARY APPRECIATION</span>",
       "diagramUrlA": "",
-      "subheadingB": "choose the  option opposite  in meaning to the word(s) or phrase in italics.",
+      "subheadingB": "O elephant, huge as a high, even in a crouching posture\nO elephant, enfolded by honour, demọn, flapping fans of war\n(Adeboye Babalola)",
       "diagramUrlB": "",
-      "question": "Agbenu was  ecstatic  about her result.",
+      "question": "The dominant figure of speech in the excerpt above is _____",
       "options": [
-        "A. dispassionate",
-        "B. sad",
-        "C. pessimistic",
-        "D. mad"
+        "personification",
+        "exaggeration",
+        "metaphor",
+        "simile"
       ],
-      "answer": "B",
+      "answer": "C",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "37",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
+      "subheadingA": "It is time for reckoning Africa time for taking stock\nNever mind New York, America -\nit's our; is here, and running short.\n (Lenrie Peters)",
       "diagramUrlA": "",
-      "subheadingB": "choose the  option opposite  in meaning to the word(s) or phrase in italics.",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The labour leader’s  recalcitrant  stance was applauded.",
+      "question": "The rhyming pattern of the above poem can be described as _____ rhyme",
       "options": [
-        "A. stubborn",
-        "B. flexible",
-        "C. uncompromising",
-        "D. well- informed"
+        "half",
+        "internal",
+        "couplet",
+        "alternate"
       ],
-      "answer": "B",
+      "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "38",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
+      "subheadingA": "As I tumbled down the hill, the loose rocks raced alongside me, pricking my hands and face like a hundred tiny knives.",
       "diagramUrlA": "",
-      "subheadingB": "choose the  option opposite  in meaning to the word(s) or phrase in italics.",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "A cool bath in a hot weather can be truly  invigorating .",
+      "question": "The dominant imagery in the above excerpt is ______",
       "options": [
-        "A. devastating",
-        "B. unpalatable",
-        "C. debilitating",
-        "D. disgusting"
+        "tactile and visual",
+        "olfactory and auditory",
+        "visual and auditory",
+        "tactile and olfactory"
       ],
-      "answer": "C",
+      "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "39",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
+      "subheadingA": "When from behind that craggy Steep, till then\nThe bound of the horizon, a huge Cliff\nRose up between me and the stars and still,\nWith measure'd motion, like a living thing strode after me.",
       "diagramUrlA": "",
-      "subheadingB": "choose the  option opposite  in meaning to the word(s) or phrase in italics.",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "I am  loath  to do the assignment.",
+      "question": "The language of the above excerpt is ______",
       "options": [
-        "A. willing",
-        "B. unwilling",
-        "C. waiting",
-        "D. dying"
+        "simple",
+        "technical",
+        "poetic",
+        "abusive"
       ],
-      "answer": "A",
+      "answer": "C",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "40",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
+      "subheadingA": "For want of a nail, the shoe was lost, for want of a shoe,the\nhorse was lost, for want of a horse, the rider was lost.",
       "diagramUrlA": "",
-      "subheadingB": "choose the  option opposite  in meaning to the word(s) or phrase in italics.",
+      "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Toyin is married to  an impatient , self-centered man.",
+      "question": "The figure of speech in the above is",
       "options": [
-        "A. a fretful",
-        "B. a tolerant",
-        "C. an edgy",
-        "D. a tolerable"
+        "paradox",
+        "climax",
+        "euphemism",
+        "innuendo"
       ],
       "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "41",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the  option opposite  in meaning to the word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "Gregarious  animals can be found in the zoo.",
-      "options": [
-        "A. Various\t",
-        "B. Wild\t",
-        "C. Lonely\t",
-        "D. Tame"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "42",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the  option opposite  in meaning to the word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "The doctor examined the patient  painstakingly .",
-      "options": [
-        "A. perfunctorily",
-        "B. professionally",
-        "C. painfully",
-        "D. carefully"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "43",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the  option opposite  in meaning to the word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "The company has continued to  monopolize  the distribution of the products.",
-      "options": [
-        "A. centralize",
-        "B. specialize",
-        "C. liberalize",
-        "D. regularize"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "44",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the  option opposite  in meaning to the word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "A  conservative  estimate put the number of missing persons at forty.",
-      "options": [
-        "A. Arough",
-        "B. An accurate",
-        "C. Aprimitive",
-        "D. An incorrect"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "45",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the  option opposite  in meaning to the word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "The agency has sworn to deal with all the  apostles  of confederation.",
-      "options": [
-        "A. proponents",
-        "B. protagonists",
-        "C. apostates",
-        "D. opponents."
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "46",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option  nearest in meaning  to word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "The leader has the  unstinting  support of his party.",
-      "options": [
-        "A. unsparing",
-        "B. laudable",
-        "C. uninspiring",
-        "D. cautious."
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "47",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option  nearest in meaning  to word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "The party supporters  vilified  the Chairman for the role he played in the crisis that rocked the party.",
-      "options": [
-        "A. elected.",
-        "B. challenged",
-        "C. condemned",
-        "D. impeached"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "48",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option  nearest in meaning  to word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "The company is to  shed  three thousand staff this year.",
-      "options": [
-        "A. demote",
-        "B. lay off",
-        "C. throw up\t",
-        "D. placate"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "49",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option  nearest in meaning  to word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "There was  a glut of  oil on the market.",
-      "options": [
-        "a variety of\t",
-        " an accumulation of",
-        "an abundance of",
-        " an increase in"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "50",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option  nearest in meaning  to word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "A few years ago, nobody would have believed that the economy would  turn around .",
-      "options": [
-        "A. deteriorate",
-        "B. improve",
-        "C. stagnate",
-        "D. change"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "51",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option  nearest in meaning  to word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "Before announcing his retirement, Ochima resolved to settle on account with  the bank.",
-      "options": [
-        "pay back all he owes",
-        "close his account with",
-        "retire his loans from\t",
-        "get back at"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "52",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option  nearest in meaning  to word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "The boys knew that a storm was  imminent .",
-      "options": [
-        "possible",
-        "B. impending",
-        "C. threatening",
-        "D. encroaching"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "53",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option  nearest in meaning  to word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "The nurse was in favour of  voluntary euthanasia .",
-      "options": [
-        "A. a painless death",
-        "B. a simple operation",
-        "C. a sleeping pill\t",
-        "D. a major operation"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "54",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option  nearest in meaning  to word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "The  cynics  feared that the nation’s nascent democracy would fail.",
-      "options": [
-        "A. pessimists",
-        "B. delinquents",
-        "C. critics",
-        "D. illusionists"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "55",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option  nearest in meaning  to word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "The  essence  of governance is to seek the good and well-being of the majority of the people.",
-      "options": [
-        "A. importance",
-        "B. goal",
-        "C. characteristic",
-        "D. secret"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "56",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option  nearest in meaning  to word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "From what she said, one may  infer  that she does not like the course.",
-      "options": [
-        "A. suppose",
-        "B. realize",
-        "C. deduce",
-        "D. \tagree"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "57",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option  nearest in meaning  to word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "He shared his room with a person whose behaviour was quite  nauseating .",
-      "options": [
-        "disrespectful",
-        "B. disgraceful",
-        "C. discouraging",
-        "disgusting"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "58",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option  nearest in meaning  to word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "The carpenter built a  commodious  wardrobe.",
-      "options": [
-        "A. gigantic",
-        "B. small",
-        "C. spacious",
-        "D. wide"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "59",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option  nearest in meaning  to word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "Publishing as a business venture has become  a hot potato  in Nigeria.",
-      "options": [
-        "unpleasant",
-        "B. profitable",
-        "C. unacceptable",
-        "D. expensive"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "60",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option  nearest in meaning  to word(s) or phrase in italics.",
-      "diagramUrlB": "",
-      "question": "The man’s story sounded  plausible  to his audience.",
-      "options": [
-        "A. fantastic",
-        "B. credulous",
-        "C. credible",
-        "D. entertaining"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "61",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "‘I can’t stand people prying into my private life’, Ladi said. ‘...,’ (A.  Me neither  B.  Me too  C.  I also  D.  Likewise myself ) agreed Agbenu .",
-      "options": [
-        "A. Me neither",
-        "B. Me too",
-        "C. I also",
-        "D. Likewise myself"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "62",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "The sergeant spoke to me in a … (A.  coerce  B.  coarse C.  course  D.  causal ) manner.",
-      "options": [
-        "A. coerce",
-        "B. coarse",
-        "C. course",
-        "D. causal"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "63",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "The reason why he was not offered admission was … (A.  because  B.  that  C.  when  D.  owning to ) his results could not be found.",
-      "options": [
-        "A. because",
-        "B. that",
-        "C. when",
-        "D. owning to"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "64",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "Adika… (A.  receive  B.  receives  C.  has received  D.  had received ) a message from the club regularly.",
-      "options": [
-        "A. receive",
-        "B. receives",
-        "C. has received",
-        "D. had received"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "65",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "Three quarters of the people in the village … killed but only half of their huts … ( A.  were/was  B.  were/were  C.  was/was ) affected.",
-      "options": [
-        "A. were/was",
-        "B. were/were",
-        "C. was/was",
-        ""
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "66",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "If you saw the photograph of the man, … (A.  can B.  will  C.  would  D.  could ) you be able to identify him?",
-      "options": [
-        "A. can",
-        "B. will",
-        "C. would",
-        "D. could"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "67",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "It is bad to take… (A.  someone else’s  B.  someone’s else  C.  someone’s else’s  D.  someone elses’ ) property without permission.",
-      "options": [
-        "A. someone else’s",
-        "B. someone’s else",
-        "C. someone’s else’s",
-        "D. someone elses’"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "68",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "As Obande does not know anyone in this city, he hopes that some kind… (A.  men  B.  individuals  C.  man  D.  inhabitants ) will put him up for the night.",
-      "options": [
-        "A. men",
-        "B. individuals",
-        "C. man",
-        "D. inhabitants"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "69",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "Be careful not to… (A  lose  B.  loose  C.  loss  D.  lost ) this money.",
-      "options": [
-        "A. lose",
-        "B. loose",
-        "C. loss",
-        "D. lost"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "70",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "How is the new editor… (A.  pushing  B.  going  C.  getting D.  moving ) on with his work?",
-      "options": [
-        "A. pushing",
-        "B. going",
-        "C. getting",
-        "D. moving"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "72",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "The armed robbers went into the house and robbed the three… (A.  women’s occupants  B.  women occupants C.  woman occupants  D.  woman’s occupants ).",
-      "options": [
-        "A. women’s occupants",
-        "B. women occupants",
-        "C. woman occupants",
-        "D. woman’s occupants"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "73",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "It is often… that inflation… (A.  say/resulted  B.  said/ result  C.  said/results  D.  say/result ) from too much money chasing very few goods.",
-      "options": [
-        "A. say/resulted",
-        "B. said/ result",
-        "C. said/results",
-        "D. say/result"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "74",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "It was a free-for-all and the students were blamed for taking the law… (A.  into their hands  B.  in their hands  C.  into their own hands  D.  in their own hands ).",
-      "options": [
-        "A. into their hands",
-        "B. in their hands",
-        "C. into their own hands",
-        "D. in their own hands"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "75",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "Ali plays… (A.  their  B.  some  C.  a  D.  the )violin with remarkable skill.",
-      "options": [
-        "A. their",
-        "B. some",
-        "C. a",
-        "D. the"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "76",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "The candidate’s charisma should be a… (A.  determinable  B.  determining  C.  determinant D.  determinate ) factor in winning the election.",
-      "options": [
-        "A. determinable",
-        "B. determining",
-        "C. determinant",
-        "D. determinate"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "77",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "If you would do me this favour, I … (A.  will  B.  shall C.  would  D.  should ) be very grateful.",
-      "options": [
-        "A. will",
-        "B. shall",
-        "C. would",
-        "D. should"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "78",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "I have the … (A.  privilege  B.  priviledge   C.  privelege D.  previlege ) of meeting the President.",
-      "options": [
-        "A. privilege",
-        "B. priviledge",
-        "C. privelege",
-        "D. previlege"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "79",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "My classmate,… (A.  that  B.  whose  C.  whom  D.  which ) I\t haven’t seen for years, wrote to me last week.",
-      "options": [
-        "A. that",
-        "B. whose",
-        "C. whom",
-        "D. which"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "80",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "Four weeks… (A.  has been  B.  are  C.  were  D.  is ) enough for the police to conclude their investigation.",
-      "options": [
-        "A. has been",
-        "B. are",
-        "C. were",
-        "D. is"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "81",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "The woman is one of the … (A.  elitists  B.  elites  C.  elite D.  elitist ) of the society.",
-      "options": [
-        "A. elitists",
-        "B. elites",
-        "C. elite",
-        "D. elitist"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "82",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "The doctor asked the patient what … (A.  is the problem the problem was  C.  the problem is  D.  is your problem ).",
-      "options": [
-        "A. is the problem",
-        "B. the problem was",
-        "C. the problem is",
-        "D. is your problem"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "83",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "He put… (A.  a white dozen eggs  B.  dozen white eggs C.  a dozen white eggs  D.  white dozen eggs ) in a basket.",
-      "options": [
-        "A. a white dozen eggs",
-        "B. dozen white eggs",
-        "C. a dozen white eggs",
-        "D. white dozen eggs"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "84",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "Idakwo ran… (A.  lest he almost  B.  lest he will  C.  lest he should . D.  lest he may ) miss the train.",
-      "options": [
-        "A. lest he almost",
-        "B. lest he will",
-        "C. lest he should",
-        "D. lest he may"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "85",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "fill each gap with the  most appropriate  option from the list provided .",
-      "diagramUrlB": "",
-      "question": "Course … (A.  material  B.  materials  C.  material’s D.  materials’ ) writers are to reflect local colour.",
-      "options": [
-        "A. material",
-        "B. materials",
-        "C. material’s",
-        "D. materials’"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "86",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option that has the  same vowel sound  as the one represented by the letter(s) underlined.",
-      "diagramUrlB": "",
-      "question": "colonel",
-      "options": [
-        "gaol\t",
-        "B.\tcolony",
-        "C.\tgolden\t",
-        "D.\tgirl"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "87",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option that has the  same vowel sound  as the one represented by the letter(s) underlined.",
-      "diagramUrlB": "",
-      "question": "tend",
-      "options": [
-        "jeopardy\t",
-        "B.\tturned",
-        "C.\tearned\t",
-        "D.\tcaned"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "88",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option that has the  same vowel sound  as the one represented by the letter(s) underlined.",
-      "diagramUrlB": "",
-      "question": "market",
-      "options": [
-        "get\t",
-        "B.\tmortgage",
-        "C.\tenter\t",
-        "D.\tbachelor"
-      ],
-      "answer": "Cannot be determined from given options due to lack of matching vowel sound.",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "89",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option that has a  different vowel sound  from the others.",
-      "diagramUrlB": "",
-      "question": "A. dear\tB. bear\tC. fair\tD. there",
-      "options": [
-        "A. dear",
-        "B. bear",
-        "C. fair",
-        "D. there"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "90",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option that has a  different vowel sound  from the others.",
-      "diagramUrlB": "",
-      "question": "A.\thope\tC.\tcoast\tB.\tcost\tD.\twon’t",
-      "options": [
-        "A. hope",
-        "B. coast",
-        "C. cost",
-        "D. won’t"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "91",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option that has a  different vowel sound  from the others.",
-      "diagramUrlB": "",
-      "question": "A.\tnaught\tC.\tspot\tB.\tnorth\tD.\tlaw",
-      "options": [
-        "A. naught",
-        "B. north",
-        "C. spot",
-        "D. law"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "92",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option that has the  same consonant sound  as the one represented by the letter(s) underlined.",
-      "diagramUrlB": "",
-      "question": "concrete",
-      "options": [
-        "attend\t",
-        "B.\tanxious",
-        "C.\tconcern\t",
-        "D.\tconsider"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "93",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option that has the  same consonant sound  as the one represented by the letter(s) underlined.",
-      "diagramUrlB": "",
-      "question": "chalet",
-      "options": [
-        "college\t",
-        "B.\tchemical",
-        "C.\tchairman\t",
-        "D.\tchampagne"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "94",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option that has the  same consonant sound  as the one represented by the letter(s) underlined.",
-      "diagramUrlB": "",
-      "question": "teeth",
-      "options": [
-        "though\t",
-        "B.\ttaught",
-        "C.\tthought\t",
-        "D.\ttank"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "95",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option that has a  different consonant sound  from the others.",
-      "diagramUrlB": "",
-      "question": "A.\tshoe\tB.\tocean\tC.\tchef\tD.\tchief",
-      "options": [
-        "A. shoe",
-        "B. ocean",
-        "C. chef",
-        "D. chief"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "96",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option that has a  different consonant sound  from the others.",
-      "diagramUrlB": "",
-      "question": "A.\tlaugh\tB.\toff\tC.\twife\tD.\tof",
-      "options": [
-        "A. laugh",
-        "B. off",
-        "C. wife",
-        "D. of"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "97",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option that has the  same stress pattern  as the given word.",
-      "diagramUrlB": "",
-      "question": "cement.",
-      "options": [
-        "employ (noun)\t",
-        "B.\tinterest",
-        "C.\tperfect (adjective)\t",
-        "D.\tinclude"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "98",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "choose the option that has the  same stress pattern  as the given word.",
-      "diagramUrlB": "",
-      "question": "typist",
-      "options": [
-        "rebel (verb)\t",
-        "B.\tsuperb",
-        "C.\t refuse (noun)\t",
-        "D.\tpropose"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "99",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "the word in capital letters has the  emphatic stress . Choose the option to which the sentence relates.",
-      "diagramUrlB": "",
-      "question": "My MOTHER served rice and fresh fish stew for dinner.",
-      "options": [
-        "What of kind of meal did your mother serve for dinner?",
-        "Did your mother serve rice and fresh fish stew for lunch?",
-        "What kind of stewdid your mother servefor dinner?",
-        "Who served rice and fresh fish stew for dinner?"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "100",
-      "subheadingA": "LEXIS, STRUCTURE AND ORALFORMS",
-      "diagramUrlA": "",
-      "subheadingB": "the word in capital letters has the  emphatic stress . Choose the option to which the sentence relates.",
-      "diagramUrlB": "",
-      "question": "The President SPOKE to the press.",
-      "options": [
-        "Who spoke to the press?",
-        "to?",
-        "Did the President speak to the press?",
-        "Did the President write to the press?"
-      ],
-      "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     }

@@ -48,13 +48,16 @@ const questionSchema = new mongoose.Schema(
           type: String,
         },
          // Optional image (for diagrams that comes before subheading)
+         subheadingA: {
+           type: String,
+         },
         diagramUrlA: { 
             type: String 
         },
-        subheading: {
+        // Optional image (for diagrams that comes after subheading)
+        subheadingB: {
           type: String,
         },
-        // Optional image (for diagrams that comes after subheading)
         diagramUrlB: { 
             type: String 
         },
