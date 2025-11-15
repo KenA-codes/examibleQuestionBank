@@ -1,0 +1,859 @@
+{
+  "_id": "6863e524a8f742ad2f35954f",
+  "subjectName": [
+    "Economics"
+  ],
+  "year": 1984,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main economic objective behind the production of goods and services in any economy is to",
+      "options": [
+        "Maximize profits",
+        "Satisfy human wants",
+        "Become self-reliant",
+        "Create job opportunities"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The production within the domestic territory of a country is called the",
+      "options": [
+        "Net national product",
+        "Gross domestic product",
+        "Net income",
+        "Disposable income"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Division of labour is limited by",
+      "options": [
+        "The size of the market",
+        "The productivity of capital",
+        "Cost of production",
+        "The factors of production"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A rightward shift in the production possibility frontier may be due to",
+      "options": [
+        "Use of inferior inputs",
+        "Inefficiency",
+        "Improvement in production techniques and practices",
+        "Changes in the product mix"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The population level that yields the maximum output when combined with available resources is known as",
+      "options": [
+        "Dependent population",
+        "Maximum population",
+        "Active population",
+        "Optimum population"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If X and Y are two goods, then the cross elasticity of demand for X with respect to Y is defined as the",
+      "options": [
+        "Percentage change in the quantity of X divided by the percentage change in the price of Y",
+        "Percentage change in the quantity of X divided by change in the price of Y",
+        "Change in the quantity of X divided by change in the price of Y",
+        "Percentage change in the quantity of X divided by the price of Y"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The above table shows the short-run costs of a firm. What is the firm’s marginal cost for the third item produced?",
+      "options": [
+        "N350.00",
+        "N349.00",
+        "N360.00",
+        "N370.50"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "For a non-discriminating monopolist in Nigeria, price at the profit maximizing output is",
+      "options": [
+        "Equal to marginal cost",
+        "Greater than marginal cost",
+        "Greater than average total cost",
+        "Equal to marginal revenue"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the advantages of large-scale production is that",
+      "options": [
+        "There is a rise in the cost of administration",
+        "Consumers sacrifice their individual tastes",
+        "The firm can use labour-saving machinery",
+        "The demand for a firm’s products become localized"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An imperfectly competitive market is one where",
+      "options": [
+        "A large number of firms sell homogenous products",
+        "Input and output prices are unaffected",
+        "Each firm faces a horizontal demand curve",
+        "Each firm maximizes profit by selecting an output level at which marginal cost equals market price"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In taxation, the benefit principle requires that",
+      "options": [
+        "Everybody must draw benefits from taxation",
+        "All those who earn more income must pay more taxes",
+        "Only those who derive benefits from services provided from public revenue should be taxed",
+        "Taxes paid by businesses should be shifted to those consumers benefiting from such consumer commodities"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT true?",
+      "options": [
+        "TC = TFC + TVC",
+        "ATC = AVC + AFC",
+        "AFC = TFC / Q",
+        "TVC = AVC / Q"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Pricing and output decisions of sellers are highly interdependent in markets known as",
+      "options": [
+        "Oligopoly",
+        "Perfect competition",
+        "Monopoly",
+        "Monopolistic competition"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The Channel for food distribution in Nigeria consists of",
+      "options": [
+        "Farmers and their families",
+        "Producers, wholesalers and retailers",
+        "Producers and consumers",
+        "Producers and processor"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT true of debentures and debenture holders?",
+      "options": [
+        "Debentures are instruments for raising long-term capital by limited liability companies",
+        "Debentures are fixed interest-bearing securities with specified maturity date.",
+        "Debenture holders are creditors to the company and therefore do not share in the risk of the company",
+        "Debenture holders are entitled to interest payments whether or not profits are made."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The basic principles of co-operative societies are those of",
+      "options": [
+        "Active participation of capitalists in the affairs of co-operative societies",
+        "Workers ownership and worker control",
+        "Sole proprietorship",
+        "Partnership"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most important factor determining the location of the cement industry in Nigeria today is",
+      "options": [
+        "Capital and government policy",
+        "The nature of the product, infrastructure and government policy",
+        "Nearness to the market and source of power",
+        "Price of the product and source of labour"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The Central Bank instrument of control does NOT include",
+      "options": [
+        "Open market operations",
+        "Moral suasion",
+        "A rise in cost of production.",
+        "Selective credit control"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "For a non-discriminating monopolist in Nigeria, price at the profit maximizing output is",
+      "options": [
+        "Equal to marginal cost",
+        "Greater than marginal cost",
+        "Greater than average total cost",
+        "Equal to marginal revenue"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Lord Keynes identified three motives for holding money, that is, keeping one’s resources in liquid from instead of in some form of investment. The motive which relates to making provision for the ‘rainy day’ is known as",
+      "options": [
+        "Transaction purposes",
+        "Precautionary motive",
+        "Transactions motive",
+        "Investment motive"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT true of debentures and debenture holders?",
+      "options": [
+        "Debentures are instruments for raising long-term capital by limited liability companies",
+        "Debentures are fixed interest-bearing securities with specified maturity date.",
+        "Debenture holders are creditors to the company and therefore do not share in the risk of the company",
+        "Debenture holders are entitled to interest payments whether or not profits are made."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In taxation, the benefit principle requires that",
+      "options": [
+        "Everybody must draw benefits from taxation",
+        "All those who earn more income must pay more taxes",
+        "Only those who derive benefits from services provided from public revenue should be taxed",
+        "Taxes paid by businesses should be shifted to those consumers benefiting from such consumer commodities"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The basic principles of co-operative societies are those of",
+      "options": [
+        "Active participation of capitalists in the affairs of co-operative societies",
+        "Workers ownership and worker control",
+        "Sole proprietorship",
+        "Partnership"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most important factor determining the location of the cement industry in Nigeria today is",
+      "options": [
+        "Capital and government policy",
+        "The nature of the product, infrastructure and government policy",
+        "Nearness to the market and source of power",
+        "Price of the product and source of labour"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One disadvantage of sole proprietorship is its",
+      "options": [
+        "Limited liability",
+        "High profits",
+        "High sense of ownership",
+        "Low credit rating"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Cost push inflation takes place due to",
+      "options": [
+        "The rapid increase in the demand for goods",
+        "An increase in productivity of the factors of production",
+        "A rise in the cost of production",
+        "A rise in the standard of living"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Lord Keynes identified three motives for holding money, that is, keeping one’s resources in liquid from instead of in some form of investment. The motive which relates to making provision for the ‘rainy day’ is known as",
+      "options": [
+        "Transaction purposes",
+        "Precautionary motive",
+        "Transactions motive",
+        "Investment motive"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a person demands money for buying and selling securities it is referred to as demanding money for",
+      "options": [
+        "Transaction purposes",
+        "Speculative purposes",
+        "Transactionary purposes",
+        "Meeting the educational expenses of children"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Generally property taxes",
+      "options": [
+        "Are borne entirely by landlords",
+        "Cannot be shifted in the long run",
+        "Are borne by all (renters, owner-occupiers and landlords)",
+        "Are borne only by renters"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the major effects of an increase in government expenditure on a nation’s economy is that it",
+      "options": [
+        "Creates investment opportunities for foreign investors",
+        "Leads to indigenization of the private sector",
+        "Raises the level of total tax revenue",
+        "Raises the level of aggregate demand"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The opportunity cost ratio for cocoa and lace for Austria and Nigeria is",
+      "options": [
+        "2, 2",
+        "2, 1, 5",
+        "1, 5, 4",
+        "1, 5, 2"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The Central Bank instrument of control does NOT include",
+      "options": [
+        "Open market operations",
+        "Moral suasion",
+        "A rise in cost of production.",
+        "Selective credit control"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "From the table it can be deduced that",
+      "options": [
+        "Nigeria should produce cocoa and lace",
+        "Austria should produce cocoa and lace",
+        "Nigeria can benefit from producing lace only",
+        "Nigeria should not produce any of the products"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The following, except ONE, are the differences between international trade and internal trade.",
+      "options": [
+        "Differences in currencies",
+        "Governments control",
+        "Mobility of factors of production",
+        "Cultural differences."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Let Px represent the price of exports and Pm the price of imports. Then the items of trade (TOT) are said to be favourable if",
+      "options": [
+        "Px < 1",
+        "Px < 1",
+        "PX > 1 Pm Pm",
+        "Px = 1 Pm"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given the present state of the Nigerian economy, which of the following measures will promote a more rapid economic development?",
+      "options": [
+        "Complete dependence on oil exports",
+        "Concentration on agricultural exports",
+        "Diversification of the economy",
+        "Building of more schools and universities"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the major effects of an increase in government expenditure on a nation’s economy is that it",
+      "options": [
+        "Creates investment opportunities for foreign investors",
+        "Leads to indigenization of the private sector",
+        "Raises the level of total tax revenue",
+        "Raises the level of aggregate demand"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An improvement in Nigeria’s terms of trade should",
+      "options": [
+        "Lead to a fall in cost in terms of what she must sacrifice to obtain them",
+        "Make ‘made in Nigeria’ goods cheaper to buy",
+        "Increase Nigeria’s domestic output of commodities",
+        "Lead to an increase in her exchange rates"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a feature of economic underdevelopment of a country?",
+      "options": [
+        "Large number of high income earners relative to the population",
+        "High annual income for the few",
+        "High incidence of poverty",
+        "Low daily calorie intake per person"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "From the table it can be deduced that",
+      "options": [
+        "Nigeria should produce cocoa and lace",
+        "Austria should produce cocoa and lace",
+        "Nigeria can benefit from producing lace only",
+        "Nigeria should not produce any of the products"
+      ],
+      "answer": "E",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The following, except ONE, are the differences between international trade and internal trade.",
+      "options": [
+        "Differences in currencies",
+        "Governments control",
+        "Mobility of factors of production",
+        "Cultural differences."
+      ],
+      "answer": "E",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of the International Monetary Fund (IMF)?",
+      "options": [
+        "Promoting international monetary cooperation",
+        "Providing short-term financial assistance to member countries",
+        "Granting long-term loans for development projects",
+        "Facilitating balanced growth of international trade"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following does NOT represent the behaviour of a monopolist?",
+      "options": [
+        "Management the market price of his goods",
+        "Manipulating both the price and quantity of his goods at the same time",
+        "Raising the price at one market, lowering at another market",
+        "Manipulating only quantity, price being a given factor"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The above diagram illustrates",
+      "options": [
+        "The circular flow of income",
+        "Gross national product plus depreciation",
+        "Incomes of the sector",
+        "The profit of business enterprises"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a feature of economic underdevelopment of a country?",
+      "options": [
+        "Large number of high income earners relative to the population",
+        "High annual income for the few",
+        "High incidence of poverty",
+        "Low daily calorie intake per person"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The above diagram illustrates",
+      "options": [
+        "The circular flow of income",
+        "Gross national product plus depreciation",
+        "Incomes of the sector",
+        "The profit of business enterprises"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the diagram (I) refers to the calculation of national income through the",
+      "options": [
+        "Expenditure approach",
+        "Input-output approach",
+        "Flow of funds approach",
+        "Income approach"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the same diagram, (III) refers to the calculation of national income through the",
+      "options": [
+        "Income approach",
+        "Government earnings approach",
+        "Expenditure approach",
+        "Output approach"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given the present state of the Nigerian economy, which of the following measures will promote a more rapid economic development?",
+      "options": [
+        "Complete dependence on oil exports",
+        "Concentration on agricultural exports",
+        "Diversification of the economy",
+        "Building of more schools and universities"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following does NOT represent the behaviour of a monopolist?",
+      "options": [
+        "Management the market price of his goods",
+        "Manipulating both the price and quantity of his goods at the same time",
+        "Raising the price at one market, lowering at another market",
+        "Manipulating only quantity, price being a given factor"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

@@ -1,0 +1,859 @@
+{
+  "_id": "68657b0b6bd2364051554017",
+  "subjectName": [
+    "Economics"
+  ],
+  "year": 1990,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If one orange costs 20k and one kilogram of beef costs N10.00, the opportunity cost of one kilogram of beef is",
+      "options": [
+        "50 orange",
+        "10 orange",
+        "5 orange",
+        "N9.80"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In economic life. Choice among alternative depends on the",
+      "options": [
+        "Income of the decision make",
+        "Scarcity of resources",
+        "Scale of preference of the decision maker",
+        "Status of the decision maker"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The flow labelled Y refers to",
+      "options": [
+        "Real income",
+        "Factor payments",
+        "Factors input",
+        "National income"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The lower half of the diagram indicates",
+      "options": [
+        "The flow of goods and services",
+        "Payment for goods and services",
+        "The flow income",
+        "Government transaction"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the major advantage of specialization is that",
+      "options": [
+        "The worker becomes a tender of machines",
+        "It causes more employment of labour",
+        "Less machinery is required for production",
+        "The worker waster less time between operation"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following reward is associated with entrepreneurship as a factor of production?",
+      "options": [
+        "Salaries",
+        "Profits",
+        "Interests",
+        "Rent"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A firm achieves least-cost in production by substitution factors until",
+      "options": [
+        "Their prices are equal",
+        "the ratio of their marginal-physical-products equals the ratio of their prices",
+        "Their marginal-physical-products are each equal to their factor prices",
+        "Their marginal-phsical-products are each equal to zero"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Economics of scale operate only when",
+      "options": [
+        "Marginal cost is falling with input",
+        "Average cost is falling with output",
+        "Fixed cost is variable",
+        "Variable cost is less than fixed cost"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "At the point of profit maximization by a firm, marginal cost is",
+      "options": [
+        "Minimum",
+        "Falling",
+        "Constant",
+        "Rising"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A Situation in which all inputs are doubled and output also doubles is known as",
+      "options": [
+        "Constant proportion",
+        "Constant returns",
+        "Increasing returns to scale",
+        "Constant returns to scale"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The demand curve would shift to the when there is a rise in",
+      "options": [
+        "Constant proportions",
+        "Constant returns",
+        "Increasing returns to scale",
+        "Constant returns to scale"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The law of diminishing marginal utility indicates that if a consumer increase his consumption of a commodity continously his",
+      "options": [
+        "Total utility must fall",
+        "Marginal utility must fall",
+        "Marginal utility may rise even though his total utility is falling",
+        "Marginal utility may fall even though his total utility may be rising"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Technical progress that leads to reduction in costs result in",
+      "options": [
+        "An increase in equilibrium price and quantity",
+        "A decrease in equilibrium price and quantity",
+        "An increase in equilibrium price and decrease in equilibrium quantity",
+        "A decrease in equilibrium price and increase in equilibrium quantity"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If an increase in income induces a reduction the demand for beans, beans can be referred to as",
+      "options": [
+        "A normal good",
+        "An inferior good",
+        "A substitute",
+        "A giffen good"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The demand for a product is said to be price inelastic if",
+      "options": [
+        "The price elasticity of demand is less than one",
+        "The price elasticity of demand is greater than one",
+        "A reduction in price results in an increase in quantity demanded",
+        "An increase in price result in a decrease in the quantity demanded"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following graphs represents the price quantity relationship between tea and lemon, if they are perfect complements?",
+      "options": [
+        "Graph A",
+        "Graph B",
+        "Graph C",
+        "Graph D"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the below diagram, RTX, are the marginal cost and the average cost curve respectively of a perfectly competitive firm. The supply curve of the firm is indicates by",
+      "options": [
+        "TX",
+        "RT",
+        "ST",
+        "TY"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An imperfect market in which there is only one buyer of a commodity is",
+      "options": [
+        "Monopsony",
+        "Oligopoly",
+        "Monopoly",
+        "Duopoly"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The tailoring service is competitive partly because it consists of a large number of",
+      "options": [
+        "Large-scale enterprises",
+        "Medium scale enterprise",
+        "Small scale enterprises",
+        "Government-owned enterprises"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is applicable to a monopolistic firm operating at the output where marginal cost equals marginal revenue?",
+      "options": [
+        "Cost of production is at a minimum",
+        "The plant is of optimum size",
+        "Price is above marginal revenue",
+        "Average variable cost is at a minimum"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is the major function of the wholesaler?",
+      "options": [
+        "Bulk breaking",
+        "Provision of useful information to the manufacturer on products",
+        "Provision of after sales service to consumers",
+        "Provision of warehousing facility"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the distribution channels for goods and services, the middleman’s mark-up margin provides a rough measure for the",
+      "options": [
+        "Quantity discount allowed final consumers",
+        "Reward for business entrepreneurship",
+        "Effectiveness of government control over economy’s marketing channels",
+        "Extent of exploitation of the final consumer"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following reasons could induce a manufacturer to by pass the wholesaler in the distribution chain?",
+      "options": [
+        "To provide the quantity needed by retailers",
+        "To collect usefully information on his product",
+        "To provide ware housing facilities",
+        "To violate government regulation on distribution"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A major difference between a state-owned enterprise and private enterprise is that the former",
+      "options": [
+        "Is not expected to cover its cost of production while the latter is",
+        "Is not always expected to maximize profits while the latter is",
+        "Has shareholders while the latter does not",
+        "Has a board of directions while the latter does not"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Divorce of ownership from control is a characteristic of",
+      "options": [
+        "Sole proprietorship",
+        "A limited liability company",
+        "Partnership",
+        "A private limited company"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Capital provided by individuals to the firm by purchasing stocks is called",
+      "options": [
+        "Debt capital",
+        "Fixed capital",
+        "Circulating",
+        "Equity capital"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following factors is the most important in siting a petro-chemical plant?",
+      "options": [
+        "Nearness to the source of raw materials",
+        "Nearness to the source of power",
+        "Availability of labour",
+        "Proximity of financial institutions"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following will be the effect of allowing only economic factors to dictate the location of industries in Nigeria?",
+      "options": [
+        "A more even development of the different parts of the country will be assured",
+        "There will be an unbalance spread in the distribution of industries",
+        "The less developed parts of the country will be able to attract more industries",
+        "Only the government will be able to finance the establishment of industries"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the same basket of goods which cost N12.00 in 1985 cost N15.00 in 1987 is",
+      "options": [
+        "25",
+        "80",
+        "100",
+        "125"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is like to be inflationary?",
+      "options": [
+        "Tax increase",
+        "Increase in unemployment",
+        "Budget surplus",
+        "Wage increases"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The basic purpose of imposing legal reserve requirements on commercials banks is to",
+      "options": [
+        "Assure the profitability of commercial banks",
+        "Provide a device through which credit creation by banks can be controlled",
+        "Provide a proper ratio between earning and non-bank assets",
+        "Provide the Central Bank with working Capital"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the total credit that the banking system can create if primary deposits is just N100.00 while the cash ratio is 20%",
+      "options": [
+        "N700.00",
+        "N600.00",
+        "N500.00",
+        "N400.00"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a liability of a commercial bank?",
+      "options": [
+        "Deposits in the bank",
+        "Loans made by the bank to individuals",
+        "Loans made by the bank to other banks",
+        "Bonds purchased by the bank"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A tax on a commodity whose supply is perfectly inelastic is",
+      "options": [
+        "Shifted completely on the consumer",
+        "Completely borne by the supplier",
+        "Divide in the ratio 60:40 between the consumer and the supplier",
+        "Divided half-and-half between the producer and the consumer"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The relationship between tax rate and income which is relevant to a progressive tax is shown by",
+      "options": [
+        "Curve X",
+        "Curve Y",
+        "Curve Z",
+        "Curve X and Z"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The relationship between tax rate and income which is relevant to a proportional tax is depicted by",
+      "options": [
+        "Curves Z and Y",
+        "Curve X",
+        "Curve Z",
+        "Curve Y"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Under a system of freely floating exchange rate, an increase in the international value of a country (s)currency will cause",
+      "options": [
+        "Its exports to rise",
+        "Its imports to rise",
+        "Gold to flow into that country",
+        "Its currency to be in surplus"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Balance or trade is the difference between",
+      "options": [
+        "Exports and imports of goods and service",
+        "Capital inflows and capital outflows",
+        "Visible and invisible balances",
+        "Exports and imports of goods"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is likely to reduce a surplus in the balance of payments of a country?",
+      "options": [
+        "Devaluation",
+        "Increased tariff on imports",
+        "Export promotion",
+        "Currency appreciation"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a tariff?",
+      "options": [
+        "Limit on the amount of good which can be imported",
+        "Interest rate on foreign loans",
+        "Government payment to domestic producers for exports",
+        "Tax on imported goods"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Import duties will increases total expenditure on imports if the demand for imports is",
+      "options": [
+        "Elastic",
+        "Inelastic",
+        "Infinitely elastic",
+        "Derived"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is likely to hinder labour mobility in Nigeria?",
+      "options": [
+        "Higher wages elsewhere",
+        "Cultural similarities",
+        "Good accommodation",
+        "Ignorance of job opportunities elsewhere"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If birth rate is constant and death rate declines, population",
+      "options": [
+        "Falls",
+        "Expands",
+        "Stabilizes",
+        "Oscillates"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the government invests the sum of N1 000.00 and the marginal propensity to consume is 0.75, what is the change in income?",
+      "options": [
+        "N4,000.00",
+        "N3,000.00",
+        "N2,000.00",
+        "N1,000.00"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The system of measurement of national income as the sum of all final demands is called",
+      "options": [
+        "Income approach",
+        "Expenditure approach",
+        "Is payable to the disabled members of the community",
+        "Accrues to the environmental sanitation authorities for refuse"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Disposable income is an income which",
+      "options": [
+        "Is available for consumption and savings",
+        "Pensioners receive from the government",
+        "Is payable to the disabled members of the community",
+        "Accrues to the environmental sanitation authorities for refuse disposal"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In equilibrium, injections are equal to",
+      "options": [
+        "Withdrawals",
+        "Surplus of imports over exports",
+        "Government spending",
+        "Wages"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Social overhead capital refers to",
+      "options": [
+        "Balanced growth",
+        "Gross investment",
+        "The building of infrastructures",
+        "Capital formation"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most common index used for measuring development is",
+      "options": [
+        "The level of literacy",
+        "Per capita income",
+        "Nutritional level",
+        "Population growth rate"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Agriculture is central to Nigeria’s economic development because",
+      "options": [
+        "Nigeria’s comparative advantage lies mainly in agro-allied industries",
+        "Agriculture is the largest employer of labour",
+        "Agriculture accounts for an insignificant domestic product",
+        "Nigeria earns limitless foreign exchange from agriculture"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

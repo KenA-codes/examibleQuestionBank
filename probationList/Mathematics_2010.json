@@ -1,0 +1,689 @@
+{
+  "_id": "68519fd803d37a7af32e760c",
+  "subjectName": [
+    "Mathematics"
+  ],
+  "year": 2010,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which Mathematics Question Paper Type is given to you?",
+      "options": [
+        "Type A",
+        "Type B",
+        "Type C",
+        "Type D"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find r, if 6r78 =5119",
+      "options": [
+        "0.40%",
+        "0.01%",
+        "0.25%",
+        "0.80%"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "At what rate will be interest on ₦400 increase to ₦ 24 in 3 years reckoning in simple interest?",
+      "options": [
+        "4%",
+        "2%",
+        "3%",
+        "5%"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Simplify 3 4",
+      "options": [
+        "1/25",
+        "1/4",
+        "1/5",
+        "1/36 of 7 9 1 ÷ 9 ) 2"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If p: q = 2 3 find 𝑝: 𝑞: 𝑟.",
+      "options": [
+        "9:10:15",
+        "12:15:16",
+        "12:15:10",
+        "10:15:24 : 5 and q: r = 3 6 4 : 1, 2"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Evaluate 81 16 4 x 2−1",
+      "options": [
+        "1 3",
+        "6",
+        "3",
+        "1 6"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given that log 2 = 0.3010, log 7 = 0.8451. Evaluate log 112.",
+      "options": [
+        "2.5441",
+        "2.0491",
+        "2.1461",
+        "3.1461"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Rationalise 2√3+√5 √5−√3",
+      "options": [
+        "3√15+11 2",
+        "3√15−11 2",
+        "3√15 − 11",
+        "3√15 − 11"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a survey of 50 newspaper readers, 40 read Champion and 30 read Guardian, how many read both papers?",
+      "options": [
+        "15",
+        "5",
+        "10",
+        "20"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Make Q the subject of formula if P M(X + Q)+ 1 5",
+      "options": [
+        "5P+MX−5 M",
+        "5P−MX−5 M",
+        "5P−MX+5 M",
+        "5P+MX+5 M"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If 9x2 + 6xy + 4y2 is a factor of 27x3 - 8y3, find the other factor.",
+      "options": [
+        "5",
+        "12",
+        "6",
+        "3"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Factorize completely x 2+3x2−10x 2x2−8",
+      "options": [
+        "21 4",
+        "5",
+        "4",
+        "11 4"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Solve for x and y if x - y = 2 and x2 - y2 = 8",
+      "options": [
+        "(1, 3)",
+        "(3, 1)",
+        "(-1, 3)",
+        "(-3, 1)"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If y varies directly as the square root of x and y =3 when x = 16, calculate y when x = 64",
+      "options": [
+        "x > −3 2",
+        "x >3 2",
+        "x <2 3",
+        "x > − 2 3"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Solve the inequalities −6 ≤ 4 — 2𝑥 < 5 − 𝑥",
+      "options": [
+        "-1 ≤ x < 6",
+        "-1 < x ≤ 5",
+        "-1 < x < 5",
+        "-1 ≤ x ≤ 6"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "005 + 0.0005 + .....",
+      "options": [
+        "5 9",
+        "5 7",
+        "5 8",
+        "55"
+      ],
+      "answer": "",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If p and q are two non-zero numbers and 18(𝑝 + 𝑞) = (18 + 𝑝)𝑞, which of the following must be true?",
+      "options": [
+        "q = 18",
+        "p = 18",
+        "p <1",
+        "q < 1"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The 3rd term of an arithmetic progression is -9 and the 7th term is -29. Find the 10th term of the progression",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "165"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Evaluate |4 6 3| 8 9 1",
+      "options": [
+        "-42",
+        "102",
+        "18",
+        "-102 1 2"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If P = 2 −3 [ 1 1 ], what is P-1 45)⁰ and (x + 10)⁰. Find the value of the least interior angle. 1 3",
+      "options": [
+        "102⁰",
+        "52°",
+        "[ 5 5 − 1 2 5 5 − 1 − 3",
+        "[ 5 5] − 1 − 2 5 5"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "From the cyclic quadrilateral TUVW above, find the value of x",
+      "options": [
+        "23°",
+        "26°",
+        "24°",
+        "20°"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the two smaller sides of a right-angled triangle are 4 cm and 5 cm, find its area.",
+      "options": [
+        "10 cm2 ] ] ,",
+        "6 cm2",
+        "8 cm2",
+        "24 cm2"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An arc subtends an angle of 50° at the centre of circle of",
+      "options": [
+        "y = -x + 6",
+        "y = -x + 6",
+        "y = -x - 6",
+        "y = x - 6"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the distance between the radius 6cm. Calculate the area of the sector formed points",
+      "options": [
+        "90 7 cm2",
+        "110 7",
+        "1",
+        "√3"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A cylindrical pipe 50cm long with radius 7m has one end open. What is the total surface area of the pipe?",
+      "options": [
+        "700 πm2",
+        "98 πm2",
+        "350 πm2",
+        "749 πm2"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the locus of point that is equidistant from points P(1,3) and Q(3,5)? and Q(2, 5).",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the equation of a line parallel to y = -4x + 2 passing through (2,3)",
+      "options": [
+        "y - 4x + 11 = 0",
+        "y - 4x - 11 = 0",
+        "y + 4x + 11 = 0 ( ) 0",
+        "y + 4x - 11 = 0"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If cot θ = 8 , where θ is acute, 15 find sin θ",
+      "options": [
+        "13 15",
+        "15 17",
+        "8 17",
+        "16 17"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the area of 𝗈 PQR above is 12√3 cm2, find the value of q?",
+      "options": [
+        "6 cm",
+        "8 cm",
+        "7 cm",
+        "5 cm"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If y = (2x + 1)3, find dy dx",
+      "options": [
+        "3(2x+1)2",
+        "3(2x + 1)",
+        "6(2x + 1)",
+        "6(2x+1)2"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If y = xsinx, find dy dx",
+      "options": [
+        "𝑠i𝑛 𝑥 + 𝑥 𝑐o𝑠𝑥",
+        "𝑠i𝑛𝑥 + 𝑥 𝑐o𝑠𝑥",
+        "𝑠i𝑛𝑥 − 𝑥𝑐o𝑠𝑥",
+        "𝑠i𝑛𝑥 – 𝑐o𝑠𝑥"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "At what value of X does the function 𝑦 = −3 − 2x + x2 attain a minimum value?",
+      "options": [
+        "1",
+        "-4",
+        "-1",
+        "4"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Evaluate ∫ 2(x3 + x2) dx",
+      "options": [
+        "25 6",
+        "62 3",
+        "45 6",
+        "125 6"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find ∫ (sin x + 2) dx",
+      "options": [
+        "cos x + x2 + k",
+        "cos x + 2x + k",
+        "–cos x + 2x + k",
+        "–cos x + x2 + k"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "From the table above, if the pass mark is 5, how many students failed the test?",
+      "options": [
+        "7",
+        "2",
+        "6",
+        "9 Use the table below to answer question 46 and 47 Marks 1 2 3 4 Frequency 2 2 8 4"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The table above shows the marks obtained in a given test. How many students failed the test?",
+      "options": [
+        "15",
+        "20",
+        "16",
+        "13"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the mean mark",
+      "options": [
+        "3.2",
+        "3.0",
+        "3.1",
+        "3.3"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the standard deviation of 2, 3, 5 and 6",
+      "options": [
+        "√ 5 2",
+        "√10",
+        "√6",
+        "√ 5"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In how many ways can a committee of 2 women and 3 men be chosen from 6 men and 5 women?",
+      "options": [
+        "50",
+        "200",
+        "100",
+        "30 www.toppers.com.ng 2 Marks 2 3 4 5 6 7 8 Students 3 1 5 2 4 2 3"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If three unbiased coins are tossed, find the probability that they are all heads.",
+      "options": [
+        "1 8",
+        "1 3",
+        "1 6",
+        "1 9 ANSWERS"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

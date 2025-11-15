@@ -1,0 +1,502 @@
+{
+  "_id": "6851ac0203d37a7af32e7616",
+  "subjectName": [
+    "Mathematics"
+  ],
+  "year": 2018,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "4 2 4 3 −1 3 𝑥 4 Y 3 4 4 Find the 𝑥 𝑎𝑛𝑑 𝑦 respectively in the subtraction above",
+      "options": [
+        "2, 4",
+        "3, 2",
+        "4, 2",
+        "4, 3"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If 𝑔𝑡2 − 4 − w = 0 make g the subject of the formula",
+      "options": [
+        "u−w t",
+        "u+w t2",
+        "u−w t2",
+        "u+w t"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the value of 𝑢 if 𝑦 − 1 i𝑠 𝑎 f𝑎𝑐𝑡o𝑟 of 𝑦2 + 4𝑦2 + 4𝑦 − 6",
+      "options": [
+        "0",
+        "-6",
+        "-4",
+        "1"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Simplify 2√5−√3 √2+√3",
+      "options": [
+        "5√6 + 1",
+        "3√6 − 7",
+        "3√6 + 7",
+        "3√6 – 1"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the perimeter of the sector.",
+      "options": [
+        "2.5 m",
+        "3.0 m",
+        "7.5 m",
+        "5.0 m"
+      ],
+      "answer": "",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A construction company is owned by two partners 𝑥 𝑎𝑛𝑑 𝑦 and it is agreed that their profit will be divided in the ratio 4:5 at the end of the 𝑦e𝑎𝑟 𝑦 received ₦5,000 more than x. What is the total profit of the company per year?",
+      "options": [
+        "₦20,000",
+        "₦25,000",
+        "₦50,000",
+        "₦45,000"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If 𝑥 = 1 i𝑠 𝑡ℎe 𝑟oo𝑡 of 𝑡ℎe e𝑞𝑢𝑎𝑡io𝑛 𝑥3 − 2𝑥2 − 5𝑥+6. Find the other roots",
+      "options": [
+        "−3 and 2",
+        "−2 and 2",
+        "3 and −2",
+        "1 and 3"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If 𝑥 + 2 𝑎𝑛𝑑 𝑥 − 1 are factors of the expression 1𝑥3 + 2𝑘𝑥2 +24. Find the value of 𝑙 𝑎𝑛𝑑 𝑘",
+      "options": [
+        "𝑙 = −6, 𝑘 = −2",
+        "𝑙 = −2, 𝑘 = 1",
+        "𝑙 = −2, 𝑘 = −1",
+        "𝑙 = 0, 𝑘 − 1"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "PQRS is a desk of dimension 2m × 0.8m which is inclined at 30° is the horizontal",
+      "options": [
+        "25°, 35'",
+        "30°",
+        "15°, 36'",
+        "10°"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Simplify x−7 × x2 −3x",
+      "options": [
+        "−5",
+        "3",
+        "−9",
+        "13"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "81798 and 0.0746829 to three significant figures and multiply them giving your answer to three significant figures.",
+      "options": [
+        "4.46",
+        "4.48",
+        "4.47",
+        "4.49 X -2 -1 0 1 2 3 Y=x3-x+3 3 3 3 9 27"
+      ],
+      "answer": "",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One interior angle of a convex of hexagon is 170° and each of the remaining angles is equal to 𝑥°. Find 𝑥.",
+      "options": [
+        "55 𝑘𝑚/ℎ𝑟",
+        "50 𝑘𝑚/ℎ𝑟",
+        "67.50𝑘𝑚/ℎ𝑟",
+        "75 𝑘𝑚/ℎ𝑟"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If f(𝑥) = 1 x−1 f(1−𝑥)",
+      "options": [
+        "8%",
+        "10% x x−2",
+        "−1 + 1",
+        "−1 + 1 x x−1"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Convert 2415 to base 8",
+      "options": [
+        "718",
+        "1078",
+        "1768",
+        "2418"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Simplify without using tables 2√14 × 3√21 7√24 × 2√98",
+      "options": [
+        "3√14 4",
+        "3√2 4",
+        "3√14 28",
+        "3√2 28 1"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Make y the subject of the formula Z=𝑥2 + 1 ? y3 1",
+      "options": [
+        "𝑦 = (Z−x2)3",
+        "𝑦 = 1 (Z+x2)3",
+        "𝑦 = 1 (Z−x2)3",
+        "𝑦 = 1 3√Z−3√x2"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A cubic function f (𝑥) is specified by the graph shown above. The values of the independent variable for which the function x…",
+      "options": [
+        "-1, 0, 1",
+        "−1 ≤ 𝑥 ≤ 1",
+        "𝑥 < −1",
+        "𝑥 > 1"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The histogram above represents the weight of students who travelled out of their schools for an examination. How many people made the trip?",
+      "options": [
+        "78",
+        "58",
+        "29",
+        "69"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the many ways can 6 subjects be selected from 10 subject be selected from 10 subjects for an examination?",
+      "options": [
+        "218",
+        "216",
+        "215",
+        "210"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the value of x which the functions f(𝑥) = 2𝑥2 − 𝑥2 − 4𝑥 + 4 has a maximum value √",
+      "options": [
+        "2⁄3",
+        "1",
+        "−2⁄3",
+        "−1"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Make L the subject of the",
+      "options": [
+        "√42w 5d",
+        "√42w 5d2",
+        "42 5d2",
+        "1 √42w"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the simple interest on ₦1,500 for 8 years at 5% per annum",
+      "options": [
+        "₦5,000",
+        "₦600",
+        "₦500",
+        "₦150"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Solve the quadratic inequality 𝑥2 − 5𝑥 + 6 ≥ 0",
+      "options": [
+        "𝑥 ≤ 2, 𝑥 ≤ 7",
+        "80°",
+        "50°",
+        "30°"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the gradient of a line which is perpendicular to the line with equation 3𝑥 + 2𝑦 + 1 = 1",
+      "options": [
+        "3⁄2",
+        "−2⁄3",
+        "−2⁄5",
+        "−3⁄2"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Evaluate ∫2 −2",
+      "options": [
+        "0",
+        "121",
+        "181",
+        "180"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the lines 3𝑦 = 4𝑥 − 1 and 𝑞𝑦 = 𝑥 + 3 are parallel to each other, the value of 𝑞 is",
+      "options": [
+        "−4⁄3",
+        "−5⁄4",
+        "4⁄5",
+        "3⁄4"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The volume of a of sugar and flour. How much sugar were used?",
+      "options": [
+        "12.25kg",
+        "6.75kg",
+        "8.75kg",
+        "15.75kg"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Two cars 𝑥 𝑎𝑛𝑑 𝑦 start at the same point and travel towards a 2 hemispherical bowl is 7183 𝑐𝑚3, point P which is 150𝑘𝑚 away. If find its radius",
+      "options": [
+        "4.0 cm",
+        "5.6cm",
+        "7.0cm",
+        "3.6cm"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If 𝑥 = 1245 , fi𝑛𝑑 𝑥.",
+      "options": [
+        "513 𝑘𝑚 𝑝e𝑟 ℎo𝑢𝑟 9",
+        "72 𝑘𝑚 𝑝e𝑟 ℎo𝑢𝑟",
+        "66 𝑘𝑚 𝑝e𝑟 ℎo𝑢𝑟",
+        "371 𝑘𝑚 𝑝e𝑟 ℎo𝑢𝑟 2"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

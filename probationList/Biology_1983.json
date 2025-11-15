@@ -1,0 +1,909 @@
+{
+  "_id": "690e189aaed76098998375f0",
+  "subjectName": [
+    "Biology"
+  ],
+  "year": 1983,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Root hairs are developed from the …",
+      "options": [
+        "ot apex",
+        "idermis of roots",
+        "scular bundles",
+        "dodermis",
+        "ricycle"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a328fd"
+    },
+    {
+      "number": "2",
+      "subheadingA": "Use Fig. 1 to answer questions 2-4",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878409/img1997_1_aiz6py.png",
+      "subheadingB": "Fig 1 represents a cross-section of a part of a dicot plant.",
+      "diagramUrlB": "",
+      "question": "Which of the following features can be used to identify Fig 1?",
+      "options": [
+        "sition of 7",
+        "s circular nature",
+        "mber of 5",
+        "esence of 3",
+        "dth of 2"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a328fe"
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main function of 6 is to",
+      "options": [
+        "parate 5 from 7",
+        "oduce more of 5 and 7",
+        "oduce cork",
+        "anslocate water and mineral salt",
+        "nduct carbon dioxide to the other parts"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a328ff"
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main function of 4 is to",
+      "options": [
+        "rround the inner tissues",
+        "oduce cork",
+        "oduce root hairs",
+        "oduce lateral roots",
+        "oduce more of 3"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32900"
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a dicot leaf, guard cells differ from other epidermal cells because they",
+      "options": [
+        "ve no definite shape",
+        "ck nuclei",
+        "e smaller",
+        "ntain chloroplasts",
+        "ck vacuole"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32901"
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following structures is NOT found in the female agama lizard?",
+      "options": [
+        "e-anal pads",
+        "rdrum",
+        "lar fold",
+        "sal scale",
+        "chal crest"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32902"
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Herbs differ from shrubs because they",
+      "options": [
+        "not produce fruits",
+        "e useful to herbalists",
+        "not become woody",
+        "e only annuals",
+        "e only perennials"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32903"
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If an isolated living cell is left in distilled water for two hours, it is likely to",
+      "options": [
+        "se some of its water to the surrounding water",
+        "se all of its water to the surrounding water",
+        "produce by binary fission",
+        "come more turgid",
+        "e due to excess water"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32904"
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If an organic compound has its Hydrogen: Oxygen ratio as 2:1, it is likely to be",
+      "options": [
+        "protein",
+        "carbohydrate",
+        "fat",
+        "fatty acid and glycerol",
+        "amino acid"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32905"
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following elements are necessary for the formation of chlorophyll in a plant?",
+      "options": [
+        "gnesium and iron",
+        "lcium and potassium",
+        "lcium and sulphur",
+        "tassium and sulphur",
+        "osphorus and potassium"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32906"
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following statements is NOT true of mammalian erythrocytes?",
+      "options": [
+        "ey have haemoglobin",
+        "ey appear yellow when looked at singly",
+        "ey are disc-shaped",
+        "e cells are more numerous than leucocytes",
+        "ey have nuclei at maturity"
+      ],
+      "answer": "E",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32907"
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In woody plants, gases and water vapour are transported across the stems by the",
+      "options": [
+        "lem fibres",
+        "dullary fibres",
+        "dullary rays",
+        "loem fibres",
+        "loem parenchyma"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32908"
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following substances is NOT found in urine?",
+      "options": [
+        "ter",
+        "dium chloride",
+        "trogenous compounds",
+        "lcium chloride",
+        "trogenous salts"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32909"
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The kidneys of all vertebrates act as osmo regulators. This means that they",
+      "options": [
+        "ep the composition of the plasma constant",
+        "gulate osmotic processes",
+        "ntrol the volume of blood entering the kidneys",
+        "crease the osmotic pressure of blood",
+        "crease the osmotic pressure of blood"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3290a"
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The movement of part of a plant in response to external stimulus of no particular direction is",
+      "options": [
+        "xism",
+        "opism",
+        "ptotropic movement",
+        "stic movement",
+        "ototropism"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3290b"
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The part of the mammalian brain responsible for maintaining balance is the",
+      "options": [
+        "dulla oblongata",
+        "factory lobe",
+        "rebellum",
+        "rebrum",
+        "ontal lobe"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3290c"
+    },
+    {
+      "number": "17",
+      "subheadingA": "Fig vertical section of onion bulb.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the labelled parts in Fig 2 will develop into a new bulb?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3290d"
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the onion bulb, food is stored in the",
+      "options": [
+        "em",
+        "teral buds",
+        "tyledons",
+        "ter scale leaves",
+        "af bases"
+      ],
+      "answer": "E",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3290e"
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Groundnut is not really a ‘nut’ in the biological sense because",
+      "options": [
+        "is harvested from inside the ground",
+        "s pericarp is not hard and woody",
+        "grows in warm climates",
+        "contains oil",
+        "is a legume"
+      ],
+      "answer": "E",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3290f"
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is most advanced in the evolutionary trend?",
+      "options": [
+        "verworts",
+        "sses",
+        "rns",
+        "gae",
+        "nifers"
+      ],
+      "answer": "E",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32910"
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The presence of feathers is one of the characteristics of the class",
+      "options": [
+        "sces",
+        "mmalia",
+        "es",
+        "ptilia",
+        "phibia"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32911"
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following features is NOT found in all vertebrates?",
+      "options": [
+        "rtebral column",
+        "lateral symmetry",
+        "lls",
+        "ull",
+        "doskeleton"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32912"
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a characteristic of insect-pollinated flowers?",
+      "options": [
+        "athery stigma",
+        "all and inconspicuous petals",
+        "icky pollen",
+        "merous pollen grains",
+        "ng filaments"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32913"
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following processes does NOT contribute to the increase in the number of cells?",
+      "options": [
+        "tosis",
+        "iosis",
+        "ll elongation",
+        "ll division",
+        "tokinesis"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32914"
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In which of the following parts of the mammalian body does digestion of fat begin?",
+      "options": [
+        "omach",
+        "uth",
+        "odenum",
+        "sophagus",
+        "lon"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32915"
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following organs is NOT part of the mammalian digestive system?",
+      "options": [
+        "omach",
+        "ncreas",
+        "ver",
+        "dney",
+        "odenum"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32916"
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary function of bile in digestion is to",
+      "options": [
+        "gest starch",
+        "gest protein",
+        "ulsify fats",
+        "utralize hydrochloric acid",
+        "sorb nutrients"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32917"
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The mammalian kidney removes all of the following EXCEPT",
+      "options": [
+        "ea",
+        "cess water",
+        "ucose",
+        "lts",
+        "ic acid"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32918"
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following pairs are both excretory products?",
+      "options": [
+        "ea and sweat",
+        "eat and saliva",
+        "liva and mucus",
+        "cus and bile",
+        "le and tears"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32919"
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The part of the human brain responsible for intelligence and memory is the",
+      "options": [
+        "rebellum",
+        "rebrum",
+        "dulla oblongata",
+        "pothalamus",
+        "tuitary gland"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3291a"
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The bone found in the arm of man is the",
+      "options": [
+        "mur",
+        "merus",
+        "bia",
+        "bula",
+        "alanges"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3291b"
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of these is an example of a hinge joint?",
+      "options": [
+        "ist",
+        "ck",
+        "p",
+        "bow",
+        "oulder"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3291c"
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following blood components is responsible for clotting?",
+      "options": [
+        "d blood cells",
+        "ite blood cells",
+        "asma",
+        "atelets",
+        "mph"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3291d"
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the function of the tricuspid valve in the heart?",
+      "options": [
+        "events backflow of blood into the left atrium",
+        "events backflow of blood into the right atrium",
+        "lows oxygenated blood into the lungs",
+        "lows deoxygenated blood into the left ventricle",
+        "mps blood into the pulmonary artery"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3291e"
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a function of the white blood cells?",
+      "options": [
+        "ansporting oxygen",
+        "otting blood",
+        "ghting infection",
+        "ntrolling blood pressure",
+        "rrying carbon dioxide"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3291f"
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which blood vessel carries deoxygenated blood away from the heart?",
+      "options": [
+        "lmonary artery",
+        "lmonary vein",
+        "rta",
+        "na cava",
+        "ronary artery"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32920"
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following prevents food from entering the windpipe?",
+      "options": [
+        "rynx",
+        "achea",
+        "arynx",
+        "iglottis",
+        "veolus"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32921"
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "During inhalation, the diaphragm",
+      "options": [
+        "laxes and moves upward",
+        "ntracts and moves downward",
+        "ntracts and moves upward",
+        "mains stationary",
+        "pushed up by the lungs"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32922"
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In mammals, the exchange of gases occurs in the",
+      "options": [
+        "onchi",
+        "onchioles",
+        "veoli",
+        "achea",
+        "rynx"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32923"
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The waste product excreted through the lungs is",
+      "options": [
+        "ter",
+        "ea",
+        "rbon dioxide",
+        "eat",
+        "monia"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32924"
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a communicable disease?",
+      "options": [
+        "abetes",
+        "pertension",
+        "asles",
+        "ncer",
+        "ashiorkor"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32925"
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following diseases is caused by a virus?",
+      "options": [
+        "berculosis",
+        "laria",
+        "asles",
+        "olera",
+        "ngworm"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32926"
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Malaria is transmitted by the bite of a/an",
+      "options": [
+        "etse fly",
+        "male Anopheles mosquito",
+        "ack fly",
+        "nd fly",
+        "le Anopheles mosquito"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32927"
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a vector of a disease?",
+      "options": [
+        "usefly",
+        "rthworm",
+        "rmite",
+        "evil",
+        "ail"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32928"
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a preventive measure against cholera?",
+      "options": [
+        "aring protective clothing",
+        "oper disposal of sewage",
+        "ccination against smallpox",
+        "oiding mosquito bites",
+        "eping domestic animals"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a32929"
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following diseases is NOT caused by bacteria?",
+      "options": [
+        "berculosis",
+        "olera",
+        "tanus",
+        "asles",
+        "phoid"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3292a"
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The causative organism of malaria is a",
+      "options": [
+        "otozoan",
+        "cterium",
+        "rus",
+        "ngus",
+        "rm"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3292b"
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a characteristic of a desert plant?",
+      "options": [
+        "oad leaves",
+        "allow roots",
+        "ick cuticle",
+        "rge stomata",
+        "in epidermis"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3292c"
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of these is an example of a parasitic plant?",
+      "options": [
+        "ctus",
+        "stletoe",
+        "ter lily",
+        "rn",
+        "ngo"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3292d"
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of these is a function of the placenta in mammals?",
+      "options": [
+        "rmation of the embryo",
+        "cretion of sweat",
+        "ssage of food and oxygen",
+        "cretion of bile",
+        "ntrol of respiration"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18993378818889a3292e"
+    }
+  ]
+}

@@ -1,0 +1,909 @@
+{
+  "_id": "68657aa546ece409a0b9c550",
+  "subjectName": [
+    "Economics"
+  ],
+  "year": 1985,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One main quality of a good is that it",
+      "options": [
+        "Is sold in the market",
+        "Satisfies wants",
+        "Is made in the factory",
+        "Is always tangible",
+        "Is non-perishable"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The interdependence between household and business enterprise illustrated in the figure above is known as",
+      "options": [
+        "Market interaction",
+        "Cash flow",
+        "Circular flow of income",
+        "Supply and demand for goods and services",
+        "Household preference schedule"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Bisi needs book costing N10.00. If Bisi buys the book instead of the hat, the opportunity cost of his choice is the",
+      "options": [
+        "Cost of the book",
+        "Cost of the hat",
+        "Book",
+        "Hat",
+        "N10.00"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An economic problem exists whenever",
+      "options": [
+        "There is scarcity and choice",
+        "There are no buyers for our goods",
+        "There are too many sellers",
+        "Many people are out of work",
+        "All raw materials are imported"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The meaning of scale of preference is",
+      "options": [
+        "Preparing a list of goods and services to be purchased in order of priority",
+        "Showing the monthly income",
+        "Budget preparation without due regard to proper priorities",
+        "Consumer preference for luxurious goods",
+        "Consumer preference for foreign goods"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Optimum population is desirable because it enables an economy to attain maximum",
+      "options": [
+        "Per capita income",
+        "Per capita output",
+        "Per capita real income",
+        "Per capita revenue",
+        "Growth rate"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The age distribution of a population is NOT influenced by",
+      "options": [
+        "Birth rates",
+        "Death rates",
+        "Patterns of immigration",
+        "Patterns of emigration",
+        "School leaving age"
+      ],
+      "answer": "E",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One theory of population contends that population tends to increase much faster than the supply of food, and that if the growth in population is not checked, it will be checked by natural forces like misery, disaster and food shortage. This theory was propounded by",
+      "options": [
+        "Prof. Paul Samuelson",
+        "Adam Smith",
+        "David Richardo",
+        "Rev. Thomas Malthus",
+        "Prof. Ojetunji Aboyade"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The table above illustrates the law of",
+      "options": [
+        "Diminishing marginal utility",
+        "Diminishing marginal productivity",
+        "Diminishing returns",
+        "Increasing returns",
+        "Increase total utility"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If in the short run commodity X and commodity Y are supplied jointly, which of the following is correct?",
+      "options": [
+        "An increase in demand for X will increase the supply of Y",
+        "An increase in demand for X will shift the supply of Y",
+        "An increase in demand for Y will raise the price X",
+        "An increase in demand for X will cause less of Y to be produced.",
+        "A probable tax on Y cause more of X to be supplied"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The basic problem of all economies is",
+      "options": [
+        "What to produce, how to produce and for whom to produce",
+        "How to produce and for whom to produce",
+        "What to produce and how to produce",
+        "For whom to produce and how to distribute",
+        "What to produce and who will consume"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The opportunity cost of an action is",
+      "options": [
+        "The value of the best alternative forgone in order to pursue the action",
+        "The cost of the action in monetary terms",
+        "The time spent on the action",
+        "The resources used up in the action",
+        "The sum of money spent and the value of the next best alternative forgone"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a factor of production?",
+      "options": [
+        "Land",
+        "Labour",
+        "Capital",
+        "Entrepreneurship",
+        "Money"
+      ],
+      "answer": "E",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The law of demand states that",
+      "options": [
+        "As the price of a good increases, the quantity demanded decreases, and vice versa",
+        "As the price of a good decreases, the quantity demanded decreases, and vice versa",
+        "The quantity demanded of a good is directly proportional to its price",
+        "The quantity demanded of a good is independent of its price",
+        "As income increases, the quantity demanded of inferior goods decreases"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following will cause a movement along the demand curve for a good?",
+      "options": [
+        "A change in the price of the good",
+        "A change in consumer income",
+        "A change in the price of related goods",
+        "A change in consumer preferences",
+        "A change in the number of buyers in the market"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the demand for a good increases while it supply remains constant, what will happen to the equilibrium price and quantity?",
+      "options": [
+        "Price will increase and quantity will increase",
+        "Price will increase and quantity will decrease",
+        "Price will decrease and quantity will increase",
+        "Price will decrease and quantity will decrease",
+        "Price and quantity will remain the same"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The cross elasticity of demand measures the responsiveness of",
+      "options": [
+        "The quantity demanded of one good to a change in the price of another good",
+        "The quantity demanded to a change in consumer income",
+        "The quantity demanded to a change in the price of the same good",
+        "The quantity supplied of a good to a change in its price",
+        "The quantity supplied of a good to a change in the price of another good"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a determinant of supply?",
+      "options": [
+        "Consumer preferences",
+        "The number of consumers in the market",
+        "The price of the good",
+        "The price of related goods",
+        "The level of consumer income"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A decrease in the price of a good will lead to",
+      "options": [
+        "An increase in the quantity supplied of the good",
+        "A decrease in the quantity supplied of the good",
+        "No change in the quantity supplied of the good",
+        "An increase in the demand for the good",
+        "A decrease in the demand for the good"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The equilibrium price is defined as the price at which",
+      "options": [
+        "The quantity demanded equals the quantity supplied",
+        "The quantity demanded is greater than the quantity supplied",
+        "The quantity supplied is greater than the quantity demanded",
+        "There is a surplus of the good",
+        "There is a shortage of the good"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a reason for price discrimination?",
+      "options": [
+        "Monopoly power",
+        "Market segmentation",
+        "Differences in price elasticity of demand",
+        "Cost differences in supplying the product",
+        "Government regulation"
+      ],
+      "answer": "E",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Price discrimination is most likely to be practiced by",
+      "options": [
+        "Perfectly competitive firms",
+        "Monopolistically competitive firms",
+        "Oligopolistic firms",
+        "Monopolistic firms",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main aim of a firm in a capitalist economy is",
+      "options": [
+        "To maximize profit",
+        "To maximize sales",
+        "To maximize market share",
+        "To maximize customer satisfaction",
+        "To maximize employee satisfaction"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a characteristic of perfect competition?",
+      "options": [
+        "Many firms selling identical products",
+        "A single firm controls the entire market",
+        "Firms compete on the basis of price only",
+        "There are significant barriers to entry",
+        "Firms have some control over the price"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the long run, a perfectly competitive firm will earn",
+      "options": [
+        "Normal profit",
+        "Supernormal profit",
+        "No profit or loss",
+        "Loss",
+        "Variable profit"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a barrier to entry?",
+      "options": [
+        "Patents",
+        "Brand loyalty",
+        "Economies of scale",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The demand curve facing a monopolist is",
+      "options": [
+        "Perfectly elastic",
+        "Elastic",
+        "Inelastic",
+        "Perfectly inelastic",
+        "Unitary elastic"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A monopolist maximizes profit by producing where",
+      "options": [
+        "Marginal cost equals marginal revenue",
+        "Average total cost is minimized",
+        "Price equals marginal cost",
+        "Marginal revenue equals average revenue",
+        "Marginal cost equals average cost"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a characteristic of an oligopoly?",
+      "options": [
+        "A few firms dominate the market",
+        "Many firms compete with similar products",
+        "Firms are price takers",
+        "There is free entry and exit in the market",
+        "All of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In an oligopoly, firms may engage in",
+      "options": [
+        "Price fixing",
+        "Market sharing",
+        "Collusion",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a characteristic of money?",
+      "options": [
+        "Durability",
+        "Portability",
+        "Divisibility",
+        "Uniformity",
+        "Scarcity"
+      ],
+      "answer": "E",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary function of money is",
+      "options": [
+        "Medium of exchange",
+        "Store of value",
+        "Unit of account",
+        "Standard of deferred payment",
+        "All of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a disadvantage of using money as a medium of exchange?",
+      "options": [
+        "It is widely accepted",
+        "It is divisible",
+        "It can be carried easily",
+        "It may lose value due to inflation",
+        "It is a good store of value"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Fiat money is",
+      "options": [
+        "Money that has intrinsic value",
+        "Money that is backed by a physical commodity",
+        "Money that is declared to be legal tender by government decree",
+        "Money that is accepted based on a promise to exchange it for a commodity",
+        "All of the above"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The central bank of a country is responsible for",
+      "options": [
+        "Issuing currency",
+        "Managing the country's foreign exchange and gold reserves",
+        "Conducting monetary policy",
+        "Regulating and supervising the banking industry",
+        "All of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a tool of monetary policy?",
+      "options": [
+        "Open market operations",
+        "Discount rate",
+        "Reserve requirements",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary goal of expansionary monetary policy is to",
+      "options": [
+        "Increase the money supply and decrease interest rates",
+        "Decrease the money supply and increase interest rates",
+        "Increase government spending",
+        "Decrease taxes",
+        "All of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a likely consequence of contractionary monetary policy?",
+      "options": [
+        "Higher interest rates",
+        "Increased consumer spending",
+        "Increased business investment",
+        "Higher inflation",
+        "All of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The fiscal policy of a government refers to",
+      "options": [
+        "The government's use of taxation and spending to influence the economy",
+        "The central bank's management of the money supply and interest rates",
+        "The government's regulation of foreign trade",
+        "The government's control of inflation",
+        "The government's management of public debt"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a tool of fiscal policy?",
+      "options": [
+        "Government spending",
+        "Taxation",
+        "Public debt management",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Expansionary fiscal policy is used to",
+      "options": [
+        "Stimulate economic growth during a recession",
+        "Cool down an overheating economy",
+        "Reduce inflation",
+        "Decrease government spending",
+        "Increase taxes"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Contractionary fiscal policy is used to",
+      "options": [
+        "Stimulate economic growth",
+        "Reduce inflation",
+        "Increase unemployment",
+        "Increase government spending",
+        "Decrease taxes"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The business cycle refers to",
+      "options": [
+        "The fluctuations in economic activity that an economy experiences over a period of time",
+        "The cycle of production and consumption in an economy",
+        "The cycle of investment and savings in an economy",
+        "The fluctuations in the stock market",
+        "The cycle of government budgets surpluses and deficits"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a phase of the business cycle?",
+      "options": [
+        "Expansion",
+        "Peak",
+        "Recession",
+        "Trough",
+        "Stagnation"
+      ],
+      "answer": "E",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Leading economic indicators are",
+      "options": [
+        "Statistics that predict future economic activity",
+        "Statistics that measure current economic activity",
+        "Statistics that confirm past economic activity",
+        "Statistics that are not related to economic activity",
+        "None of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Lagging economic indicators are",
+      "options": [
+        "Statistics that change before the economy as a whole changes",
+        "Statistics that change after the economy as a whole changes",
+        "Statistics that do not change",
+        "Statistics that are not related to economic activity",
+        "None of the above"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the table above, the marginal cost when output is two units is,",
+      "options": [
+        "N16.00",
+        "N20.00",
+        "N36.00",
+        "N40.00",
+        "N48.00"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The unemployment associated with a recession is called",
+      "options": [
+        "Voluntary",
+        "Frictional",
+        "Cyclical",
+        "Structural",
+        "Disguise"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a consequence of inflation?",
+      "options": [
+        "Increased purchasing power",
+        "Decreased purchasing power",
+        "Stable prices",
+        "Increased savings",
+        "Decreased cost of living"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Hyperinflation is",
+      "options": [
+        "A moderate increase in prices",
+        "A rapid and out of control increase in prices",
+        "A decrease in prices",
+        "An increase in the supply of money",
+        "A decrease in the demand for money"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

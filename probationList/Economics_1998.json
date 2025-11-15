@@ -1,0 +1,859 @@
+{
+  "_id": "68657b96fd42134144eeb9b0",
+  "subjectName": [
+    "Economics"
+  ],
+  "year": 1998,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the diagram above, full employments is indicated by",
+      "options": [
+        "L",
+        "M",
+        "N",
+        "P"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "From the table above, the total utility for the individual who consumes 3 units of commodity X is",
+      "options": [
+        "50 units",
+        "150 units",
+        "230 units",
+        "250 units"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of economic problems of Nigeria today arises from",
+      "options": [
+        "The overutilization of human and natural resources",
+        "Inavailability of mineral resources",
+        "Inadequate manpower resources",
+        "The underutilization of human and natural resources"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In certain circumstances, a centrally planned economy adopts the rationing system because of",
+      "options": [
+        "The scarcity of goods and services in the market",
+        "Low real and money wages",
+        "The need for equitable distribution of goods and service",
+        "Transportation and distribution problems"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given that B = Births, X = Emigrants, D = Deaths, M = Immigrants. The population of a country over a period of time will rise if",
+      "options": [
+        "A = D and X > M",
+        "B - D = 0 and M > X",
+        "D - B = 0 and M = X",
+        "X > M and D > B"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The dependency ratio between 1960 and 1990 is",
+      "options": [
+        "Increased by 5%",
+        "Increased by 2%",
+        "Decreased by 2%",
+        "Decreased by 5%"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In 1990, the difference between the dependent population and the active population ratio is",
+      "options": [
+        "22%",
+        "20%",
+        "16%",
+        "4%"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The short-run period in production is defined as a period when",
+      "options": [
+        "there is at least one fixed factor",
+        "all costs of production must be covered",
+        "the output cannot be varied",
+        "current output is not profitable"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Specialization often improves economic performance because it",
+      "options": [
+        "Permits exploitation of economies of scale",
+        "Incorporates external economies",
+        "Is based on the law of variable proportions",
+        "Allocates resources according to absolute advantage"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following statements best describes the relationship between average product and marginal product?",
+      "options": [
+        "Marginal product and average product curves rise and fall together",
+        "Marginal product equals average product at the minimum point of the latter",
+        "Average product curve will rise as long as marginal product is greater than average product",
+        "Marginal product equals average product at the maximum point of the former"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The average total cost when output is 200 units in the table above is",
+      "options": [
+        "N1.00",
+        "N1.20",
+        "N1.40",
+        "N2.40"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When a firm is reaping economies of large-scale production, it experiences a fall in its",
+      "options": [
+        "Long-run marginal cost",
+        "Long-run average cost",
+        "Long-run total cost",
+        "Short-run marginal cost"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the diagram above, the price P2 in price control situation, is referred to as",
+      "options": [
+        "Minimum price",
+        "Mark-up price",
+        "Maximum price",
+        "Mark-down price"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The shaded triangle in the diagram above is known as",
+      "options": [
+        "Excess supply",
+        "Consumer surplus",
+        "Excess consumption",
+        "Producer surplus"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the diagram above, D0D0 is the original demand curve, S0S0 is the original supply curve, D1D1 is the new demand curve S1S1 is the new supply curve. What is the new equilibrium quantity?",
+      "options": [
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If an increase in the price of a commodity leads to increase in total revenue, then it means that the demand for this commodity is",
+      "options": [
+        "Normal",
+        "Elastic",
+        "Inelastic",
+        "Abnormal"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given that the elasticity of demand for a commodity is 2.5, the percentage change in the quantity demanded as a result of a 10 percent change in its prices is",
+      "options": [
+        "0.25",
+        "0.40",
+        "4.00",
+        "25.00"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The producer in a perfectly competitive market is faced with a demand curve whose elasticity is",
+      "options": [
+        "Unitary",
+        "Greater than one",
+        "Infinite",
+        "Less than one"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the diagram above, profit is maximized at the output level",
+      "options": [
+        "ON",
+        "OK",
+        "OL",
+        "OF"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Unlike the retailer, the wholesale provides",
+      "options": [
+        "Useful information to the manufacturer about consumers’ taste",
+        "After sales service to the consumer",
+        "Useful information to the customers on the benefits and uses of the product",
+        "Useful information about market trends and Finance to the manufacturer"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Liquidation of a limited liability company implies that the",
+      "options": [
+        "Company may not pay its debt",
+        "Debts of the company can only be paid from its own assets",
+        "Debts of the company are paid from both business and private funds of the owners",
+        "Debts of the company must be paid from public funds only"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One form of business organization which is not motivated solely by the profit objective is the",
+      "options": [
+        "Joint stock company",
+        "Private limited company",
+        "Co-operative society",
+        "Ordinary partnership"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following can have their shares quoted on the stock exchange?",
+      "options": [
+        "Public corporations",
+        "A partnership",
+        "A consumer co-operative",
+        "A public limited liability company"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The sector that employs the largest proportion of the active labour force in Nigeria",
+      "options": [
+        "Oil sector",
+        "Federal civil service",
+        "Financial sector",
+        "Agricultural sector"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An entirely domestic effort directed at improving agricultural production in Nigeria is the",
+      "options": [
+        "Agricultural Development Programme",
+        "Agro-industrial Development Scheme",
+        "Food and Agricultural Organization",
+        "National Land Development Authority"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A factor that influences the location of a firm near its market is the",
+      "options": [
+        "Transportation of bulky raw materials",
+        "External economies",
+        "High cost of transporting finished goods",
+        "Availability of skilled manpower"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In many developing countries, infrastructural problem is acute due to the shortage of",
+      "options": [
+        "Industries and industrial equipment",
+        "Savings, investment and consumption",
+        "Natural resources for development",
+        "Supporting services that encourage economic activities"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Export-promotion policy is primarily concerned with the",
+      "options": [
+        "Processing of raw materials to increase their value",
+        "Making of international routes safe for export commodities",
+        "Reduction in the number of imported items",
+        "Encouragement of the production of export commodities"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The petroleum industry in Nigeria is",
+      "options": [
+        "The sole source of the nation’s revenue",
+        "The oldest industry in the country",
+        "The mainstay of the economy",
+        "A factor in the decline in the nation’s foreign reserves"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Crude petroleum is a good example of a",
+      "options": [
+        "Lasting asset",
+        "Wasting asset",
+        "Synthetic product",
+        "Costless resource"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the techniques of monetary control used by the Central Bank of Nigeria is",
+      "options": [
+        "Selective credit control",
+        "Budget deficit",
+        "Foreign exchange control",
+        "Monitoring the general price level"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is true about the value of money?",
+      "options": [
+        "It varies inversely with the price level",
+        "It varies directly with the price level",
+        "It depreciates in the period of deflation",
+        "It is not affected by the price level"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the reserve requirement for commercial banking in Nigeria were 30%, a commercial bank which receives an initial cash deposit of N3 000 is in a position to lend out",
+      "options": [
+        "N9 000",
+        "N3 330",
+        "N2 770",
+        "N2 100"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An issue of bank-notes not backed by gold but by government securities is known as",
+      "options": [
+        "Fiduciary issue",
+        "Guaranteed money",
+        "Seigniorage",
+        "Legal tender"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A rise in the market price of fixed interest securities is an indication that the",
+      "options": [
+        "Supply of money has decreased",
+        "Liquidity preference has increased",
+        "Market rate of interest has risen",
+        "Market rate of interest has fallen"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An increase in government expenditure will lead to",
+      "options": [
+        "Investment opportunities for foreign investors",
+        "An increase in the level of aggregate demand",
+        "An increase in total tax revenue",
+        "Reduction in total tax revenue"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When an indirect tax is levied on the producer of a good, the burden on the consumer will depend largely on the",
+      "options": [
+        "Elasticity of demand for the good",
+        "Proportion of the consumer’s income spent on the goods",
+        "Elasticity of demand and supply of the commodity",
+        "Availability of substitutes for the commodity"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a government wants to reduce the level of inflation, it will",
+      "options": [
+        "Run a budget surplus",
+        "Run a budget deficit",
+        "Run a balance budget",
+        "Borrow more money"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a country’s national income increased from N1000 billion to N1100 billion over a period of 2 years, what was the average annual rate of growth of national income over the period?",
+      "options": [
+        "5%",
+        "15%",
+        "20%",
+        "100%"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A fall in the marginal propensity to save will lead to",
+      "options": [
+        "A decrease in national income",
+        "An increase in national income",
+        "No change in national income",
+        "An increase in disposable income"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a transfer payment?",
+      "options": [
+        "Dividend to a shareholder",
+        "Gift to a motherless Babies’s Home",
+        "Salary to a worker",
+        "Rent to a landlord"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The major objective of economic growth is to",
+      "options": [
+        "Redistribute income and other benefits of growth",
+        "Equalize opportunities for education and employment",
+        "Increase the aggregate expenditure on goods and services",
+        "Increase the real per capita income"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The Family Support Programme in Nigeria essentially focuses on",
+      "options": [
+        "The generation of employment",
+        "The alleviation of poverty",
+        "Agricultural and industrial development",
+        "Economic emancipation of women"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Economically, underdeveloped countries are characterized by",
+      "options": [
+        "High rate of population growth and low rate of economic growth",
+        "High rate of economic growth and low rate of population growth",
+        "High rate of population growth and high rate of economic growth",
+        "Low rate of population growth and low rate of economic growth"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the major consequences of urban-biased development programmes in Nigeria is that they",
+      "options": [
+        "Led to rapid rural-urban migration",
+        "Led to unprecedented urban wealth",
+        "Transformed rural areas into urban centre",
+        "Increased the level of specialized manpower in the cities"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Development plans have not been successful in some developing countries largely because of",
+      "options": [
+        "Very large working population",
+        "Increasing level of consumption",
+        "Scarcity of industrial raw materials",
+        "Shortage of skilled labour and experts"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The balance of visible trade is the difference between the value of",
+      "options": [
+        "Imported and exported goods",
+        "Imported and exported services",
+        "Current account and capital account",
+        "Exchange rate of local and foreign currencies"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a country has a balance of payments surplus on current accounts, this means that",
+      "options": [
+        "The total invisible export is greater than invisible import",
+        "The value of goods exported must be greater than the value of goods imported",
+        "There must be a positive balance on capital account",
+        "The aggregate of the balance of trade and the invisible balance must be positive"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a country operates a freely floating exchange rate system, and suffers a balance of payments deficit, the deficit can be eliminated through",
+      "options": [
+        "A rise in the external value of its currency",
+        "A fall in the external value of its currency",
+        "An increase in the volume of imports",
+        "The consumption of more foreign goods"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The Economic Commission for Africa was set up by the",
+      "options": [
+        "UNO",
+        "ECOWAS",
+        "OAU",
+        "IMF"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

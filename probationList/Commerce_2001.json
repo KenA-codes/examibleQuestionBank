@@ -1,0 +1,859 @@
+{
+  "_id": "6862a4b85c83fa7fe9f96f99",
+  "subjectName": [
+    "Commerce"
+  ],
+  "year": 2001,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a function of commerce?",
+      "options": [
+        "Production",
+        "Distribution",
+        "Consumption",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main aim of advertising is to:",
+      "options": [
+        "reduce cost",
+        "inform and persuade customers",
+        "increase production",
+        "improve product quality"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A bill of lading is used in connection with:",
+      "options": [
+        "sea transport",
+        "air transport",
+        "road transport",
+        "rail transport"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Whhich of the following services does a lawyer render?",
+      "options": [
+        "industrial services",
+        "direct services,",
+        "indirect services",
+        "commercial services"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The partner that only contributes part of the capital used in the formation and running of a business is known as",
+      "options": [
+        "a passive partner",
+        "an active partner",
+        "a dormant partner",
+        "a nominal partner"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One major advantage of a credit and thrift cooperatives is that",
+      "options": [
+        "it can approach governemnt for a loan",
+        "it encourages saving habits",
+        "there are no legal restrictions",
+        "each member has a vote during meetings,"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A form of ownership which exploits the strengths of one partners to remedy the weaknesses of the other is a",
+      "options": [
+        "joint partnership",
+        "cooperative",
+        "corporation",
+        "joint venture."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of partnership?",
+      "options": [
+        "General partnership",
+        "Limited partnership",
+        "Joint venture",
+        "Sole proprietorship"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Entrusting the management of a comapny to the courts to enable the settlement of the company’s oblilgations is an indication of",
+      "options": [
+        "distress",
+        "closure",
+        "bankrupcy",
+        "liquidation"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a source of business finance?",
+      "options": [
+        "Retained earnings",
+        "Trade credit",
+        "Personal savings",
+        "Lottery winnings"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main function of the Nigerian Export Promotion Council is to:",
+      "options": [
+        "promote non-oil exports",
+        "regulate import duties",
+        "issue import licenses",
+        "control foreign exchange"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The difference between total current assets and total current liabilities of a business is known as",
+      "options": [
+        "quick ratio",
+        "liquidity ratiio",
+        "working capital",
+        "circulating capital Use the balance sheet below to answer questions 13 and 14. nations"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The major procedures in the purchase and sale of goods are enquiry",
+      "options": [
+        "quotation, order and invoice",
+        "placement order and invoice",
+        "bargain, order and invoice",
+        "order, sale and invoice. Use the information below to answer questions 20 and 12 Mr. Awala is a retailer of a single product. He sells at the standard price. He gives a trade discount of 5%, quantity discount of 3% for a volume above 1000 units and a cash discount of 2/10 net 30. The existing selling price of the product is N100 per unit. Mr. Bacus purchased 1,500 units of the product on credit and promised to pay Mr. Awala in cash in the first 10 days after purchase. Liabilities Mama Trading Company N N Aseets"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of a central bank?",
+      "options": [
+        "Issuing currency",
+        "Accepting deposits from the public",
+        "Acting as banker to the government",
+        "Controlling credit"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If Mr. Bacus fulfil his promise, he will be entitled to a cash discount of",
+      "options": [
+        "N2,760",
+        "N3,000",
+        "N6,500",
+        "N9,500"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of warehouse?",
+      "options": [
+        "Private warehouse",
+        "Public warehouse",
+        "Bonded warehouse",
+        "Mobile warehouse"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The capital employed is",
+      "options": [
+        "N1,000",
+        "N1,370",
+        "N140",
+        "N50"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The capital owned is",
+      "options": [
+        "N2,740",
+        "N1,350",
+        "N1,150",
+        "N570"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the reasons why wholesaling must continue is that",
+      "options": [
+        "the tax paid by wholesalers on their profit enhances national revenue",
+        "by creating artificial scarcity, the wholesaler is enhancing competion in the economy,",
+        "the wholesaler provides technical advice to the retailer",
+        "the gap between manufacturers and retailer is reduced by wholesalers"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A merchant wholesaler is referred to as:",
+      "options": [
+        "del-credere agent",
+        "a broker,",
+        "rack jobber",
+        "a factor"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a means of payment in international trade?",
+      "options": [
+        "Letter of credit",
+        "Bill of exchange",
+        "Standing order",
+        "Cheque"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The balance of payments of countries is",
+      "options": [
+        "a record of imports and exports",
+        "a systematic record of transactions among countries at a given time",
+        "customer to another D. bank to another",
+        "the trade relationships and payments among"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Warehousing is a productive function because it increases the",
+      "options": [
+        "quantity of goods",
+        "utility of goods",
+        "quality of goods",
+        "price of goods"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a principle of insurance?",
+      "options": [
+        "Indemnity",
+        "Subrogation",
+        "Contribution",
+        "Liquidity"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Pooling of risk in insurance means that",
+      "options": [
+        "compenstaions are paid out of a common fund",
+        "two people can pool their risks to be insured",
+        "two insurance companies can buy two policies",
+        "insurance companies should encourage taking risks"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The indemnification of Ama by his insurance cecompany after a fire disaster means that he:",
+      "options": [
+        "has been guaranteed by the insurance company",
+        "will be cleared of any fault by the insurance company",
+        "has been by the insurance company",
+        "will be covered to the limit of the amount in the policy"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The major difference between insurance and assurance is that while insurance",
+      "options": [
+        "raw materials",
+        "labour",
+        "hinges on possibilities, assurance is based on possibilities",
+        "is about indemnity, assurance is about life in the future"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A documenatry bill will normally be acompanied by",
+      "options": [
+        "sales invoice, bill of lading and insurance certificate",
+        "clean bill, bill of lading and insurance cerificate",
+        "bill of lading, consular invoice and insurance certificate",
+        "consular invoice, FOB certificate and bill of lading."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following best describes the classifi cation of computers",
+      "options": [
+        "mini -computer,speed and size",
+        "micro-computer cost and liabilities",
+        "mini-computer, microcomputer and work station,",
+        "A mini-computer, hybrid and digital"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The temporary working area of the central procession unit is called the",
+      "options": [
+        "C-D ROM",
+        "C-D RAM",
+        "ROM",
+        "RAM."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of advertising?",
+      "options": [
+        "Informative advertising",
+        "Persuasive advertising",
+        "Competitive advertising",
+        "Destructive advertising"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One major charcteristic of credit unions and thrift societies is that",
+      "options": [
+        "the legal processes involved in their formation are rigid.",
+        "membership is compulsory to peoplein the same line of business",
+        "the contribution of every member depends on the member’s ability.",
+        "a minimum of ten people in the same line of business can form the union."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of a stock exchange?",
+      "options": [
+        "Providing a market for securities",
+        "Raising capital for companies",
+        "Regulating the insurance industry",
+        "Determining prices of securities"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main factors that determines the value of a stock on the Stock exchangea re dividend and",
+      "options": [
+        "the psychology of the market",
+        "capital gain",
+        "capital appreciation",
+        "warrantpayment."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the main objectives of the second-tier securities market in Nigeria is to",
+      "options": [
+        "achieve a realistic exchnage rate for the Naira",
+        "eliminate currency dealing in the black market",
+        "assist companies to raise capital",
+        "attract investment flow."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The activities aimed at finding out customers’ need and satisfaction can be described as",
+      "options": [
+        "socio-marketing",
+        "macro-marketing,",
+        "micro-marketing",
+        "conceptual marketing."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of business organization?",
+      "options": [
+        "Sole proprietorship",
+        "Partnership",
+        "Corporation",
+        "Monopoly"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of a wholesaler?",
+      "options": [
+        "Breaking bulk",
+        "Providing storage",
+        "Retailing goods",
+        "Granting credit"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of these companies offer after sales services?",
+      "options": [
+        "IV",
+        "III",
+        "II",
+        "I Use the information below to answer questions 40 and 41 Musa rented a room to Adamu for N1,500 and N1,000 part- payment was made. Adamu brought Audu and Jacob his friends to stay in the room. The two friends later pay the balance of N500 to Musa"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Who are parties to the contract of renting the room.",
+      "options": [
+        "Musa and Jacob",
+        "Musa and Audu",
+        "Adamu and Musa",
+        "Audu and Jacob."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Who is the offeree in this contract?",
+      "options": [
+        "Musa",
+        "Audu",
+        "Adamu",
+        "Jacob"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of insurance?",
+      "options": [
+        "Life insurance",
+        "Fire insurance",
+        "Marine insurance",
+        "Deposit insurance"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One way by which government reduces the repatriation of capital is through",
+      "options": [
+        "nationalization",
+        "divestiture",
+        "indigenization",
+        "naturalization."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of a retailer?",
+      "options": [
+        "Selling goods to final consumers",
+        "Providing after-sales service",
+        "Granting credit",
+        "Manufacturing goods"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Departmentalization is an aspect of",
+      "options": [
+        "planning",
+        "organising",
+        "directing",
+        "controlling."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A functional organisational structure is where:",
+      "options": [
+        "staff performing the same fucntions are grouped together",
+        "departments performing similar functions are gouped together.",
+        "activities of similar nature are grouped together",
+        "the staff performing similar functions are grouped together"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the line type of organizational structure",
+      "options": [
+        "the lines of authority are vertical",
+        "there is the application of division of labour",
+        "specialization is carried to a maximum degree",
+        "The llines of authority are horizontally."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Proper disposal of waste by business firms is one way of discharging their",
+      "options": [
+        "responsibility to government",
+        "environmental responsibility.",
+        "community responsibility",
+        "responsibility to customers."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of a bank?",
+      "options": [
+        "Accepting deposits",
+        "Granting loans",
+        "Issuing currency",
+        "Selling insurance"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the main objectives of establishing theNiger River Basin Commission was to :",
+      "options": [
+        "embark on a comprehensive survey of the available water resources",
+        "carry out research for the development of fresh water fisheries,",
+        "develop infrastructure to facilitate economic activties",
+        "promote trade among member-states to improve standard of living."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

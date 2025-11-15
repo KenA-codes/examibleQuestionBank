@@ -1,0 +1,655 @@
+{
+  "_id": "6851a67503d37a7af32e7610",
+  "subjectName": [
+    "Mathematics"
+  ],
+  "year": 2014,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which Question Paper Type of Mathematics is given to you?",
+      "options": [
+        "Type F",
+        "Type E",
+        "Type L",
+        "Type S"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the value of 1101112 + 101002",
+      "options": [
+        "10011112",
+        "11010112",
+        "1001012",
+        "10011112"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A woman bought a grinder for ₦60,000. She sold it at a loss of 15%. How much did she sell it?",
+      "options": [
+        "₦50,000",
+        "₦53,000",
+        "₦52,000",
+        "₦51,000"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Express the product of 0.00043 and 2000 in standard form.",
+      "options": [
+        "8.6 x 10",
+        "8.3 x 10-3",
+        "8.6 x 10-2",
+        "8.6 x 10-1"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A man donates 10% of his monthly net earnings to his church. If it amounts to ₦4,500, what is his net monthly income?",
+      "options": [
+        "₦62,500",
+        "₦40,500",
+        "₦45,000",
+        "₦52,500"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If log 7.5 = 0.8751, evaluate 2 log 75 + log 750.",
+      "options": [
+        "66.253",
+        "6.6252",
+        "6.6253",
+        "66.252"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Solve for x in 8x-2 = 2 25",
+      "options": [
+        "10",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Simplify 2√2−√3 / √2+√3",
+      "options": [
+        "3√6 + 1",
+        "3√6 − 7",
+        "3√6 + 7",
+        "3√6 − 1"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Evaluate log2 8 + log2 16 − log2 4",
+      "options": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If P = {1,2,3,4,5} and P ∪ Q = {1,2,3,4,5,6,7}, list the elements in Q",
+      "options": [
+        "{5, 7}",
+        "{6}",
+        "{7}",
+        "{6, 7}"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If gt2 − k − w = 0, make g the subject of the formula",
+      "options": [
+        "k−w t",
+        "k+w t2",
+        "k−w t2",
+        "k+w t"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Factorize 2y2 - 15xy + 18x2",
+      "options": [
+        "(3y + 2x) (y - 6x)",
+        "(2y − 3x) (y + 6x)",
+        "(2y - 3x) (y −6x)",
+        "(2y + 3x) (y − 6x)"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the value of k if y −1 is a factor of y3 + 4y2 + ky − 6",
+      "options": [
+        "x < -3 or x > 5",
+        "-3 < x < 1",
+        "x < -3 or x > 1",
+        "-3 < x < 5"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "y varies directly as w . When 6 12 y = 8, w = 2. Find y when w = 3",
+      "options": [
+        "6",
+        "18",
+        "12",
+        "9"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "P varies directly as Q and inversely as R. When Q = 36 and R = 16, P = 27. Find the relation between P, Q and R.",
+      "options": [
+        "x ≥−4",
+        "x ≥ 4",
+        "x ≤ 3",
+        "x ≥ -3"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The 4th term of an A.P. is 13 while the 10th term is 31. Find the 24th term.",
+      "options": [
+        "69",
+        "89",
+        "75",
+        "73"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the common ratio of the G.P. (√10 + √5)(√10 + 2√5) + …? y",
+      "options": [
+        "5",
+        "√2",
+        "√5",
+        "3"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A binary operation * is",
+      "options": [
+        "−3, −4",
+        "3, 4",
+        "3, −4",
+        "−3, −4"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find y, if 5 −6 x 7 )",
+      "options": [
+        "2",
+        "8",
+        "5",
+        "3"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If |−x 12 −1 4",
+      "options": [
+        "6",
+        "−6",
+        "−2",
+        "3 = −12, find x"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the angle of a sector of a circle with radius 10.5 cm is 120°, find the perimeter of the sector.",
+      "options": [
+        "2.5m",
+        "8.0m",
+        "7.5m",
+        "5.0m"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A cylindrical tank has a capacity of 6160m3. What is the depth of the tank if the radius of its base is 28cm? [π = 22] 7",
+      "options": [
+        "8.0m",
+        "7.5m",
+        "5.0m",
+        "2.5m"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The locus of a dog tethered to a pole with a rope of 4m is a",
+      "options": [
+        "semi-circle with radius 4m",
+        "circle with diameter 4m",
+        "circle with radius 4m",
+        "semi-circle with diameter 4m"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the mid-point of S(−5, 4) and T(−3, −2)",
+      "options": [
+        "4, −1",
+        "−4, 2",
+        "4, −2",
+        "−4, 1"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The gradient of a line joining (x,4) and (1,2) is 1. Find the value 2 of x",
+      "options": [
+        "−5",
+        "y = x + 5",
+        "y = -x + 5",
+        "y = x – 5"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If sin θ = 12, find the value of 13 1 + cos θ",
+      "options": [
+        ") )",
+        "25 13",
+        "18 13",
+        "8 13"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If y = 4x3 - 2x2 + x, find dy dx",
+      "options": [
+        "-cos 2x + k",
+        "cos 2x + k",
+        "1 cos 2x + k 2",
+        "−1 cos 2x + k 2 1"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Evaluate ∫(2x + 3)2 dx",
+      "options": [
+        "1 12 (2x + 3 3)4 + k",
+        "1 12 (2x + 3)6 + k 1",
+        "1 (2x + 3)42 + k 3 1 3",
+        "12x2 −2x + 1"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If y = cos 3x, find dy dx",
+      "options": [
+        "−3sin 3x",
+        "1 sin 3x 3",
+        "−1 sin 3x 3",
+        "3 sin 3x"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the minimum value of y = x2 − 2x−3",
+      "options": [
+        "−4",
+        "4",
+        "1",
+        "−1"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The pie chart above shows the monthly distribution of a man's salary on food items. If he spent ₦8,000 on rice, how much did he spend on yam?",
+      "options": [
+        "₦42,000",
+        "₦18,000",
+        "₦16,000",
+        "₦12,000"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The mean of 2 - 4, 4 + t, 3 - 2t and t - 1 is",
+      "options": [
+        "−2",
+        "t",
+        "−t",
+        "2 Values 0 1 2 3 4 Frequency 1 2 2 1 9"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the mode of the distribution above",
+      "options": [
+        "4",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the median of 5, 9, 1, 10, 3, 8, 9, 2, 4, 5, 5, 5, 7, 3 and 6",
+      "options": [
+        "3",
+        "6",
+        "5",
+        "4"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the standard deviation of 5, 4, 3, 2, 1",
+      "options": [
+        "√10",
+        "√2",
+        "√3",
+        "√6"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In how many ways can a team of 3 girls be selected from 7 girls?",
+      "options": [
+        "7! 2!5!",
+        "7! 3!",
+        "7! 4!",
+        "7! 3!4! Numbers 1 2 3 4 5 6 Frequency 18 22 20 16 10 14"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The table above represents the outcome of throwing a die 100 times. What is the probability of obtaining at least a 4?",
+      "options": [
+        "3 4",
+        "1 5",
+        "1 2",
+        "2 5"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A number is chosen at random from 10 to 30 both inclusive. What is the probability that the number is divisible by 3?",
+      "options": [
+        "3 5",
+        "2 15",
+        "1 10",
+        "1 3 ANSWERS"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

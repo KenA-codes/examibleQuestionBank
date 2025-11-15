@@ -1,0 +1,859 @@
+{
+  "_id": "686685fc1001cc268d69e94d",
+  "subjectName": [
+    "Literature in English"
+  ],
+  "year": 2015,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "'Busy old fool, unruly sun why windows and through curtains call on us?' The most vivid figure of speech in the lines above from Donne's The Sun Rising is",
+      "options": [
+        "simile",
+        "diction",
+        "personification",
+        "pun"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The allusion in Hughes's The Negro Speaks of Rivers is mainly",
+      "options": [
+        "biblical",
+        "classical",
+        "literary",
+        "historical"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In Adeoti's Hard Lines, Sodium cyanide is",
+      "options": [
+        "poisonous",
+        "adhesive",
+        "sweet",
+        "fragrant"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In owonibi's Honieless, not Hopeless the persona explains that street beggars",
+      "options": [
+        "Always worry about in heaven",
+        "Attend conferences towns",
+        "are concerned with their daily needs",
+        "Rarely sleep and dream"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The poet persona in Serenade is a",
+      "options": [
+        "Suitor",
+        "Mother",
+        "spinster",
+        "Passer-by"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In Cheney-Coker's Myopia, peasants refer to",
+      "options": [
+        "Under-privileged masses",
+        "Politicians",
+        "farmers",
+        "Rural dwellers"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In Angira's Expelled, the poet persona laments the",
+      "options": [
+        "Loss of his property",
+        "Harrowing experiences from the stranger's visit",
+        "presence of the strangers",
+        "Problem of his family and their economic implications"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Fletcher's Upon An Honest Man's Fortune achieves its lyrical effect through the use of",
+      "options": [
+        "Synecdoche",
+        "Antithesis",
+        "enjambment",
+        "Ballad"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Rhythm is achieved in Raleigh's The Soul's Errand through the use of",
+      "options": [
+        "Metaphor",
+        "Alliteration",
+        "repetition",
+        "Antithesis"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The title of Umeh's Ambassador of Poverty is",
+      "options": [
+        "Repetition",
+        "A simile",
+        "an alliteration",
+        "An irony"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The repetition of a consonant sound in quick succession for sound effect is",
+      "options": [
+        "Alliteration",
+        "Pun",
+        "onomatopoeia",
+        "Assonance"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A play in which the acts succeed one Another without probable or necessary sequence is",
+      "options": [
+        "Episodic",
+        "Simple",
+        "linear",
+        "Convoluted"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A technique by which a previous scene or action can be recalled in a play to shed light on the present action is",
+      "options": [
+        "Climax",
+        "Flashback",
+        "interlude",
+        "Catharsis"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Criticism is a literary activity which seeks to",
+      "options": [
+        "Find faults in a literary work",
+        "Analyse and evaluate a literary work",
+        "compare and contrast novels",
+        "Discover the beauty of a literary work"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A situation where an actor addresses the audience without the other actors hearing him is called",
+      "options": [
+        "Soliloquy",
+        "Chorus",
+        "aside",
+        "Solo"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A band of singers and dancers in drama who act as a link between the play and the audience is the",
+      "options": [
+        "Chorus",
+        "Clown",
+        "Playwright",
+        "Cast"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A character whose name is used as the title of the text is",
+      "options": [
+        "Antagonist",
+        "Round",
+        "eponymous",
+        "Flat"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In poetry, the term license implies",
+      "options": [
+        "Freedom to sell poems",
+        "Liberty the poets take with language",
+        "approval given to poets to compose poems",
+        "Honour given to deserving poets"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The person who takes the leading role in a play or novel is the",
+      "options": [
+        "Protagonist",
+        "Actor",
+        "antagonist",
+        "Actress"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A form of writing in which the poet write with nostalgia about simple village life is",
+      "options": [
+        "Ballad",
+        "Romance",
+        "epic",
+        "pastoral"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "We all make decisions. Sometimes it is wrong, sometimes it is right.' The speaker in the lines above is",
+      "options": [
+        "Afraid",
+        "Excited",
+        "pessimistic",
+        "Reassuring"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "'Her neck is rope-like thin, long and skinny and her face sickly pale.' Okot p' Bitek: Song of Lawino. The style used in the lines is",
+      "options": [
+        "Narrative",
+        "Argumentative",
+        "dramatic",
+        "Descriptive"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "'once upon a time son, they used to laugh with their eyes; but now they only laugh with their teeth, while their ice-block-cold eyes search behind my shadow' G. Okara: Once upon a time The lines above are expressive of",
+      "options": [
+        "Friendliness",
+        "Insincerity",
+        "jealousy",
+        "Sympathy"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "'when she opens her heart the savior's image!' Traditional: Love Song. the allusion in the lines above shows",
+      "options": [
+        "That the poet is a Christian",
+        "That his love had a heart surgery",
+        "the climax of love relationship",
+        "the anti-climax of love relationship"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "'Ay, your times were fine times indeed you have been telling us of them for many a long year. Here we live in an old rumbling mansion, that looks for all the world like an inn, but we never see company.' Goldsmith: She Stoops to Conquer. The figure of speech in the world like an inn is",
+      "options": [
+        "Irony",
+        "Euphemism",
+        "simile",
+        "Metaphor"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "'She gave out colanuts and together they ate to appease the angry earth and amadioha spoke through lightning and thunder.‟ The figure of speech in the third line above is",
+      "options": [
+        "Personification",
+        "Simile",
+        "hyperbole",
+        "Metaphor"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "'Ay, your times were fine times indeed you have been telling us of them for many a long year. Here we live in an old rumbling mansion, that looks for all the world like an inn, but we never see company.' Goldsmith: She Stoops to Conquer. The speaker's mood is",
+      "options": [
+        "hopeful",
+        "frustrated",
+        "regretful",
+        "Happy"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "'Her neck is rope-like thin, long and skinny and her face sickly pale.‟ Okot p‟ Bitek:Song of Lawino.The tone of the lines is",
+      "options": [
+        "Ridicule",
+        "admonition",
+        "anger",
+        "sympathy"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Ah. sunflower, weary of time who contests the steps of the sun seeking after that sweet golden clime where the travellers' Journey is done. The figure of speech in the second line above is",
+      "options": [
+        "Simile",
+        "metaphor",
+        "irony",
+        "Hyperbole"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "„There is no art to find the minds construction on the face he was a gentleman on whom I built an absolute trust.' Shakespeare: Macbeth, The gentleman in the lines above",
+      "options": [
+        "Annoys the speaker",
+        "fights with the speaker",
+        "detests the speaker",
+        "Betrays the speaker"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The flourishing fish market in the novel Is located In",
+      "options": [
+        "St. Louis",
+        "Canary Island",
+        "Cleveland",
+        "Havana"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In summary, the old man can be described as",
+      "options": [
+        "A Marxist",
+        "an idealist",
+        "an optimist",
+        "A realist"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "As he struggled with fish and the sharks, the old man constantly talks to himself because",
+      "options": [
+        "He is afraid of the sea",
+        "that is what all fishermen do",
+        "it will make the sharks leave",
+        "The boy has left him"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "To the old man, mandolin is",
+      "options": [
+        "A symbol of oppression",
+        "the cause of the ill-luck",
+        "a source of encouragement",
+        "Typical of lazy youths"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The subject matter of the novel is",
+      "options": [
+        "Domestic violence",
+        "religious zeal",
+        "child abuse",
+        "Marital infidelity"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the Achike family, the character who is central to the theme is",
+      "options": [
+        "Kambili",
+        "mama",
+        "sisi",
+        "Jaja"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The novel exposes",
+      "options": [
+        "Military dictatorship",
+        "the travails of a single girl",
+        "what happens in a family with a high-handed father",
+        "The problem of running a large family in an urban society"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "'A priest rushed forward and poured libation,... Having thus appealed to the keeper of the spirit world, they waited for results. Moments passed before the bearers could move again.' The incident is the",
+      "options": [
+        "Sacrifice to make pokuwaa pregnant",
+        "burial of Yaw Boakye",
+        "search for Yaw Boakye",
+        "Search for the missing black hen"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "According to the medicine man, pokuwaa has miscarriage because",
+      "options": [
+        "Kwadwo often beats her",
+        "she is barren from birth",
+        "her mother does not offer thanksgiving sacrifice",
+        "Kwaswo's mother is a powerful witch"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "'A priest rushed forward and poured libation... Having thus appealed to the keeper of the spirit world, they waited for results. Moments passed before the bearers could move again.' The incident narrated above takes place",
+      "options": [
+        "On the way to the stream",
+        "at the market place",
+        "close to the cemetery",
+        "At the village square"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The central theme of the play is",
+      "options": [
+        "Man and nature",
+        "heaven and earth",
+        "sin and forgiveness",
+        "Slow and steady"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the play, Prospero leaves his Dukedom of Milan to devote his time to the pursuit of",
+      "options": [
+        "Magic",
+        "knowledge",
+        "romance",
+        "Recreation"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Prospero's sense of justice is one sided because",
+      "options": [
+        "While he is angry with Antonio, he enslaves Ariel and Caliban",
+        "he wants his back, so he can rule again",
+        "he sees his usurpation from one side",
+        "He is unfair to Miranda"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An idea that recurs in the play is",
+      "options": [
+        "People's love for power",
+        "people's love for money",
+        "development of the Island",
+        "Love at first sight"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Gonzalo in the play is",
+      "options": [
+        "Antonio's brother",
+        "a Milan Senator",
+        "a Neapolitan Councillor",
+        "Sebastian's co-conspirator"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the play, the gods are portrayed as",
+      "options": [
+        "Saviours of mankind",
+        "architects of man's destiny",
+        "helpless",
+        "Amorous"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the play, Osofisan shows that war",
+      "options": [
+        "Is destructive",
+        "is injurious to the gods",
+        "builds human society",
+        "Must be fought with patriotic zeal"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Orisaye insists that she receives revelations from",
+      "options": [
+        "Sango",
+        "Ogun",
+        "Orunmila",
+        "Obatala"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the play, a General of the Allied Forces is",
+      "options": [
+        "Okunade",
+        "Erelu",
+        "Akinjobi",
+        "Anlugbus"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the play, Oba Asunkungbade is the",
+      "options": [
+        "War leader of Ijebu",
+        "Ooni of lfe",
+        "Monarch of Oyo",
+        "Founder of Owu-Ipole"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

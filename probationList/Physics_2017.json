@@ -1,0 +1,587 @@
+{
+  "_id": "6851b68a03d37a7af32e761f",
+  "subjectName": [
+    "Physics"
+  ],
+  "year": 2017,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The focal length of a concave mirror is 2.0 cm. If an object is placed 8.0cm from it, the image is at.",
+      "options": [
+        "2.7m",
+        "2.3m",
+        "2.5m",
+        "2.0m"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "PHCN measures is electrical energy in",
+      "options": [
+        "Wh.",
+        "Kwh",
+        "J",
+        "W."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The resultant of two forces is 50N. If the forces are perpendicular to each other and one of them makes an angle 30° with the resultant. Find its magnitude.",
+      "options": [
+        "100.0N",
+        "57.7N",
+        "25.0N",
+        "43.3N"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A piece of radioactive material contains 1000 atoms. If its half- life is 20 seconds, the time taken for 125 atoms to remain is",
+      "options": [
+        "20 seconds",
+        "40 seconds",
+        "60 seconds",
+        "80 seconds"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The correct expression for the potential at a point, distance r from a charge q, in a electric field is",
+      "options": [
+        "q 4 𝖾𝜃r",
+        "q 2 4 𝖾𝜃r2",
+        "q 4 𝖾𝜃r2",
+        "q 4 𝖾𝜃r"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a discharge tube, most of the gas is pumped out so that electricity is concluded at",
+      "options": [
+        "steady voltage",
+        "high pressure",
+        "low pressure.",
+        "low voltage."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "I. Moon II. Sun III. Street light IV. Stars Which of the above is a natural source of light?",
+      "options": [
+        "I, II and IV only",
+        "I, II and III only",
+        "III and IV only",
+        "II and IV only"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An object placed at the bottom of a well full of clear water appears closer to the surface due to",
+      "options": [
+        "refraction.",
+        "reflection.",
+        "am inverter",
+        "a magnifier"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A boy drags a bag of rice along a smooth horizontal flow with a force of 2N applied at an angle of 60° to the flow. The work done after a distance of 3m is",
+      "options": [
+        "6J.",
+        "4 J",
+        "5 J",
+        "3 J"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "3m apart. Calculate the force of attraction between them.",
+      "options": [
+        "3.57 X 10−2 N.",
+        "3.71 X 10−2 N.",
+        "4.00 X 10−2 N.",
+        "3.50 X 10−2 N."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When very hot water is poured into two identical thin and thick glass tumblers in equal volumes, the thick one cracks because",
+      "options": [
+        "of the even expansion of lass.",
+        "glass is a good conductor of heat.",
+        "glass is a crystal",
+        "of the uneven expansion of glass"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Transverse waves can be distinguished from longitudinal waves using the characteristic of",
+      "options": [
+        "diffraction",
+        "reflection.",
+        "polarization.",
+        "refraction."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following pairs of light rays shows the widest separation in the spectrum of white light?",
+      "options": [
+        "Green and yellow.",
+        "Blue and red",
+        "Indigo and violet",
+        "Orange and red."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A transistor functions mainly as a",
+      "options": [
+        "switch and an amplifier",
+        "rectifier and an amplifier",
+        "charge storer and a switch",
+        "charge storer and an amplifier"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A thin wire with heavy weights attached to both ends is hung over a block of ice resting on two supports. If the wire cuts through the ice block while the lock remains solid behind the wire, the process is called",
+      "options": [
+        "fusion",
+        "sublimation",
+        "regelation",
+        "condensation."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The inner diameter of a small test tube can be measured accurately using a",
+      "options": [
+        "micrometer screw gauge",
+        "pair of Vernier callipers",
+        "metre rule",
+        "pair of dividers."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "0W in a certain environment, the temperature of the medium is",
+      "options": [
+        "60°C",
+        "80°C",
+        "50°C",
+        "30°C"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is the dimension of pressure?",
+      "options": [
+        "M𝐿2𝑇−3",
+        "ML𝑇−2",
+        "M𝐿2−1𝑇−2",
+        "M𝐿−3"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A capacitor 8μF, is charged to a potential difference of 100V. The energy stored by the capacitor is",
+      "options": [
+        "1.0 x 104𝐽",
+        "4.0 x 10−2𝐽",
+        "1.25 x 10 𝐽",
+        "8.0 x 10 𝐽"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following statements correctly describe(s) cathode rays? I. They consist of tiny particles carrying negative electric charges II. They are deflected in a magnetic field but not in an electric filed. III. They consist of fast- moving neutrons and deflected in an electric filed.",
+      "options": [
+        "I only",
+        "III only",
+        "I and II only",
+        "II and III only."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A concave mirror has a radius of curvature of 36cm. At what distance from the mirror should an object be placed to give a real image three times the size of the object?",
+      "options": [
+        "8.0 μF",
+        "6.0 μF",
+        "2.0 μF",
+        "4.0 μF"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A sonometer wire of length 100cm under a tension of 10N, has a frequency of 250Hz. Keeping the length of the wire constant, the tension is adjusted to produce a new frequency of 350HZ. The new tension is",
+      "options": [
+        "5.1N",
+        "19.6N",
+        "14.0N",
+        "7.1N"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a sound wave in air, the adjacent rarefactions and compressions are separated by a distance of 17cm. If the velocity of the sound wave is 340m𝑠−1. Determine the frequency.",
+      "options": [
+        "10Hz",
+        "20Hz",
+        "5780Hz",
+        "1000Hz"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A note is called an octave of another note when",
+      "options": [
+        "the notes have the same fundamental frequency",
+        "its frequency is half of the first note.",
+        "its frequency is twice that of the first note.",
+        "its periodic time is twice that of the first note."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is in a neutral equilibrium?",
+      "options": [
+        "A heavy weight suspended on a string",
+        "The beam of a balance in use",
+        "A heavy-based table lamp",
+        "A cone resting on its slant edge"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A convex mirror is used as a driving mirror because I. Its image is erect II. It has a large field of view III. It has a long focal length. Identify the CORRECT statement(s).",
+      "options": [
+        "I and III only",
+        "I and II only",
+        "II and III only",
+        "I, II and III only"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the cost of running five 50W lamps and four 100W lamps for 10 hours if electrical energy costs 2 kobo per kWh?",
+      "options": [
+        "₦ 0.13",
+        "₦ 0.65",
+        "₦ 3.90",
+        "₦39.00"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The specific latent heat of vaporization of a substance is always",
+      "options": [
+        "less than its specific latent heat of fusion",
+        "equal to its specific latent heat of fusion",
+        "greater than its specific latent of fusion",
+        "all of the above depending on the nature of the substance."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A hydrometer is an instrument for measuring the",
+      "options": [
+        "depth off water in a vessel",
+        "relative humidity of the air",
+        "relative density of a liquid by finding the apparent loss in weight",
+        "relative density of a liquid by the method of flotation"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A transformer has 300 turns of wire in the primary coil and 30 turns in the secondary coil. If the input voltage is 100 volts, the output voltage is",
+      "options": [
+        "10 volts",
+        "5 volts",
+        "15 volts",
+        "20 volts."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The activity of a radioactive substance depends on",
+      "options": [
+        "temperature and purity",
+        "purity and age",
+        "temperature and age",
+        "age, purity and temperature"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The speed of light in air is 3 x 108𝑚𝑠−1. If the refractive index of light from air-to-water is 4/3, then which of the following is the correct value of the speed of light in water?",
+      "options": [
+        "4 x 108m𝑠−1",
+        "2.23 x 108m𝑠−1",
+        "2.25 x 108m𝑠−2",
+        "4/9 x 108m𝑠−1"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A magnet is moved through a coil of wire. The e.m.f. produced in the wire depends on",
+      "options": [
+        "the number of turns in the coil",
+        "the strength of magnet",
+        "the speed at which the magnet is moved",
+        "all of the above."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "98g of copper in such a process?",
+      "options": [
+        "30 minutes",
+        "5 minutes",
+        "50 minutes",
+        "60 minutes. ANSWER KEYS:"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

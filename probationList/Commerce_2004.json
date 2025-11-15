@@ -1,0 +1,859 @@
+{
+  "_id": "6863bb349d706275919fb239",
+  "subjectName": [
+    "Commerce"
+  ],
+  "year": 2004,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of a retailer?",
+      "options": [
+        "Selling goods to final consumers",
+        "Granting credit to customers",
+        "Manufacturing goods",
+        "Displaying goods attractively"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Non-insurable risks include",
+      "options": [
+        "gambling",
+        "damage to property",
+        "death",
+        "marine problems."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a function of a wholesaler?",
+      "options": [
+        "Breaking bulk",
+        "Selling directly to consumers",
+        "Providing after-sales service",
+        "Manufacturing goods"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main purpose of advertising is to",
+      "options": [
+        "reduce production",
+        "inform and persuade customers",
+        "increase competition",
+        "raise prices"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The process of dividing a market into distinct groups of buyers with different needs, characteristics, or behavior is called",
+      "options": [
+        "Market segmentation",
+        "Target marketing",
+        "Positioning",
+        "Differentiation"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A brand that is owned and initiated by a reseller is called",
+      "options": [
+        "Manufacturer's brand",
+        "Private brand",
+        "Generic brand",
+        "Co-brand"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The physical distribution of goods involves",
+      "options": [
+        "Transporting, warehousing, and inventory management",
+        "Advertising, personal selling, and sales promotion",
+        "Market research, product development, and pricing",
+        "All of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'product life cycle' refers to",
+      "options": [
+        "The stages a product goes through from development to withdrawal from the market",
+        "The time it takes for a product to be delivered to the customer",
+        "The cycle of production and consumption of a product",
+        "The life span of a product before it becomes obsolete"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a method of promotion?",
+      "options": [
+        "Advertising",
+        "Public relations",
+        "Direct marketing",
+        "Distribution"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The price at which the quantity demanded equals the quantity supplied is called",
+      "options": [
+        "Equilibrium price",
+        "Market price",
+        "Ceiling price",
+        "Floor price"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a disadvantage of using surveys for marketing research?",
+      "options": [
+        "They provide quantitative data",
+        "They can be conducted quickly",
+        "They are relatively inexpensive",
+        "They may not always provide truthful answers"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The practice of promoting a product by linking it with a popular person, event, or trend is known as",
+      "options": [
+        "Sponsorship",
+        "Endorsement",
+        "Product placement",
+        "Ambush marketing"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A pricing strategy where the price is set low to attract customers and increase market share is called",
+      "options": [
+        "Skimming",
+        "Penetration pricing",
+        "Competitive pricing",
+        "Cost-plus pricing"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The process of creating a unique image and identity for a product in the consumer's mind is known as",
+      "options": [
+        "Branding",
+        "Positioning",
+        "Segmentation",
+        "Targeting"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a characteristic of services?",
+      "options": [
+        "Intangibility",
+        "Inseparability",
+        "Variability",
+        "Perishability"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'above the line' promotion refers to",
+      "options": [
+        "Promotions that are not directly paid for by the company",
+        "Promotions that are directly paid for by the company",
+        "Promotions through non-mass media",
+        "Promotions that are not included in the marketing budget"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The practice of setting a low price for a new product to attract customers away from competitors is known as",
+      "options": [
+        "Price skimming",
+        "Penetration pricing",
+        "Price lining",
+        "Psychological pricing"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a benefit of direct marketing?",
+      "options": [
+        "It allows for mass communication",
+        "It is less expensive than other forms of promotion",
+        "It provides immediate feedback",
+        "It is more effective than advertising"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'market share' refers to",
+      "options": [
+        "The portion of a market controlled by a particular company or product",
+        "The total sales of a company divided by the total sales of the industry",
+        "The percentage of consumers who recognize a brand",
+        "The amount of money a company makes from sales"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a reason for product failure?",
+      "options": [
+        "Poor marketing",
+        "Lack of consumer interest",
+        "Inadequate distribution",
+        "High production costs"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The practice of promoting a product by placing it in a popular TV show or movie is known as",
+      "options": [
+        "Sponsorship",
+        "Endorsement",
+        "Product placement",
+        "Ambush marketing"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A pricing strategy that involves setting prices based on the prices of similar products offered by competitors is called",
+      "options": [
+        "Cost-plus pricing",
+        "Value-based pricing",
+        "Dynamic pricing",
+        "Competitive pricing"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The process of evaluating the results of a marketing strategy and making necessary adjustments is known as",
+      "options": [
+        "Marketing control",
+        "Market research",
+        "Sales forecasting",
+        "Product development"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a qualitative research method?",
+      "options": [
+        "Surveys",
+        "Experiments",
+        "Focus groups",
+        "Observations"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'loss leader' refers to",
+      "options": [
+        "A product sold at a loss to attract customers",
+        "A product that is popular and sells well",
+        "A product that has a high markup",
+        "A product that is discontinued"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The practice of offering a lower price for a product or service temporarily to increase sales is known as",
+      "options": [
+        "Discounting",
+        "Rebating",
+        "Markdown pricing",
+        "Promotional pricing"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of sales promotion?",
+      "options": [
+        "Coupons",
+        "Rebates",
+        "Premiums",
+        "Dividends"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'psychological pricing' refers to",
+      "options": [
+        "Setting prices based on the perceived value of the product",
+        "Setting prices that have a psychological impact",
+        "Setting prices below the competition",
+        "Setting prices that are easy to calculate"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A brand's unique symbol, mark, or logo is known as its",
+      "options": [
+        "Brand name",
+        "Brand image",
+        "Brand equity",
+        "Brand identity"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The practice of using two or more brands on a product or package is known as",
+      "options": [
+        "Co-branding",
+        "Brand extension",
+        "Brand licensing",
+        "Brand dilution"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a disadvantage of using focus groups for marketing research?",
+      "options": [
+        "They provide qualitative data",
+        "They can be biased",
+        "They are time-consuming",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'brand loyalty' refers to",
+      "options": [
+        "The tendency of consumers to continue buying the same brand of a product",
+        "The degree to which consumers recognize and prefer a brand",
+        "The amount of money a consumer is willing to pay for a brand",
+        "The extent to which a brand is differentiated from its competitors"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A strategy that involves offering several product variations in the same product line is called",
+      "options": [
+        "Product diversification",
+        "Product differentiation",
+        "Market segmentation",
+        "Target marketing"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The practice of promoting a product by associating it with a charitable cause is known as",
+      "options": [
+        "Cause marketing",
+        "Corporate social responsibility",
+        "Philanthropic marketing",
+        "Social marketing"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a benefit of sponsorship?",
+      "options": [
+        "Increased brand awareness",
+        "Improved brand image",
+        "Higher sales",
+        "Increased production costs"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'niche marketing' refers to",
+      "options": [
+        "Targeting a small, specific segment of the market",
+        "Offering a wide range of products to a large market",
+        "Focusing on a particular product feature",
+        "Targeting the market with the highest profit potential"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A pricing strategy that involves setting a high price for a new, innovative product is called",
+      "options": [
+        "Price skimming",
+        "Penetration pricing",
+        "Competitive pricing",
+        "Cost-plus pricing"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The practice of using a celebrity or well-known figure to promote a product is known as",
+      "options": [
+        "Sponsorship",
+        "Endorsement",
+        "Ambush marketing",
+        "Co-branding"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a factor that affects pricing decisions?",
+      "options": [
+        "Cost of production",
+        "Consumer demand",
+        "Competitor prices",
+        "Brand loyalty"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'guerrilla marketing' refers to",
+      "options": [
+        "Unconventional marketing strategies designed to get maximum results from minimal resources",
+        "Marketing strategies that are used in guerrilla warfare",
+        "Marketing that is aggressive and confrontational",
+        "Marketing that is secretive and deceptive"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A strategy that involves offering a basic product for free, while charging for premium features or services is known as",
+      "options": [
+        "Freemium",
+        "Loss leader",
+        "Price skimming",
+        "Penetration pricing"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The practice of sending promotional messages to a large number of people at once is known as",
+      "options": [
+        "Mass marketing",
+        "Targeted marketing",
+        "Direct marketing",
+        "Email marketing"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a characteristic of a good advertisement?",
+      "options": [
+        "It grabs attention",
+        "It is informative",
+        "It is lengthy",
+        "It is memorable"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'brand extension' refers to",
+      "options": [
+        "Using an existing brand name for a new product in the same category",
+        "Using an existing brand name for a new product in a different category",
+        "The process of rebranding",
+        "The decline of a brand"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A pricing strategy that involves setting a low price for a product to attract customers and increase market share is called",
+      "options": [
+        "Skimming",
+        "Penetration pricing",
+        "Competitive pricing",
+        "Cost-plus pricing"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The practice of offering a product at a low price for a short period of time to increase sales is known as",
+      "options": [
+        "Discounting",
+        "Rebating",
+        "Markdown pricing",
+        "Promotional pricing"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of advertising media?",
+      "options": [
+        "Television",
+        "Radio",
+        "Newspaper",
+        "All of the above are types of advertising media"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'event marketing' refers to",
+      "options": [
+        "Marketing activities designed around a specific event",
+        "Marketing that occurs during an event",
+        "Marketing that is the result of an event",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A strategy that involves offering a product or service for free, while charging for additional features or services is known as",
+      "options": [
+        "Freemium",
+        "Loss leader",
+        "Price skimming",
+        "Penetration pricing"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Discounts offered by firms to middlemen for bulk purchases are",
+      "options": [
+        "trade discounts",
+        "sales bonanza",
+        "cash discounts",
+        "seasonal discounts"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

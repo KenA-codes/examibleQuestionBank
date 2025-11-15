@@ -1,0 +1,587 @@
+{
+  "_id": "6851b62503d37a7af32e761e",
+  "subjectName": [
+    "Physics"
+  ],
+  "year": 2016,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the least possible error encountered when taking measurement with a meter rule?",
+      "options": [
+        "0.5 mm",
+        "1.0 mm.",
+        "0.2 mm.",
+        "0.1 mm"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The electromotive force in the secondary winding is",
+      "options": [
+        "stabilizing",
+        "reducing",
+        "increasing",
+        "varying"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the temperature change when 500J of heat is supplied to 100g of water.",
+      "options": [
+        "12.1°C",
+        "2.1°C",
+        "1.2°C",
+        "0.1°C"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following particles CANNOT be deflected by both electric and magnetic fields?",
+      "options": [
+        "Gamma rays",
+        "Alpha particles.",
+        "Wave particles",
+        "Beta particles."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Under which of the following conditions do gasses conduct electricity?",
+      "options": [
+        "High pressure and low p.d",
+        "Low pressure and high p.d",
+        "Low pressure and low p.d",
+        "High pressure and high p.d"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Dispersion occurs when white light passes through a glass prism because of the",
+      "options": [
+        "defects in the glass.",
+        "high density of the glass.",
+        "different speeds of the colour in the glass.",
+        "different hidden colours in the glass."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible.",
+      "options": [
+        "12V",
+        "36V",
+        "2V",
+        "8V"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An object of mass 80kg is pulled on a horizontal rough ground by a force of 500N. Find the coefficient of static friction.",
+      "options": [
+        "0.6.",
+        "0.4",
+        "1.0",
+        "0.8. [ g ≈ 10m𝑠−2]"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A glass plate 0.9 cm thick has a refractive index of 1.50. How 36 long does it take for a pulse of light to pass through the plate?",
+      "options": [
+        "3.0 x 10−10 s",
+        "4.5 x 10−11 s",
+        "3.0 x 10−11 s",
+        "4.5 x 10−10 s [c= 3.0 x 108m𝑠−1]"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main purpose of the transformer in an a.c radio set is to",
+      "options": [
+        "increase power to the radio.",
+        "convert energy from a.c. to d.c",
+        "step up the voltage.",
+        "step down he voltage."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "3 e𝑉. Calculate the frequency of the photon.",
+      "options": [
+        "3.2 x 10−53 Hz.",
+        "3.1 x 10−53 Hz",
+        "1.3 x 10−53 Hz",
+        "8.0 x 10−53 Hz"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "235 92𝑈 + 1 0n → 144 56𝐵𝑎 + 90 𝐾𝑟 +2X In the reaction above, X is",
+      "options": [
+        "electron.",
+        "neutron.",
+        "neutrino.",
+        "proton."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "To protect a material from the influence of an external magnetic field, the material should be kept in a",
+      "options": [
+        "soft iron ring.",
+        "loop of copper wire.",
+        "triangular zinc ring.",
+        "square steel ring."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Thermal equilibrium between two objects exists when",
+      "options": [
+        "the heat capacities of both objects are the same",
+        "the quantity of heat in both objects are the same.",
+        "the temperature of both objects are equal",
+        "one object loses heat continuously to the other."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a characteristic of stationary waves?",
+      "options": [
+        "The antinode is a point of minimum displacement.",
+        "The distance between two successive nodes is one wavelength.",
+        "They can be transverse or longitudinal",
+        "They are formed by two identical waves travelling in opposite directions."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The height at which the atmosphere ceases to exist is about 80km. if the atmospheric pressure at a height of 20km above the ground level is",
+      "options": [
+        "480mmhg",
+        "570mmhg",
+        "190mmhg",
+        "380mmhg"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A metal of mass 0.5kg is heated to 100⁰ and then transferred to a well–lagged calorimeter of heat capacity 80jk-1 containing water of heat capacity of the metal",
+      "options": [
+        "92 j kg-1",
+        "286 j kg-1 k-1",
+        "133 j kg-1 k-1",
+        "887 j kg-1 k-1"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the series a.c circuit shown below, the p.d across the inductor is 8 V.r.m.s. The effective voltage is",
+      "options": [
+        "10v",
+        "2v",
+        "14v",
+        "48v"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a closed organ pipe producing a musical note, an antinode will always be produced at",
+      "options": [
+        "the closed end",
+        "the middle",
+        "the open end",
+        "all the parts of the pipe."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What happens when a certain quantity of pure ice is completely changed to water at 0⁰C ?",
+      "options": [
+        "Latent heat is absorbed, the mass decreases and the volume increases.",
+        "latent heat is absorbed, the mass remains constant and the volume decreases.",
+        "latent heat is given out, the mass increases and the volume remains constant",
+        "latent heat is given out, the mass remains constant and the volume decreases."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If two parallel conductors carry currents flowing in the same direction, the conductors will",
+      "options": [
+        "repel each other",
+        "attract each other",
+        "both move in the same direction.",
+        "have no effect on each other"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following correctly explain(s) why a green leaf appears green in a bright daylight? I. It absorbs only the green component of sunlight II. It absorbs all colours in sunlight except green III. It reflects only the green component of sunlight",
+      "options": [
+        "I only",
+        "II and III only",
+        "I and II only",
+        "II only."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following factors has no effect on the e.m.f of a primary cell?",
+      "options": [
+        "nature of plate",
+        "size of the cell",
+        "temperature",
+        "nature of the electrolyte."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When the bottom tip of a vibrating tuning fork is held in contact with a wooden box, a louder sound is heard. this phenomenon is known as",
+      "options": [
+        "beats",
+        "echoing",
+        "reverberation",
+        "resonance."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "a particle of mass m which ia at rest splits up into two. if the mass and the velocity of one of the particles are m and v respectively, calculate the velocity of the seconds particle",
+      "options": [
+        "MV M",
+        "MV M−M",
+        "MV M+M",
+        "MV M−m"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "0g of silver is to be deposited by electrolysis on a surface by passing a steady current for 5.0 minutes, the current must be",
+      "options": [
+        "6000A",
+        "100A",
+        "100A",
+        "1.0A"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The principle of operation of an induction coil is based on",
+      "options": [
+        "Ohm’s",
+        "ampere’s law",
+        "faraday’s law",
+        "coulomb’s law"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Mercury is suitable as a barometric fluid because it",
+      "options": [
+        "expands uniformly",
+        "is several times denser than water",
+        "is opaque",
+        "is a good conductor of heat"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a correct explanation of the INERTIA of a body?",
+      "options": [
+        "Reluctance to start moving at rest and its reluctance to stop moving once it has begun move",
+        "Reluctance to stop moving",
+        "Readiness to start moving",
+        "Reluctance to start moving and its readiness to stop moving once it has begun to move"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the force on a charge of 0.2 coulomb in an electric field intensity of the field is",
+      "options": [
+        "0.8",
+        "20.0 N/C",
+        "0.8N/C",
+        "4.2N/C"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The point beyond which a stretched spring does not return to its original length is called the",
+      "options": [
+        "breaking point",
+        "sprint constant",
+        "elastic limit",
+        "elasticity point."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following statements is applicable to a real image formed by a concave mirror? I. It can be observed on a screen II. It is always inverted and in front of the mirror III. It only seems to exist IV. It is formed by the actual converging of rays of light.",
+      "options": [
+        "I, II and III only",
+        "I, II and IV only",
+        "I and III only)",
+        "I and II only."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "which of the following does not cause a reduction of the surface tension of water?",
+      "options": [
+        "soap solution",
+        "detergent",
+        "alcohol",
+        "grease"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "in what range of temperature is the expansion of water anomalous?",
+      "options": [
+        "+208⁰c to +212⁰c",
+        "-800⁰c +-76⁰c",
+        "0⁰c to 4⁰c",
+        "-4⁰c TO 0⁰ ANSWER KEYS"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

@@ -1,0 +1,859 @@
+{
+  "_id": "6849c5e72110ae68ba593464",
+  "subjectName": [
+    "Biology"
+  ],
+  "year": 2011,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which Question Paper Type of Biology is given to you?",
+      "options": [
+        "pe A",
+        "pe B",
+        "pe C",
+        "pe D"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bab"
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The function of the red head in male *Agama* lizards is to",
+      "options": [
+        "nceal and camouflage the animal from predators",
+        "are other males from the territory",
+        "tract female lizards for mating purposes",
+        "rm predators of the distastefulness of the animal"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bac"
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In which of the following species is the biomass of an individual the smallest?",
+      "options": [
+        "ama sp.",
+        "fo sp.",
+        "irogyra sp.",
+        "lapia sp."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bad"
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Seed plants are divided into",
+      "options": [
+        "acheophytes and ferns",
+        "giosperms and gymnosperms",
+        "nocotyledons and dicotyledons",
+        "allophytes and bryophytes"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bae"
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In which of the following groups of vertebrates is parental care mostly exhibited?",
+      "options": [
+        "ptilia",
+        "phibia",
+        "es",
+        "mmalia"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195baf"
+    },
+    {
+      "number": "6",
+      "subheadingA": "Use the Diagrams below to answer questions 6 to 8",
+      "diagramUrlA": "[Diagrams of various insects/arthropods including IV (Grasshopper) and others]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the organisms represented are notable agricultural pests?",
+      "options": [
+        "and IV",
+        "and IV",
+        "and III",
+        "and III"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bb0"
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An economic importance of the organism represented by IV is that",
+      "options": [
+        "transmits water borne disease to humans",
+        "is destructive to farm crops",
+        "s faeces pollutes drinking water",
+        "helps in the control of mosquito larvae"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bb1"
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The adult form of III is a vector of",
+      "options": [
+        "eeping sickness",
+        "ver blindness",
+        "olera",
+        "ephantiasis"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bb2"
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The adaptive importance of nuptial flight from termite colonies is to",
+      "options": [
+        "sperse the reproductives in order to establish new colonies",
+        "ovide abundant food for birds and other animals during the early rains",
+        "sure cross-breeding between members of one colony and another",
+        "pel the reproductives so as to provide enough food for other members"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bb3"
+    },
+    {
+      "number": "10",
+      "subheadingA": "Use the diagram below to answer question 10 and 11",
+      "diagramUrlA": "[Diagram of fermentation experiment with sucrose/yeast solution connected to lime water]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The gas evolved in the process is",
+      "options": [
+        "rbon (IV) oxide",
+        "trogen",
+        "ygen",
+        "rbon (II) oxide"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bb4"
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The experimental set-up above is used to demonstrate the process of",
+      "options": [
+        "ffusion",
+        "otosynthesis",
+        "rmentation",
+        "asmolysis"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bb5"
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following can cause shrinkage of living cells?",
+      "options": [
+        "potonic solution",
+        "otonic solution",
+        "ionized water",
+        "pertonic solution"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bb6"
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is true of leucocytes?",
+      "options": [
+        "ey are respiratory pigments",
+        "ey are most numerous and ramify all cells",
+        "ey are large and nucleated",
+        "ey are involved in blood clotting"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bb7"
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The conversion of a nutrient into a molecule in the body of a consumer is referred to as",
+      "options": [
+        "gestion",
+        "similation",
+        "sorption",
+        "hibition"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bb8"
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The ability of living organism to detect and respond to changes in the environment is referred to as",
+      "options": [
+        "comotion",
+        "ritability",
+        "owth",
+        "xis"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bb9"
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In mammals, the exchange of nutrients and metabolic products occurs in the",
+      "options": [
+        "ngs",
+        "sophagus",
+        "achea",
+        "mph"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bba"
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An example of an endospermous seed is",
+      "options": [
+        "ize gain",
+        "shew nut",
+        "tton seed",
+        "en seed"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bbb"
+    },
+    {
+      "number": "18",
+      "subheadingA": "I. Parasitism → Sundew. II. Autotrophism → Amoeba. III. Saprophytism → Alga. IV. Heterotrophism → Agama. Which of the above modes of nutrition is correctly matched with the organism that exhibits it?",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the above modes of nutrition is correctly matched with the organism that exhibits it?",
+      "options": [
+        "",
+        "I",
+        "",
+        ""
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bbc"
+    },
+    {
+      "number": "19",
+      "subheadingA": "I. Test tube containing cane sugar and water. II. Test tube containing cane sugar and diluted acid. III. Test tube containing cane sugar and its degrading enzyme.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In which of the test tubes will glucose be detected after complete hydrolysis?",
+      "options": [
+        "and II only",
+        "and III only",
+        "only",
+        ", II and III"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bbd"
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The enzyme involved in the hydrolysis is",
+      "options": [
+        "nnin",
+        "epsin",
+        "crase",
+        "ltase"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bbe"
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The part of the mammalian ear responsible for the maintenance of balance is the",
+      "options": [
+        "chlea",
+        "nna",
+        "rilymph",
+        "sicles"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bbf"
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The path followed by air as it passes through the lungs in mammals is bronchi $\\to$ bronchioles $\\to$",
+      "options": [
+        "achea \\to alveoli",
+        "lls \\to operculum",
+        "uth \\to operculum",
+        "uth \\to gills"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bc0"
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The movement response of a cockroach away from a light source can be described as",
+      "options": [
+        "sitive phototaxism",
+        "gative phototaxism",
+        "gative phototropism",
+        "sitive phototropism"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bc1"
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The vascular tissues in higher plants are responsible for",
+      "options": [
+        "e movement of food and water",
+        "ction pressure",
+        "anspiration pull",
+        "e transport of gases and water"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bc2"
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following organs regulates the levels of water, salts, hydrogen ions and urea in the mammalian blood?",
+      "options": [
+        "ver",
+        "dney",
+        "adder",
+        "lon"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bc3"
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The sequence of the one-way gaseous exchange mechanism in a fish is",
+      "options": [
+        "erculum \\to gills \\to mouth",
+        "lls \\to operculum \\to mouth",
+        "uth \\to operculum \\to gills",
+        "uth \\to gills \\to operculum"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bc4"
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The type of asexual reproduction that is common to both *Paramecium* and protists is",
+      "options": [
+        "dding",
+        "orulation",
+        "agmentation",
+        "ssion"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bc5"
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In nature, plants and animals are perpetually engaged in mutualism because",
+      "options": [
+        "ey are rivals",
+        "l animals rely on food produced by plants",
+        "ey utilize respiratory wastes of each other",
+        "ey are neighbours"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bc6"
+    },
+    {
+      "number": "29",
+      "subheadingA": "In an experiment to determine the percentage of humus and water in a soil sample, the following results were obtained: <br>Weight of the evaporating basin alone = 80.5g<br>Weight of basin and soil = 101.5g<br>Weight after drying the soil in the oven = 99.0g<br>Weight of basin and roasted soil = 95.5g.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The percentage of humus in the soil sample is",
+      "options": [
+        "7%",
+        "6%",
+        "7%",
+        "2%"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bc7"
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An example of a filter-feeding animal is",
+      "options": [
+        "ark",
+        "tterfly",
+        "ale",
+        "squito"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bc8"
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a feature of the population pyramid of a developing country?",
+      "options": [
+        "ng lifespan",
+        "w birth rate",
+        "w death rate",
+        "ort lifespan"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bc9"
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The interaction of a community of organisms with its abiotic environment constitutes",
+      "options": [
+        "che",
+        "food chain",
+        "ecosystem",
+        "microhabitat"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bca"
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The vector of the malaria parasite is",
+      "options": [
+        "male Aedes mosquito",
+        "male Anopheles mosquito",
+        "le Culex mosquito",
+        "male Culex mosquito"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bcb"
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following instruments is used to measure relative humidity?",
+      "options": [
+        "drometer",
+        "ermometer",
+        "grometer",
+        "emometer"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bcc"
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "*Exo-erythrocytic* phase of the life cycle of malaria parasite occurs in the",
+      "options": [
+        "ver of humans",
+        "ticuloendothelial cells of humans",
+        "lpighian tubules of mosquito",
+        "ain of humans"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bcd"
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Habitats are generally classified into",
+      "options": [
+        "otic and abiotic",
+        "uatic and terrestrial",
+        "boreal and marine biomes",
+        "crohabitats and macrohabitats"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bce"
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Dracunculiasis can be contacted through",
+      "options": [
+        "ting contaminated food",
+        "inking contaminated water",
+        "thing in contaminated water",
+        "tes of blackfly"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bcf"
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following groups of environmental factors are density-dependent?",
+      "options": [
+        "od, salinity, accumulation of metabolites and light",
+        "mperature, salinity predation and disease",
+        "od predation, disease and accumulation of metabolites",
+        "mperature food disease and light"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bd0"
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Millet, sorghum, maize and onions are common crops growth in Nigeria in the",
+      "options": [
+        "opical rainforests",
+        "dan savanna",
+        "ntane forests",
+        "hel savanna"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bd1"
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In which of the following biomes is the south western part of Nigeria located?",
+      "options": [
+        "mperate forest",
+        "opical rainforest",
+        "opical woodland",
+        "sert"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bd2"
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The inheritable characters that are determined by a gene located on the X-chromosome is",
+      "options": [
+        "cessive",
+        "x-linked",
+        "mozygous",
+        "minant"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bd3"
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Lack of space in a population could lead to an increase in",
+      "options": [
+        "ter scarcity",
+        "rth rate",
+        "sease rate",
+        "ought"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bd4"
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the cross of a red-flowered plant with a white-flowered plant produces a pink-flowered plant, it is an example of",
+      "options": [
+        "dominance",
+        "complete dominance",
+        "tation",
+        "nkage"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bd5"
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following theories was NOT considered by Darwin in his evolutionary theory?",
+      "options": [
+        "riation",
+        "rvival of the fittest",
+        "e and disuse",
+        "mpetition"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bd6"
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The crossing of individuals of the same species with different genetic characters is",
+      "options": [
+        "oss breeding",
+        "lygenic inheritance",
+        "n-disjunction",
+        "breeding"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bd7"
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The number of alleles controlling blood groups in humans",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bd8"
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "During blood transfusion, agglutination may occur as a result of the reaction between",
+      "options": [
+        "ntrasting antigens and antibodies",
+        "o different antigens",
+        "o different antibodies",
+        "milar antigens and antibodies"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bd9"
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The fallacy in Lamarck's evolutionary theory was the assumption that",
+      "options": [
+        "aits are acquired through disuse of body parts",
+        "quired traits are heritable",
+        "quired traits are seldom formed",
+        "aits are acquired through the use of body parts"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bda"
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The bright coloured eye spots on the wings of moth are an example of",
+      "options": [
+        "rning colouration",
+        "sruptive colouration",
+        "ypsis",
+        "micry"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bdb"
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The wings of a bat and those of a bird are examples of",
+      "options": [
+        "nvergent evolution",
+        "ntinuous variation",
+        "evolution",
+        "vergent evolution"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18cd9784142e36195bdc"
+    }
+  ]
+}

@@ -1,0 +1,859 @@
+{
+  "_id": "6863b81aed3300ba1f509a96",
+  "subjectName": [
+    "Commerce"
+  ],
+  "year": 2003,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An example of service rendering trade association is",
+      "options": [
+        "Nigerian Bar Association",
+        "Association of Nigerian Miners",
+        "Cocoa Farmers Association",
+        "Manufacturers Association of Nigerian"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An obstacle to international trade is",
+      "options": [
+        "Trade imbalance between countries",
+        "Availability of local market",
+        "Quantity and quality of labour",
+        "Cost of finance"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The right of ownership with respect to goods or property is",
+      "options": [
+        "right of occupancy",
+        "proxy",
+        "title",
+        "certificate of occupancy"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main motive of chambers of commerce and trade association is to",
+      "options": [
+        "assist the government in achieving its objectives",
+        "protect the interest of consumers",
+        "maximize profit",
+        "protect and promote the interests of members"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of a wholesaler?",
+      "options": [
+        "Breaking bulk",
+        "Providing storage",
+        "Retailing goods to final consumers",
+        "Granting credit to retailers"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a means of payment in international trade?",
+      "options": [
+        "Cheque",
+        "Bill of exchange",
+        "Promissory note",
+        "Credit card"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main function of a retailer is to",
+      "options": [
+        "store goods in bulk",
+        "sell goods to final consumers",
+        "manufacture goods",
+        "transport goods"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a type of partnership?",
+      "options": [
+        "General partnership",
+        "Limited liability company",
+        "Sole proprietorship",
+        "Public corporation"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The document issued by a carrier to acknowledge receipt of goods for shipment is called",
+      "options": [
+        "Waybill",
+        "Invoice",
+        "Bill of lading",
+        "Consignment note"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a source of capital for a sole proprietor?",
+      "options": [
+        "Personal savings",
+        "Bank loan",
+        "Sale of shares to the public",
+        "Borrowing from friends"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A debenture is a type of",
+      "options": [
+        "equity capital",
+        "loan capital",
+        "fixed asset",
+        "current asset"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of a commercial bank?",
+      "options": [
+        "Accepting deposits",
+        "Granting loans",
+        "Issuing currency notes",
+        "Providing safe custody"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main purpose of advertising is to",
+      "options": [
+        "increase production",
+        "inform and persuade customers",
+        "reduce competition",
+        "raise prices"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a function of the Central Bank?",
+      "options": [
+        "Accepting deposits from the public",
+        "Acting as banker to the government",
+        "Granting loans to individuals",
+        "Selling goods to consumers"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A person who brings together buyers and sellers without taking ownership of the goods is a",
+      "options": [
+        "retailer",
+        "broker",
+        "wholesaler",
+        "manufacturer"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a characteristic of money?",
+      "options": [
+        "Portability",
+        "Durability",
+        "Perishability",
+        "Divisibility"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The process of buying and selling goods and services over the internet is called",
+      "options": [
+        "E-commerce",
+        "Retailing",
+        "Wholesaling",
+        "Barter"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a function of insurance?",
+      "options": [
+        "Risk bearing",
+        "Production",
+        "Distribution",
+        "Retailing"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The transfer of ownership of goods from seller to buyer is known as",
+      "options": [
+        "exchange",
+        "barter",
+        "sale",
+        "purchase"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of a retailer?",
+      "options": [
+        "Selling goods to final consumers",
+        "Providing after-sales service",
+        "Granting credit to wholesalers",
+        "Displaying goods attractively"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary goal of a business is to",
+      "options": [
+        "maximize profit",
+        "minimize cost",
+        "increase market share",
+        "improve product quality"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a disadvantage of sole proprietorship?",
+      "options": [
+        "Easy to set up",
+        "Owner has complete control",
+        "Unlimited liability",
+        "Tax advantages"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The process of dividing a market into distinct groups of buyers is called",
+      "options": [
+        "Market segmentation",
+        "Target marketing",
+        "Market diversification",
+        "Market penetration"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a fixed cost for a business?",
+      "options": [
+        "Rent",
+        "Raw materials",
+        "Direct labor",
+        "Sales commission"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary function of packaging is to",
+      "options": [
+        "Attract customers",
+        "Protect the product",
+        "Provide information",
+        "Facilitate storage and transport"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a method of market research?",
+      "options": [
+        "Surveys",
+        "Interviews",
+        "Focus groups",
+        "Sales forecasting"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'B2B' refers to",
+      "options": [
+        "Business to Business",
+        "Business to Buyer",
+        "Brand to Brand",
+        "Buyer to Business"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a characteristic of a perfectly competitive market?",
+      "options": [
+        "Many buyers and sellers",
+        "Identical products",
+        "Easy entry and exit",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The law of demand states that",
+      "options": [
+        "As price increases, quantity demanded decreases",
+        "As price decreases, quantity demanded decreases",
+        "Price and quantity demanded are directly related",
+        "None of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is an example of a public good?",
+      "options": [
+        "National defense",
+        "Toll roads",
+        "Private parks",
+        "Concert tickets"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The opportunity cost of an action is",
+      "options": [
+        "The value of the best alternative forgone",
+        "The total cost of the action",
+        "The monetary cost of the action",
+        "None of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a feature of a monopoly?",
+      "options": [
+        "Single seller",
+        "No close substitutes",
+        "Price maker",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The demand for a commodity is said to be elastic if",
+      "options": [
+        "A change in price leads to a larger change in quantity demanded",
+        "A change in price leads to a smaller change in quantity demanded",
+        "Quantity demanded does not change as price changes",
+        "None of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a consequence of inflation?",
+      "options": [
+        "Increased purchasing power",
+        "Decreased cost of living",
+        "Uncertainty in the economy",
+        "All of the above"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The balance of payments is a record of",
+      "options": [
+        "All economic transactions between residents and non-residents",
+        "Only the trade in goods and services",
+        "Only financial transactions",
+        "None of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a function of the World Bank?",
+      "options": [
+        "Providing short-term loans to businesses",
+        "Granting loans to developing countries for economic development",
+        "Regulating international trade",
+        "None of the above"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary purpose of taxation is to",
+      "options": [
+        "Generate revenue for the government",
+        "Redistribute wealth",
+        "Control inflation",
+        "All of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of tax?",
+      "options": [
+        "Income tax",
+        "Sales tax",
+        "Property tax",
+        "Investment tax"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The concept of 'fiscal policy' refers to",
+      "options": [
+        "Government adjustments to spending and tax rates",
+        "Control of the money supply",
+        "Regulation of foreign exchange",
+        "None of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a likely effect of a decrease in interest rates?",
+      "options": [
+        "Increased borrowing and spending",
+        "Decreased borrowing and spending",
+        "Increased savings",
+        "Decreased investment in the economy"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'liquidity' refers to",
+      "options": [
+        "The ease with which an asset can be converted into cash",
+        "The profitability of an asset",
+        "The riskiness of an asset",
+        "None of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a characteristic of a bear market?",
+      "options": [
+        "Rising stock prices",
+        "Investor pessimism",
+        "Increased buying activity",
+        "All of the above"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary goal of monetary policy is to",
+      "options": [
+        "Control inflation",
+        "Reduce unemployment",
+        "Stimulate economic growth",
+        "All of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a tool of monetary policy?",
+      "options": [
+        "Open market operations",
+        "Discount rate",
+        "Reserve requirements",
+        "Taxation"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'GDP' stands for",
+      "options": [
+        "Gross Domestic Product",
+        "General Domestic Price",
+        "Gross Development Product",
+        "General Development Price"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is included in the calculation of GDP?",
+      "options": [
+        "Consumer spending",
+        "Business investments",
+        "Government spending",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The business cycle refers to",
+      "options": [
+        "Fluctuations in economic activity",
+        "The cycle of production and consumption",
+        "The cycle of investment and savings",
+        "None of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a leading indicator of economic performance?",
+      "options": [
+        "Stock market performance",
+        "Unemployment rate",
+        "Consumer price index",
+        "Gross domestic product"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'stagflation' refers to",
+      "options": [
+        "Inflation during a recession",
+        "Deflation during economic growth",
+        "Stable prices during economic growth",
+        "None of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a function of the Nigerian Stock Exchange?",
+      "options": [
+        "Regulating the insurance industry",
+        "Providing a market for buying and selling shares",
+        "Issuing currency notes",
+        "Controlling inflation"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

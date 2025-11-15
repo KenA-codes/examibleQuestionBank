@@ -1,0 +1,859 @@
+{
+  "_id": "68657bc3c8834e3c3051d548",
+  "subjectName": [
+    "Economics"
+  ],
+  "year": 2000,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Economics can be defined as",
+      "options": [
+        "reduction in spending in the face of competing alternatives",
+        "allocation of resources to alternative uses",
+        "economic behaviour of small units like the household and the firm",
+        "the study of economic aggregates like inflation and national income."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "I. What and how much will be produced? II. How will it be produced? III. For whom will it be produced? IV. How much will be exported and consumed? From the above, identify the combination of basic resource allocation questions in economic analysis.",
+      "options": [
+        "I, II and III",
+        "I, II and IV",
+        "I, III and IV",
+        "II, III and IV"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "How many students took the examination?",
+      "options": [
+        "280",
+        "240",
+        "200",
+        "80"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the pass mark was 40, how many students passed the examination?",
+      "options": [
+        "100",
+        "120",
+        "160",
+        "200"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a capitalist economy, the economic problem of what goods to produce is decided mainly by",
+      "options": [
+        "shadow prices",
+        "profit level",
+        "relative prices",
+        "a central planner"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is an example of derived demand?",
+      "options": [
+        "Tax relief",
+        "Labour",
+        "Wage increase",
+        "Entertainment"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Determine the cross elasticity of demand.",
+      "options": [
+        "1.7",
+        "0.6",
+        "-0.6",
+        "-1.7"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The two commodities can be classified as",
+      "options": [
+        "substitutes",
+        "durable and non-durable",
+        "intermediate and final",
+        "complements"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A central argument of cardinal utility is that utility is",
+      "options": [
+        "measurable",
+        "psychological",
+        "ranked",
+        "intangible"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the diagram above, L1L1 and L2L2 are budget lines. I1, I2 and I3 are indifference curves. Which points are optimal?",
+      "options": [
+        "U and W",
+        "U and Z",
+        "V and W",
+        "Y and Z"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Commodities I and II are in",
+      "options": [
+        "competitive supply",
+        "joint supply",
+        "substitute supply",
+        "derived supply"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The supply of commodity II increasing from S1S1 to S2S2",
+      "options": [
+        "leads to a fall in price from OP1 to OP2",
+        "moves the price below OP2",
+        "increases the price from OP2 to OP1",
+        "moves the price to OP1"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a free market system, trading can only take place when the",
+      "options": [
+        "market is not working efficiently",
+        "equilibrium price is attained",
+        "price of a commodity tends to attract consumers",
+        "consumer sovereignty is lacking"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The condition for equilibrium price and quantity under perfect competition is",
+      "options": [
+        "MC = AR = TR",
+        "TC = AR = P",
+        "MC = AR = P",
+        "MC = AR = TC"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "External diseconomies of scale result from excessive growth of",
+      "options": [
+        "the whole industry",
+        "some sectors of the industry",
+        "external factors",
+        "internal factors"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The marginal product X is",
+      "options": [
+        "18",
+        "20",
+        "24",
+        "25"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The average product Y is",
+      "options": [
+        "8.0",
+        "12.0",
+        "14.6",
+        "15.5"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a small scale business, the fixed cost is #5,000.00, variable cost is #15,000.00 and the output is 500 units. What will be the unit cost of the goods?",
+      "options": [
+        "#400.00",
+        "#80.00",
+        "#40.00",
+        "#20.00"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a total cost curve is plotted, marginal cost can be illustrated by the",
+      "options": [
+        "slope of the tangent to the curve at any given output",
+        "V-shaped curve cutting the total cost curve at its lowest point",
+        "straight line from the origin to the midpoint of the curve",
+        "straight line cutting the curve at its highest point"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a price-taking firm, the portion UT above is the firm's",
+      "options": [
+        "average revenue curve",
+        "supply curve",
+        "demand curve",
+        "long-run average cost curve"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The short-run equilibrium in a perfectly competitive market requires that",
+      "options": [
+        "marginal cost be equal to total revenue",
+        "marginal cost and marginal revenue be equal",
+        "costs are mutually determined by buyers and sellers",
+        "the marginal cost curve cuts the total cost curve"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The firm whose sales and total revenue of the commodity as given above is",
+      "options": [
+        "a monopolist",
+        "a monopolistic competitor",
+        "a perfect competitor",
+        "an oligopolist"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "At the point where marginal revenue of a monopolist is equal to zero, its total revenue will be",
+      "options": [
+        "falling",
+        "rising",
+        "equal to zero",
+        "maximum"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A distinguishing characteristic of cooperative societies is that voting power depends on the",
+      "options": [
+        "number of shares held",
+        "status of the member",
+        "equality of members",
+        "management's decision"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The concept of privatization presupposes",
+      "options": [
+        "efficiency",
+        "market price",
+        "indigenization",
+        "foreign trade"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One problem in the marketing of agricultural product in Nigeria is",
+      "options": [
+        "the seasonal nature of the commodities",
+        "high price of the commodities",
+        "the changing tastes of consumers",
+        "inadequate storage facilities"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Increased output will cause farmers' revenue to decrease when market demand is",
+      "options": [
+        "elastic",
+        "inelastic",
+        "unitary elastic",
+        "perfectly elastic"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A primary industry is concerned with",
+      "options": [
+        "extraction of resources in their raw state",
+        "the operation of small scale enterprises",
+        "the economic activities of primary producers",
+        "clearing and cultivation of land only"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The slow pace of industrial growth in Nigeria can be attributed to",
+      "options": [
+        "overdependence on the oil sector",
+        "inadequate number of unskilled labour",
+        "lack of raw materials",
+        "inadequate infrastructural facilities"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Industries contribute to national economic development because they",
+      "options": [
+        "utilize local raw materials",
+        "employ an increasing number of labour",
+        "provide recreational facilities",
+        "use modern machines which replace human labour"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The Nigerian economy is monocultural because government revenue is derived mainly from",
+      "options": [
+        "agriculture",
+        "manufacturing",
+        "coal",
+        "crude oil"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "As a producers' association, the OPEC expects its members to maintain production where marginal cost is",
+      "options": [
+        "greater than price",
+        "less than price",
+        "equal to price",
+        "equal to average cost"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A well conducted census is important for",
+      "options": [
+        "effective defence",
+        "effective revenue generation",
+        "good economic planning",
+        "optimum population"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The age distribution of a country's population determines the",
+      "options": [
+        "ratio of the dependent to the working group",
+        "total age of all working class adults",
+        "male female ratio",
+        "percentage of married women"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Firms continue to employ workers until the wage rate equals the",
+      "options": [
+        "average product of labour",
+        "marginal revenue product of labour",
+        "total product of labour",
+        "sum of marginal revenue and average revenue of labour"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the diagram above, if W1, W2, W3 and W4 are different wage rates, the minimum wage rate is",
+      "options": [
+        "W4",
+        "W3",
+        "W2",
+        "W1"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A major effect of a long distribution chain is",
+      "options": [
+        "high retail prices",
+        "scarcity of commodities",
+        "low retail prices",
+        "low producer earnings"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The major function of the wholesaler to his customers is",
+      "options": [
+        "breaking of bulk",
+        "offering personal services",
+        "stocking a variety of goods",
+        "providing transport facilities"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is used for measuring national income?",
+      "options": [
+        "Output, income and wages",
+        "Import, expenditure and output",
+        "Income, output and expenditure",
+        "Export, import and output"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Exclusions that make Gross National Product a poor measure of welfare are",
+      "options": [
+        "government purchases",
+        "government military outlays",
+        "wages and salaries",
+        "housewives' services"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An increase in money supply, other things being equal, will",
+      "options": [
+        "lower interest rates",
+        "reduce income",
+        "ensure trade balance",
+        "increase money demand"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A persistent rise in the general level of prices implies",
+      "options": [
+        "an increase in some prices",
+        "a one-time rise in prices",
+        "a steady fall in the purchasing power of money",
+        "that the higher the price level, the more the value of money"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Two principal ways by which banks can lend money to their customers are through",
+      "options": [
+        "loans and overdrafts",
+        "loans and discounting bills",
+        "overdrafts and cheques",
+        "overdrafts and treasury bills"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A capital market differs from the money market in that in the former",
+      "options": [
+        "loan sought is short term",
+        "loan repayment is guaranteed",
+        "loan sought is long term",
+        "the percentage of interest charged is more"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An aspect of taxation that involves normative economics is the",
+      "options": [
+        "tax rate",
+        "effect on incentive to work",
+        "fairness of the tax",
+        "tax burden"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Public debt is composed of",
+      "options": [
+        "internal debts and World Bank loans",
+        "money owed to local and foreign contractors",
+        "internal and external debts",
+        "loans granted by IMF and ADB"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A country exporting mainly primary products and with a high percentage of her labour force in agriculture is said to be",
+      "options": [
+        "developing",
+        "developed",
+        "poor",
+        "underdeveloped"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A country's import price index by 1995 was 50 and her index of export price was 70. Calculate the terms of trade.",
+      "options": [
+        "20%",
+        "8.71%",
+        "120%",
+        "140%"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the United Kingdom buys gold for £60 an ounce and Nigeria buys the same ounce for N500, what will be United Kingdom's exchange rate with Nigeria?",
+      "options": [
+        "£0.05 = N1.00",
+        "£0.06 = N1.00",
+        "£0.11 = N1.00",
+        "£0.12 = N1.00"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Being a member of the OPEC, Nigeria is in a favourable position to",
+      "options": [
+        "export her crude oil",
+        "control world crude oil prices",
+        "reap the benefit of a cartel",
+        "borrow money from members"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

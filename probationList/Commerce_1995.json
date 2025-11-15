@@ -1,0 +1,859 @@
+{
+  "_id": "68629a1197377e3d0b3ac78a",
+  "subjectName": [
+    "Commerce"
+  ],
+  "year": 1995,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of commerce?",
+      "options": [
+        "Production of goods",
+        "Distribution of goods",
+        "Exchange of goods",
+        "Consumption of goods"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The development of commercial activities in Nigeria was facilitated largely by",
+      "options": [
+        "A. a good transport system",
+        "B. the indigenization decree",
+        "C. a convenient medium of exchange.",
+        "D. a high level of production."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In which of the following sets of occupations can an industrial worker be found?",
+      "options": [
+        "A. Extraction, commerce and construction",
+        "B. Manufacturing, extraction and banking.",
+        "C. Construction, quarrying and insurance.",
+        "D. Manufacturing, extraction and construction."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Construction activities include the building of houses and roads as well as",
+      "options": [
+        "A. bricklaying",
+        "B. shoemaking",
+        "C. blacksmithing",
+        "D. car assembling."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a partnership deed is silent on how profits are to be shared, partners share profits",
+      "options": [
+        "A. in the ratio of the value of business secured by each partner for the partnership",
+        "B. in the ratio of partners’ capital contributions",
+        "C. in an equal proportion, irrespective of partners’ capital contributions",
+        "D. according to duties performed by each partner."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following information is contained in the Articles of Association of a limited liability company?",
+      "options": [
+        "A. Rights and obligations of directors",
+        "B. Objectives of the company.",
+        "C. Amount of share capital.",
+        "D. Limitation of liability of shareholders."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The merger of two companies producing the same type of products is an example of",
+      "options": [
+        "A. vertical integration",
+        "B. horizontal integration",
+        "C. lateral merger",
+        "D. an acquisition."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the implications of the incorporation of a company is that",
+      "options": [
+        "A. it is more difficult for the company to raise loans",
+        "B. the company can sue but cannot be sued",
+        "C. the company’s property becomes distinguished from that of its member",
+        "D. its members become liable for all the debts of the company."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of business organization?",
+      "options": [
+        "Sole proprietorship",
+        "Partnership",
+        "Corporation",
+        "Syndicate"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary purpose of a business is to",
+      "options": [
+        "A. provide employment",
+        "B. produce goods and services",
+        "C. make profit",
+        "D. pay taxes"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a characteristic of a sole proprietorship?",
+      "options": [
+        "A. Limited liability",
+        "B. Shared profits",
+        "C. Single ownership",
+        "D. Corporate tax payments"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A partnership is dissolved when",
+      "options": [
+        "A. a new partner is admitted",
+        "B. a partner retires",
+        "C. the business makes a loss",
+        "D. the partnership deed is silent on profit sharing"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main advantage of a private limited company over a public limited company is that",
+      "options": [
+        "A. it can raise more capital",
+        "B. it has limited liability",
+        "C. it is not subject to the same level of regulatory scrutiny",
+        "D. its shares are traded on the stock exchange"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a disadvantage of using public transport for commercial purposes?",
+      "options": [
+        "A. High operating cost",
+        "B. Inflexibility of schedule",
+        "C. Limited capacity",
+        "D. Lack of comfort"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'liquidation' in business refers to",
+      "options": [
+        "A. the process of selling off assets",
+        "B. the conversion of shares to cash",
+        "C. the payment of dividends",
+        "D. the reduction of capital"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a feature of a debenture?",
+      "options": [
+        "A. It represents ownership in the company",
+        "B. It is a long-term loan to the company",
+        "C. It is repayable on demand",
+        "D. It carries voting rights"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a source of short-term finance for a business?",
+      "options": [
+        "Bank overdraft",
+        "Debentures",
+        "Shares",
+        "Mortgage"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main purpose of a business plan is to",
+      "options": [
+        "A. secure funding",
+        "B. hire employees",
+        "C. purchase equipment",
+        "D. rent premises"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT typically found in a company's memorandum of association?",
+      "options": [
+        "A. Name of the company",
+        "B. Location of the registered office",
+        "C. Amount of share capital",
+        "D. Rights of shareholders"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'market segmentation' refers to",
+      "options": [
+        "A. dividing a market into distinct groups of buyers",
+        "B. the total sales of a product",
+        "C. the range of products offered by a company",
+        "D. the price at which a product is offered"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a disadvantage of a corporation?",
+      "options": [
+        "A. Limited liability",
+        "B. Ability to raise capital",
+        "C. Double taxation",
+        "D. Perpetual existence"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary function of the stock exchange is to",
+      "options": [
+        "A. provide loans to businesses",
+        "B. facilitate the buying and selling of shares",
+        "C. insure businesses against risks",
+        "D. manage employee pension funds"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a method of promoting sales?",
+      "options": [
+        "A. Market research",
+        "B. Advertising",
+        "C. Bookkeeping",
+        "D. Production planning"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The concept of 'opportunity cost' is best described as",
+      "options": [
+        "A. the cost of a missed opportunity",
+        "B. the benefits foregone from not choosing the next best alternative",
+        "C. the expenses incurred in pursuing an opportunity",
+        "D. the financial outlay required to seize an opportunity"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a characteristic of money?",
+      "options": [
+        "A. Durability",
+        "B. Portability",
+        "C. Divisibility",
+        "D. Limited supply"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main role of an accountant in a business is to",
+      "options": [
+        "A. manage investments",
+        "B. prepare financial statements",
+        "C. oversee production",
+        "D. handle marketing"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A bill of lading is used in connection with which of the following?",
+      "options": [
+        "Road transport",
+        "Rail transport",
+        "Air transport",
+        "Sea transport"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'GDP' stands for",
+      "options": [
+        "A. Gross Domestic Product",
+        "B. General Development Plan",
+        "C. Government Debt Payment",
+        "D. Gross Domestic Profit"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a fixed cost for a business?",
+      "options": [
+        "A. Rent",
+        "B. Raw materials",
+        "C. Direct labor",
+        "D. Sales commission"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary aim of a cooperative society is to",
+      "options": [
+        "A. maximize profit",
+        "B. provide services to members",
+        "C. compete with other businesses",
+        "D. reduce government intervention"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a disadvantage of using credit?",
+      "options": [
+        "A. Immediate ownership",
+        "B. Interest payments",
+        "C. Budgeting ease",
+        "D. Risk-free"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The 'invisible hand' in economics refers to",
+      "options": [
+        "A. government regulation",
+        "B. self-regulating nature of the marketplace",
+        "C. the role of entrepreneurs",
+        "D. the impact of advertising"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a reason for government intervention in business?",
+      "options": [
+        "A. To protect consumers",
+        "B. To control inflation",
+        "C. To ensure competition",
+        "D. To maximize profits for businesses"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main purpose of tariffs is to",
+      "options": [
+        "A. restrict imports",
+        "B. increase exports",
+        "C. raise government revenue",
+        "D. protect domestic industries"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of a wholesaler?",
+      "options": [
+        "Storage of goods",
+        "Breaking bulk",
+        "Retailing goods",
+        "Providing credit"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary goal of financial management in a business is to",
+      "options": [
+        "A. maximize sales",
+        "B. minimize costs",
+        "C. maximize profit",
+        "D. maximize shareholder wealth"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a non-renewable source of energy?",
+      "options": [
+        "A. Solar energy",
+        "B. Wind energy",
+        "C. Coal",
+        "D. Biomass"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The 'balance of payments' of a country records",
+      "options": [
+        "A. the difference between exports and imports",
+        "B. the total value of all financial transactions",
+        "C. the government's budgetary position",
+        "D. the level of foreign reserves"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a characteristic of a perfectly competitive market?",
+      "options": [
+        "A. Many buyers and sellers",
+        "B. Product differentiation",
+        "C. Barriers to entry",
+        "D. Price maker"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main function of the International Monetary Fund (IMF) is to",
+      "options": [
+        "A. promote international trade",
+        "B. provide loans to developing countries",
+        "C. regulate exchange rates",
+        "D. oversee the global financial system"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of the World Bank?",
+      "options": [
+        "A. Providing financial and technical assistance",
+        "B. Facilitating international trade",
+        "C. Reducing poverty",
+        "D. Promoting sustainable economic development"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary purpose of antitrust laws is to",
+      "options": [
+        "A. protect consumers from unfair business practices",
+        "B. prevent monopolies and promote competition",
+        "C. regulate advertising practices",
+        "D. oversee mergers and acquisitions"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a function of the Central Bank?",
+      "options": [
+        "Accepting deposits from the public",
+        "Issuing currency",
+        "Providing loans to individuals",
+        "Selling insurance"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a means of payment in international trade?",
+      "options": [
+        "Letter of credit",
+        "Bill of exchange",
+        "Cheque",
+        "Promissory note"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main advantage of using a freight forwarder is that",
+      "options": [
+        "A. they own the cargo",
+        "B. they provide insurance",
+        "C. they handle all the logistics",
+        "D. they offer lower shipping rates"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a potential disadvantage of franchising?",
+      "options": [
+        "A. Brand recognition",
+        "B. Training and support",
+        "C. Limited control over business operations",
+        "D. Access to a proven business model"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary purpose of a business incubator is to",
+      "options": [
+        "A. provide funding to startups",
+        "B. offer mentorship and resources to new businesses",
+        "C. facilitate networking among entrepreneurs",
+        "D. promote research and development"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a function of advertising?",
+      "options": [
+        "To increase demand",
+        "To reduce production",
+        "To decrease sales",
+        "To limit competition"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 'economies of scale' refers to",
+      "options": [
+        "A. cost advantages reaped by companies when production becomes efficient",
+        "B. the increased variety of products offered by a company",
+        "C. the reduction in per-unit cost as production volume increases",
+        "D. the financial benefits of operating in a free market"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The secretariat of the Niger Basin Commission is located at",
+      "options": [
+        "A. Ouagadougou, Burkina Faso",
+        "B. Abuja, Nigeria",
+        "C. Niamey, Niger",
+        "D. Bamako, Mali"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

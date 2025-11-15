@@ -1,0 +1,689 @@
+{
+  "_id": "690e03a66c3d9fd19c21e6e2",
+  "subjectName": [
+    "Biology"
+  ],
+  "year": 2017,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The piercing and sucking mouth parts are found in",
+      "options": [
+        "asshoppers",
+        "squitoes",
+        "rmites",
+        "ckroaches"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bd8"
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The hormones that regulate plant growth are",
+      "options": [
+        "hylene and auxins",
+        "xin and gibberellins",
+        "tokinin and abscisic acid",
+        "hylene and gibberellins"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bd9"
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following pair of organisms exhibit parasitic association?",
+      "options": [
+        "sect and plant",
+        "ttle and egret",
+        "ark and remora",
+        "etse-fly and cattle"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bda"
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following group of animals can withstand the rigour of the arid land?",
+      "options": [
+        "cust, camel, lizard and snakes",
+        "nkeys, chameleon, earthworm and grasshopper",
+        "nkeys, grasshopper, snail and snakes",
+        "ngfish, duck, butterfly and lizards"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bdb"
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Suture joint is found in the",
+      "options": [
+        "p",
+        "kle",
+        "ull",
+        "bow"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bdc"
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The organelle responsible for osmoregulation in *Paramecium* is",
+      "options": [
+        "ame cell",
+        "phridia",
+        "ntractile vacuole",
+        "lpighian tubule"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bdd"
+    },
+    {
+      "number": "7",
+      "subheadingA": "Use the diagram to answer the question that follow",
+      "diagramUrlA": "[Diagram of an earthworm with parts labeled I, II, III, IV]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The excretory organ of an earthworm is represented by",
+      "options": [
+        "",
+        "",
+        "I",
+        ""
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bde"
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The platelets in mammalian blood are responsible for",
+      "options": [
+        "ansporting oxygen",
+        "itiating clotting",
+        "moving carbon (IV) oxide",
+        "stroying micro-organisms"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bdf"
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most important factor that determines the different types of vegetation is",
+      "options": [
+        "ght",
+        "nd",
+        "mperature",
+        "infall"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47be0"
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When testing for the presence of starch in a leaf, the reason for dipping the decolourised leaf in hot water is to",
+      "options": [
+        "tect the starch",
+        "ll the leaf",
+        "ften the leaf",
+        "move the chlorophyll"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47be1"
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The relationship between *remora* and shark can best be described as",
+      "options": [
+        "rasitism",
+        "ensalism",
+        "tualism",
+        "mmensalism"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47be2"
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The major characteristic of a fresh water habitat is the possession of",
+      "options": [
+        "gh turbidity",
+        "gh density",
+        "w salinity",
+        "gh current"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47be3"
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The causative organism of cholera is",
+      "options": [
+        "*Clostridium* sp",
+        "*Shigella* sp",
+        "*Vibrio* sp",
+        "*Salmonella typhi*"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47be4"
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The process that takes place in the dark stage of photosynthesis is",
+      "options": [
+        "idation of water",
+        "otolysis of water",
+        "idation of carbon (IV) oxide",
+        "duction of carbon (IV) oxide"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47be5"
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Chlorofluorocarbons are air pollutants that originates from",
+      "options": [
+        "ude oil refining",
+        "al mining",
+        "tor vehicle exhaust",
+        "oling system"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47be6"
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is organ level of organisation?",
+      "options": [
+        "*Volvox* sp",
+        "*Paramecium caudatum*",
+        "*Hydra viridis*",
+        "ion bulb"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47be7"
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The simplest form of reproduction is",
+      "options": [
+        "njugation",
+        "dding",
+        "ore formation",
+        "nary fission"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47be8"
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a characteristic of wind-pollinated flower?",
+      "options": [
+        "owers lack nectar",
+        "owers are conspicuous",
+        "owers have perianths",
+        "owers are bisexual"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47be9"
+    },
+    {
+      "number": "19",
+      "subheadingA": "Use the diagram to answer the question that follow",
+      "diagramUrlA": "[Diagram showing a cross-section of skin layers]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most eminent unit in terms of water conservation is represented by",
+      "options": [
+        "",
+        "",
+        "I",
+        ""
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bea"
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The process required for formation of gamete in sexual reproduction is",
+      "options": [
+        "plantation",
+        "rtilisation",
+        "tosis",
+        "iosis"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47beb"
+    },
+    {
+      "number": "21",
+      "subheadingA": "In an experiment to determine the humus in a soil sample the following results were obtained Mass of dish - 20g; Mass of dry soil - 7.5g; Mass of dish + soil after burning $=25g$.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The percentage of humus in the given sample is",
+      "options": [
+        "1",
+        "5",
+        "5",
+        "3"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bec"
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The presence of termites and earthworms in soil promote",
+      "options": [
+        "rosity and fertility",
+        "rosity and aeration",
+        "ration and fertility",
+        "idity and aeration"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bed"
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a $15\\text{m}^2$ habitat, the total number of *Tridax* counted using a $1.6\\text{m}^2$ quadrant thrown randomly 50 times was 400. What is the *Tridax*",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bee"
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a sex-link character?",
+      "options": [
+        "arfism",
+        "binism",
+        "ngue rolling",
+        "lour blindness"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bef"
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The outer-most tissue of the herbaceous roots is the",
+      "options": [
+        "ticle",
+        "ricycle",
+        "idermis",
+        "dodermis"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bf0"
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The respective tissues that transport water and manufactured food in plants are",
+      "options": [
+        "lem and phloem",
+        "loem and tracheid",
+        "loem and xylem",
+        "lem and tracheid"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bf1"
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An adaptive feature of plants in the *savanna* is",
+      "options": [
+        "ssured bark",
+        "w grasses",
+        "ll trees",
+        "ng lifespan"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bf2"
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A grasshopper's cuticle becomes green during the season and black after fire. The reasons for the change is",
+      "options": [
+        "tain food",
+        "edators",
+        "cure mates",
+        "cape detection"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bf3"
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is the most advance plant?",
+      "options": [
+        "*Merchantia*",
+        "*Dryopteris*",
+        "*Chlamydomonas*",
+        "*Spirogyra*"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bf4"
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The soil type with the least ability to retain nutrients is",
+      "options": [
+        "ndy loam",
+        "ay loam",
+        "am",
+        "nd"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bf5"
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A humming bird is able to feed on nectar because its beak is",
+      "options": [
+        "ort, slender and ridged",
+        "ort, strong and conical",
+        "ng, slender and slightly curved",
+        "ng, wide and slightly curved"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bf6"
+    },
+    {
+      "number": "32",
+      "subheadingA": "Use the diagram to answer the question that follow",
+      "diagramUrlA": "[Diagram of a fish gill with parts labeled]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The part labelled III acts as",
+      "options": [
+        "ter outlet",
+        "od strainer",
+        "change surface",
+        "ood transporter"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bf7"
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The effect of overcrowding is",
+      "options": [
+        "migration",
+        "duced competition",
+        "igration",
+        "duced mortality"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bf8"
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The vertebrae that allows the skull to nod and rotate are",
+      "options": [
+        "is and cervical",
+        "las and thoracis",
+        "is and atlas",
+        "las and cervical"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bf9"
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The component of the cell that determines paternity resides in the",
+      "options": [
+        "ntrosome",
+        "bosome",
+        "cleus",
+        "tochondria"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bfa"
+    },
+    {
+      "number": "36",
+      "subheadingA": "[Diagram showing four different beak types (a), (b), (c), (d)]",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following beak type is an adaption for aquatic feeding?",
+      "options": [
+        "(a)",
+        "(b)",
+        "(c)",
+        "(d)"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bfb"
+    },
+    {
+      "number": "37",
+      "subheadingA": "Use the diagram to answer the question that follow",
+      "diagramUrlA": "[Diagram of Paramecium with parts labelled I, II, III, IV]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The part labelled II is the",
+      "options": [
+        "ch",
+        "lament",
+        "it",
+        "ker"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bfc"
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The insect-trapping by the leaves of *Venus flytrap* is an example of a",
+      "options": [
+        "aptive coloration",
+        "ructural adaptation",
+        "vironmental adaptation",
+        "haviour adaptation"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bfd"
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Morphological variation in humans include",
+      "options": [
+        "ight, skin, colour and tongue rolling",
+        "ight, finger prints and body shape",
+        "ight, weight and blood group",
+        "in colour, blood and height"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bfe"
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is correct about blood transfusion?",
+      "options": [
+        "oup AB can only receive from groups A and B and not from group O",
+        "oup O can receive from groups A and B and from AB",
+        "oup B can only donate to blood group B and not to AB and O",
+        "oup O can donate to groups A, B and AB but cannot receive"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1914d606d11e8fe47bff"
+    }
+  ]
+}

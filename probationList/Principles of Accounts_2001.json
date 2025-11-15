@@ -1,0 +1,859 @@
+{
+  "_id": "6866567209bc39a121072503",
+  "subjectName": [
+    "Principles of Accounts"
+  ],
+  "year": 2001,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The current growth in the volume of trading and financial dealings in Nigeria is helped by",
+      "options": [
+        "Increased financial activities.",
+        "Government intervention",
+        "Credit as a factor in business",
+        "Paying for goods in cash."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Cost accounting entails provision of information",
+      "options": [
+        "For investment purpose",
+        "For decision making",
+        "To shareholders",
+        "To stockholders"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main objective of accounting report is to provide information about",
+      "options": [
+        "A company’s shareholding",
+        "An entity’s management",
+        "The efficacy of assets",
+        "A company’s economic resources."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If liabilities amounted to N12,045, other assets N36,800 and equity N26,896, the cash at hand would be",
+      "options": [
+        "N2,241",
+        "N2,214",
+        "N2,141",
+        "N2,114"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the cash balance?",
+      "options": [
+        "N12,095",
+        "N12,590",
+        "N12,905",
+        "N12,950"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Determine the total of the trial balance.",
+      "options": [
+        "N335,050",
+        "N333,050",
+        "N323,050",
+        "N230,550"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The accuracy of journalizing is checked by",
+      "options": [
+        "Ensuring that debit totals equal credit totals.",
+        "Posting all journal entries to ledger accounts.",
+        "Adding all figures in the debit column.",
+        "Comparing accounts in the ledger against the journals."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Hauwa Ltd bought 10 bags of rice for N500 each. The company was given 5% and 12% trade and cash discounts respectively. What will be recorded as discount received in the company’s book?",
+      "options": [
+        "N250",
+        "N570",
+        "N600",
+        "N850"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A cash book had opening balance of N15,200, closing balance N18,400 and total cash received during the period N36,000. What was the amount of cash paid out during the same period?",
+      "options": [
+        "N17,800",
+        "N19,600",
+        "N29,200",
+        "N32,800"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a petty cash book, the closing balance was N235, imprest N1250, while the stationery expenses were N655. how much was paid for other general expenses?",
+      "options": [
+        "N360",
+        "N355",
+        "N350",
+        "N305"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When a bill is negotiated to a abank, it is said to be",
+      "options": [
+        "Surrendered",
+        "Cashed",
+        "Discounted",
+        "Accepted"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given that the balance as per cash book after necessary adjustments was N4,315, unpresented cheques were N1,688 and the bank statement balance was N4,791, what was the balance of the uncredited cheques?",
+      "options": [
+        "N1,223",
+        "N1,212",
+        "N1,202",
+        "N1,115"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a property developing company sells a completed building to an interested third party, this sale can be treated in the books of the company as",
+      "options": [
+        "Capital receipt",
+        "Revenue receipt",
+        "Windfall receipt",
+        "Miscellaneous Receipt"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What was the value of fixed assets at the beginning of the year?",
+      "options": [
+        "N2,900,000",
+        "N3,800,000",
+        "N3,900,000",
+        "N4,000,000"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The depreciation expense charged for the year is",
+      "options": [
+        "N450,000",
+        "N250,000",
+        "N150,000",
+        "N100,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A reduction in the catalogue price of an article given by a wholesaler to a retailer is called a",
+      "options": [
+        "Bad debt",
+        "Trade discount",
+        "Premium",
+        "Cash discount"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the stock valuation method used?",
+      "options": [
+        "Last In First Out",
+        "First In First Out",
+        "Average cost",
+        "Weighted average"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The value of x is",
+      "options": [
+        "N4.00",
+        "N5.00",
+        "N5.50",
+        "N6.00"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the sales ledger balance.",
+      "options": [
+        "N3,000",
+        "N6,000",
+        "N10,000",
+        "N13,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the purchases ledger balance?",
+      "options": [
+        "N4,000",
+        "N23,000",
+        "N24,000",
+        "N29,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "For an incomplete record to provide necessary information, it must be converted to",
+      "options": [
+        "Complete records",
+        "Double entry records",
+        "Statement of affairs",
+        "Single entry"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Determine the total fixed asset from the opening balance sheet",
+      "options": [
+        "N2,200",
+        "N2,020",
+        "N1,720",
+        "N1,270"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the capital from the opening balance sheet?",
+      "options": [
+        "N3,600",
+        "N2,700",
+        "N2,070",
+        "1,520"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "From the data above, compute the prime cost",
+      "options": [
+        "N8,500",
+        "N7,500",
+        "N6,500",
+        "N6,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the bar profits?",
+      "options": [
+        "N20,000",
+        "N15,000",
+        "N14,0000",
+        "N10,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "How much is owed to supplier?",
+      "options": [
+        "N50,000",
+        "N40,000",
+        "N30,000",
+        "N20,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Lubricating oil and spare parts of machinery are examples of",
+      "options": [
+        "Direct material",
+        "Indirect materials",
+        "Indirect expenses",
+        "Direct expenses"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The N6,000 subscription received is",
+      "options": [
+        "Current asset",
+        "Current liability",
+        "Fixed asset",
+        "Capital"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the subscription to be charged to income and expenditure account?",
+      "options": [
+        "N36,000",
+        "N34,000",
+        "N30,000",
+        "N20,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A club received rent N10,000 and donation N30,000. It paid N6,000 for entertainment and is still owing N16,000. The balance of the receipts and payment account is",
+      "options": [
+        "N24,000",
+        "N22,000",
+        "N14,000",
+        "N8,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Determine the club’s excess of income over expenditure",
+      "options": [
+        "N500",
+        "N1,500",
+        "N2,000",
+        "N2,500"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The excess of income over expenditure is usually transferred to the",
+      "options": [
+        "Accumulated fund",
+        "Profit and loss account",
+        "Current assets in the balance sheet",
+        "Current liabilities in the balance sheet"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Partner’s salaries and drawing are usually posted to the",
+      "options": [
+        "Trading account",
+        "Current account",
+        "Capital account",
+        "Partners’ account"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "marmuhu and Yusuf are in partnership sharing profits and losses in the ratio 2 : 1. On 31/3/2000, the partnership decided to admit Idris who is to take ¼ of future profits without changing the ratio of Murhunu and Yusuf. What is the new profit-sharing ratio of Marhunu and Yusuf?",
+      "options": [
+        "50% : 25%",
+        "50% : 20%",
+        "25% : 50%",
+        "25% : 25%"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a partner pays a premium of N500 for 1/5 share of profit, then the total value of goodwill is",
+      "options": [
+        "N500",
+        "N2,000",
+        "N2,500",
+        "N3,000"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "On the dissolution of a partnership business, the net book value of the assets is transferred to",
+      "options": [
+        "Debit of realization account",
+        "Credit of realization account",
+        "Debit of bank account",
+        "Credit of bank account"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Baba Ltd acquired the business of Bello Ltd and caused the separate existence of the latter company to terminate. This situation is best described as",
+      "options": [
+        "Absorption",
+        "Merger",
+        "Conversion",
+        "Dissolution"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Where a company acquires controlling shares of another and the consideration is paid in cash, the entries in the books of the purchases are debit",
+      "options": [
+        "Investment and credit cash",
+        "Investment and credit shares",
+        "Purchases and credit cash",
+        "Purchases and credit shares"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the business is purchase at a price including a goodwill of N20,000, what must have been the purchase price?",
+      "options": [
+        "N190,000",
+        "N210,000",
+        "N220,000",
+        "N230,000"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main difference between the ordinary and preference shareholders is that",
+      "options": [
+        "The former receive dividends while the latter do not",
+        "The latter are not members of the company while the former are",
+        "In the case of winding up, the former are paid first before the latter.",
+        "The former have rights while the latter do not"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Determine the net current assets.",
+      "options": [
+        "N43,000",
+        "N28,000",
+        "13,000",
+        "N3,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the shareholder’s fund.",
+      "options": [
+        "N60,000",
+        "N75,000",
+        "N85,000",
+        "N185,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The law that currently regulates the registration of companies in Nigeria is the",
+      "options": [
+        "Constitution of the Federal Republic of Nigeria, 1999.",
+        "Nigerian Enterprises Promotion Decree, 1972.",
+        "Companies and Allied Matters Decree, 1972.",
+        "Companies Decree, 1968."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "X and Y are two departments that are to share 50% of all joint costs equally and the balance in the ratio 2 : 1. If a sum of N150,000 is incurred jointly, what will the portion attributable to X?",
+      "options": [
+        "N37,500",
+        "N62,500",
+        "N87,500",
+        "N100,000"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Department F transferred some goods to department G at a selling price. The goods were not sold at the end of the accounting period. Which account is affected at the time of preparing a combined balance sheet?",
+      "options": [
+        "Creditors",
+        "Debtors",
+        "Stock",
+        "Suspense"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The correct entry to reflect the receipt of cash sent by a branch to a head office is",
+      "options": [
+        "Debit cash and credit branch current account",
+        "Debit branch current account credit cash",
+        "Credit branch debtors and debit cash",
+        "Credit branch current account and debit branch debtors"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "To account for expenses paid by head office on behalf of the branch, the branch should",
+      "options": [
+        "Debit head office account and credit cash",
+        "Debit profit and loss account and credit head office account",
+        "Credit cash and debit profit and loss account",
+        "Credit profit and loss account and debit head office account"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The officer responsible for ascertaining whether all public expenditure and appropriation are in line with approved guidelines is the",
+      "options": [
+        "Account General",
+        "Auditor General",
+        "Finance Minister",
+        "Permanent Secretary"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Assuming all the investments realized N4m, what will be the ending fun balance?",
+      "options": [
+        "N8m",
+        "N11m",
+        "N13m",
+        "N16m"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If only 1/3 of the investment is sold for N2m and N5m realized from the accounts receivable, what will be the balance of the fund?",
+      "options": [
+        "N9m",
+        "",
+        "N13m",
+        "N16m"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

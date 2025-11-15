@@ -1,0 +1,604 @@
+{
+  "_id": "6851a88403d37a7af32e7614",
+  "subjectName": [
+    "Mathematics"
+  ],
+  "year": 2016,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Without using tables, evaluate log2 4 + log4 2 − log25 5",
+      "options": [
+        "1⁄2",
+        "1⁄5",
+        "0",
+        "2"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In ΔXYZ above, X⏞𝐾𝑍 = 90°, X𝐾 = 15 𝑐𝑚, X𝑍 = 25𝑐𝑚 𝑎𝑛𝑑 𝑌𝐾 = 8 𝑐𝑚. Find the area of ΔXYZ.",
+      "options": [
+        "180 sq.cm",
+        "20sq cm",
+        "160sq. cm",
+        "320 sq.cm"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Solve the simultaneous equation 2𝑥 − 3𝑦 =10, 10𝑥 − 6𝑦 = 5",
+      "options": [
+        "1 1 𝑥 = 2 , 𝑦 = 3 2 3",
+        "𝑥 = 31, 𝑦 = 21",
+        "4 1 10",
+        "411 3 4 3 5 36"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Factorize 1 − (𝑎 − 𝑏)2 2 2",
+      "options": [
+        "(1 − 𝑎 − 𝑏)(1 − 𝑎 + 𝑏) 2 5",
+        "(1 − 𝑎 + 𝑏)(1 + 𝑎 − 𝑏)",
+        "(1 − 𝑎 + 𝑏)(1 − 𝑎 + 𝑏)",
+        "(1 − 𝑎 − 𝑏)(1 + 𝑎 − 𝑏) + +"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the range of value of x which satisfy the inequality",
+      "options": [
+        "𝑥 < 12 13",
+        "𝑥 < 13",
+        "𝑥 < 3",
+        "𝑥 < 13 12"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A crate of soft drinks contains 10 bottles of Cococola, 8 of Fanta and 6 of Sprite, if one bottle is selected at random, what is the probability that it is NOT a Coca- Cola bottle?",
+      "options": [
+        "5⁄12",
+        "1⁄3",
+        "3⁄4",
+        "7⁄12"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Differentiate (cos 𝑞 − sin 𝑞)2 with respect to q.",
+      "options": [
+        "−2 cos 2𝑞",
+        "−2 sin 2𝑞",
+        "1 − 2 cos 2𝑞",
+        "1 − 2 sin 2𝑞"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If tan 𝑞 = 5⁄4 , find 𝑠i𝑛2𝑞 − 𝑐o𝑠2𝑞.",
+      "options": [
+        "5⁄4",
+        "41⁄9",
+        "9⁄41",
+        "1"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the value of x if the expression 𝑘𝑥2 + 𝑥 − 5𝑥 − 2 leaves a remainder 2 when it is divided by 2𝑥 + 1.",
+      "options": [
+        "10",
+        "8",
+        "−10",
+        "−8"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "",
+      "options": [
+        "𝑥 < −2 o𝑟 𝑥 > 4",
+        "𝑥 ≤ −3 o𝑟 𝑥 ≥ 4",
+        "−3 < 𝑥 ≤ 4",
+        "−3 ≤ 𝑥 ≤ 4"
+      ],
+      "answer": "",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "He served it at a cost of ₦2,000 and then sold it at a profit of 15%. What was the selling price?",
+      "options": [
+        "₦37, 550",
+        "₦40, 400",
+        "₦41, 400",
+        "₦42, 400"
+      ],
+      "answer": "",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the radius of a sphere whose surface area is 154 𝑐𝑚2",
+      "options": [
+        "7.00 cm",
+        "3.50 cm",
+        "3.00 cm",
+        "1.75cm"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The sum of the first n terms of the arithmetic progression 5, 11, 17, 23, 29, 35,… is",
+      "options": [
+        "𝑛(3𝑛 − 0)",
+        "𝑛(3𝑛 + 2)",
+        "𝑛(3𝑛 + 2.5)",
+        "𝑛(3𝑛 + 5)"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What value of 𝑥 will make the function 𝑥(4 − 𝑥) a maximum?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In how many ways can a delegation of 3 be chosen from 5 men and 3 women, if at least 1 man and 1 woman must be included?",
+      "options": [
+        "15",
+        "28",
+        "30",
+        "45"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The table above shows the distribution of marks of students in attest. Find the probability of passing the test if the pass mark is 5",
+      "options": [
+        "3/5",
+        "4/9",
+        "7/20",
+        "−1/5"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope was 1.24 m, what was the percentage error in the measurement?",
+      "options": [
+        "0.40%",
+        "0.01%",
+        "0.25%",
+        "0.80%"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Rationalize 2√3+√5 √5−√3",
+      "options": [
+        "3√12+11 2",
+        "3√15−11 2",
+        "3√15 − 11",
+        "3√15 + 11"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Solve the inequalities −6 ≤ 4 — 2𝑥 < 5 − 𝑥",
+      "options": [
+        "−1 ≤ 𝑥 < 6",
+        "−1 < 𝑥 ≤ 5",
+        "−1 < 𝑥 < 5",
+        "−1 ≤ 𝑥 ≤ 6"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A cylindrical pipe 5cm long with radius 7m has one end open. What is the total surface area of the pipe?",
+      "options": [
+        "100𝜋𝑚2",
+        "98𝜋𝑚2",
+        "350𝜋𝑚2",
+        "749𝜋𝑚2"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the standard deviation of 2, 3, 5 and 6",
+      "options": [
+        "√5⁄2",
+        "√10",
+        "√6",
+        "√2⁄5"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Without using tables evaluate (343)−1⁄3 × (0.14) − 1 × (25)−1⁄2",
+      "options": [
+        "10",
+        "12",
+        "8",
+        "7"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given that log4 (𝑦 − 1) + log4 (1⁄2 𝑥) =1 𝑎𝑛𝑑 log2 (𝑦 + 1) + log2 𝑥=2, solve for x and y respectively.",
+      "options": [
+        "2, 3",
+        "3, 2",
+        "−2, −3",
+        "−3, −2"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When the expression 𝑝𝑚2 + 𝑞𝑚 + 1 is divided by (m-1), it has a remainder 2 and when divided by (m+1) the remainder is 4. Find p and q respectively.",
+      "options": [
+        "2, -1",
+        "-1, 2",
+        "3, -2",
+        "-2, 3"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Divide 2𝑥3 + 11𝑥2 + 17𝑥 + 6 𝑏𝑦 2𝑥 + 1",
+      "options": [
+        "𝑥2 + 5𝑥 + 6",
+        "2𝑥2 + 5𝑥 + 6",
+        "2𝑥2 − 5𝑥 + 6",
+        "𝑥2 − 5𝑥 + 6 ⨂ p q r s p r p r p q p q r s r r r r r s q s r q"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The identity element with respect to the element shown in the table above is",
+      "options": [
+        "p",
+        "q",
+        "r",
+        "s"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "0.0001432 1940000 = 𝑘 x 10𝑛 wℎe𝑟e 1 £ 𝐾 trapezium PQRT",
+      "options": [
+        "35𝑐𝑚2",
+        "65𝑐𝑚2",
+        "70𝑐𝑚2",
+        "140𝑐𝑚2"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The mid-point of the segment of the line 𝑦 = 12 × 15 which lies between the x-axis and y-axis is",
+      "options": [
+        "7.381 and -11",
+        "2.34 and 10",
+        "3.871 and 2",
+        "7.831 and -11"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Thirty boys and x girls sat for a test. The mean of the boys’ scores and that of the girls were 2 2",
+      "options": [
+        "38",
+        "24",
+        "(3, 3) respectively 6 and 8. Find 𝑥 if the total score was 468. 8 2",
+        "(−3, 3) 6 2"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the equation of the curve which passes through the point (2, 5) and whose gradient at any point is given by 6𝑥 − 5",
+      "options": [
+        "6𝑥2 − 5𝑥",
+        "6𝑥2 + 5𝑥 + 5",
+        "36",
+        "22"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Rationalize 5√7−7√5 √7−√5",
+      "options": [
+        "−2√35",
+        "√7 − 6√5",
+        "−√35",
+        "4√7"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If 2𝑥 + 3𝑦 = 1 𝑎𝑚𝑑 𝑥 − 2𝑦 = 11, fi𝑛𝑑(𝑥 + 𝑦)",
+      "options": [
+        "5",
+        "-3",
+        "8",
+        "2"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Simplify ( 3√6403) −1",
+      "options": [
+        "80",
+        "40",
+        "1⁄40",
+        "1⁄80"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the value of p if the line joining (p, 4) and (6, -2) is perpendicular to the line joining (2, p) and (-1, 3)",
+      "options": [
+        "0",
+        "3",
+        "4",
+        "6"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the number of sides of a regular polygon whose interior angle is twice the exterior angle.",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "8 ANSWERS"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

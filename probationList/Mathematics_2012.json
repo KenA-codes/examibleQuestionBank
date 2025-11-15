@@ -1,0 +1,706 @@
+{
+  "_id": "6851a52703d37a7af32e760e",
+  "subjectName": [
+    "Mathematics"
+  ],
+  "year": 2012,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which Question Paper Type of Mathematics as indicated above is given to you?",
+      "options": [
+        "Type Green",
+        "Type Purple",
+        "Type Red",
+        "Type Yellow"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Convert 726 to a number in base three",
+      "options": [
+        "2211",
+        "2121",
+        "1212",
+        "1122 2 1"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Simplify 3 × 1 4 5",
+      "options": [
+        "2.30",
+        "2.31",
+        "2.32",
+        "2.33"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A man earns ₦3,500 per month out of which he spends 15% on his children's education. If he spends additional ₦1,950 on food, how much does he have left?",
+      "options": [
+        "₦525",
+        "₦1,025",
+        "₦1,950",
+        "₦2,975"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If 27x + 2 ÷ 9x + 1 = 32x, find x",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If log3 x2 = -8, what is x? 2",
+      "options": [
+        "13",
+        "19",
+        "127",
+        "181"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Make 'n' the subject of the formula if w = v(2+cn 1−cn 1 w−2v",
+      "options": [
+        "2√6 ( ) c v−w",
+        "4√6",
+        "8√6",
+        "16√6"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If P is a set of all prime factors of 30 and Q is a set of all factors of 18 less than 10, find P ∩ Q",
+      "options": [
+        "{3}",
+        "{2,3}",
+        "{2,3,5}",
+        "{1,2}"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the remainder when 2x3 - 11x2 + 8x - 1 is divided by x + 3",
+      "options": [
+        "-871",
+        "-781",
+        "-187",
+        "-178"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Solve for x and y in the equations below x2 - y2 = 4 x + y = 2",
+      "options": [
+        "x = 0, y = -2",
+        "x = 0, y = 2",
+        "x = 2, y = 0",
+        "x = -2, y = 0"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If y varies directly as √n and y = 4 when n = 4, find y when n = 17 9",
+      "options": [
+        "√17",
+        "4 3",
+        "8 3",
+        "2 3"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "U is inversely proportional to the cube of V and U = 81 when V = 2. Find U when V = 3",
+      "options": [
+        "24",
+        "27",
+        "32",
+        "36"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the range of values of m which satisfy (m -3)(m - 4) < 0",
+      "options": [
+        "2 < m < 5",
+        "-3 < m < 4",
+        "3 < m < 4",
+        "-4 < m < 3"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The shaded region above is represented by the equation",
+      "options": [
+        "y>2 3",
+        "y<2 3",
+        "y>− 2 3",
+        "y<− 2 3"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The nth term of a sequence is n2 - 6n - 4. Find the sum of the 3rd and 4th terms.",
+      "options": [
+        "24",
+        "23",
+        "-24",
+        "-25"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The sum to infinity of a",
+      "options": [
+        "−45",
+        "−25",
+        "4",
+        "5 geometric progression is − 1 10 and the first term is −1. Find the"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If │5 3│ = │3 5│, find the 8 common ratio of the progression.",
+      "options": [
+        "−1 5",
+        "−1 4",
+        "−1 3",
+        "−1 2"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The binary operation * is defined on the set of integers such that p * q = pq + p - q. Find 2 * (3 * 4)",
+      "options": [
+        "11",
+        "13",
+        "15",
+        "22"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The binary operation on the set of real numbers is defined by m*n = mn2 for all m, n ∈ R. If the identity element is 2, find the inverse of -5 x 2 4 5 value of x",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given that 13 is a unit matrix of order 3, find |13|",
+      "options": [
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The angles of a polygon are given by x, 2x, 3x, 4x and 5x respectively. Find the value of x.",
+      "options": [
+        "24⁰",
+        "30⁰",
+        "33⁰",
+        "36⁰"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the area of the trapezium above.",
+      "options": [
+        "91 cm2",
+        "78 cm2",
+        "60 cm2",
+        "19 cm2"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A circular arc subtends angle 150° at the centre of a circle of radius 12 cm. Calculate the area of the sector of the arc?",
+      "options": [
+        "30 π cm2",
+        "60 π cm2",
+        "120 π cm2",
+        "150 π cm2"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "6 cm and height 0.82 cm.",
+      "options": [
+        "3.92 cm3",
+        "2.13 cm3",
+        "1.97 cm3",
+        "1.62 cm3"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The locus of a point equidistant from the intersection of lines 3x − 7y + 7 = 0 and 4x − 6y + 1 = 0 is a",
+      "options": [
+        "line parallel to 7x + 13y + 8= 0",
+        "circle",
+        "semicircle",
+        "bisector of the line 7x + 13y + 8 = 0"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The gradient of the straight line joining the points P(5, -7) and Q(-2, -3) is",
+      "options": [
+        "12",
+        "25",
+        "−47",
+        "−23"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The distance between the point (4, 3) and the intersection of y = 2x + 4 and y = 7 − x is",
+      "options": [
+        "√13",
+        "3√2",
+        "√26",
+        "10√5"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the equation of the line through the points (-2, 1) and (− 1, 4) 2",
+      "options": [
+        "y = 2x - 3",
+        "y = 2x + 5",
+        "y = 3x - 2",
+        "y = 2x + 1"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If angle θ is 135⁰, evaluate cos θ",
+      "options": [
+        "1 2",
+        "√2 2",
+        "−√2 2",
+        "−1 2"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A man stands on a tree 150cm high and sees a boat at an 0 1 angle of depression of 74°. Find the distance of the boat from the base of the tree.",
+      "options": [
+        "52 cm",
+        "43 cm",
+        "40 cm",
+        "15 cm"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Evaluate ∫4 sec2 θdθ",
+      "options": [
+        "2x - 1 x2",
+        "2x + x2",
+        "2x - x2",
+        "2x + 1 x2"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find dy if y = cos x dx",
+      "options": [
+        "sin x",
+        "-sin x",
+        "tan x",
+        "-tan x"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The grades of 36 students in a class test are as shown in the pie chart above. How many students have excellent?",
+      "options": [
+        "11 3",
+        "3 11",
+        "8",
+        "7"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The bar chart above shows the distribution of marks in a class test. If the pass mark is 5, what percentage of students failed the test?",
+      "options": [
+        "10%",
+        "20%",
+        "50%",
+        "60%"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The mean of seven numbers is 96. If an eighth number is added, the mean becomes 112. Find the eighth number.",
+      "options": [
+        "126",
+        "180",
+        "216",
+        "224"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the median of 2, 3, 7, 3, 4, 5, 8, 9, 9, 4, 5, 3, 4, 2, 4 and 5",
+      "options": [
+        "9",
+        "8",
+        "7",
+        "4"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the range of 4, 9, 6, 3, 2, 8, 10 and 11",
+      "options": [
+        "11",
+        "9",
+        "8",
+        "4"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the standard deviation of 2, 3, 8, 10 and 12",
+      "options": [
+        "3.9",
+        "4.9",
+        "5.9",
+        "6.9"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Evaluate n+1Cn-2 If n =15",
+      "options": [
+        "3630",
+        "3360",
+        "1120",
+        "560"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In how many ways can the letters of the word TOTALITY be arranged?",
+      "options": [
+        "6720",
+        "6270",
+        "6207",
+        "6027"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The probability that a student passes a physics test is 2. If he 3 takes three physics tests, what is the probability that he passes two of the tests?",
+      "options": [
+        "4 9",
+        "3 15",
+        "7 15",
+        "13 15 ANSWERS"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

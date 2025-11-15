@@ -1,0 +1,858 @@
+{
+  "_id": "690e16dfaed76098998375ea",
+  "subjectName": [
+    "Biology"
+  ],
+  "year": 2001,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An association between the root nodule of leguminous plants and Rhizobium sp is known as:",
+      "options": [
+        "mmensalism",
+        "corrhiza",
+        "rasitism",
+        "mbiosis"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af0f"
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Amphibians are normally found:",
+      "options": [
+        "dry land and in water",
+        "water and on moist land",
+        "moist land",
+        "water"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af10"
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Viviparity occurs mainly in the:",
+      "options": [
+        "mmals",
+        "ptiles",
+        "es",
+        "phibians"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af11"
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The jointed structure in insects that bears organs which are sensitive to touch, smell and vibration is the:",
+      "options": [
+        "xilla",
+        "bium",
+        "tenna",
+        "domen"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af12"
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following groups is the most advanced?",
+      "options": [
+        "eridophytes",
+        "yophytes",
+        "allophytes",
+        "mnosperms"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af13"
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Most monocots are easily recognized by their:",
+      "options": [
+        "ort leaves with petioles",
+        "ng and sword-like leaves",
+        "ng and palm-like leaves",
+        "ort leaves with many veinlets"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af14"
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Water fleas, wood lice and barnacles belong to the group:",
+      "options": [
+        "achnida",
+        "ustacea",
+        "secta",
+        "ilopoda"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af15"
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The mode of feeding in Amoeba and Hydra is:",
+      "options": [
+        "terotrophic",
+        "lophytic",
+        "totrophic",
+        "mbiotic"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af16"
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following organisms does not exist as a single free-living cell?",
+      "options": [
+        "ramecium",
+        "lvox",
+        "oeba",
+        "lamydomonas"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af17"
+    },
+    {
+      "number": "10",
+      "subheadingA": "Use the diagram below to answer questions 10 and 11",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878416/img2001_1_cnbcyh.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The structures labelled II and III respectively are:",
+      "options": [
+        "male organs and rhizoid",
+        "le organs and rhizoid",
+        "orophyte and sori",
+        "nulus and stalk of sporangium"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af18"
+    },
+    {
+      "number": "11",
+      "subheadingA": "Use the diagram below to answer questions 10 and 11",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In ferns, the structure above is equivalent to the:",
+      "options": [
+        "gote of a moss",
+        "metophyte generation of a moss",
+        "orophyte generation of a moss",
+        "orophyte of a moss"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af19"
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The centre for learning and memory in the human brain is the:",
+      "options": [
+        "dulla oblongata",
+        "rebellum",
+        "rebrum",
+        "factory lobe"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af1a"
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Urea formation occurs in the:",
+      "options": [
+        "art",
+        "ver",
+        "ng",
+        "dney"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af1b"
+    },
+    {
+      "number": "14",
+      "subheadingA": "Use the diagram below to answer questions 14 and 15",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878418/img2001_2_rbcomh.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The structure that holds the yolk in position is labelled:",
+      "options": [
+        "",
+        "",
+        "",
+        "I"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af1c"
+    },
+    {
+      "number": "15",
+      "subheadingA": "Use the diagram below to answer questions 14 and 15",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The part labelled IV is the:",
+      "options": [
+        "bumen",
+        "rminal disc",
+        "urdy",
+        "unted"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af1d"
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The gas produced during tissue respiration can be identified by using:",
+      "options": [
+        "lcium hydroxide",
+        "pper sulphate",
+        "lcium carbonate",
+        "dium hydroxide"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af1e"
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A seedling grown in the dark is likely to be:",
+      "options": [
+        "iolated",
+        "rmant",
+        "urdy",
+        "unted"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af1f"
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The enzyme invertase will hydrolyze sucrose to give:",
+      "options": [
+        "ltose and glucose",
+        "ycerol and fatty acid",
+        "ucose and fructose",
+        "nnose and galactose"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af20"
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When yeast respires anaerobically, it converts simple sugar to carbon (IV) oxide and:",
+      "options": [
+        "ygen",
+        "id",
+        "cohol",
+        "ter"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af21"
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The transportation of oxygen and carbon (IV) oxide in mammals is carried out by:",
+      "options": [
+        "ucocytes",
+        "rombocytes",
+        "agocytes",
+        "ythrocytes"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af22"
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The veins of the leaf are formed by the:",
+      "options": [
+        "scular bundles",
+        "mbium cells",
+        "lisade tissue",
+        "ongy mesophyll"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af23"
+    },
+    {
+      "number": "22",
+      "subheadingA": "Use the diagram below to answer questions 22 and 23",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878417/img2001_3_rp9rpq.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The parts which function together to bring about hearing are labelled:",
+      "options": [
+        ", V and VI",
+        ", II, IV and VI",
+        ", II, III and IV",
+        ", II and IV"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af24"
+    },
+    {
+      "number": "23",
+      "subheadingA": "Use the diagram below to answer questions 22 and 23",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The part labelled II is the:",
+      "options": [
+        "nestra ovalis",
+        "ddle ear canal",
+        "ternal auditory meatus",
+        "r ossicles"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af25"
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When specimen X is mixed with a few drops of iodine solution, the appearance of a blue-black colour confirms that X is:",
+      "options": [
+        "gar",
+        "arch",
+        "otein",
+        "pid"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af26"
+    },
+    {
+      "number": "25",
+      "subheadingA": "Use the diagram below to answer questions 25 and 26",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878418/img2001_4_bolohl.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The structure above represents a:",
+      "options": [
+        "udal vertebra",
+        "mbar vertebra",
+        "oracic vertebra",
+        "rvical vertebra"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af27"
+    },
+    {
+      "number": "26",
+      "subheadingA": "Use the diagram below to answer questions 25 and 26",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Blood vessels usually pass through the structure labelled:",
+      "options": [
+        "I",
+        "",
+        "",
+        ""
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af28"
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Salts and water are absorbed in the roots and transported to the leaves by:",
+      "options": [
+        "ffusion through the xylem tissues",
+        "mosis through the phloem tissues",
+        "ffusion through the phloem tissues",
+        "mosis through the xylem tissues"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af29"
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the percentage of occurrence of Imperata spp (total = 50)?",
+      "options": [
+        "%",
+        "%",
+        "%",
+        "%"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af2a"
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Carbon (IV) oxide content of the atmosphere is least affected by:",
+      "options": [
+        "tting down and clearing of forest",
+        "rest fires",
+        "rning of fossil fuels",
+        "ant and animal respiration"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af2b"
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The factor that least affects food shortages in sub-Saharan Africa is:",
+      "options": [
+        "ooding",
+        "sts",
+        "xed-cropping",
+        "ought"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af2c"
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The epiphytic habitat can best be described as:",
+      "options": [
+        "boreal",
+        "tuarine",
+        "uatic",
+        "rrestrial"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af2d"
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The highest percentage of energy in an ecosystem occurs at the level of the:",
+      "options": [
+        "condary consumers",
+        "composers",
+        "oducers",
+        "imary consumers"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af2e"
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The greatest influence on a stable ecosystem in nature is exerted by:",
+      "options": [
+        "n",
+        "llution",
+        "imals",
+        "infall"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af2f"
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A freshwater pond may contain:",
+      "options": [
+        "dpole, water boatman, leeches and crab",
+        "ter beetle, shrimps, water snail and water bug",
+        "ter lily, fish, water scorpion and dragonfly larva",
+        "nd skater, water lily, shark and mosquito larva"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af30"
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following processes is responsible for the movement of water from the roots to the leaves in tall plants?",
+      "options": [
+        "mosis",
+        "anspiration pull",
+        "ffusion",
+        "tive transport"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af31"
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The hygrometer is used for measuring:",
+      "options": [
+        "lative humidity",
+        "ecific gravity",
+        "infall",
+        "linity"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af32"
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The distribution of plants in a rainforest is governed mainly by:",
+      "options": [
+        "getation",
+        "il types",
+        "ount of sunlight",
+        "infall pattern"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af33"
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Both recessive and dominant characters are found:",
+      "options": [
+        "different chromosomes in the cell",
+        "the same locus of a homologous chromosome",
+        "the mother’s sex cell",
+        "the mother’s X chromosome"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af34"
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The probability of a baby being a boy or a girl depends on the condition of the:",
+      "options": [
+        "ther’s sex cell",
+        "ther’s somatic chromosome",
+        "ther’s sex cell",
+        "ther’s X chromosome"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af35"
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following statements is true of blood groups and blood transfusion?",
+      "options": [
+        "oup O is the universal recipient",
+        "oup A can donate to group A only",
+        "oup AB is the universal recipient"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af36"
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is likely to encourage inbreeding in plants?",
+      "options": [
+        "oecious",
+        "otandrous",
+        "noecious",
+        "rmaphrodite"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af37"
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A tall plant crossed with a dwarf one produces offspring of which half are tall and half are dwarf. What are the genotypes of the parents?",
+      "options": [
+        ", TT",
+        ", Tt",
+        ", tt",
+        ", tt"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af38"
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In man, the ability to roll the tongue is a variation classified as:",
+      "options": [
+        "atomical",
+        "ysiological",
+        "ructural",
+        "rphological"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af39"
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Darwin is considered the first scientist who correctly explained the theory of:",
+      "options": [
+        "ecial creation",
+        "ontaneous generation",
+        "e and disuse",
+        "ganic evolution"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af3a"
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The stem of a typical aquatic plant usually has many:",
+      "options": [
+        "r cavities",
+        "tercellular spaces",
+        "ter cavities",
+        "ter-conducting cells"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af3b"
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The role of the male adult honey bee is to:",
+      "options": [
+        "ean the hive",
+        "ntilate the hive",
+        "te with the queen",
+        "re for the young"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af3c"
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The ability of an organism to live successfully in an environment is known as:",
+      "options": [
+        "sistance",
+        "mpetition",
+        "ccession",
+        "aptation"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af3d"
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most important adaptation of xerophytes is the ability of the protoplasm to:",
+      "options": [
+        "sist being damaged by loss of water",
+        "ore sugar and minerals in the vacuoles",
+        "sorb water and swell",
+        "rink from the cell wall"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af3e"
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A green snake in green grass is able to escape notice from predators because of its:",
+      "options": [
+        "sruptive colouration",
+        "untershading",
+        "rning colouration",
+        "yptic colouration"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af3f"
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "For heterotrophic organisms, competition is least caused by the inadequacy of:",
+      "options": [
+        "tes",
+        "ace",
+        "ght",
+        "trients"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e15ae671a0f5f9fa2af40"
+    }
+  ]
+}

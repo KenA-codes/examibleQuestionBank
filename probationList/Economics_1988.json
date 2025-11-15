@@ -1,0 +1,859 @@
+{
+  "_id": "68657aea98e6271bc84dfc60",
+  "subjectName": [
+    "Economics"
+  ],
+  "year": 1988,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Scarcity in economics means that",
+      "options": [
+        "Human wants are limitless",
+        "The economy has very few resources",
+        "The economy can scarcely produce anything",
+        "Resources are limited in relation to wants"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Economics is often described as a sciences because",
+      "options": [
+        "Laboratory experiments are performed",
+        "It makes use of controlled experiments",
+        "It uses scientific methods to explain ob served phenomena and predict future events",
+        "It makes use of field work."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When a variable is associated with time period, it is",
+      "options": [
+        "A flow",
+        "A stock",
+        "Circular",
+        "Static"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Ufuoma is a consumer. His scale of preference shows that he prefers a pair of shoes to a wrist watch; he prefers the wrist watch to a pair of trousers; he prefers the pair of trousers to the pair of shoes. This means that Ufuoma is",
+      "options": [
+        "Rational",
+        "Consistent",
+        "Inconsistent",
+        "Transitive"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Air is essential to life but commands no price! Diamond is not essential to life but commands a high price! This is the paradox of",
+      "options": [
+        "Thrift",
+        "Value",
+        "Abundance",
+        "Scarcity"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The average product of labour in a given period is obtained by dividing the",
+      "options": [
+        "Number of workers by the total product",
+        "Total product by the number of hours actually worked",
+        "Change in total product by the change in the total number of workers",
+        "Total product by the number of workers"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Developments outside a given firm which reduce the firm costs are called",
+      "options": [
+        "Internal economics",
+        "External economics",
+        "External diseconomics",
+        "Optimum effects"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following BEST describes the products function?",
+      "options": [
+        "It indicates the best output to produce",
+        "It relates naira inputs to naira outputs",
+        "It relates physical outputs to physical inputs",
+        "It indicates the best way to combine factors to produces any given output."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A textile firm operates a plant in the North (where capital is expensive relative to labour) as well as a plant in the South (where labour is expensive relative to capital). In the diagram above, the Southern plant will minimize cost by combining labour and capital in the amounts indicated by",
+      "options": [
+        "P",
+        "Q",
+        "X",
+        "Y"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The Law of Diminishing Returns begins to operate when",
+      "options": [
+        "Total product begins to rise",
+        "Total products begins to fall",
+        "Marginal product begins to fall",
+        "Marginal product begins to rise"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The assumption of profit maximization implies that profits",
+      "options": [
+        "Is the most important consideration of the firm",
+        "Is the sole consideration of the firm",
+        "Assumes an insatiable proportion in the instinct of management",
+        "Is made in order to break-even"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Total fixed cost measures the cost of",
+      "options": [
+        "All plant and machinery",
+        "All assets where quantity cannot be varied in the short run",
+        "All assets upon which the firm has control",
+        "Property owned by the firm"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The output at which total revenue equals total cost is known as",
+      "options": [
+        "Profit-maximizing output",
+        "Break-even level output",
+        "Loss-minimizing output",
+        "Least-cost output"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The demand and supply equations for a commodity are given respectively as D = 20 -1/2P, S = 8 - 1/4P. Recalling that at equilibrium, D = S, the equilibrium price (P) and quantity (Q) can be obtained as",
+      "options": [
+        "P = 12, Q = 16",
+        "P = 14, Q = 10",
+        "P = 12, Q = 14",
+        "P = 16, Q = 12"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A commodity is said to have a derived demand when the commodity",
+      "options": [
+        "And another have joint demand",
+        "Is demanded because of what it can help to produce",
+        "Is demanded for different purposes",
+        "Has inelastic demand"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If all goods were free a rational consumer would consume",
+      "options": [
+        "An infinite amount of each good",
+        "The amount where marginal utility became zero",
+        "The same amount as when each good had a price",
+        "The amount where marginal utility was the highest"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following changes in equilibrium price and quantity is as a result of an upward shift in the market demand for a commodity?",
+      "options": [
+        "Both the price and the quantity fall",
+        "The price rises and the quantity falls",
+        "The price falls and the quantity rises",
+        "Both the price and the quantity rise"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One factor which influences the slope of a non-linear demand curve for a commodity is the",
+      "options": [
+        "Price of the commodity",
+        "Quantity of the commodity demanded",
+        "Availability of substitutes",
+        "Availability of complements"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If in the demand-supply diagram above the quantity supplied is OQ, then",
+      "options": [
+        "Price will be OP",
+        "There will be excess demand of RT",
+        "Price will be ON",
+        "Price will tend to rise"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the characteristics of an imperfect market is",
+      "options": [
+        "A large number of buyers and sellers",
+        "A lack of homogeneity of products",
+        "An adequate awareness of market conditions by buyers and sellers",
+        "The availability of substitutes"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Total revenue is always equal to",
+      "options": [
+        "Marginal revenue multiplied by the quantity sold",
+        "Average revenue plus marginal revenue",
+        "Marginal revenue multiplied by marginal cost",
+        "Average revenue multiplied by the quantity sole."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If prices fall in a perfectly competitive industry, the firms in that industry, in the short run will",
+      "options": [
+        "Not decrease in number",
+        "Keep output at the same level but make losses",
+        "Reduce production",
+        "Intensify the advertisement of their products"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is TRUE at the quantity of output where Average Cost (AC) per unit has reached its minimum level?",
+      "options": [
+        "AVC = FC",
+        "MC = AC",
+        "MC = AC",
+        "AC = AFC"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the short run, the monopolistic competitor",
+      "options": [
+        "Always makes profit",
+        "Always incurs a loss",
+        "Always break-even",
+        "May close down"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Price leadership is",
+      "options": [
+        "A form of tacit collusion",
+        "Used to explain price rigidity",
+        "Illegal in Nigeria",
+        "A form of overt collusion"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The additional revenue obtained by using one more until of a factor is called",
+      "options": [
+        "Average product",
+        "Marginal product",
+        "Diminishing returns",
+        "Marginal revenue product"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a public company, entrepreneurial functions are performed by the",
+      "options": [
+        "Workers",
+        "Shareholders",
+        "General manager",
+        "Board of directors"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most important limitations on the partnership as a form of business enterprises is the",
+      "options": [
+        "Implication for partners’ liability",
+        "Legal limitation placed on the number of partners",
+        "Difficulties arising from having two co-ordinate heads of a firm",
+        "Fact that each partner regardless of the capital he contributes, must have the same voting rights"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Under partnership, investors who have no desires to be actively involved in the day-to-day management of such organisations, are called",
+      "options": [
+        "Stockbrokers",
+        "Sleeping partners",
+        "Part-time investors",
+        "Ordinary partners"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Localization of industries refers to the",
+      "options": [
+        "Tendency to concentrate industries in particular areas",
+        "Sitting of industries in certain areas",
+        "Deliberate policy of influencing location of industries generally",
+        "Zoning of industries"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Restriction on credit creation by commercial banks can be effected through",
+      "options": [
+        "An overdraft",
+        "Loans and advances",
+        "Demand deposits",
+        "Liquidity ratio"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following factors enhances the ability of commercial bank to create money?",
+      "options": [
+        "Reduction in the reserve ratio",
+        "Leakage of cash out of the banking system",
+        "Excess reserves",
+        "Insistence on collateral security"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In any economy, what is used as money is determined by",
+      "options": [
+        "Government acceptance of a commodity standard",
+        "Government acceptance of an inconvertible paper standard",
+        "Laws and customs",
+        "Its use as a store of value"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The rate at which money changes hands is known as the",
+      "options": [
+        "Rate of inflation",
+        "Velocity of transaction",
+        "Velocity of money",
+        "Velocity of circulation"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Merchant banks perform all the following functions EXCEPT",
+      "options": [
+        "Raising of capital for industry",
+        "Provision of current account facilities",
+        "Management of investment portfolios",
+        "Provision of credit for overseas trade"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a direct tax?",
+      "options": [
+        "Sales tax",
+        "Purchase tax",
+        "Export duties",
+        "Property tax"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a direct tax?",
+      "options": [
+        "Excise tax",
+        "Corporate income tax",
+        "Property tax",
+        "Highway"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When a nation is experiencing balance of payments surplus, it is in a better position to",
+      "options": [
+        "Increase its foreign exchange reserves",
+        "Increase its liabilities to foreigners",
+        "Reduce its foreign exchange reserves",
+        "Devalue its national currency"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a good example of invisible item on balance of payments account?",
+      "options": [
+        "Shipping an aviation",
+        "Export and imports",
+        "Merchandise",
+        "Bullion"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Deficit financing is mostly facilitated by the existence of",
+      "options": [
+        "Stock exchange market",
+        "Commercial bank",
+        "Central bank",
+        "Capital market"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The Malthusian theory of population predicts that growth in food production will",
+      "options": [
+        "Keep pace with population growth",
+        "Be at a faster rate than population growth",
+        "Be at a slower rate than population growth",
+        "Be more rapid than population growth in the development countries"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If aggregate income is N500.00 and aggregate consumption is N400.00, this means that the average propensity to consume is",
+      "options": [
+        "0.20",
+        "0.80",
+        "1.25",
+        "2.00"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following items is subtracted when computing Gross National Product at factor cost, by the expenditure method?",
+      "options": [
+        "Consumption expenditure",
+        "Indirect taxes",
+        "Exports and property income from abroad",
+        "Gross Domestic Fixed Capital Formation"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following occurs in the circular flow of economic activities with no leakages?",
+      "options": [
+        "Consumption equals saving",
+        "Saving equals investment",
+        "Imports equal exports",
+        "National income equals national expenditure"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In estimating the national income of a country, the three approaches usually adopted are the",
+      "options": [
+        "Expenditure, value-added and output",
+        "Income, final product and output",
+        "Expenditure, income and output",
+        "Avoidance of double counting, final expenditure and value-added"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If technology becomes less capital-intensive, it means",
+      "options": [
+        "An increase in the capital/labour ratio",
+        "An increase in the labour/capital ratio",
+        "A fall in the labour/capital ratio",
+        "Increased unemployment"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most threatening problem for the less developed countries is",
+      "options": [
+        "The continual depletion of their soil fertility",
+        "The rise of nationalism",
+        "Population explosion",
+        "Their indiference towards economics growth"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An increase in an economy’s productive capacity implies",
+      "options": [
+        "An increase in the economy’s rate of capital replacement",
+        "An increase in the economy’s capital stock",
+        "A decrease in government spending",
+        "An increase in government spending"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Collectivism refers to the system of management of state enterprises in a",
+      "options": [
+        "Mixed economy",
+        "Co-operative organization",
+        "Capitalist economic system",
+        "Socialist economy"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The group of unemployed members of a community who are physically handicapped or disabled, is generally classfied under unemployment as.",
+      "options": [
+        "Frictional",
+        "Cyclical",
+        "Residual",
+        "Hidden"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

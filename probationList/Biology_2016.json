@@ -1,0 +1,859 @@
+{
+  "_id": "690decefa974b308b52bd2dd",
+  "subjectName": [
+    "Biology"
+  ],
+  "year": 2016,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following structures is a protective adaptive feature of the *Agama* Lizard to the environment?",
+      "options": [
+        "chal crest",
+        "aws",
+        "aly skin",
+        "lar fold"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e11"
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following adapts an insect for feeding?",
+      "options": [
+        "itable mouthparts",
+        "ired antennae",
+        "gmented body",
+        "inted appendages"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e12"
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following results from the cross between Yy and Yy?",
+      "options": [
+        "y : 2yy",
+        "y : yy : YY",
+        ": 2Yy : yy",
+        ": Yy : 2yy"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e13"
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT part of the carbon cycle?",
+      "options": [
+        "ganic carbon",
+        "composition",
+        "trates formation",
+        "otosynthesis"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e14"
+    },
+    {
+      "number": "5",
+      "subheadingA": "I. Tissues; II. System; III. Cell; IV. Organs",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the above is the level of organization of a leaf?",
+      "options": [
+        "",
+        "",
+        "I",
+        ""
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e15"
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In cellular respiration, energy is stored in the form of",
+      "options": [
+        "at energy",
+        "enosine diphosphate",
+        "enosine monophosphate",
+        "enosine triphosphate"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e16"
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The principal organ for the manufacture of food in autotrophy is the",
+      "options": [
+        "ot hair",
+        "owing root",
+        "ture fruit",
+        "een leaf"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e17"
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A disease that results from lack of iodine in the diet of humans is",
+      "options": [
+        "riberi",
+        "urvy",
+        "ckets",
+        "iter"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e18"
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The process whereby some organism with certain favourable features get established in an area is",
+      "options": [
+        "ne mutation",
+        "spersal",
+        "ercrowding",
+        "tural selection"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e19"
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The rise and fall of ocean water during the day is referred to as",
+      "options": [
+        "avity",
+        "pull",
+        "de",
+        "ne"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e1a"
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a producer in an aquatic habitat?",
+      "options": [
+        "*Nymphaea*",
+        "*Dryopteris*",
+        "*Planarian*",
+        "*Similium*"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e1b"
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The relationship that exist between a shark and *Remora* is",
+      "options": [
+        "rasitism",
+        "mmensalism",
+        "prophytism",
+        "mbiosis"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e1c"
+    },
+    {
+      "number": "13",
+      "subheadingA": "I. Tissue;<br> II. System;<br> III. Cell;<br> IV. Organ",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The correct sequence of increasing level of complexity is",
+      "options": [
+        "\\to II \\to III",
+        "\\to II \\to III \\to IV",
+        "\\to III \\to I \\to II",
+        "I \\to I \\to IV \\to II"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e1d"
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is not an inheritable disease?",
+      "options": [
+        "liomyelitis",
+        "ckle-cell anaemia",
+        "ntal illness",
+        "emophilia"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e1e"
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the finger print types occur most frequently in the population of human beings",
+      "options": [
+        "uble-loop",
+        "orl",
+        "ch",
+        "op"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e1f"
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Beriberi results from a deficiency of",
+      "options": [
+        "tamin A",
+        "tamin E",
+        "tamin B",
+        "tamin C"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e20"
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Bacteria which add atmospheric nitrogen to the soil are",
+      "options": [
+        "trefying bacteria",
+        "trifying bacteria",
+        "trogen fixing bacteria",
+        "nitrifying bacteria"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e21"
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The spines of the hedgehog is an adaptive features for",
+      "options": [
+        "urtship",
+        "fence",
+        "ter conservation",
+        "taining food"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e22"
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The dental formula of carnivores is represented by",
+      "options": [
+        "\\text{I} \\frac{0}{3}, \\text{C} \\frac{1}{1}, \\text{PM} \\frac{4}{4}, \\text{M} \\frac{2}{3}",
+        "\\text{I} \\frac{0}{2}, \\text{C} \\frac{1}{1}, \\text{PM} \\frac{4}{4}, \\text{M} \\frac{2}{4}",
+        "\\text{I} \\frac{2}{3}, \\text{C} \\frac{1}{1}, \\text{PM} \\frac{3}{3}, \\text{M} \\frac{4}{2}",
+        "\\text{I} \\frac{3}{3}, \\text{C} \\frac{1}{1}, \\text{PM} \\frac{4}{4}, \\text{M} \\frac{2}{3}"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e23"
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following instruments is used to measure temperature?",
+      "options": [
+        "ermometer",
+        "grometer",
+        "emometer",
+        "drometer"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e24"
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In human, puffiness and water retention in the body is a possible symptom of",
+      "options": [
+        "adder malfunction",
+        "or digestion",
+        "dney malfunction",
+        "esity"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e25"
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The theory of evolution which postulates that all living organisms have a common ancestor was proposed by",
+      "options": [
+        "nnaeus",
+        "rwin",
+        "marck",
+        "ndel"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e26"
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Mammals requires roughage in their food to",
+      "options": [
+        "ovide energy",
+        "ow down aging",
+        "se digestion",
+        "event disease"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e27"
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Variation can occur among offspring of living organism because",
+      "options": [
+        "eds are produced by self-pollination",
+        "gotes are produced by cross fertilisation",
+        "ey are produced by binary fission",
+        "ey are produced without fertilisation"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e28"
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most important biotic factors which affect plants and animals in the habitat are",
+      "options": [
+        "mperature and rainfall",
+        "mperature and turbidity",
+        "linity and relative humidity",
+        "infall and relative humidity"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e29"
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The lowest unit of classification is the",
+      "options": [
+        "ngdom",
+        "ass",
+        "ylum",
+        "ecies"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e2a"
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Two important process involved in the absorption and transport of materials in plants are",
+      "options": [
+        "accidity and turgidity",
+        "ffusion and plasmolysis",
+        "asmolysis and capillarity",
+        "mosis and diffusion"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e2b"
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A series of organism existing in an ecosystem through which energy is transformed can be referred to as",
+      "options": [
+        "od cycle",
+        "od chain",
+        "ramid on numbers",
+        "od web"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e2c"
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The cell organelle solely responsible for respiration is the",
+      "options": [
+        "cleus",
+        "cleolus",
+        "doplasmic reticulum",
+        "tochondrion"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e2d"
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In which part of Nigeria are Mangrove swamps found?",
+      "options": [
+        "ad Basin",
+        "ger Delta",
+        "nue Valley",
+        "mbilla Plateau"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e2e"
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The breeding methods that are useful in selective breeding of animals and plants are",
+      "options": [
+        "breeding and cross-breeding",
+        "breeding and hetero-breeding",
+        "breeding and out-breeding",
+        "breeding and self-breeding"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e2f"
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a small unicellular organism, diffusion is sufficient for transport because",
+      "options": [
+        "e surface area to volume ratio is small",
+        "ey have lungs for diffusion",
+        "terials have to move over long distance",
+        "e surface area to volume ratio is large"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e30"
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The function of the spinal cord is to",
+      "options": [
+        "and the body structure erect",
+        "ntrol involuntary actions",
+        "ansmit impulses to the brain",
+        "gulates developmental changes"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e31"
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The first vertebrates to ventures out of water and lives on land are the",
+      "options": [
+        "sces",
+        "phibians",
+        "ptiles",
+        "es"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e32"
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following factors mostly determine the major biomes of the world.",
+      "options": [
+        "essure and wind speed",
+        "mperature and wind speed",
+        "essure and rainfall",
+        "mperature and rainfall"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e33"
+    },
+    {
+      "number": "36",
+      "subheadingA": "I. Strong winds;<br> II. high temperature;<br> III. Dry and porous soils.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which group of plants are specially adapted to grow under environmental conditions stated above?",
+      "options": [
+        "allophytic",
+        "sophytes",
+        "rophytes",
+        "drophytes"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e34"
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The lowest unit of a biogeographical plant species is",
+      "options": [
+        "cro flora",
+        "cro fauna",
+        "cro fauna",
+        "cro flora"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e35"
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is rich source of vitamin K?",
+      "options": [
+        "mato",
+        "ava",
+        "lk",
+        "ion"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e36"
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Severe diarrhea, dehydration and weakness are symptoms of",
+      "options": [
+        "olera",
+        "ickenpox",
+        "laria",
+        "llow fever"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e37"
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A common characteristic found among the crustaceans is the possession of",
+      "options": [
+        "pair of antennae",
+        "pair of walking legs on each segment",
+        "ur pairs of walking legs on the cephalothorax",
+        "o pairs of antennae"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e38"
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In which of the following groups of invertebrates are flagella and cilia found",
+      "options": [
+        "nelids",
+        "otists",
+        "elenterates",
+        "thropods"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e39"
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Physiological variation in human population is evidence in the",
+      "options": [
+        "fference in the fingerprints",
+        "ysical appearance of individuals",
+        "fferences in height and weight",
+        "ility to roll the tongue"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e3a"
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In photosynthesis, oxygen is liberated during",
+      "options": [
+        "nversion of energy",
+        "otolysis",
+        "litting of carbon (IV)oxide",
+        "ycolysis"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e3b"
+    },
+    {
+      "number": "44",
+      "subheadingA": "Use the information below to answer the question that follows. [Diagram of graph]",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the total height of rice that grew within the years of cultivation?",
+      "options": [
+        "0 cm",
+        "9 cm",
+        "0 cm",
+        "9 cm"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e3c"
+    },
+    {
+      "number": "45",
+      "subheadingA": "Use the information below to answer the question that follows. [Diagram of graph]",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the average of the heights of rice within the period of cultivation?",
+      "options": [
+        "cm",
+        "8cm",
+        "cm",
+        "8cm"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e3d"
+    },
+    {
+      "number": "46",
+      "subheadingA": "Use the diagram below to answer the question that follows",
+      "diagramUrlA": "[Diagram of a type of vertebra]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The type vertebra represented in the diagram is",
+      "options": [
+        "las",
+        "mbar",
+        "is",
+        "crum"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e3e"
+    },
+    {
+      "number": "47",
+      "subheadingA": "Use the diagram below to answer the question that follows",
+      "diagramUrlA": "[Diagram of a type of vertebra with structure I labelled]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The structure labeled I is",
+      "options": [
+        "ntrum",
+        "ural canal",
+        "ural spins",
+        "ansverse process"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e3f"
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The type protective adaptation exhibited by the animal is",
+      "options": [
+        "ash coloration",
+        "untershading colouration",
+        "rning colouration",
+        "sruptive colouration"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e40"
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The structure labeled I is",
+      "options": [
+        "ctile",
+        "diosensitive",
+        "otosensitive",
+        "emoreceptive"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e41"
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Adaptive radiation is illustrated in",
+      "options": [
+        "dified insect mouthparts",
+        "ntition in mammals",
+        "ngs in birds and bats",
+        "pendages in insects"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1908e3fad8ef474d5e42"
+    }
+  ]
+}

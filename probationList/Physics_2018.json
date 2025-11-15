@@ -1,0 +1,587 @@
+{
+  "_id": "6851b6f903d37a7af32e7620",
+  "subjectName": [
+    "Physics"
+  ],
+  "year": 2018,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A man walks 1 km due east and then 1km due north. His displacement is",
+      "options": [
+        "√2km N 45° E",
+        "1km N 30°E",
+        "1km N 15° E",
+        "D.√2 km N 60° E"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The density of 400cm of palm oil was 0.9g before frying. If the density of the oil was 0.6 after frying, assuming no loss of oil to spilling, its new volume was",
+      "options": [
+        "360cm3",
+        "600cm3",
+        "240cm3",
+        "800cm3"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is true of an electrical charge?",
+      "options": [
+        "Positive charge means deficit electrons",
+        "Negative charge means excess of electrons",
+        "Electric current means movement of electrons",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Natural radioactivity consists of the emission of --.",
+      "options": [
+        "α-particles and β-rays",
+        "α-particles and X-rays",
+        "α-particles, β-rays and g-rays",
+        "γ-rays and X-rays"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following does NOT describe the image formed by a plane mirror?",
+      "options": [
+        "Erect",
+        "Laterally inverted",
+        "Same distance from mirror as object",
+        "Magnified"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the resultant resistance of the circuit given above?",
+      "options": [
+        "8Ω",
+        "11Ω",
+        "4Ω",
+        "3.6Ω"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following best describes the energy changes which take place when a steam engine drives a generator which lights a lamp?",
+      "options": [
+        "Heat → Light → Sound→ Kinetic",
+        "Heat→ Kinetic → Electricity→ Heat and Light",
+        "Kinetic→ Light → Heat →Electricity",
+        "Electricity →Kinetic→ Heat→ Light"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Cathode rays are",
+      "options": [
+        "High-energy electromagnetic waves",
+        "protons",
+        "neutrons",
+        "streams of electrons"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A narrow beam of white light can be split into different colours by a glass prism. The correct explanation is that",
+      "options": [
+        "white light is an electromagnetic wave",
+        "the prism has all the colours of the white light",
+        "different colours of white light travel with different speeds in glass",
+        "white light has undergone total internal reflection in the prism."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What type of reaction is represented by the following scheme? $^2_1X + ^2_1Y \\to ^3_2Z + ^1_0n + energy$",
+      "options": [
+        "Fusion reaction",
+        "Fission reaction",
+        "Chain reaction",
+        "Radioactive decay"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The amount of heat needed to raise the temperature of 10kg of copper by 1K its",
+      "options": [
+        "specific heat capacity",
+        "latent heat",
+        "heat capacity",
+        "internal energy"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "0g of silver is to be deposited by electrolysis on a surface by passing a steady current for 5.0 minutes, the current must be",
+      "options": [
+        "6000A",
+        "100A",
+        "10A",
+        "1A"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Shadows and eclipses result from the",
+      "options": [
+        "refraction of light",
+        "reflection of light.",
+        "defraction of light",
+        "rectilinear propagation of light"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following obeys Ohm’s Law?",
+      "options": [
+        "All metals",
+        "Diode only",
+        "All electrolytes",
+        "Glass"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following statements are TRUE OF ISOTOPES? I. Isotopes of an element have the same chemical properties because they have the same number of electrons II. Isotopes of elements are normally separated using physical properties III. Isotopes of an element has the same number of protons in their nuclei.",
+      "options": [
+        "I and II only",
+        "I and III only",
+        "II and III only",
+        "I, II and III."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following may be used to explain a mirage? I. Layers of air near the road surface have varying refractive indices in hot weather II. Road surfaces sometimes become good reflectors in hot weather. III. Light from the sky can be reflected upwards after coming close to and the road surface.",
+      "options": [
+        "I and III only",
+        "II and III only",
+        "II only",
+        "I, II and III"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following has the lowest internal resistance when new?",
+      "options": [
+        "Leclanche cell",
+        "Daniel cell",
+        "Torch battery",
+        "Accumulator"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The pitch of an acoustic device can be increased by",
+      "options": [
+        "decreasing the loudness",
+        "increasing the amplitude",
+        "increasing the frequency",
+        "decreasing the intensity."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the features of the fission process is that",
+      "options": [
+        "it leads to chain reaction",
+        "its products are not radioactive",
+        "neutrons are not released.",
+        "the sum of the masses of the reactants equals the sum of the masses of the products."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The linear expansivity of brass is $2 \\times 10^{-5} C^{-1}$. If the volume of a piece of brass is $15.00cm^3$ at $0^\\circ C$, what is the volume at $100^\\circ C$?",
+      "options": [
+        "16.03cm3",
+        "15.09cm3",
+        "16.00cm3",
+        "15.03cm3"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A lead bullet of mass 0.05kg is fired with a velocity of $200ms^{-1}$ into a lead block of mass 0.95kg. Given that the lead block can move freely, the final kinetic energy after impact is",
+      "options": [
+        "150 J",
+        "100 J",
+        "50 J",
+        "200 J"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductor are 20V and 40V respectively. What is the voltage across the capacitor?",
+      "options": [
+        "30 V",
+        "70 V",
+        "50 V",
+        "40 V"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the fraction of the atoms of a radioactive material left after 120 years is 1/64, what is the half- life of the material?",
+      "options": [
+        "20 years",
+        "10 years",
+        "2 years",
+        "24 years"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The time rate of loss of heat by a body is proportional to the",
+      "options": [
+        "temperature of its surroundings",
+        "temperature of the body",
+        "difference in temperature between the body and its surroundings",
+        "ration of the temperature of the boy to that of its surroundings."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A positive charged rod X is brought near an uncharged metal sphere Y and is then touched by a finger with X still in place. When the finger is removed, the result is that Y has",
+      "options": [
+        "no charge and a zero potential",
+        "a positive charge and a zero potential.",
+        "a negative charge and a positive potential.",
+        "a negative charge and a negative potential."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Electrical appliances in homes are normally earthed so that",
+      "options": [
+        "a person touching the appliances is safe from electric shock.",
+        "both the a.c. and d.c. sources can be used.",
+        "the appliances are maintained at a higher p.d. than the earth.",
+        "the appliances are maintained at a lower p.d. than the earth."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The process whereby a liquid turns spontaneously into vapour is called",
+      "options": [
+        "regelation",
+        "evaporation.",
+        "boiling.",
+        "sublimation."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The differences observed in solids, liquids and gases may be accounted for by",
+      "options": [
+        "their relative masses.",
+        "their melting points.",
+        "the spacing and forces acting between the molecules.",
+        "the different molecules in each of them."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Convex mirrors are used as driving mirrors because images formed are",
+      "options": [
+        "erect, virtual and diminished",
+        "erect, real and diminished",
+        "erect, virtual and magnified",
+        "inverted, virtual and diminished."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Musical instruments playing the same note can be distinguished from one another owing to the differences in their",
+      "options": [
+        "quality.",
+        "pitch.",
+        "intensity",
+        "loudness"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In homes, electrical appliances and lamps are connected in parallel because",
+      "options": [
+        "less current will be used",
+        "less voltage will be used.",
+        "parallel connection does not heat up the wires",
+        "series connection uses high voltage"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An object moves in a circular path of radius 0.5m with a speed of $1ms^{-1}$. What is its angular velocity?",
+      "options": [
+        "$8rads^{-1}$",
+        "$4rads^{-1}$",
+        "$1rads^{-1}$",
+        "$2rads^{-1}$"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What effort will a machine of efficiency 90% apply to lift a load of 180N if its efforts arm is twice as long as its load arm?",
+      "options": [
+        "100N",
+        "90N",
+        "80N",
+        "120N"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the effective capacitance of the circuit above.",
+      "options": [
+        "4μf",
+        "3 μf",
+        "2 μf",
+        "1 μf. ANSWER KEY"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

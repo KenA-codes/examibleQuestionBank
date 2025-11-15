@@ -1,0 +1,740 @@
+{
+  "_id": "6851ac8903d37a7af32e7617",
+  "subjectName": [
+    "Physics"
+  ],
+  "year": 2010,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which Physics Question Paper Type is given to you?",
+      "options": [
+        "Type A",
+        "Type B",
+        "Type C",
+        "Type D"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Two cars moving in the same direction have speeds of 100kmh- 1 and 130kmh-1. What is the velocity of the faster car as measured by an observer in the slower car?",
+      "options": [
+        "130 kmh-1",
+        "230 kmh-1",
+        "200 kmh-1",
+        "30 kmh-1"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A stone and a feather dropped from the same height above the earth surface. Ignoring air resistance, which of the following is correct?",
+      "options": [
+        "The stone and feather will both reach the ground at the same time.",
+        "The stone will reach the ground first",
+        "The feather will reach the ground first",
+        "The feather will be blown away by the wind while stone will drop steadily."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A car moves with an initial velocity of 25 ms-1 and reaches a velocity of 45 ms-1 in 10s. What is the acceleration of the car?",
+      "options": [
+        "5 ms-2",
+        "25 ms-2",
+        "20 ms-2",
+        "2 ms-2"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An object is weighed at different locations on the earth. What will be the right observation?",
+      "options": [
+        "Both the mass and weight vary",
+        "The weight is constant while the mass varies",
+        "The mass is constant while the weight varies",
+        "Both the mass and weight are constant."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A bob of weight 0.1N hangs from a massless string of length 50cm. A variable horizontal force which increases from zero is applied to pull the bob until the string makes an angle of 600 with the vertical. The work done is",
+      "options": [
+        "0.250 J",
+        "0.025 J",
+        "0.050 J",
+        "0.500 J"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The surfaces of conveyor belts are made rough so as to",
+      "options": [
+        "prevent the load from slipping",
+        "make them stronger",
+        "enable them to carry more load",
+        "protect them while carrying load."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A machine of velocity ratio 6 requires an effort of 400N to raise a load of 800N through 1m. Find the efficiency of the machine.",
+      "options": [
+        "50%",
+        "22.2%",
+        "33.3%",
+        "55.6%"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a wire 30cm long is extended to 30.5cm by a force of 300N. Find the strain energy of the wire.",
+      "options": [
+        "7.50 J",
+        "750.00 J",
+        "75.00 J",
+        "0.75 J"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a hydraulic press, the pump piston exerts a pressure of 100 Pa on the liquid. What force is exerted in the second piston of crosssectional area 3 m2?",
+      "options": [
+        "200 N",
+        "100 N",
+        "150 N",
+        "300 N"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The accurate measurement of the relative density of a substance in its powered form is done with a beam balance and",
+      "options": [
+        "an eureka can",
+        "a burette",
+        "a pipette",
+        "a density bottle."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A hydrometer is an instrument used in measuring",
+      "options": [
+        "density of liquid",
+        "relative density of a liquid",
+        "relative humidity of a liquid",
+        "vapour pressure of a fluid"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One special advantage of alcohol water over mercury as a thermometric liquid is its",
+      "options": [
+        "low freezing point",
+        "low boiling point",
+        "high specific heat capacity",
+        "low density."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The density of a certain oil on frying becomes 0.4kgm-3 with a volume of 20m-3. What will be its initial volume when its initial density is 0.8kgm-3 assuming no loss of oil due to spillage?",
+      "options": [
+        "10 kgm-3",
+        "5 kgm-3",
+        "8 kgm-3",
+        "12 kgm-3"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Heat is radiated by all hot objects in the form of",
+      "options": [
+        "light energy",
+        "solar energy",
+        "infrared ray",
+        "x-rays."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a container is filled with ice to the brim, what happens to the level of water when the ice completely melts?",
+      "options": [
+        "The water in the glass outflows.",
+        "The level of water drops.",
+        "The level of water remains unchanged",
+        "The level of water goes up."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The small droplet of water that forms on the grass in the early hours of the morning is",
+      "options": [
+        "dew",
+        "mist",
+        "fog",
+        "hail."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A vapour is said to be saturated when",
+      "options": [
+        "a dynamic equilibrium exists such that more molecules return to the liquid than are leaving it.",
+        "the vapour pressure is atmospheric",
+        "the temperature of the vapour varies",
+        "a dynamic equilibrium exists between liquid molecules and the vapour molecules."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The pressure of one mole of an ideal gas of volume 10-2m3 at a temperature of 27⁰C is [Molar gas constant = 8.3 Jmol-1K-1]",
+      "options": [
+        "2.24 x 104 Nm-2",
+        "2.24 x 105 Nm-1",
+        "2.49 x 105 Nm-1",
+        "2.49 x 104 Nm-1."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following has no effect on radiation?",
+      "options": [
+        "density.",
+        "temperature.",
+        "surface area.",
+        "nature of the surface."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The wavelength of a wave travelling with a velocity of 420ms- 1 is 42m. What is its period?",
+      "options": [
+        "1.0s",
+        "0.1s",
+        "0.5s",
+        "1.2s"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The sound of an electric bell dies down slowly when air is slowly pumped out from a bottle because",
+      "options": [
+        "sound cannot pass through the bottle",
+        "sound can pass through a vacuum",
+        "sound needs a material medium",
+        "the wavelength of sound becomes greater in the bottle."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "During a thunderstorm, the sound is heard over a long time. This phenomenon is referred to as",
+      "options": [
+        "refraction of sound",
+        "reverberation",
+        "superposition",
+        "diffraction of sound."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The velocity of sound in air at 16⁰C is 340ms-1. What will it be when the pressure is doubled and its temperature raised to 127⁰C?",
+      "options": [
+        "4,000ms-1",
+        "160,000 ms-1",
+        "8,000 ms-1",
+        "400 ms-1"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In comparing the camera and the human eye, the film of the camera functions as the",
+      "options": [
+        "iris",
+        "pupil",
+        "cornea",
+        "retina"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An object 4 cm high is placed 15 cm from a concave mirror of focal length 5 cm. The size of the image is",
+      "options": [
+        "3 cm",
+        "5 cm",
+        "4 cm",
+        "2 cm"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An object is embedded in a block of ice, 10cm below the plane surface. If the refractive index of the ice is 1.50, the apparent depth of the object below the surface is",
+      "options": [
+        "67 cm",
+        "7.63 cm",
+        "7.50 cm",
+        "2.50 cm"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is used for the correction of short- sightedness?",
+      "options": [
+        "Concave lens.",
+        "Concave mirror.",
+        "Convex mirror.",
+        "Convex lens."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Dispersion occurs when white light passes through a glass prim because of the",
+      "options": [
+        "different speeds of the colours in the glass.",
+        "high density of the glass.",
+        "defects in the glass.",
+        "different hidden colours in the glass."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When a positively charged rod is brought nearer the cap of a positively charged electroscope, the leaves divergence will.",
+      "options": [
+        "converge",
+        "remain constant",
+        "diverge",
+        "be induced."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Three capacitors of capacitance, 2μF, 4μF and 8μF are connected in parallel and a p.d of 6V is maintained across each capacitor, the total energy stored is",
+      "options": [
+        "6.90 x 10-6 J",
+        "6.90 x 10-4 J",
+        "2.52 x 10-4 J",
+        "2.52 x 10-6 J"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A cell of emf 12V and internal resistance 4Ω is connected to an external resistor of resistance 2 Ω Find the current flow.",
+      "options": [
+        "4 A",
+        "2 A",
+        "3 A",
+        "5 A"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Three 4Ω resistors connected in parallel have 3 potential difference of 16V applied across them. What is the total current in the circuit",
+      "options": [
+        "12 A",
+        "8 A",
+        "10 A",
+        "14 A"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Power supply is transmitted at a very high voltage and low current in order to",
+      "options": [
+        "increase the power supply",
+        "prevent overheating of the coil",
+        "make it travel fast",
+        "make it pass through the transformers."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A galvanometer with full-scale deflection of 10mA is to be converted to a voltmeter with full- scale deflection of 5 V. If a series resistance of 498Ω is used for the conversion, the resistance of the galvanometer is",
+      "options": [
+        "2 Ω",
+        "10 Ω",
+        "5 Ω",
+        "1 Ω"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Two inductors of inductances 5 mH and 15mH are connected in series and a current of 5A flows through them. The total energy stored in the inductors is",
+      "options": [
+        "250.0 J",
+        "50.0 J",
+        "62.5 J",
+        "500.0 J"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In alternating current circuit at resonance, the angle of lead or lag is .",
+      "options": [
+        "º 2",
+        "0°",
+        "º 3",
+        "𝜋°"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In Faraday’s law of electrolysis, a graph of mass deposited against the quantity of electricity is plotted. The slope of the graph gives",
+      "options": [
+        "the electrochemical equivalent",
+        "the charge released",
+        "the current flowing",
+        "the energy released"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a discharge tube, most of the gas is pumped out so that electricity is conducted at",
+      "options": [
+        "steady voltage",
+        "high pressure",
+        "high pressure",
+        "low voltage."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The radioisotope 235 U decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic numbers of the resulting daughter element?",
+      "options": [
+        "91 and 227",
+        "92 and 238",
+        "227 and 91",
+        "215 and 88."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The ground state energy for a hydrogen atom is 5.44 x 10-19 J. If an electron drops from zero to ground state, calculate the frequency of the emitted radiation [h = 6.6 x 10-34 Js]",
+      "options": [
+        "2.0 x 1016Hz",
+        "2.0 x 1015Hz",
+        "5.0 x 1015Hz",
+        "5.0 x 1016Hz"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Transistors are used for the",
+      "options": [
+        "conversion of a.c. to d.c.",
+        "conversion of d.c. to a.c.",
+        "amplification of signals",
+        "rectification of signals."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a pure semiconductor?",
+      "options": [
+        "Silicon",
+        "Phosphorus",
+        "Transistor",
+        "Carbon ANSWER KEYS:"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

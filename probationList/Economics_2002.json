@@ -1,0 +1,859 @@
+{
+  "_id": "68657bf1eb442f45e1aa54de",
+  "subjectName": [
+    "Economics"
+  ],
+  "year": 2002,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If goods P and Q are purchased by a consumer, a fall in the price of P with the price of Q unchanged will cause the budget line to",
+      "options": [
+        "rotate outwards away from the origin",
+        "Shift parallel inwards",
+        "rotate inwards towards the origin",
+        "shift parallel outwards"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the reasons for an exceptional demand curve is the",
+      "options": [
+        "availability of credit facilities",
+        "availability of substitutes",
+        "change in the price of the commodity",
+        "expectation of a future change in price"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The elasticity of supply of perishable goods is",
+      "options": [
+        "elastic",
+        "zero",
+        "inelastic",
+        "unitary"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the pie chart above, the percentage for children is equivalent to",
+      "options": [
+        "2880",
+        "1440",
+        "900",
+        "720"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the diagram above, the marginal rate of substitution of X for Y for a movement from S to T is",
+      "options": [
+        "5:1",
+        "1:5",
+        "18:4",
+        "13:3"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A scientific approach in economics entails",
+      "options": [
+        "a normative method only",
+        "both inductive and deductive methods",
+        "a deductive method only",
+        "both inductive and normative methods"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a centrally planned economy, the economic problem of deciding what to produce is dependent on",
+      "options": [
+        "state command",
+        "relative prices",
+        "average cost",
+        "average profit"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A shift in supply curve indicates that a different quantity will be supplied at each possible price because",
+      "options": [
+        "supply is facing competition",
+        "consumers are willing to pay higher prices",
+        "price has changed",
+        "other factors than price have changed"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The demand for factors of production is an example of",
+      "options": [
+        "competitive demand",
+        "derived demand",
+        "composite demand",
+        "joint demand"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A student has N30.00 with which to buy a ruler costing N18.00 and an exercise book costing N25.00. If he buys the exercise book, his opportunity cost is",
+      "options": [
+        "the exercise book",
+        "N25.00",
+        "N18.00",
+        "the ruler"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Import substitution aims at",
+      "options": [
+        "substituting agricultural products with industrial ones",
+        "substituting imports with agricultural exports",
+        "improving the balance of payments",
+        "the diversification of industries"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Some of the key indicators of underdevelopment in a country are",
+      "options": [
+        "poverty, low level of literacy and low income",
+        "poverty, low income and low unemployment level",
+        "poverty, high level of literacy and low income",
+        "low level of illiteracy, low income and poverty"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "ECOWAS has taken a giant step towards economic integration by",
+      "options": [
+        "introducing a common currency for travellers",
+        "presenting a united front against foreign economic exploiters",
+        "holding frequent meetings at various state capitals",
+        "increasing economic stability among member states"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the major factors militating against industrialization in Nigeria is the",
+      "options": [
+        "frequent breakdown of equipment",
+        "failure to get foreign partners and supporters",
+        "inadequacy of infrastructural facilities",
+        "absence of government participation"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The types, sources and uses of government income are mainly concerned with",
+      "options": [
+        "public budget",
+        "public finance",
+        "public expenditure",
+        "public revenue"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The present privatization policy in Nigeria is aimed at",
+      "options": [
+        "reducing the prices of goods and services",
+        "increasing efficiency in production",
+        "poverty alleviation",
+        "reducing income inequality"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the roles of the NNPC in the production and refining of crude oil is to",
+      "options": [
+        "secure maximum government revenue and regulate price",
+        "protect the local operators in the petroleum industry",
+        "prevent the smuggling of petroleum products",
+        "satisfy the domestic consumption of petroleum products"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One way of correcting the balance of payments problem of a country is to",
+      "options": [
+        "devalue the currency",
+        "introduce import-promotion measures",
+        "deemphasize import",
+        "buy investments abroad"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the problems arising from the localization of industries is",
+      "options": [
+        "high prices of output",
+        "structural unemployment",
+        "the exportation of output",
+        "the scarcity of foreign exchange"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The major purpose of the African Development Bank is to",
+      "options": [
+        "educate peasant farmers in new techniques",
+        "provide loans for development banks in distress",
+        "provide loans for infrastructural development",
+        "provide loans for trade development"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "As a country gets more developed, the percentage of labour engaged in agriculture tends to",
+      "options": [
+        "switch over to trading",
+        "remain constant",
+        "increase steadily",
+        "decrease steadily"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A deficit budget can be used to",
+      "options": [
+        "starve the economy of funds for economic development",
+        "protect the economy from inflation",
+        "stimulate recovery from trade depression, provide measures to remedy",
+        "balance of payments"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the diagrams above, the opportunity cost of a unit of cotton in terms of cocoa is",
+      "options": [
+        "20 for Ghana, 60 for Nigeria",
+        "1/4 for Ghana, 1/2 for Nigeria",
+        "5 for Ghana, 30 for Nigeria",
+        "4 for Ghana, for Nigeria"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "External finance for a limited liability company is mainly sourced through",
+      "options": [
+        "the issuing of shares",
+        "the least equipment",
+        "trade credits",
+        "loans"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the major criticisms of the 1962 National Development Plan is that",
+      "options": [
+        "its execution was based on foreign-sourced financial measures/resources",
+        "it failed to incorporate lessons gained from earlier plans to enhance efficiency",
+        "planned expenditure based too heavily on expected earnings from crude oil",
+        "it came too quick after the country's independence"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following yields more revenue to Nigeria?",
+      "options": [
+        "Value added tax",
+        "Royalties",
+        "Direct tax",
+        "Indirect tax"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the short run a firm's marginal cost curve above the point of shut-down is its",
+      "options": [
+        "supply curve",
+        "revenue curve",
+        "demand curve",
+        "cost curve"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The benefits that accrue to a firm as a result of an improvement in the industry it belongs to are called",
+      "options": [
+        "internal economies of scale",
+        "market economies",
+        "external economies of scale",
+        "economies of scale"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "As a firm increases its output the average fixed cost",
+      "options": [
+        "tends to decrease continuously",
+        "rises and then falls",
+        "remains constant",
+        "tends to rise continuously"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The economic policy of deregulation is aimed at encouraging",
+      "options": [
+        "a competitive market structure",
+        "an oligopolistic market structure",
+        "a duopolistic market structure",
+        "a monopolistic market structure"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The effect of an increase in demand for a commodity accompanied by a decrease in supply will be to",
+      "options": [
+        "decrease the equilibrium quantity and affect the price in an indeterminate way",
+        "raise the price of the commodity and affect the quantity in an indeterminate way",
+        "lower its price while affecting the equilibrium quantity in an indeterminate way",
+        "raise its price as well as the equilibrium quantity"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Under conditions of perfect competition a firm's supply curve is determined by its",
+      "options": [
+        "fixed cost curve",
+        "variable cost curve",
+        "total cost curve",
+        "marginal cost curve"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The short-run equilibrium output for a monopolist is determined by the",
+      "options": [
+        "intersection of the marginal cost and marginal revenue curves",
+        "highest point on the total revenue curve",
+        "intersection of the average revenue and average cost curves",
+        "minimum point on the average cost curve"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the diagram above what is the excess demand at the price of N60?",
+      "options": [
+        "3000",
+        "100",
+        "600",
+        "200"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The equilibrium wage in an economy is determined by the",
+      "options": [
+        "supply and demand for labour",
+        "rate of inflation",
+        "workers' union",
+        "public service"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the growth rate of available resources continuously outpaces that of the population, a country will eventually experience",
+      "options": [
+        "under population",
+        "maximum population",
+        "optimistic",
+        "a decrease in output-input ratio"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The middlemen in the chain of distribution are",
+      "options": [
+        "wholesalers and retailers",
+        "manufacturers and consumers",
+        "consumers and wholesalers",
+        "retailers and consumers"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The Malthusian theory of population growth is often said to be",
+      "options": [
+        "oversimplified",
+        "ambiguous",
+        "optimistic",
+        "pessimistic"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Improved labour efficiency can be measured by",
+      "options": [
+        "the constancy of input-output ratio",
+        "an increase in input-output ratio",
+        "an increase in output-input ratio",
+        "a decrease in output-input ratio"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "National income estimates can be used to",
+      "options": [
+        "compare a country's growth rate with that of another over a period of time",
+        "differentiate between the rich and the poor in a country",
+        "prepare a country's annual budget",
+        "project the level of a country's economic development"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In Nigeria, the bank that can correctly be described as a unit bank is",
+      "options": [
+        "the Central Bank",
+        "Community Bank",
+        "People's Bank",
+        "Mortgage Bank"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Creeping inflation implies that there is a",
+      "options": [
+        "rapid but not permanent increase in the general price level",
+        "gentle but not permanent increase in the general price level",
+        "rapid and persistent increase in the general price level",
+        "gentle and persistent increase in the general price level"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a closed economy, the marginal propensity to consume is 0.6 and the average propensity to consume 0.8. The value of the multiplier is",
+      "options": [
+        "2.7",
+        "2.6",
+        "2.4",
+        "2.5"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Excess demand inflation can be controlled through",
+      "options": [
+        "contractionary trade policy",
+        "expansionary monetary policy",
+        "contractionary fiscal policy",
+        "expansionary fiscal policy"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary objective of the NDIC is to",
+      "options": [
+        "provide regulations guiding the finance houses",
+        "give protection to banks against fraud",
+        "give protection to bank depositors",
+        "give protection to the CBN against fraud"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Liquidity preference refers to the",
+      "options": [
+        "wish to hold more funds for precautionary purposes",
+        "need to increase the money supply in order to lower the interest rate",
+        "demand to hold money as assets rather than as stocks",
+        "need to borrow money for short periods to meet some temporary crises"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the country's GNP in the current year is N65 billion and the GNP deflator is",
+      "options": [
+        "30.0",
+        "130.0",
+        "15.0",
+        "1.3"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Insurance companies invest mainly in instruments traded on the",
+      "options": [
+        "commodity market",
+        "open market",
+        "capital market",
+        "money market"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The solution to the problem of double coincidence of wants requires a buyer and a seller whose demands are precisely",
+      "options": [
+        "complementary",
+        "supplementary",
+        "composite",
+        "competitive"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The stock exchange is a market for the buying and selling of",
+      "options": [
+        "existing shares",
+        "monetary instruments",
+        "new shares",
+        "treasury bills"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

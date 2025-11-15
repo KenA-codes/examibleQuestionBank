@@ -1,0 +1,505 @@
+{
+  "_id": "6851a6e103d37a7af32e7611",
+  "subjectName": [
+    "Mathematics"
+  ],
+  "year": 2015,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The sum of the progression is 1+x+x2+…=",
+      "options": [
+        "√3 units",
+        "3√units",
+        "√41 + 20√2 units",
+        "√41 + 202 units"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find a square root of 170- 20 √30",
+      "options": [
+        "2√10 − 5",
+        "3√5 − 8√6",
+        "2√5 − 5√6",
+        "5√5 −2√6"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Multiply (x+3y + 5) by (2x2 + 5y + 2)",
+      "options": [
+        "2x3 +3yx2+10xy+15y2+13y+10x2+2x+10",
+        "2x3+6yx2+5xy+15y2 +31y+10x2+2x+10",
+        "2x3 +3yx2+5xy+10y2+13y+5x2+2x+10",
+        "2x3 +6yx2+5xy+15y2+13y+10x2+2x+10"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Simplify a a (a2− 1 ) a",
+      "options": [
+        "a 2/3",
+        "a−1/2",
+        "a 1/5",
+        "a 1/3"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A ladder resting on a vertical wall makes an angle whose days, he spends X cedis per day. The amount he has to spend per day for the rest of his stay is",
+      "options": [
+        "1.3m",
+        "1.1m",
+        "1.2m",
+        "1.3m"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "After getting a rise of 15%, a man’s new monthly salary is ₦345. How much per month did he earn before the increase?",
+      "options": [
+        "₦350",
+        "₦396.75",
+        "₦300",
+        "₦293.25"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "1 is",
+      "options": [
+        "1.5",
+        "0.8",
+        "1.0",
+        "1.05"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A solid cylinder of radius 3cm has a total surface area of 36cm2. Find its height",
+      "options": [
+        "2cm",
+        "3cm",
+        "4cm",
+        "5cm"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When a dealer sells a bicycle for ₦81, he makes a profit of 8%. What did he pay for the bicycle?",
+      "options": [
+        "₦75",
+        "₦74.52",
+        "₦75",
+        "₦75.52"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A pentagon has four of its angles. If the size of the fifth angle is 60°. Find the size of each of the four equal angle is",
+      "options": [
+        "60°",
+        "108°",
+        "120°",
+        "150°"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Write the decimal number 39 to base 2",
+      "options": [
+        "56:77",
+        "56:105",
+        "28:105",
+        "28:49"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find a two-digit number such that three times the ten digits is 2 less than twice the units digit and twice the units digit and twice the number is 20 greater than the number obtained by reversing the digits.",
+      "options": [
+        "24",
+        "42",
+        "74",
+        "47"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In ΔXYZ, XY = 3 cm, XZ= 5 cm and YZ= 7cm. If the bisector of XYZ meets XZ at W, what is the length of XW?",
+      "options": [
+        "1.5 cm",
+        "2.5 cm",
+        "3 cm",
+        "4cm"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Marks scored by some children in an arithmetic test are 5, 3, 6, 9, 4, 7, 8, 6, 2, 7, 8, 4, 5, 2, 1, 0, 6, 9, 0, 8. The arithmetic mean of the marks is",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "4"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The graphical methods of solving the equation x3 + 3x2 +4x −28 =0 is by drawing the graphs of the curves",
+      "options": [
+        "y=x3 and y= 3x2 + 4x −48",
+        "y= x3 +3x2+ 4x−28 and the line y =1",
+        "y=x3 + 3x2 +4x and y = 28⁄x",
+        "y= x2 + 3x + 4 and y = 28⁄x"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A sector of a circle is bounded by two radii 7 cm long and an arc of length 6cm. Find the area of the sector.",
+      "options": [
+        "42 cm2",
+        "3 cm2",
+        "21 cm2",
+        "24 cm2"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Express 150 kilometres per second in metres per hour.",
+      "options": [
+        "7.8 × 105",
+        "4.5 × 106",
+        "7,800,000",
+        "4.68 × 106"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The arithmetic mean of the ages of 30 pupils in a class is 15.3 years. One boy leaves the class and one girl is enrolled, and the new average age of 30 pupils in the class becomes 15.2 years. How much older is the boy than the girl?",
+      "options": [
+        "30 years",
+        "6 years",
+        "9 years",
+        "3 years"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A world congress of mathematician was held in Nice in 1970 with 800 people participating. There were 300 from Europe, 200 from America, 150 from Asia, 45 from Africa and 105 from Australia. Representing the above on a Pie Chart, the angle of the sector representing the participants from Asia is",
+      "options": [
+        "150°",
+        "67.5°",
+        "67°",
+        "135°"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Find the sum to infinity of the following sequence: 1, 9⁄10 , 9⁄102, 9⁄103",
+      "options": [
+        "1⁄10",
+        "9⁄10",
+        "10⁄9",
+        "10"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given that loge 2 = 0.693 and loge 3 =1/097, Find loge 13.5",
+      "options": [
+        "1.404",
+        "1.790",
+        "2.598",
+        "2.790"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the function f (x) = x3 + 2x2 + qx − 6 is divisible by the factor x+1, find q.",
+      "options": [
+        "−5",
+        "−2",
+        "2",
+        "5"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What value of g will make the expression 4x2 −18xy + y +g a perfect square? calculate the area of the sector subtended by the given angle.",
+      "options": [
+        "22 cm2",
+        "44 cm2",
+        "66 cm2",
+        "88 cm2"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The angle of elevation of a building from a measuring instrument placed on the ground is 30°. If the building is 40m high, how far is the instrument from the foot of the building?",
+      "options": [
+        "9",
+        "9y2 4",
+        "81x2",
+        "40√3 m"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An arc of a circle subtends an angle 70° at the centre. If the radius of the circle is 6cm,",
+      "options": [
+        "− 1⁄x + sin x + k",
+        "ln x + sin x + k",
+        "In x -sin x + k",
+        "−1⁄8 sin x + k √ ("
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "dy cos (3x2 − 2x) is equal to dx",
+      "options": [
+        "−sin(6x − 2) 2 ( 0 −1)",
+        "−sin(3x − 2) ( 0 1)",
+        "(6x−2) sin(3x2 − 2x)",
+        "−(6x−2) sin(3x2 − 2x)"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If log8 10 = x, evaluate log8 5 in terms of x.",
+      "options": [
+        "1⁄2x",
+        "x − 1⁄4",
+        "x −1⁄3",
+        "x −1⁄2"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "00345 × 1.25",
+      "options": [
+        "15",
+        "20",
+        "40",
+        "75"
+      ],
+      "answer": "",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The first term of a geometrical progression is twice its common ratio. Find the sum of the first two terms of the progression if its sum to infinity is 8.",
+      "options": [
+        "8⁄5",
+        "8⁄3",
+        "72⁄25",
+        "56⁄9"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In ΔMNO, MN = 6 units, MO = 4 units and NO =12 units. If the bisector of angle M meets NO at P, calculate NP.",
+      "options": [
+        "4.8 units",
+        "7.2 units",
+        "8.0 units where S = −1 1 1 −2 identity matrix ) and I is the",
+        "18.0 units"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Evaluate ∫ n (sin x − cos x) dx 4 −2 1 ( ) −1 1",
+      "options": [
+        "",
+        "√2 − 1",
+        "−√2 − 1",
+        "−√2 ANSWERS"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    }
+  ]
+}

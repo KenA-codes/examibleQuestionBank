@@ -1,0 +1,859 @@
+{
+  "_id": "686020f871fea85cd95eeb1f",
+  "subjectName": [
+    "Biology"
+  ],
+  "year": 2012,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which Question Paper Type of Biology as indicated above is given to you?",
+      "options": [
+        "pe Green",
+        "pe Purple",
+        "pe Red",
+        "pe Yellow"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22622"
+    },
+    {
+      "number": "2",
+      "subheadingA": "Use the diagram below to answer question 2 and 3",
+      "diagramUrlA": "[Diagram of an Animal Cell with organelles labelled I, II, III, IV]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The organelle responsible for heredity is labelled",
+      "options": [
+        "",
+        "",
+        "I",
+        ""
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22623"
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The part labelled IV is the",
+      "options": [
+        "tochondrion",
+        "ll wall",
+        "doplasmic reticulum",
+        "cleus"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22624"
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is most advanced in the evolutionary trend of animals?",
+      "options": [
+        "ver fluke",
+        "rthworm",
+        "ail",
+        "ckroach"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22625"
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is the lowest category of classification?",
+      "options": [
+        "ass",
+        "ecies",
+        "mily",
+        "nus"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22626"
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Plants that show secondary growth are usually found among the",
+      "options": [
+        "allophytes",
+        "eridophytes",
+        "nocotyledons",
+        "cotyledons"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22627"
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The fungi are distinct group of eukaryotes mainly because they have",
+      "options": [
+        "ores",
+        "chlorophyll",
+        "ny fruiting bodies",
+        "xual and sexual reproduction"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22628"
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An arthropod that is destructive at early stage of its life cycle is",
+      "options": [
+        "tterfly",
+        "squito",
+        "e",
+        "llipede"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22629"
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An animal body that can be cut along its axis in any plane to give two identical parts is said to be",
+      "options": [
+        "dially symmetrical",
+        "laterally symmetrical",
+        "ymmetrical",
+        "mmetrical"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2262a"
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following possesses mammary gland?",
+      "options": [
+        "gfish",
+        "ale",
+        "ark",
+        "tfish"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2262b"
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The feature that links birds to reptiles in evolution is the possession of",
+      "options": [
+        "athers",
+        "eak",
+        "eleton",
+        "ales"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2262c"
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Countershading is an adaptive feature that enables animals to",
+      "options": [
+        "ght enemies",
+        "main undetected",
+        "rn enemies",
+        "tract mates"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2262d"
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following plant structures lacks a waterproof cuticle?",
+      "options": [
+        "af",
+        "em",
+        "ot",
+        "oot"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2262e"
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the mammalian male reproductive system, the part that serves as a passage for both urine and semen is the",
+      "options": [
+        "ethra",
+        "eter",
+        "adder",
+        "minal vesicle"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2262f"
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In plants which of the following is required in minute quantities for growth?",
+      "options": [
+        "pper",
+        "tassium",
+        "osphorus",
+        "dium"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22630"
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following organisms is both parasitic and autotrophic?",
+      "options": [
+        "ndew",
+        "ran thus",
+        "izopus",
+        "peworm"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22631"
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A function of the hydrochloric acid produced in the human stomach during digestion is to",
+      "options": [
+        "utralise the effect of bile",
+        "agulate milk protein and emulsify fats",
+        "op the action of ptyalin",
+        "eak up food into smaller particles"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22632"
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a polysaccharide?",
+      "options": [
+        "ucose",
+        "crose",
+        "ltose",
+        "llulose"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22633"
+    },
+    {
+      "number": "19",
+      "subheadingA": "Use the diagram below to answer this question 19 and 20.",
+      "diagramUrlA": "[Diagram of a young plant showing arrows I, II, III, IV representing movement of materials]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Arrows represent directional movement materials.<br>Transportation in the xylem is represented by",
+      "options": [
+        "",
+        "",
+        "I",
+        ""
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22634"
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The arrow labelled II represents the",
+      "options": [
+        "lease of oxygen",
+        "take of carbon (IV) oxide",
+        "vement of photosynthates",
+        "vement of nutrients"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22635"
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the kidney of mammals, the site of ultrafiltration is the",
+      "options": [
+        "iniferous tubule",
+        "wman's capsule",
+        "op of Henle",
+        "nal tubule"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22636"
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is involved in secondary thickening in plants?",
+      "options": [
+        "llenchyma and xylem cells",
+        "scular cambium",
+        "scular cambium and cork cambium",
+        "rk cambium and sclerenchyma"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22637"
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An example of a fruit that develops from a single carpel is",
+      "options": [
+        "ro",
+        "mato",
+        "an",
+        "ange"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22638"
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "[Diagram showing parts of a flower/pistil with IV representing the ovule]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The developing embryo is usually contained in the part labelled",
+      "options": [
+        "",
+        "I",
+        "",
+        ""
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22639"
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The function of the part labelled III is to",
+      "options": [
+        "oduce egg cells",
+        "otect sperms during fertilization",
+        "cret hormones during coitus",
+        "otect the developing embryo"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2263a"
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Plant growth can be artificially stimulated by the addition of",
+      "options": [
+        "bberellin",
+        "nin",
+        "scisic acid",
+        "hylene"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2263b"
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The autonomic nervous system consists of neurons that control the",
+      "options": [
+        "luntary muscles",
+        "art beat",
+        "ngue",
+        "nds"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2263c"
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Plants of temperate origin can be grown in tropical areas in the vegetation zones of the",
+      "options": [
+        "in forest",
+        "inea savanna",
+        "dan savanna",
+        "ntane forest"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2263d"
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The water cycle is maintained mainly by",
+      "options": [
+        "aporation of water in the environment",
+        "aporation and condensation of water in the environment",
+        "ndensation of water in the environment",
+        "anspiration and respiration in plants"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2263e"
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Organisms living in an estuarine habitat are adapted to",
+      "options": [
+        "thstand wide fluctuations in temperature",
+        "rvive only in water with low salinity",
+        "thstand wide fluctuations in salinity",
+        "ed only on phytoplankton and dead organic matter"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2263f"
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The presence of stilt roots, pneumatophores, sunken stomata and salt glands are adaptive features of plants found in the",
+      "options": [
+        "opical rainforest",
+        "ngrove swamps",
+        "assland",
+        "ntane forest"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22640"
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following animals can exist solely on the water they get from food and metabolic reactions?",
+      "options": [
+        "rest arboreal dweller",
+        "sert dwellers",
+        "rest-ground dweller",
+        "inforest dwellers"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22641"
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most likely first colonizers of a bare rock are",
+      "options": [
+        "sses",
+        "rns",
+        "chen",
+        "ngi"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22642"
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The carrying capacity of a habitat is reached when the population growth begins to",
+      "options": [
+        "crease slowly",
+        "crease exponentially",
+        "ow down",
+        "main steady"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22643"
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The abiotic factors that control human population include",
+      "options": [
+        "sease and famine",
+        "ace and rainfall",
+        "ooding and earthquake",
+        "mperature and disease"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22644"
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An indigenous method of renewing and maintaining soil fertility is by",
+      "options": [
+        "earing farms by burning",
+        "anting one crop type",
+        "ding inorganic fertilizers yearly",
+        "op rotation and shifting cultivation"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22645"
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The diseases caused by water-borne pathogens include",
+      "options": [
+        "norrhoea and poliomyelitis",
+        "phoid and syphilis",
+        "berculosis and cholera",
+        "phoid and cholera"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22646"
+    },
+    {
+      "number": "38",
+      "subheadingA": "Use the diagram below to answer question 38 and 39.",
+      "diagramUrlA": "[Bar chart showing frequency distribution of cassava plant height]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The graph illustrates",
+      "options": [
+        "e highest frequency for height of 2 metres",
+        "discontinuously varying character",
+        "continuously varying character",
+        "tal yield in a cassava farm"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22647"
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The largest number of cassava plants has an approximate height of",
+      "options": [
+        "4m",
+        "6m",
+        "8m",
+        "0m"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22648"
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is true in blood transfusion?",
+      "options": [
+        "rson of blood group AB can donate blood only to another person of blood group AB",
+        "rsons of blood groups A and B can donate or receive blood from each other",
+        "person of blood group AB can receive blood only from persons of blood group A or B",
+        "person of blood group O can donate only to a person of blood group O"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22649"
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A yellow maize is planted and all the fruits obtained are of yellow seeds. When they are cross-bred, yellow seeds and white seeds are obtained in a ratio 3:1. The yellow seed is said to be",
+      "options": [
+        "n-heritable",
+        "x-linked",
+        "recessive trait",
+        "dominant trait"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2264a"
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When a colour-blind man marries a carrier woman. What is the probability of their offspring being colour blind?",
+      "options": [
+        "%",
+        "%",
+        "%",
+        "0%"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2264b"
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The correct base pairing for DNA is",
+      "options": [
+        "enine \\to thymine and guanine \\to cytosine",
+        "enine \\to guanine and thymine \\to cytosine",
+        "enine \\to cytosine and guanine \\to thymine",
+        "enine \\to adenine and cytosine \\to cytosine"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2264c"
+    },
+    {
+      "number": "44",
+      "subheadingA": "Use the diagram above to answer this question 44 and 45",
+      "diagramUrlA": "[Graph showing two Paramecium populations, P. aurelia and P. caudatum, competing]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The type of interaction shown is referred to as",
+      "options": [
+        "terspecific competition",
+        "traspecific competition",
+        "tualism",
+        "operation"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2264d"
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following statement is true of the interaction?",
+      "options": [
+        "aurelia is better adapted for obtaining food than P. caudatum",
+        "caudatum is better adapted for obtaining food than P. aurelia",
+        "th organisms cannot coexist",
+        "th organisms cannot reproduce"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2264e"
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The short thick break in birds is an adaptation for",
+      "options": [
+        "ushing seeds",
+        "cking nectar",
+        "aring flash",
+        "raining mud"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc2264f"
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The basking of *Agama* lizards in the sun is to",
+      "options": [
+        "ange the colour of their body",
+        "ise their body temperature to become active",
+        "ght to defend their territories",
+        "tract the female for courtship"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22650"
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The significance of a very large number of termites involved in nuptial swarming is to",
+      "options": [
+        "ovide birds with plenty of food",
+        "sure their perpetuation despite predatory pressure",
+        "arch for a favourable place to breed",
+        "sure that every individual gets a mate"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22651"
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The use and disuse of body parts and the inheritance of acquired traits were used to explain",
+      "options": [
+        "rwin's theory",
+        "marck's theory",
+        "netic drift",
+        "ne flow"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22652"
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "From his study of Galapagos finches, Darwin derived his theory of evolution from",
+      "options": [
+        "mparative anatomy",
+        "mparative physiology",
+        "ssil remains",
+        "mparative embryology"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18d662e08143ecc22653"
+    }
+  ]
+}

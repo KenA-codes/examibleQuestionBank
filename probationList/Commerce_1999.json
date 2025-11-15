@@ -1,0 +1,859 @@
+{
+  "_id": "6862a08feafbcae3ac143ead",
+  "subjectName": [
+    "Commerce"
+  ],
+  "year": 1999,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The conversion of raw materials into finished products creates",
+      "options": [
+        "marginal utility",
+        "place utility",
+        "form utility",
+        "time utility"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Commerce makes it possible for man to live in a",
+      "options": [
+        "complex and organized society",
+        "society characterized by subsistency",
+        "society characterized by dependency",
+        "simple and organized society"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "After paying the debts of Aboki Plc, the balance goes to",
+      "options": [
+        "Aboki Plc",
+        "Babalawee",
+        "shareholders",
+        "creditors"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Babalawee is a",
+      "options": [
+        "a claimant",
+        "a manager",
+        "an assessor",
+        "a receiver"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A common requirement for public and private limited companies in Nigeria is that",
+      "options": [
+        "a shareholder cannot transfer his shares to some one else without permission from other shareholders",
+        "their annual accounts are made avaible to the corporate affairs commission",
+        "shares can be offrred for sale on the stock exchange",
+        "Shares can be offered for sales through an issuing house"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary motive behind an individual engaging in production is to",
+      "options": [
+        "fully engage all the factors of production",
+        "make available goods and services",
+        "meet projected profits",
+        "meet basic human needs"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Musa obtains wool from his sheep, spins and transforms it into cloth which he sells to consumers. This is a form of",
+      "options": [
+        "vertical integration",
+        "horizontal integration",
+        "forward integration",
+        "backward integration"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A company has an authorized capital of 40 million at N1 per share, out of which 32 million shares have been issued and fully paid-up. The remaining 8 million shares have",
+      "options": [
+        "been issued but have not been paid up",
+        "been applied for but not issued",
+        "not been paid-up",
+        "not yet been issued"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of the Central Bank?",
+      "options": [
+        "Banker to the government",
+        "Lender of last resort",
+        "Accepting deposits from the public",
+        "Issuing currency"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main purpose of insurance is to",
+      "options": [
+        "prevent loss",
+        "reduce risk",
+        "transfer risk",
+        "eliminate risk"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a direct service?",
+      "options": [
+        "Teaching",
+        "Banking",
+        "Transportation",
+        "Insurance"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A bill of lading is used in",
+      "options": [
+        "insurance",
+        "banking",
+        "transportation",
+        "advertising"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "9 What was the company’s profit before taxes for 1993?",
+      "options": [
+        "N26.9 million",
+        "N53.5 million",
+        "N139.2 million",
+        "N286.5 million"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A business whose owners enjoy loan facilities on the basis of personal goodwill is a",
+      "options": [
+        "commercial bank",
+        "thrift society",
+        "co-operative society",
+        "community bank"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is not a veritable source of funds to a public limited liability company?",
+      "options": [
+        "Government financial grants",
+        "Advances and loans from banks",
+        "Internally generated funds",
+        "Funds from the sale of shares"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a means of payment in commerce?",
+      "options": [
+        "Cheque",
+        "Bank draft",
+        "Promissory note",
+        "Invoice"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The document represents a",
+      "options": [
+        "bill of exchange",
+        "cheque",
+        "money order",
+        "promissory note"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term 5 Net 7’ on an invoice means that",
+      "options": [
+        "5% discount will be allowed on the price charged if payment is made within seven days",
+        "5% discount will be allowed on the price charged if payment is made after seven days",
+        "5% surcharge will be made unless payment is made within seven days",
+        "5% discount will be allowed on the price charged only if the goods are bought within seven days"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Kabir receives two quotations. Ade quotes N100 less 20% trade discount, while Benson quotes N100 less 30% trade discount and 10% cash discount. If Kabir wants to take advantage of trade and cash discount, then",
+      "options": [
+        "can refuse to pay on due date since it is only a promise",
+        "is bound to redeem the not for cash on due date",
+        "is not bound to renew the note before payment",
+        "can return the goods purchased and refuse to pay"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Kamaldeen is a seller in a hire-purchase agreement with Emeka. By law, Kamaldeen cannot recover the hire purchased goods. This is an instance of a restriction on",
+      "options": [
+        "Emeka’s right to terminate the agreement",
+        "Kamaldeen’s right to re-hire the goods",
+        "Emeka’s right to breach the agreement",
+        "Kamaldeen’s right to terminate the agreement"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main documents sent to an importer of goods by the exporter are",
+      "options": [
+        "invoice, consular invoice, certificate of origin, freight note, indent and insurance policy",
+        "indent, bill of lading, certificate of origin, invoice and bill of exchange",
+        "certificate of origin, bill of exchange, invoice, insurance policy, indent and bill of lading",
+        "bill of lading, invoice, insurance policy, consular invoice, certificate of origin and bill of exchange"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The document that indicates instant payment of cash for goods whenever they are delivered is",
+      "options": [
+        "credit note",
+        "proforma invoice",
+        "debit note",
+        "statement of account"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of a wholesaler?",
+      "options": [
+        "Breaking bulk",
+        "Providing credit",
+        "Retailing goods",
+        "Warehousing goods"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The overriding advantage of home trade over foreign trade is",
+      "options": [
+        "accessibility of seller to buyer",
+        "absence of many documents",
+        "ease in language of transaction",
+        "ease in form of payment"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A distinction between Comprehensive Insurance and Third Party Insurance is that the latter covers damages",
+      "options": [
+        "caused by the insured vehicle",
+        "to the insured vehicle",
+        "caused by the other vehicle",
+        "to the driver of the insured vehicle"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The rate at which a central bank discounts first class bills is called the",
+      "options": [
+        "fixed rate",
+        "bill rate",
+        "bank rate",
+        "interest rate"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The principle of subrogation states that",
+      "options": [
+        "an insured person should be indemnified to the tune of the amount insured",
+        "an insurance company can stand in place of the insured in dealing with third party",
+        "only a person who likely to suffer loss should take out an insurance cover",
+        "there must be a close connection between the actual loss suffered and risk insured"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of warehouse?",
+      "options": [
+        "Private warehouse",
+        "Public warehouse",
+        "Bonded warehouse",
+        "Mobile warehouse"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The three major functional units which the modern computer has are",
+      "options": [
+        "the input, the processor and the output units",
+        "the black box, output and input units",
+        "BASIC, COBOL and output units",
+        "BASIC, the processor and PASCAL"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "I foreign investment. II Long-term lending III. Short- term lending IV. Foreign exchange reserve V. Short-term borrowing. Which combination of the above include capital account in international trade?",
+      "options": [
+        "I, III and IV",
+        "II, III and IV",
+        "II and V",
+        "I and II"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of the Nigerian Stock Exchange?",
+      "options": [
+        "Raising capital for companies",
+        "Providing a market for securities",
+        "Regulating the insurance industry",
+        "Protecting investors"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Aliyu bought 100 share at the stock market through a stockbroker. He was told the price of each share was N3 cum. div . This means that Aliyu",
+      "options": [
+        "is entitled always to a cummulative dividend on the shares",
+        "is entitled to the next dividend accruing from the shares",
+        "will not be entitled to the next dividend due to the shares",
+        "still owes N3 on the shares which will be subtracted from the dividends"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The forum for the selling and buying of securities of small and medium companies is called",
+      "options": [
+        "Second Tier Foreign Exchange Market",
+        "Foreign Exchange Market",
+        "Securities and Exchange Commission",
+        "Secon Tier Security Market"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A wholesale dealer in securities is known as",
+      "options": [
+        "A stockbroker",
+        "speculator",
+        "jobber",
+        "stag"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Modern business philosophy emphasizes",
+      "options": [
+        "quality products",
+        "customer satisfaction",
+        "sales volume",
+        "public relations"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main role of advertising is to",
+      "options": [
+        "convince prospective buyers to buy",
+        "show the actual shape, form and colour of the products",
+        "inform people where to obtain goods and service",
+        "capture the attention of people"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of insurance?",
+      "options": [
+        "Life insurance",
+        "Fire insurance",
+        "Marine insurance",
+        "Deposit insurance"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The focal point of all marketing efforts is the",
+      "options": [
+        "seller",
+        "profit",
+        "product",
+        "buyer"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Adigun displays goods of different makes on shelves in his supermarket. This is an exmple of",
+      "options": [
+        "invitation to treat",
+        "offer to sell",
+        "offer to purchase",
+        "invitation to sell"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The process of bringing a company under exclusive state ownership and control is known as",
+      "options": [
+        "nationalization",
+        "commercialization",
+        "indigenization",
+        "privatization"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Q acting as the agent of P, lawfully and reasonably incurs the amount of N350 as expenses. If Q comes to P for payment, this is an instance of P’s duty to",
+      "options": [
+        "remunerate Q",
+        "repay Q",
+        "indemnify Q",
+        "settle Q"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a hire purchase agreement between Argungu Ltd and Maikudi, Argungun Ltd inserted the provision that it can enter Maikudi’s premises at any time and remove the hired vehicle for any breach. This provision is",
+      "options": [
+        "lawful to both",
+        "unlawful to both",
+        "beneficial to both",
+        "detrimental to both"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In every simple contract, the price which is paid to purchase a promise is called",
+      "options": [
+        "offeree",
+        "acceptance",
+        "consideration",
+        "representation"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One major disadvantage of a cartel is that it",
+      "options": [
+        "maximizes productive efficiency",
+        "brings the merging firms under control",
+        "maximizes profits from operation",
+        "eliminates competition and waste"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Staff position in an organization borders on",
+      "options": [
+        "authority",
+        "advice",
+        "responsibility",
+        "control"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The line function in a typical manufacturing enterprise is normally performed by the",
+      "options": [
+        "public relations department",
+        "estate or properties department",
+        "marketing department",
+        "legal department"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "I Money and machine II. Materials and money. III Market and I Man IV. Materials and Man. Which combination of the above are basic requirements as business resources?",
+      "options": [
+        "I and II",
+        "II and III",
+        "I and IV",
+        "II and IV"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Under what management function would the motivation of employees fall?",
+      "options": [
+        "Staffing",
+        "Controlling",
+        "Organizing",
+        "Directing"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main thrust of government policy of evolving good business environment in Nigeria is the need",
+      "options": [
+        "to attract local and foreign investors",
+        "for more export commodities",
+        "for consumer oriented products",
+        "to have viable local markets"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of these sets of external environmental factors affect a business operation?",
+      "options": [
+        "Competition, industry and product",
+        "Competition, labour and political",
+        "Political, cultural and labour",
+        "Economic, social and legal"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

@@ -1,0 +1,859 @@
+{
+  "_id": "6863d6f05a795ab623382c0a",
+  "subjectName": [
+    "Economics"
+  ],
+  "year": 1983,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following items is NOT included in measuring national income by the income approach?",
+      "options": [
+        "Wages and salaries of public servants",
+        "Student grants and scholarships.",
+        "Profits of companies.",
+        "Income earned by self employed persons such as lawyers."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A downward sloping demand curve intersects a fixed supply curve. A shift of this demand curve to the right implies that",
+      "options": [
+        "both price and quantity will increase",
+        "only price increase",
+        "only quantity increase",
+        "the price remains constant"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following items is NOT an argument for locating industries in rural areas?",
+      "options": [
+        "Rural areas supply agricultural raw material.",
+        "The pace of development will be quickened in rural areas.",
+        "Employment will be provided for rural inhabitants.",
+        "Capital is easily available in rural areas."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The curves D0D0 and S0S0 are the demand and supply curves respectively. What happens if government subsidizes producers in order to boost output?",
+      "options": [
+        "The supply curve will shift S0S0 to S2S2",
+        "The supply curve will shift from S0S0 to S1S1",
+        "The supply curve will shift from S2S2 to S1S1",
+        "The supply curve will shift from S1S1 to S0S0"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The natural growth rate of a population is the",
+      "options": [
+        "Sum of the birth rate and the death rate",
+        "Sum of the birth rate and the net migration rate",
+        "Birth rate minus the death rate",
+        "Birth rate divided by the net migration"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following sets fully represents factors of production?",
+      "options": [
+        "Sunlight, machinery, man, land",
+        "Land, labour, capital, enterprise",
+        "Capital, technology, ideas, market, land.",
+        "Land, water, weather."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Based on the production possibilities table, the real cost of a unit of food when alternative R is selected is",
+      "options": [
+        "One unit of shelter",
+        "Three units of shelter",
+        "One third of a unit of shelter",
+        "Six units of shelter"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The concept of economic efficiency primarily refers to",
+      "options": [
+        "Obtaining the maximum output from available resources at the lowest possible cost",
+        "Conservation of our petroleum resources",
+        "Equity in the distribution of the nation’s wealth",
+        "Producing without waste"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If successive units of labour are added to a piece of land while capital and technology remain constant, a point will be reached in the level of production when each added unit of labour will add less to the output than previous units of labour. This is known as",
+      "options": [
+        "The productivity of labour",
+        "The law of diminishing marginal utility",
+        "The law of diminishing returns",
+        "The concept of factor intensity"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In perfect competition a firm’s price is equal to its marginal revenue which is again equal to average revenue. This form maximizes its profits when its marginal cost (MC) is equal to price (p). Which of the curves in the diagram below represents the firm’s marginal cost (MC)?",
+      "options": [
+        "Curve I",
+        "Curve II",
+        "Curve III",
+        "Curve IV"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a feature of a perfectly competitive market?",
+      "options": [
+        "Many buyers and sellers",
+        "Homogeneous products",
+        "Free entry and exit",
+        "Price discrimination"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The table below shows the market schedule for semovita. What is the market equilibrium price?",
+      "options": [
+        "N5.00",
+        "N8.00",
+        "N9.00",
+        "N7.00"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a direct tax?",
+      "options": [
+        "Value Added Tax",
+        "Import duty",
+        "Personal income tax",
+        "Excise duty"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main function of the Central Bank is to",
+      "options": [
+        "accept deposits from the public",
+        "issue currency",
+        "grant loans to individuals",
+        "provide insurance services"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a characteristic of wants?",
+      "options": [
+        "They are unlimited",
+        "They are competitive",
+        "They are complementary",
+        "They are all satisfiable at once"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The reward for capital as a factor of production is",
+      "options": [
+        "rent",
+        "wage",
+        "interest",
+        "profit"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of money?",
+      "options": [
+        "Medium of exchange",
+        "Unit of account",
+        "Store of value",
+        "Means of production"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a sole proprietorship the decisions are made by the",
+      "options": [
+        "Government",
+        "Board of directors",
+        "Management",
+        "Owner"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If successive units of labour are added to a piece of land while capital and technology remain constant, a point will be reached in the level of production when each added unit of labour will add less to the output than previous units of labour. This is known as",
+      "options": [
+        "The productivity of labour",
+        "The law of diminishing marginal utility",
+        "The law of diminishing returns",
+        "The concept of factor intensity"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A market where there is only one seller is called",
+      "options": [
+        "monopoly",
+        "oligopoly",
+        "monopsony",
+        "perfect competition"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a determinant of demand?",
+      "options": [
+        "Price of the good",
+        "Income of consumers",
+        "Cost of production",
+        "Tastes and preferences"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The supply of loanable funds is significantly influenced by",
+      "options": [
+        "Commercial banks",
+        "Mortgage banks",
+        "Financial intermediaries",
+        "The Central Bank"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following are direct taxes?",
+      "options": [
+        "Sales taxes",
+        "Excise duties",
+        "Income and company taxes",
+        "Tariff duties"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Division of labour has many advantages. Notwithstanding, it is greatly limited by",
+      "options": [
+        "Monotony of work",
+        "Decline of craftmanship",
+        "Risk of unemployment",
+        "Extent of market demand"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the above diagram P1S is a supply curve for a manufactured good. It shows that",
+      "options": [
+        "When price is Po1 quantity supplied is infinitely elastic",
+        "The higher the price the greater the quantity supplied",
+        "The higher the price the lower the quantity supplied",
+        "When price is zero quantity supplied becomes infinite"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of the stock exchange?",
+      "options": [
+        "Providing a market for securities",
+        "Raising capital for companies",
+        "Regulating interest rates",
+        "Facilitating investment"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of unemployment?",
+      "options": [
+        "Frictional",
+        "Structural",
+        "Cyclical",
+        "Permanent"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main objective of economic planning is to",
+      "options": [
+        "control inflation",
+        "achieve economic growth",
+        "reduce unemployment",
+        "increase imports"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of government in the economy?",
+      "options": [
+        "Provision of public goods",
+        "Regulation of business",
+        "Production of private goods",
+        "Redistribution of income"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a source of government revenue?",
+      "options": [
+        "Taxes",
+        "Grants",
+        "Borrowing",
+        "Subsidies"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of the Central Bank?",
+      "options": [
+        "Banker to the government",
+        "Lender of last resort",
+        "Accepting deposits from the public",
+        "Issuing currency"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a feature of a mixed economy?",
+      "options": [
+        "Coexistence of public and private sectors",
+        "Government ownership of all resources",
+        "Price mechanism",
+        "Government intervention"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of money?",
+      "options": [
+        "Medium of exchange",
+        "Unit of account",
+        "Store of value",
+        "Means of production"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The quickest way of achieving an economic union on regional basis is to remove all",
+      "options": [
+        "Currency barriers",
+        "Language barriers",
+        "Legal barriers",
+        "Trade barriers"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of the price system?",
+      "options": [
+        "Rationing of goods",
+        "Allocation of resources",
+        "Distribution of income",
+        "Production of money"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a feature of a developing economy?",
+      "options": [
+        "High per capita income",
+        "High population growth rate",
+        "Low level of technology",
+        "Dependence on agriculture"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of the stock exchange?",
+      "options": [
+        "Providing a market for securities",
+        "Raising capital for companies",
+        "Regulating interest rates",
+        "Facilitating investment"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of unemployment?",
+      "options": [
+        "Frictional",
+        "Structural",
+        "Cyclical",
+        "Permanent"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The monetary system that requires double coincidence of wants is known as",
+      "options": [
+        "The gold standard",
+        "Barter",
+        "The commodity system",
+        "The gold exchange standard"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The effect of emigration on a country’s population, all other things remaining equal, is to",
+      "options": [
+        "Increase its size",
+        "Cause overpopulation",
+        "Increase its growth rate",
+        "Reduce its size"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of the Central Bank?",
+      "options": [
+        "Banker to the government",
+        "Lender of last resort",
+        "Accepting deposits from the public",
+        "Issuing currency"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a feature of a mixed economy?",
+      "options": [
+        "Coexistence of public and private sectors",
+        "Government ownership of all resources",
+        "Price mechanism",
+        "Government intervention"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following defines Economics most comprehensively?",
+      "options": [
+        "Buying and selling",
+        "Organization of industries.",
+        "Study of human behaviour in the allocation of scarce resources.",
+        "National development planning and budgeting"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Age structure in Nigeria is such that the working age-group is in the years",
+      "options": [
+        "1-15",
+        "15-65",
+        "30-40",
+        "40-65"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of the price system?",
+      "options": [
+        "Rationing of goods",
+        "Allocation of resources",
+        "Distribution of income",
+        "Production of money"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a feature of a developing economy?",
+      "options": [
+        "High per capita income",
+        "High population growth rate",
+        "Low level of technology",
+        "Dependence on agriculture"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of the stock exchange?",
+      "options": [
+        "Providing a market for securities",
+        "Raising capital for companies",
+        "Regulating interest rates",
+        "Facilitating investment"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of unemployment?",
+      "options": [
+        "Frictional",
+        "Structural",
+        "Cyclical",
+        "Permanent"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of government in the economy?",
+      "options": [
+        "Provision of public goods",
+        "Regulation of business",
+        "Production of private goods",
+        "Redistribution of income"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Nigeria is currently implementing the",
+      "options": [
+        "Third development plan",
+        "Second development plan",
+        "Fourth development plan",
+        "Fifth development plan"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

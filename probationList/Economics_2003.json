@@ -1,0 +1,859 @@
+{
+  "_id": "68657c08f9b83c7d6ca42f47",
+  "subjectName": [
+    "Economics"
+  ],
+  "year": 2003,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The price of a good rises from N5 to N8 and the quantity demanded falls from 200 to 190 units. Over this price range, the demand curve is",
+      "options": [
+        "fairly inelastic",
+        "fairly elastic",
+        "perfectly inelastic",
+        "perfectly elastic"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In economics analysis, a statement is said to be normative if it",
+      "options": [
+        "can be tested scientifically",
+        "relates to value judgment",
+        "is contradictory",
+        "is incorrect"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Utility is the satisfaction derived from",
+      "options": [
+        "production",
+        "distribution",
+        "consumption",
+        "demand"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If there is an increase in demand without a corresponding increase in supply, there will be",
+      "options": [
+        "fall in price",
+        "rise in price",
+        "shift in supply curve to the right",
+        "shift in demand curve to the left"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An improvement in technology will enable the country to produce at",
+      "options": [
+        "V",
+        "W",
+        "X",
+        "Z"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the country is currently producing at point Y, it can increase production of producer goods by moving to the point",
+      "options": [
+        "V",
+        "W",
+        "X",
+        "Z"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the table above, the price of commodity y is N2 and that of x is N1 while the individual has an income of N12. Determine the combination of the two commodities the individual should consume to maximize his utility",
+      "options": [
+        "3y and 3x",
+        "6y and 4x",
+        "3y and 6x",
+        "5y and 5x"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When two variables are positively related, the graph of the relationship",
+      "options": [
+        "is a straight line",
+        "is a downward-sloping curve",
+        "is an upward sloping curve",
+        "has a negative intercept"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "For an inferior good, a decrease in real income leads to",
+      "options": [
+        "an outward shift of the demand curve",
+        "an inward shift of the demand curve",
+        "a lowered equilibrium price",
+        "a change in quantity demanded"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a planned economy the emphasis is on",
+      "options": [
+        "individual choice and decisions",
+        "public ownership and control",
+        "private ownership and control",
+        "prices and competition"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Price elasticity of supply is a ratio of the change in",
+      "options": [
+        "quantity supplied to the change in demand",
+        "original quantity to a change in new quantity",
+        "quantity supplied to the change in price",
+        "price to the change in quantity supplied"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The long-run average cost curve is called a planning curve because it shows what happens to costs when",
+      "options": [
+        "variable inputs are increased",
+        "fixed factors are increased",
+        "different sizes of plants are built",
+        "a bigger size of plants is built"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Imperfect market is characterized by",
+      "options": [
+        "many buyers and few sellers",
+        "a large number of buyers and sellers",
+        "non-preferential treatment",
+        "perfect mobility of factors of production"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Short-run period in production is a period for a firm to be able to change its",
+      "options": [
+        "variable inputs",
+        "total outputs",
+        "total revenue",
+        "scale of operation"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The ATC at 30 units of output is",
+      "options": [
+        "120.000",
+        "N60.00",
+        "N40.00",
+        "N3.00"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "At 60 units of output, the AVC is",
+      "options": [
+        "N150.00",
+        "N90.00",
+        "N2.50",
+        "N1.50"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the demand curve facing a firm is sharply downward sloping, the firm is likely to be",
+      "options": [
+        "a perfect competitor",
+        "a monopolistic competitor as it can have a limited influence on price",
+        "an oligopolist as it can collude with other firms to have some influence on price",
+        ""
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A normal supply curve is usually positively sloped",
+      "options": [
+        "because the relationship between",
+        "supply and price is negative",
+        "price and demand is negative",
+        "price and supply is positive"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The best method of production in an under-populated country is",
+      "options": [
+        "labour-extensive",
+        "land-intensive",
+        "capital-intensive",
+        "labour-intensive"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Insurance companies, pension and provident funds and unit trusts are all examples of",
+      "options": [
+        "government financial agencies",
+        "non-governmental organizations",
+        "non-bank financial institutions",
+        "rural-based revenue mobilisers"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "For a firm, value added can be defined as the difference between the",
+      "options": [
+        "value of its output and the cost of production",
+        "total revenue and total cost",
+        "input prices and product prices",
+        "value of its output and inputs purchased from other firms"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Securities are described as listed when they are:",
+      "options": [
+        "bought and sold purely for development purposes",
+        "mobilized as short-term debt instruments",
+        "mobilized as long-term debt instrument",
+        "traded on a recognized stock market"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The commercial banks differ from non-bank financial institutions because they",
+      "options": [
+        "accept deposits withdrawable by cheque",
+        "mobilize savings",
+        "invest surplus plus",
+        "contribute to economic development"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Inflation that is usually associated with periods of trade boom is",
+      "options": [
+        "cost-push inflation",
+        "demand-pull inflation",
+        "creeping inflation",
+        "stagnation"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term “Near Money” is best described as",
+      "options": [
+        "a financial asset that is convertible to cash",
+        "a financial instrument that is readily convertible to cash",
+        "government financial instrument that is convertible to cash",
+        "time deposits with low interest rates"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The distinguishing characteristic between the money market and the capital market lies in whether the",
+      "options": [
+        "funds mobilized are private or public",
+        "securities are primary or secondary",
+        "debt instruments provided are long-term or short-term",
+        "securities are in debentures or ordinary shares"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If Nigeria’s composite price index in 1999 was 140.03% and 144.05% in 2000, the rate of inflation in 2000 was",
+      "options": [
+        "4.02%",
+        "2.10%",
+        "2.06%",
+        "1.03%"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The monetary control instrument most effectively used by the Central Bank of Nigeria is the",
+      "options": [
+        "discount rate",
+        "reserve ratio",
+        "margin requirements",
+        "open market operations"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The major objectives of a revenue allocation formula in a country is to",
+      "options": [
+        "share revenue between the public and private sectors",
+        "ensure the financial viability of the country",
+        "share revenue between the different tiers of government",
+        "divert revenue from areas of surplus to areas of need"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The effectiveness of devaluation as a solution to a balance of payments problems depends on the",
+      "options": [
+        "relative elasticities of demand",
+        "foreign investments of business",
+        "value of visible and invisible goods",
+        "value of invisible items of both domestic and foreign trades"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "IBRD as an international monetary institution is concerned with the",
+      "options": [
+        "balance of payments problems of member nations",
+        "financing of private business in member nations",
+        "development of infrastructure in member nations",
+        "improvement of trade among member nations"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An advantage of the sole proprietorship over the partnership form of business organization is that",
+      "options": [
+        "it enjoys limited liability for debt in the event of failure",
+        "its existence is limited by an individual’s life span",
+        "it relies on the decision of friends to succeed",
+        "the possibility of conflict in management is virtually non-existent"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The distinction between capital and recurrent expenditure lies in the",
+      "options": [
+        "amount of expenditure involved",
+        "source of the revenue generated",
+        "nature of the goods and services to be provided",
+        "time frame of the expenditure"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Under a floating exchange rate regime, the determinant of the exchange rate is",
+      "options": [
+        "the system of government",
+        "demand for and supply of foreign goods",
+        "the highest denomination of the currency",
+        "an act of the national assembly"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "To compare the standard of living among nations, the most widely used economic indicator is the",
+      "options": [
+        "per capita nominal income",
+        "real domestic output",
+        "real gross national income",
+        "real per capita income"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Statutory organisations usually established by Acts of parliament are called",
+      "options": [
+        "public enterprises",
+        "public corporations",
+        "cooperative societies",
+        "joint-stock companies"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A greater burden of the taxes on essential goods is borne by the",
+      "options": [
+        "higher income group",
+        "newly recruited workers",
+        "lower income group",
+        "contract workers"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Privatization and commercialization of public enterprises in Nigeria is necessitated by",
+      "options": [
+        "the IMF conditions",
+        "the IBRD conditions",
+        "the government’s loss of interest in them",
+        "their operational inefficiency"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The theory of comparative advantage states that a commodity should be produced in that nation where the",
+      "options": [
+        "absolute cost is least",
+        "absolute money cost is least",
+        "opportunity cost is least",
+        "production possibility curve increases"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The effect of an increase in the personal income tax is to",
+      "options": [
+        "raise the absolute price level",
+        "distort the economy",
+        "reduce unemployment",
+        "reduce the disposable income"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An important factor hindering the rapid development of the industrial sector in Nigeria.",
+      "options": [
+        "excessive demand for finished products",
+        "the dominance of the oil sector",
+        "rural-urban migration",
+        "inadequate infrastructure facilities"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The demand for labour is an example of",
+      "options": [
+        "competitive demand",
+        "derived demand",
+        "composite demand",
+        "joint demand"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The major role of multi-national companies in the petroleum industry in Nigeria is",
+      "options": [
+        "oil prospecting only",
+        "oil marketing only",
+        "the establishment of refineries",
+        "oil marketing and prospecting"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Fixing the prices of agricultural products can be a problem because of the",
+      "options": [
+        "unpredictable output of farmers",
+        "instability of government policies",
+        "activities of marketing boards",
+        "size of agricultural exports"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Occupational mobility as applied to factors of production means the ease by which",
+      "options": [
+        "factors can be transferred from one place to another",
+        "factors can be transferred from one form of use to another",
+        "resources can be transferred from one place to another",
+        "resources can be transformed from one form to another"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The labour force of a country can be determined by examining the",
+      "options": [
+        "sex distribution of the population",
+        "occupations distribution of the population",
+        "age structure of the population",
+        "geographical distribution of the population"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Two basic features common to an industry are",
+      "options": [
+        "similarity of products and production processes",
+        "similarity of products and source of raw materials",
+        "production processes and source of capital",
+        "source of capital and labour supply"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A country is said to be over populated when",
+      "options": [
+        "there are too many able-bodied men and women in the country",
+        "the resources are more than enough to cater for the population",
+        "the size of the population is greater than the annual budget",
+        "the resources are inadequate to cater for the population"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When a union is composed of workers with same skill, it is called",
+      "options": [
+        "an industrial union",
+        "a workers’ union",
+        "a craft union",
+        "a technical union"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An adverse environmental impact of the petroleum industry on the economy is",
+      "options": [
+        "the vandalisation of oil equipment",
+        "oil spillage",
+        "communal riots",
+        ""
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

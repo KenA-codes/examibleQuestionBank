@@ -1,0 +1,859 @@
+{
+  "_id": "6850582c7e01022af0d377d4",
+  "subjectName": [
+    "Chemistry"
+  ],
+  "year": 2010,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which chemistry paper type is given to you",
+      "options": [
+        "Type A",
+        "Type B",
+        "Type C",
+        "Type D"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is an example of a mixture?",
+      "options": [
+        "Common salt",
+        "Blood",
+        "Sand",
+        "Washing soda"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the percentage by mass of nitrogen in calcium trioxonitrate (V) [Ca = 40, N = 14, O = 16]",
+      "options": [
+        "8.5%",
+        "13.1%",
+        "17.1%",
+        "27.6%"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The droplets of water observed around a bottle of milk taken out of the refrigerator is due to the fact that the",
+      "options": [
+        "water vapour in the air around the bottle gains some energy from the bottle",
+        "temperature of the milk drops as it loses heat into the surroundings",
+        "saturated vapour pressure of the milk is equal to the atmospheric pressure",
+        "water vapour in the air around the bottle loses some of its energy to the bottle"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The volume of a given gas is Vcm3 P mm Hg. what is the new volume of the gas if the pressure is reduced to half at constant temperature?",
+      "options": [
+        "4 V cm3",
+        "2 V cm3",
+        "V⁄2 cm3",
+        "V cm3"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Moving from left to right across a period, the general rise in the first ionization energy can be attributed to the",
+      "options": [
+        "decrease in nuclear charge",
+        "increase in nuclear charge",
+        "decrease in screening effect",
+        "increase in screening effect"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "How many unpaired electron(s) are there in the nitrogen sub- levels?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "none"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The stability of the noble gases is due to the fact that they",
+      "options": [
+        "have no electron in their outermost shells",
+        "have duplet or octet electron configurations",
+        "belong to group zero of the periodic table",
+        "are volatile in nature"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The maximum number of electrons in the L shell of an atom is",
+      "options": [
+        "2",
+        "8",
+        "18",
+        "32"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Elements in the same period in the periodic table have the same",
+      "options": [
+        "number of shells",
+        "atomic number",
+        "chemical properties",
+        "physical properties"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "21D + 31T→ 42He +10n +energy The reaction above illustrates",
+      "options": [
+        "alpha decay",
+        "artificial transmutation",
+        "nuclear fusion",
+        "nuclear fission"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A noble gas with a high power of fog penetration used in aerodrome beacons is",
+      "options": [
+        "krypton",
+        "argon",
+        "helium",
+        "neon"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Permanent hardness of water can be removed by",
+      "options": [
+        "filtration",
+        "adding slaked lime",
+        "adding caustic soda",
+        "boiling"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Substance employed as drying agents are usually",
+      "options": [
+        "amphoteric",
+        "hydroscopic",
+        "efflorescent",
+        "acidic"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the solubility in mol dm-3 of 40g of CuSO4 dissolved in 100g of water at 120⁰C. [Cu = 64, S = 32, O = 16]",
+      "options": [
+        "4.00",
+        "2.50",
+        "0.40",
+        "0.25"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Coffee stains can best be removed by",
+      "options": [
+        "Kerosene",
+        "turpentine",
+        "a solution of borax in water",
+        "ammonia solution"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Carbon (II) oxide is considered dangerous if inhaled mainly because it",
+      "options": [
+        "can cause injury to the nervous system",
+        "competes with oxygen in the blood",
+        "competes with carbon (IV) oxide in the blood",
+        "can cause lung cancer"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The acid that is used to remove rust is",
+      "options": [
+        "boric",
+        "hydrochloric",
+        "trioxonitrate (V)",
+        "tetraoxosulphate (VI)"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the volume of 0.5 mol dm-3 H2SO4 that is neutralized by 25 cm3 of 0.1 mol dm-3 NaOH",
+      "options": [
+        "5.0 cm3",
+        "2.5 cm3",
+        "0.4 cm3",
+        "0.1 cm3"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The colour of methyl orange in alkaline medium is",
+      "options": [
+        "yellow",
+        "pink",
+        "orange",
+        "red"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following salts is slightly soluble in water?",
+      "options": [
+        "AgCl",
+        "CaSO4",
+        "Na2CO3",
+        "PbCl2"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "6AgNO4(aq) + PH3(g) + 3H2O(l)→ 6Ag(s) + H3PO3(g) + 6HNO3(aq) In the above reaction, the reducing agent is",
+      "options": [
+        "HNO3(aq)",
+        "H2O(l)",
+        "PH3(g)",
+        "AgNO3(aq)"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The IUPAC nomenclature of the compound LiAlH4 is",
+      "options": [
+        "lithiumtetrahydridoaluminate (III)",
+        "aluminium tetrahydrido lithium",
+        "tetrahydrido lithium aluminate (III)",
+        "lithium aluminium hydride"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Iron can be protected from corrosion by coating the surface with",
+      "options": [
+        "gold",
+        "silver",
+        "copper",
+        "zinc"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What quantity of aluminium is deposited when a current of 10A is passed through a solution of an aluminium salt for 1930s? [Al = 27, F = 96500 C mol-1]",
+      "options": [
+        "0.2 g",
+        "1.8 g",
+        "5.4 g",
+        "14.2 g"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In which of the following is the entropy change positive?",
+      "options": [
+        "Thermal dissociation of ammonium chloride",
+        "Reaction between an acid and a base",
+        "Addition of concentrated acid to water",
+        "Dissolution of sodium metal in water"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a reaction is exothermic and there is a great disorder, it means that",
+      "options": [
+        "the reaction is static",
+        "the reaction is in a state of equilibrium",
+        "there will be a large increase in free energy",
+        "there will be a large decrease in free energy"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the preparation of oxygen by heating KClO3 in the presence of MnO2, only moderate heat is needed because the catalyst acts by",
+      "options": [
+        "lowering the pressure of the reaction",
+        "increasing the surface area of the reactant",
+        "increase the rate of the reaction",
+        "lowering the energy barrier of the reaction"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "This question refers to an unspecified graph.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The graph above demonstrate the effect of",
+      "options": [
+        "surface area on the rate of reaction",
+        "catalyst on the rate of reaction",
+        "pressure on the rate reaction",
+        "concentration on the rate of reaction"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "2H2(g) + O2(g) ⇋ 2H2O(g) ΔH = -ve. What happens to the equilibrium constant of the reaction above if the temperature is increased?",
+      "options": [
+        "it is unaffected",
+        "it becomes zero",
+        "it decrease",
+        "it increases"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "To a solution of an unknown compound, a little dilute tetraoxosulphate (VI) acid was added with some freshly prepared iron (II) tetraoxosulphate (VI) solution. The brown ring observed after the addition of a stream of concentrated tetraoxosulphate (VI) acid confirmed the presence of",
+      "options": [
+        "CO",
+        "Cl-",
+        "SO",
+        "NO"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "This question refers to an unspecified diagram.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the diagram above, the gas produced is",
+      "options": [
+        "NO",
+        "NO2",
+        "N2O",
+        "N2O4"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is used in rocket fuels?",
+      "options": [
+        "HNO3",
+        "CH3COOH",
+        "H2SO4",
+        "HCl"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "This question refers to an unspecified diagram.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the diagram below, the purpose of the asbestos to",
+      "options": [
+        "absorb impurities",
+        "catalyse the reaction",
+        "solidify the gas",
+        "dry the gas"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A constituent common to bronze and solder is",
+      "options": [
+        "lead",
+        "silver",
+        "copper",
+        "tin"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When iron is exposed to moist air, it gradually rusts. This is due to the formation of",
+      "options": [
+        "hydrate iron (III) oxide",
+        "anhydrous iron (III) oxide",
+        "anhydrous iron (II) oxide",
+        "hydrate iron (II) oxide"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A compound gives an orange-red colour to non-luminous flame. This compound is likely to contain",
+      "options": [
+        "Na+",
+        "Ca2+",
+        "Fe3+",
+        "Fe2+"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Stainless steel is used for making",
+      "options": [
+        "magnets",
+        "tools",
+        "coins and medals",
+        "moving parts of clocks"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The residual solids from the fractional distillation of petroleum are used as",
+      "options": [
+        "coatings of pipes",
+        "raw materials for the cracking process",
+        "fuel for the driving tractors",
+        "fuel for jet engines"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "This question refers to an unspecified diagram of a compound.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The IUPAC nomenclature of the compound above is",
+      "options": [
+        "4 - ethyloctane",
+        "5 - ethyloctane",
+        "5 - propylheptane",
+        "3 - propylheptane"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is used as fuel in miners' lamp?",
+      "options": [
+        "Ethanal",
+        "Ethyne",
+        "Ethene",
+        "Ethane"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following organic compounds is very soluble in water?",
+      "options": [
+        "CH3COOH",
+        "C2H2",
+        "C2H4",
+        "CH3COOC2H5"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Benzene reacts with hydrogen in the presence of nickel catalyst at 180⁰C to give",
+      "options": [
+        "xylene",
+        "toluene",
+        "cyclopentane",
+        "cyclohexane"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is used to hasten the ripening of fruit?",
+      "options": [
+        "Ethene",
+        "Ethanol",
+        "Ethyne",
+        "Ethane"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The final products of the reaction between methane and chlorine in the presence of ultraviolet light are hydrogen chloride and",
+      "options": [
+        "tricloromethane",
+        "dichloromethane",
+        "tetrachloromethane",
+        "chloromethane"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The correct order of increasing boiling points of the following compounds C3H7OH, C7H16 and C4H10 is",
+      "options": [
+        "C3H7OH → C4H10 → C7H16",
+        "C4H10 → C7H16 → C3H7OH",
+        "C7H16 → C3H7OH → C4H10",
+        "C4H10 → C3H7OH → C7H16"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the major uses of alkane is",
+      "options": [
+        "as domestic and industrial fuel",
+        "in the hydrogenation of oils",
+        "in the textile industries",
+        "in the production of plastics"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The haloalkanes used in dry-cleaning industries are",
+      "options": [
+        "trichloromethane and tetrachloromethane",
+        "chloroethene and dichloroethene",
+        "trichloroethene and tetrachloroethene",
+        "chloroethane and dichloroethane"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Two hydrocarbons X and Y were treated with bromine water. X decolorized the solution and Y did not. Which class of compound does Y belong?",
+      "options": [
+        "Benzene",
+        "Alkynes",
+        "Alkenes",
+        "Alkanes"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The compound that is used as an anaesthetic is",
+      "options": [
+        "CCl4",
+        "CH Cl3",
+        "CH2Cl2",
+        "CH3Cl"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

@@ -1,0 +1,774 @@
+{
+  "_id": "6851b44a03d37a7af32e761b",
+  "subjectName": [
+    "Physics"
+  ],
+  "year": 2013,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The pair pf physical quantities that are scalar only are",
+      "options": [
+        "volume and area",
+        "moment and momentum",
+        "length and displacement.",
+        "impulse and time."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "4m has a period of 2s. What is the period a similar pendulum of",
+      "options": [
+        "8s",
+        "4s",
+        "2√2s",
+        "becomes zero."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A train with an initial velocity of one of them makes an angle of 20m𝑠−1 is subjected to a uniform 30° with the resultant, find its deceleration of 2𝑚−2. The time magnitude. required to bring the train to a complete halt is",
+      "options": [
+        "5s.",
+        "10s.",
+        "20s.",
+        "40s."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the apparent weight loss of a man weighing 70kg in an elevator moving downwards with an acceleration of 1.5m𝑠−2.",
+      "options": [
+        "686N.",
+        "595N.",
+        "581N.",
+        "1105N [ g ≈10m𝑠−2]"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A piece of cork floats in a liquid. What fraction of its volume will be immersed in the liquid?",
+      "options": [
+        "0.8.",
+        "0.5.",
+        "0.2.",
+        "0.1. [Density of the cork = 0.25 x 103𝑘−3, density of the liquid ="
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An object is moving with a velocity of 5m𝑠−1. At what height must a similar body be situated to have a potential energy equal in value with kinetic energy of the moving body?",
+      "options": [
+        "25.0m",
+        "20.0m.",
+        "1.3m.",
+        "1.0m."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a pump is capable of lifting 5000kg of water through a vertical height of 60 m in 15 min, the power of the pump is",
+      "options": [
+        "2.5 x 105J𝑠−1",
+        "2.5 x 104J𝑠−1",
+        "3.3 x 103Js−1",
+        "3.3 x 102J𝑠−1"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The coefficient of friction between two perfectly smooth surface is",
+      "options": [
+        "infinity.",
+        "one",
+        "half.",
+        "zero."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What effort will a machine of efficiency 90% apply to lift a load of 180N if its effort arm is twice as long as its load arm?",
+      "options": [
+        "80N",
+        "90N.",
+        "100N.",
+        "120N."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the work done when a force of 20N stretches a spring by 50mm.",
+      "options": [
+        "0.5J.",
+        "1.5J.",
+        "2.0J.",
+        "2.5J."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "At what depth below the sea- level would one experience a change of pressure equal to one atmosphere?",
+      "options": [
+        "0.1 m.",
+        "1.0m.",
+        "10.0m.",
+        "100.0m [Density of sea water = 1013k−3 one atmosphere = 0.01 x 105 N𝑚−2 g=10m𝑠−2]"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What volume of alcohol will have same mass as 4.2𝑚−3 of petrol?",
+      "options": [
+        "0.8𝑚3.",
+        "1.4𝑚3.",
+        "3.6𝑚3.",
+        "4.9𝑚3."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the length which corresponds to a temperature of 20°C if the used steam points of an ungraduated thermometer are 400 mm apart.",
+      "options": [
+        "20mm.",
+        "30mm.",
+        "60mm",
+        "80mm."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A wire of length 100.0m at 30°C has linear expansivity of 2 x 10−5𝐾−1. Calculate the length of the wire at a temperature of - 10°C.",
+      "options": [
+        "100.08m.",
+        "100.04m.",
+        "99.96m",
+        "99.92m."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "2𝑚3 at constant temperature, the work done is",
+      "options": [
+        "7.0 x 106𝐽.",
+        "6.0 x 106𝐽.",
+        "6.0 x 105J.",
+        "6.0 x 104𝐽."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Two liquids X and Y having the same mass are supplied with the same quantity of heat. If the temperature rise in X is twice that of Y, the ratio of specific heat capacity of V to that of Y is",
+      "options": [
+        "2:1.",
+        "1:2.",
+        "4:1.",
+        "1:4."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Foods cook quicker in salt water than in pure water because of the effect of",
+      "options": [
+        "dissolved substances on the boiling point.",
+        "atmospheric pressure on the boiling point.",
+        "food nutrients on the thermal energy.",
+        "salts on the thermal conductivity of water."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Steam from boiling water causes more damage on the skin that does boiling water because",
+      "options": [
+        "water has a high specific heat.",
+        "steam has latent heat of fusion.",
+        "the steam is at higher temperature than the water.",
+        "steam brings heat more easily by convection."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What will happen to the boiling point of pure water when it is heated in a place 30m below sea level?",
+      "options": [
+        "It will be more than 100°C.",
+        "It will be less than 100°C.",
+        "It will still be at 100°C.",
+        "It will be fluctuating."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The rise or fall of liquid in a narrow tube is because of the",
+      "options": [
+        "viscosity of the liquid.",
+        "surface tension of the liquid.",
+        "friction between the walls of the tube and the liquid.",
+        "osmotic pressure of the liquid."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The mechanism of heat transfer from one point to another through the vibration of the molecules of the medium is",
+      "options": [
+        "convection.",
+        "conduction",
+        "radiation",
+        "diffusion"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A wave travels through stretched strings is known as",
+      "options": [
+        "electromagnetic wave.",
+        "micro wave.",
+        "mechanical wave.",
+        "seismic wave."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A transverse wave and a longitudinal wave travelling in the same direction in a medium differ essentially in their",
+      "options": [
+        "frequency.",
+        "amplitude.",
+        "direction of vibration of the particles of the medium",
+        "period of vibration of the particles of the medium."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the velocity of sound at 100°C, if the velocity of sound at 0°C is 340m𝑠−1?",
+      "options": [
+        "497m𝑠−1",
+        "440m𝑠−1",
+        "397m𝑠−1",
+        "240m𝑠−1"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a sonometer has a fundamental frequency of 450Hz, what is the frequency of the fifth overtone?",
+      "options": [
+        "0Hz",
+        "456Hz",
+        "44Hz",
+        "75Hz"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A man 1.5m tall is standing 3m in front of a pinhole camera whose distance between the hole and the screen is 0.1m. What is the height of the image of the man on the screen?",
+      "options": [
+        "0.05m",
+        "0.15m.",
+        "0.30m.",
+        "1.00m."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A ray of light passing through the centre of curvature of a concave mirror is reflected by the mirror at",
+      "options": [
+        "0°.",
+        "45°.",
+        "90°.",
+        "180°"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Total internal reflection will not occur when light travels from",
+      "options": [
+        "water to air.",
+        "water into glass.",
+        "glass to air.",
+        "glass into water."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the linear magnification of the objective and eyepiece convex lenses of a compound microscope are 4 and 7 respectively, calculate the angular magnification of the microscope.",
+      "options": [
+        "2.",
+        "3.",
+        "11.",
+        "28."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The angle of deviation of light of various colours passing through a triangular prism increases in the order",
+      "options": [
+        "red → green → blue.",
+        "green → violet → blue.",
+        "blue → red → green.",
+        "blue → green → red."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the force acting on an electron of charge 1.5 x 10−19C placed in an electric field of intensity 105V𝑚−1.",
+      "options": [
+        "1.5 x 10−11N",
+        "1.5 x 10−12N",
+        "1.5 x 10−13N",
+        "1.5 x 10−14N"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Capacitors are used in the induction coil to",
+      "options": [
+        "control circuits.",
+        "dissipate energy.",
+        "prevent electric sparks.",
+        "prevent distortion of electric fields."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "5V is connected in series with a 1Ω resistor and a current of 0.3A flows through the resistor. Find the internal resistance of the cell.",
+      "options": [
+        "4Ω.",
+        "3.0Ω.",
+        "1.5Ω.",
+        "1.00Ω."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following obeys ohms law?",
+      "options": [
+        "electrolytes.",
+        "metals.",
+        "diode.",
+        "glass."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A house has ten 40W and five 100W bulbs. How much will it cost the owner of the house to keep them lit for 10 hours if the cost of a unit is ₦5?",
+      "options": [
+        "₦90.",
+        "₦50.",
+        "₦45",
+        "₦40."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An electric device is rated 2000V, 250V. Calculate the maximum current it can take.",
+      "options": [
+        "9A.",
+        "8A.",
+        "7A.",
+        "6A."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When a charge moves through an electric circuit in the direction of an electric force, it",
+      "options": [
+        "gains both potential and kinetic energy.",
+        "gains potential energy and kinetic energy.",
+        "loses potential energy and gains kinetic energy.",
+        "loses both potential and kinetic energy."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "To convert a galvanometer to voltmeter, a",
+      "options": [
+        "high resistance is connected to it in series.",
+        "high resistance is connected to it in parallel.",
+        "low resistance is connected to it in series.",
+        "low resistance is connected to it in parallel."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Induced emfs are best explained using",
+      "options": [
+        "Ohm’s law.",
+        "Faraday’s law.",
+        "Coulomb’s law.",
+        "Lenz’s law."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "8g of a substance is deposited, what is the mass of the substance that will be deposited if a current of 4A flows through it for 4.8 hours?",
+      "options": [
+        "2.4g",
+        "3.2g",
+        "4.6g.",
+        "4.8g."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the energy of the third level of an atom if the ground state energy is -24eV",
+      "options": [
+        "-9.20eV.",
+        "-8.20eV.",
+        "-2.75eV.",
+        "-1.75eV."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In photo-emission, the number of photoelectrons ejected per second depends on the .",
+      "options": [
+        "frequency of the beam.",
+        "work function of the metal.",
+        "threshold frequency of the metal.",
+        "intensity of the beam."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The particle nature of light is demonstrated by the",
+      "options": [
+        "photoelectric effect.",
+        "speed of light.",
+        "colours of light.",
+        "diffraction of light."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The energy of a photon having a wavelength of 10−10m is",
+      "options": [
+        "2.0 x 10−15𝐽",
+        "1.7 x 10−13𝐽",
+        "2.0 x 10−12𝐽",
+        "1.7 x 10−12𝐽 (h= 6.63 x 10−34𝐽𝑠 c= 3.0 x 108𝑚𝑠−1)"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The bond between silicon and germanium is",
+      "options": [
+        "dative.",
+        "covalent.",
+        "trivalent.",
+        "ionic. ANSWER KEYS:"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "_id": "6850680c7e01022af0d377da",
+  "subjectName": [
+    "Government"
+  ],
+  "year": 2012,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which Questions Paper Type of Government as indicated above is given to you?",
+      "options": [
+        "Type Green",
+        "Type Purple",
+        "Type Red",
+        "Type Yellow"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The distinctive attribute of a state is the monopoly of",
+      "options": [
+        "control",
+        "power",
+        "violence",
+        "justice"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "State as a political entity refers to",
+      "options": [
+        "An organized group within a definite territory",
+        "An association of men in a given society",
+        "A branch of a nation",
+        "A geographical location"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Political values are acquired in any given society through",
+      "options": [
+        "political re-orientation",
+        "political campaign",
+        "political socialization",
+        "political indoctrination"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a democratic government, political sovereignty is vested in the",
+      "options": [
+        "legislature",
+        "elite",
+        "executive",
+        "electorate"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One judicial function performed by the executive is",
+      "options": [
+        "Granting of amnesty",
+        "Implementing judicial orders",
+        "Ensuring obedience to the law",
+        "Appointing judges"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A governmental system in which constitutional supremacy resides in the center is Expobite.Net",
+      "options": [
+        "federal",
+        "confederal",
+        "unitary",
+        "parliamentary"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A political system which empowers the leader with the ultimate responsibility to execute laws is",
+      "options": [
+        "parliamentarianism",
+        "presidentialism",
+        "dictatorship",
+        "autocracy"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A bill is a draft which is awaiting the consideration of the",
+      "options": [
+        "executive",
+        "party caucus",
+        "legislature",
+        "judiciary"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The private ownership of the means of production is a feature of",
+      "options": [
+        "capitalism",
+        "socialism",
+        "communalism",
+        "communism"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a feudal system, the two major classes are the serfs and the",
+      "options": [
+        "masses",
+        "vassals",
+        "lords",
+        "elite"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An example of a country with a flexible constitution is",
+      "options": [
+        "South Africa",
+        "Britain",
+        "Benin Republic",
+        "the United States of America"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The rule of law is negation of",
+      "options": [
+        "equality before the law",
+        "supremacy of the law",
+        "Limited power",
+        "absolute power Expobite.Net"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "To ensure the rights and freedom of citizens, the powers of the arms of government must be",
+      "options": [
+        "fused",
+        "incorporated",
+        "separated",
+        "rotated"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Delegated legislation is made by bodies others than the",
+      "options": [
+        "president",
+        "governor",
+        "parliament",
+        "judiciary"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The bringing of a session of a parliament to an end through royal proclamation is known as",
+      "options": [
+        "political impasse",
+        "dissolution of parliament",
+        "vote of no confidence",
+        "prorogation of parliament"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The right of citizens to participate in the affairs of government of their country is called",
+      "options": [
+        "economic right",
+        "civil right",
+        "political right",
+        "social right"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The commission charged with the conduct of federal elections in Nigeria is",
+      "options": [
+        "NEC",
+        "FEDECO",
+        "INEC",
+        "NECON"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An electoral system in which parties are assigned seats in the parliament commensurate to the number of votes polled is",
+      "options": [
+        "Absolute majority",
+        "Simple majority",
+        "proportional representation",
+        "indirect election Expobite.Net"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An intra-party activity for the selection of candidates for elective positions known as",
+      "options": [
+        "primary election",
+        "general election",
+        "mid-term election",
+        "bye-election"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary aim of pressure groups is to",
+      "options": [
+        "Attract people's attention",
+        "protects the interest of members",
+        "captured political power",
+        "fight corrupt officials"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is used in gauging public opinion?",
+      "options": [
+        "constitution",
+        "educational institution",
+        "mass media",
+        "electoral college"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A permanent structure that facilitates continuity and guarantees orderly conduct in governance is",
+      "options": [
+        "Bureaucracy",
+        "public corporation",
+        "ombudsman",
+        "political party"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the Hausa pre- colonial political system, a district was headed by",
+      "options": [
+        "A hakimi",
+        "a dagaci",
+        "an alkali",
+        "a waziri"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following ensured the practice of democracy in the pre-colonial Yoruba political system?",
+      "options": [
+        "Checks and balances",
+        "Fusion of power",
+        "individual responsibility",
+        "the rule of law"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Colonization of Africa was mainly motivated by Expobite.Net",
+      "options": [
+        "security considerations",
+        "economic reasons",
+        "religious reasons",
+        "cultural factors"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The French colonial system was underlined by the policy of",
+      "options": [
+        "assimilation",
+        "paternalism",
+        "socialism",
+        "indirect rule"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Radical nationalism in Nigeria is generally attributed to the influence of",
+      "options": [
+        "Aminu Kano",
+        "Herbert Marcaulay",
+        "Nnamdi Azikiwe",
+        "Mbonu Ojike"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Two foreigners that directly aroused nationalist feelings among Nigerians are",
+      "options": [
+        "Edward Blyden and Payne Jackson",
+        "Casely Hayford and James Horton",
+        "W.E du Boise and H.O Davies",
+        "Marcus Garvey and Casely Hayford"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Members of the Senate in Nigeria's First Republic were",
+      "options": [
+        "Elected directly by the people",
+        "Elected by electoral college",
+        "Nominated by regional and federal governments",
+        "Nominated by the president of the house"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In Nigeria, the agency mainly responsible for the maintenance of internal peace and security is the",
+      "options": [
+        "Army",
+        "Navy",
+        "Civil Defence Corps",
+        "Police"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The National Assembly in Nigeria is primarily responsible for Expobite.Net",
+      "options": [
+        "Executing laws",
+        "interpreting laws",
+        "Ratifying appointments",
+        "Making laws"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The major factor militating against the efficient operation of electoral commissions in Nigeria is",
+      "options": [
+        "Inadequate public support",
+        "Population size",
+        "Inadequate skilled manpower",
+        "Excessive political interference"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A major objective of the public Complaints Commission is",
+      "options": [
+        "Training and promotion of public servants",
+        "Settlement of disputes among individuals",
+        "Addressing the grievances of individuals and groups",
+        "Fighting corruption and indiscipline"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The three registered political parties at the inception of Nigeria’s Fourth Republic were",
+      "options": [
+        "PDP, DPP and PPA",
+        "PDP, AD and APP",
+        "PDP, AD and PPA",
+        "PDP, app and AC"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The Sharia legal system was first introduced in the Fourth Republic in",
+      "options": [
+        "Kano State",
+        "Katsina State",
+        "Zamfara State",
+        "Sokoto State"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Quota system and federal character principles were entrenched in the 1979 constitution to ensure",
+      "options": [
+        "loyalty",
+        "Economic empowerment",
+        "Equity",
+        "Even development"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Workers in the public corporations are known as",
+      "options": [
+        "civil servants",
+        "private employees Expobite.Net",
+        "public servants",
+        "professional employees"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The central objective of privatization in Nigeria is to",
+      "options": [
+        "Reduce the retrenchment of workers",
+        "Encourage prompt payment of salaries",
+        "Improve standard of living",
+        "Improve the efficiency of enterprises"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Military intervention in Nigeria arose from",
+      "options": [
+        "perceived incapability of civilians to govern",
+        "international pressure for change",
+        "the desire for a military government",
+        "civilian's desire to relinquish power"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The first institution introduced by the military to exercise legislative power was the",
+      "options": [
+        "supreme military council",
+        "armed forces ruling council",
+        "federal executive council",
+        "provisional ruling council"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main focus of Nigeria's foreign policy since independence centers on",
+      "options": [
+        "South- south cooperation",
+        "Sub-regionalism",
+        "Globalism",
+        "Afrocentrism"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The country that championed decolonization in Africa was",
+      "options": [
+        "Nigeria",
+        "South Africa",
+        "Ghana",
+        "Kenya"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A major drawback to the NEPAD initiative is its",
+      "options": [
+        "Articulation by few African leaders",
+        "Affiliation by few African union",
+        "Inability to empower the youth Expobite.Net",
+        "Reliance on Western donors for funds"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The structures of the African Union include",
+      "options": [
+        "the court of justice, pan African congress and people’s Assembly",
+        "pan African parliament, the court of justice and the peace and security council",
+        "specialized Technical commission, the court of justice and humanitarian board",
+        "people's Assembly, Humanitarian Board and the peace and security council"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "ECOMOG at the initial stage of its intervention in Liberia was perceived as",
+      "options": [
+        "Neutral",
+        "Incompetent",
+        "Partisan",
+        "Invaders"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the programmes binding members of the Commonwealth is the",
+      "options": [
+        "Food and aid programme",
+        "Cultural programme",
+        "Agenda for peace",
+        "Scholarship scheme"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The African leader mostly credited for spearheading the formation of the African Union is",
+      "options": [
+        "Muammar Ghaddafi",
+        "Abdelaziz Bouteflika",
+        "Abdoulaye Wade",
+        "Thabo Mbeki"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "As part of the reforms in the UN, two slots were proposed in the Security Council for –",
+      "options": [
+        "Asia",
+        "Africa",
+        "America",
+        "Europe"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The founding members of OPEC are Expobite.Net",
+      "options": [
+        "Algeria, Iran, Iraq, Saudi Arabia and Kuwait"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    }
+  ]
+}

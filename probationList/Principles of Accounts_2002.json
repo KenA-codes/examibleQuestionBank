@@ -1,0 +1,859 @@
+{
+  "_id": "686656893053b37f3af43ba2",
+  "subjectName": [
+    "Principles of Accounts"
+  ],
+  "year": 2002,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In preparing the final account, the bad debt account is closed by a transfer to the",
+      "options": [
+        "Balance sheet",
+        "Provision for bad debt",
+        "Profit and loss account",
+        "Trading account"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Determine the cost of goods sold.",
+      "options": [
+        "N2,575",
+        "N2,985",
+        "3,250",
+        "3,925"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "How much was received to maintain the imprest at the end of the month?",
+      "options": [
+        "N950",
+        "N970",
+        "N430",
+        "N380"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Miscellaneous expenses is 10% of revenue. Calculate the net income",
+      "options": [
+        "N583,000",
+        "N563,000",
+        "N483,000",
+        "N683,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An entry in a subsidiary book which does not form part of the double entry system is a",
+      "options": [
+        "Contra entry",
+        "Journal entry",
+        "Single entry",
+        "Memorandum entry"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In an incomplete record, the preparation of the bank reconciliation ensured that",
+      "options": [
+        "All cash taking are banked",
+        "The cash book is correct",
+        "There are no overdrafts",
+        "There are no hidden loans"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "I. Fixtures account II. Machinery account III. Wages account IV. Rent account. Which of the above are nominal account?",
+      "options": [
+        "III and IV",
+        "I and II",
+        "I and III",
+        "II and III"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Compute the value of current assets.",
+      "options": [
+        "N20,400",
+        "20,465",
+        "35,695",
+        "N19,820"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The value of capital invested by own owners is",
+      "options": [
+        "N110,000",
+        "N105,000",
+        "N101,000",
+        "N100,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The liabilities of Udo Co. Ltd is",
+      "options": [
+        "N180,000",
+        "N181,000",
+        "N177,000",
+        "N110,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The normal accounting entry to record the dishonour of a cheque by a businessman is to",
+      "options": [
+        "Debit cash book and credit suspense account",
+        "Debit cash book and credit drawer",
+        "Credit cash book and debit suspense account",
+        "Credit cash book and debit drawer"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the net working capital?",
+      "options": [
+        "N90m",
+        "N70m",
+        "N100m",
+        "N80m"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Determine the value of the trade investment.",
+      "options": [
+        "N8m",
+        "N10m",
+        "N15m",
+        "N20m"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The concise statement used to explain entries in the general journal is known as",
+      "options": [
+        "Narration",
+        "Summary",
+        "Inforrnation",
+        "Commentary"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the total expenses is N20,845, what will be the net profit for the company during the month?",
+      "options": [
+        "N19,149",
+        "N16,168",
+        "N21,655",
+        "N18,405"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The closing stock for this company is",
+      "options": [
+        "N72,000",
+        "N45,000",
+        "N42,500",
+        "N31,250"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a departmental accounting system, which of the following expenses will most likely be apportioned on the basis of turnover?",
+      "options": [
+        "Carriage outwards",
+        "Carriages inwards",
+        "Discounts received",
+        "Returns outwards"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Determine the prime cost",
+      "options": [
+        "N7,500",
+        "N6,500",
+        "N9,000",
+        "N8,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The cost of goods manufactured is",
+      "options": [
+        "N11,000",
+        "N12,000",
+        "N14,000",
+        "N9,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "I. Orientation II. Entity III. Legal status IV. Finance. Which of the characteristics above distinguishes a profit-making from a not-for-profit-making organization?",
+      "options": [
+        "I, II, III and IV",
+        "I, II and III",
+        "II and III",
+        "I and II"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the gross profit carried to the profit and loss account?",
+      "options": [
+        "N1,820",
+        "N1,640",
+        "N1,530",
+        "N1,870"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the cost of goods credited to the head office trading account.",
+      "options": [
+        "N7,660",
+        "N7,500",
+        "N7,460",
+        "N7,200"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Nasara manufacturing Plc has three direct labour employees that work 40 hours each a week for 50 weeks a year. Factory overhead costs of N60,000 is distributed on the basis of direct labour hours. Compute the over-head rate.",
+      "options": [
+        "N12 per hour",
+        "N16 per hour",
+        "N10 per hour",
+        "N15 per hour"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the closing cash balance?",
+      "options": [
+        "N11,500",
+        "N12,000",
+        "N13,000",
+        "N13,500"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Compute the subscriptions received",
+      "options": [
+        "N30,000",
+        "N28,000",
+        "N24,000",
+        "N20,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Department P’s share of discount received is",
+      "options": [
+        "N750",
+        "N1,000",
+        "N250",
+        "N500"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is department Q’s share of discount allowed?",
+      "options": [
+        "N2,000",
+        "N1,500",
+        "N800",
+        "N1,200"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the amount to be written off as other expenses?",
+      "options": [
+        "N4,500",
+        "N6,000",
+        "N4,000",
+        "N5,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Determine the club’s excess of income over expenditure",
+      "options": [
+        "N12,000",
+        "N15,000",
+        "N10,000",
+        "N14,500"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The gross profit on manufactured goods is the difference between the cost of goods manufactured and the",
+      "options": [
+        "Market value of goods produced",
+        "Prime cost of production",
+        "Indirect cost of production",
+        "Goods produced"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given that 1/3 of the N6,000 stock held by a branch is purchased from outsider. If goods are invoiced to branch at 25% on cost, the provision for unrealized profit is",
+      "options": [
+        "N1000.00",
+        "N333.33",
+        "N666.66",
+        "N800.00"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The working capital of the club is",
+      "options": [
+        "N5,000",
+        "N4,000",
+        "N3,000",
+        "N7,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Costs that vary in proportion to the level of production in a manufacturing environment are known as",
+      "options": [
+        "Control costs",
+        "Overheads",
+        "Direct costs",
+        "Indirect costs"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A company operating a chain of retail provision stores invoices goods to the branches at cost plus a mark-up of 25% on selling price?",
+      "options": [
+        "35%",
+        "30%",
+        "20%",
+        "15%"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the purchases for the period",
+      "options": [
+        "N80,000",
+        "N35,000",
+        "N105,000",
+        "N70,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which method of pricing can be used satisfactorily in either a rising or falling price situation?",
+      "options": [
+        "Standard price",
+        "Market price",
+        "FIFO",
+        "Average method"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the profit or loss",
+      "options": [
+        "N8,500 loss",
+        "N2,000 loss",
+        "N2,000 profit",
+        "N8,500 profit"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a control account, discount received is found on the",
+      "options": [
+        "Debit side of the purchases ledger control account",
+        "Debit side of the sales ledger contol account",
+        "Credit side of the purchases ledger control account",
+        "Credit side of the sales ledger control account"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In an incomplete record system, a trading account cannot be prepaid until the",
+      "options": [
+        "Day book has been balanced",
+        "Amount of personal drawings has been established",
+        "Cash book has been balanced",
+        "Amount of sales and purchases has been established"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The closing stock on March 11th by LIFO valuation is",
+      "options": [
+        "N4,200",
+        "N2,700",
+        "N4,500",
+        "N3,900"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The value of closing stock as at February 14th by simple average method is",
+      "options": [
+        "N3,900",
+        "N2,500",
+        "N4,100",
+        "N2,700"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given an incomplete record without sufficient information to determine profit, the necessary thing to do it to",
+      "options": [
+        "Draw up the statement of affairs",
+        "Draw up a T-account to establish the amount",
+        "Compare the journal entries with the cash book",
+        "Cross-check the cash book for further information"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Control accounts help to verify the arithmetic accuracy of the postings from the",
+      "options": [
+        "Subsidiary books into the trial balance",
+        "Ledgers into the trial balance",
+        "Journals into the ledgers",
+        "Subsidiary books into the ledgers"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Keeping records under the single entry system has the advantage of",
+      "options": [
+        "Duality in terms of records",
+        "Completeness in terms of records",
+        "Accuracy in terms of operation",
+        "Simplicity in terms of operation"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the gross profit is N66,000, what is the value of stock at 31st December?",
+      "options": [
+        "N30,000",
+        "N40,000",
+        "N50,000",
+        "N20,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the opening balance on the consolidated revenue fund account?",
+      "options": [
+        "N10,000m",
+        "N12,000m",
+        "N9,000m",
+        "N11,000m"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Abba’s capital balance at the end of the year will be",
+      "options": [
+        "N5,475",
+        "N5,725",
+        "N4,400",
+        "N5,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Current account balance of Kaka at the end of the year will be",
+      "options": [
+        "N250",
+        "N350",
+        "N175",
+        "N325"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Upon the dissolution of a partnership, the Partnership Act provides that the amount realized should be",
+      "options": [
+        "Used to pay all taxes due to government",
+        "Used to start a new partnership business by members who are willing",
+        "Shared equally by the existing partners",
+        "Used in paying the debts and liabilities of the firm to persons who are not partners"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the public sector, the method of accounting that reports revenues and expenditures in the period in which they are received and paid is called",
+      "options": [
+        "Fund accounting",
+        "Commitment accounting",
+        "Cash accounting",
+        "Accrual accounting"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

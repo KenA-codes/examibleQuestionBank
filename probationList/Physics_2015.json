@@ -1,0 +1,570 @@
+{
+  "_id": "6851b57103d37a7af32e761d",
+  "subjectName": [
+    "Physics"
+  ],
+  "year": 2015,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A piece of rubber 10cm long stretches 6mm when a load of 100N is hung from it. What is the strain?",
+      "options": [
+        "6 X 10-3",
+        "6",
+        "60",
+        "6.0 X 10-3"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The speed of light in air is 3.0 x 103ms-1. Its speed in glass having a refractive index of 1.65 is",
+      "options": [
+        "1.82 x 108 ms-1",
+        "3.00 x 108 ms-1",
+        "4.95 x 108 ms-1",
+        "1.65 x 108 ms-1"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Longitudinal waves do not exhibit",
+      "options": [
+        "refraction",
+        "polarization",
+        "diffraction",
+        "reflection"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A device that converts sound energy into electrical energy is",
+      "options": [
+        "the horn of a motor car",
+        "the telephone earpiece",
+        "a loudspeaker",
+        "a microphone."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A good calorimeter should be of",
+      "options": [
+        "low specific heat capacity and low heat conductivity",
+        "high specific heat capacity and low heat conductivity",
+        "high specific heat capacity and low heat conductivity",
+        "low specific heat capacity and high heat conductivity."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is most strongly deflected by a magnetic field?",
+      "options": [
+        "β-particles",
+        "χ-particles",
+        "γ-rays.",
+        "χ-rays"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a beaker is filled with water, it is observed that the surface of the water is not horizontal at the glass-water interface. This behaviour is due to",
+      "options": [
+        "friction",
+        "surface tension",
+        "viscosity",
+        "evaporation"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A dynamo primarily conducts",
+      "options": [
+        "potential energy into kinetic energy",
+        "electrical energy into kinetic energy",
+        "mechanical energy into electrical energy",
+        "kinetic energy into potential energy"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A calibrated potentiometer is used to measure the e.m.f. of a cell because the",
+      "options": [
+        "internal resistance of a cell is small compared with that of the potentiometer",
+        "potentiometer takes no current from the cell",
+        "potentiometer has a linear scale",
+        "resistance of the potentiometer is less than that of a voltmeter"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a vector?",
+      "options": [
+        "Electric charge",
+        "Electric potential difference",
+        "Electric field",
+        "Electrical capacitance."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The photocell works on the principle of the",
+      "options": [
+        "voltaic cell",
+        "photographic plate",
+        "emission of protons by incident electrons",
+        "emission of electrons by incident radiation"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When an atom loses or gains a charge, it becomes",
+      "options": [
+        "an ion",
+        "an electron",
+        "a neutron",
+        "a proton"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following characteristics of a wave is used in the measurement of the depth of the sea?",
+      "options": [
+        "Diffraction",
+        "Reflection",
+        "Refraction",
+        "Interference"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following are produced after a nuclear fusion process? I. One heavy nucleus II. Neutrons III. Protons IV. Energy",
+      "options": [
+        "I and II",
+        "II and III",
+        "I and IV",
+        "II and IV."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Two similar kettles containing equal masses of boiling water are placed on a table. If the surface of one is highly polished and the surface of the other is covered with soot, which of the following observations is correct?",
+      "options": [
+        "The two kettles will cool down at the same rate",
+        "The polished kettle cools down more quickly by conduction",
+        "The kettle covered with soot cools down more quickly because it is a good radiator of heat",
+        "The kettle covered with soot cools down more quickly by the process of heat convection."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Total eclipse of the sun occurs when the",
+      "options": [
+        "moon is between the sun and the earth",
+        "sun is between the moon and the earth",
+        "the earth is between the moon and the sun",
+        "ozone layer is threatened."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following pairs of colours gives the widest separation in the spectrum of white light?",
+      "options": [
+        "Green and Yellow",
+        "Red and violet",
+        "Red and indigo",
+        "Yellow and violet."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following with respect to a body performing simple harmonic motion are in phase?",
+      "options": [
+        "Displacement and velocity of the body",
+        "Displacement and force on the body",
+        "Velocity and acceleration of the body",
+        "Force acting on the body and the acceleration"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "5.V is to be pivoted on a knife- edge at the 30cm-mark. Where will a force of 2N be placed from the pivot to balance the metre rule?",
+      "options": [
+        "95cm",
+        "5cm",
+        "20cm",
+        "25cm"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "0N when fully immersed in water and 7.0N when fully immersed in a certain liquid X. Calculate the relative density of the liquid.",
+      "options": [
+        "Air, alcohol and mercury",
+        "alcohol, mercury and alcohol",
+        "mercury, alcohol and mercury",
+        "Air, mercury and alcohol"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "the process of energy production in the sun is",
+      "options": [
+        "nuclear fission",
+        "nuclear fusion",
+        "electron collision",
+        "radioactivity decay"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "the particle is responsible for nuclear fusion in a nuclear reactor is",
+      "options": [
+        "electron",
+        "Photon",
+        "proton.",
+        "Neutron"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "if the uncertainty in the measurement of the position of a particle is 5×10-10m, the uncertainty in the momentum of the particle is",
+      "options": [
+        "1.32 × 10-24 Ns",
+        "3.30 × 10-44 Ns",
+        "1.32 × 10-44 Ns",
+        "3.30 × 10-24 Ns [h=6.6 ×10-34J]"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The change in volume when 450kg of ice is completely melted is",
+      "options": [
+        "0.50m",
+        "0.45m3",
+        "4.50m3",
+        "0.05m3 [density of ice =900kgm-3 Density of water=1000 kgm-3]"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When impurities are added to semiconductor",
+      "options": [
+        "decreases",
+        "increases then decreases",
+        "decreases",
+        "remains constant"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The process through which free electrons leave the hot surface of hot metal is known as",
+      "options": [
+        "photo emission",
+        "thermionic emission",
+        "photon emission",
+        "electron emission"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The production of pure spectrum could easily be achieved using a",
+      "options": [
+        "Triangular prism only",
+        "Triangular prism with two concave lens",
+        "Glass prism with a pin",
+        "Triangular prism with two convex lens."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A short chain is something attached to the back of a petrol tanker to",
+      "options": [
+        "Conduct excess charges to the earth",
+        "Ensure the balancing of the tanker",
+        "Caution the driver when over speeding",
+        "Generate more friction"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A perfect emitter or absorber of radiant energy is a",
+      "options": [
+        "White body",
+        "Red body",
+        "Conductor",
+        "Black body"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Six identical cells, each of e.m.f 2V are connected as shown above. The effective e.m.f of the cell is",
+      "options": [
+        "4V",
+        "0V",
+        "6V",
+        "12V"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a pump is capable of lifting 5000Kg of water through a vertical height of 60 m in 50 mins, the power of the pump is",
+      "options": [
+        "2.5×105Js-1",
+        "3.3 × 103Js-1",
+        "2.5 ×104Js-1",
+        "3.3 × 102Js-1"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An electric lamp marked 240V, 60 Watts is left to operate for an hour. How much energy is generated by the filament?",
+      "options": [
+        "3.86 × 105 J",
+        "2.16 × 105 J",
+        "1.80 × 104 J",
+        "3.56 × 105 J"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In comparing the camera and human eye, the film of the camera functions as the",
+      "options": [
+        "Iris",
+        "Pupil",
+        "Retina",
+        "Cornea ANSWER KEYS:"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

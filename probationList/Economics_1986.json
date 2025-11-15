@@ -1,0 +1,859 @@
+{
+  "_id": "68657abec5c1a95319c78944",
+  "subjectName": [
+    "Economics"
+  ],
+  "year": 1986,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Choice in economic life is necessitated by",
+      "options": [
+        "The need to construct scale of preference",
+        "The opportunity cost of consumption",
+        "Unlimited wants",
+        "Scarcity of economic resources"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of these is the real cost of satisfying any want in the sense of the alternative that has to be foregone?",
+      "options": [
+        "Money cost",
+        "Opportunity cost",
+        "Labour cost",
+        "Marginal cost"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main reason for the study of economics is to",
+      "options": [
+        "Learn how to make money",
+        "Learn how to allocate scarce resources",
+        "Learn how to avoid wants",
+        "Learn how to avoid scarcity"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The concept of opportunity cost is necessary because",
+      "options": [
+        "Resources are unlimited",
+        "Wants are limited",
+        "Resources are scarce",
+        "Wants are unlimited"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The basic economic problem is",
+      "options": [
+        "Scarcity",
+        "Choice",
+        "Wants",
+        "Resources"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The reward for capital as a factor of production is",
+      "options": [
+        "Rent",
+        "Wages",
+        "Interest",
+        "Profit"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a characteristic of land as a factor of production?",
+      "options": [
+        "It is a free gift of nature",
+        "It is immobile",
+        "Its supply is limited",
+        "It is man-made"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a person receives a higher wage than would be necessary to induce him to work, he is said to be receiving",
+      "options": [
+        "Rent",
+        "Profit",
+        "Interest",
+        "Period of training"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Mobility of labour is NOT affected by",
+      "options": [
+        "Optimum size of population",
+        "Marriage and family",
+        "Regulation trade unions",
+        "Period of training"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A country has a population distribution shown below: The dependency ratio is",
+      "options": [
+        "3 : 2",
+        "1 : 4",
+        "2 : 3",
+        "1 : 5"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of money?",
+      "options": [
+        "Medium of exchange",
+        "Unit of account",
+        "Store of value",
+        "Means of production"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main function of the Central Bank is to",
+      "options": [
+        "Accept deposits from the public",
+        "Issue currency",
+        "Grant loans to individuals",
+        "Control the supply of money"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of commercial banks?",
+      "options": [
+        "Accepting deposits",
+        "Granting loans",
+        "Issuing currency",
+        "Providing safe custody for valuables"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of unemployment?",
+      "options": [
+        "Frictional",
+        "Structural",
+        "Cyclical",
+        "Seasonal"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a cause of inflation?",
+      "options": [
+        "Increase in money supply",
+        "Increase in demand",
+        "Decrease in production",
+        "Decrease in money supply"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a direct tax?",
+      "options": [
+        "Personal income tax",
+        "Company tax",
+        "Value added tax",
+        "Capital gains tax"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the price of commodity X falls from N40.00 to N3.00 what is the price elasticity of demand?",
+      "options": [
+        "0.62",
+        "0.73",
+        "1.00",
+        "1.50"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a feature of a perfect market?",
+      "options": [
+        "Large number of buyers and sellers",
+        "Homogeneous products",
+        "Free entry and exit",
+        "Price discrimination"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a characteristic of monopoly?",
+      "options": [
+        "Single seller",
+        "No close substitutes",
+        "Barriers to entry",
+        "Perfect knowledge"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a source of government revenue?",
+      "options": [
+        "Taxes",
+        "Grants",
+        "Loans",
+        "Subsidies"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The law of demand states that, other things being equal, an increase in the price of a commodity will",
+      "options": [
+        "Decrease the quantity demanded",
+        "Increase the quantity demanded",
+        "Have no effect on the quantity demanded",
+        "Increase the demand for the commodity"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following will lead to a movement along the demand curve for a product?",
+      "options": [
+        "A change in consumer income",
+        "A change in the price of the product",
+        "A change in the price of related goods",
+        "A change in consumer preferences"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The cross-price elasticity of demand measures the responsiveness of",
+      "options": [
+        "Quantity demanded of one good to a change in the price of another good",
+        "Quantity demanded to a change in consumer income",
+        "Price of a good to a change in its quantity supplied",
+        "Quantity supplied of one good to a change in the price of another good"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the demand for a product is perfectly inelastic, a change in price will",
+      "options": [
+        "Not affect the quantity demanded",
+        "Decrease the quantity demanded to zero",
+        "Decrease the quantity demanded",
+        "Increase the quantity demanded"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The price elasticity of demand for a product is influenced by",
+      "options": [
+        "The availability of substitutes",
+        "The proportion of income spent on the product",
+        "The time period considered",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is likely to have the most inelastic demand?",
+      "options": [
+        "Luxury cars",
+        "Salt",
+        "Designer handbags",
+        "Airline tickets"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A demand curve that is a straight line downward sloping from left to right indicates",
+      "options": [
+        "Perfectly elastic demand",
+        "Perfectly inelastic demand",
+        "Unitary elastic demand",
+        "Elasticity varies along the curve"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The law of supply states that, other things being equal, an increase in the price of a commodity will",
+      "options": [
+        "Decrease the quantity supplied",
+        "Increase the quantity supplied",
+        "Have no effect on the quantity supplied",
+        "Decrease the supply of the commodity"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following will lead to a movement along the supply curve for a product?",
+      "options": [
+        "A change in production costs",
+        "A change in the price of the product",
+        "A change in technology",
+        "A change in the number of suppliers"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The concept of price elasticity of supply measures the responsiveness of",
+      "options": [
+        "Quantity supplied to a change in price",
+        "Price to a change in quantity supplied",
+        "Quantity demanded to a change in price",
+        "Price to a change in quantity demanded"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the supply of a product is perfectly inelastic, a change in price will",
+      "options": [
+        "Not affect the quantity supplied",
+        "Decrease the quantity supplied to zero",
+        "Decrease the quantity supplied",
+        "Increase the quantity supplied"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The cross-price elasticity of supply measures the responsiveness of",
+      "options": [
+        "Quantity supplied of one good to a change in the price of another good",
+        "Quantity supplied to a change in consumer income",
+        "Price of a good to a change in its quantity demanded",
+        "Quantity demanded of one good to a change in the price of another good"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the demand for a product increases and the supply remains constant, the equilibrium price will",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain the same",
+        "Become indeterminate"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the supply of a product increases and the demand remains constant, the equilibrium price will",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain the same",
+        "Become indeterminate"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The equilibrium quantity in a market is determined by",
+      "options": [
+        "The interaction of supply and demand",
+        "The level of consumer income",
+        "The number of suppliers",
+        "The price elasticity of demand"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A surplus in a market occurs when",
+      "options": [
+        "Quantity supplied exceeds quantity demanded",
+        "Quantity demanded exceeds quantity supplied",
+        "Supply equals demand",
+        "Prices are too low"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A shortage in a market occurs when",
+      "options": [
+        "Quantity supplied exceeds quantity demanded",
+        "Quantity demanded exceeds quantity supplied",
+        "Supply equals demand",
+        "Prices are too high"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The price mechanism in a market economy",
+      "options": [
+        "Eliminates the need for a government",
+        "Ensures that all goods are produced",
+        "Allocates resources efficiently through signals and incentives",
+        "Leads to an equal distribution of income"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Market failure occurs when",
+      "options": [
+        "The market does not allocate resources efficiently",
+        "There is too much competition",
+        "All resources are owned by the government",
+        "Prices are stable"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Tax incidence is the analysis of",
+      "options": [
+        "How progressive a tax is",
+        "How a tax is collected",
+        "How distorting a tax is",
+        "Who ultimately pays the tax"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In International trade, country specializes in the production of a commodity or group of commodities for which it has",
+      "options": [
+        "A buoyant market",
+        "Plenty of raw materials",
+        "The greatest relative advantage",
+        "Executive manpower"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Balance of payments deficit in Nigeria CANNOT be solved by",
+      "options": [
+        "Importing more goods and services",
+        "Devaluation of the currency",
+        "Imposing import duties",
+        "Imposing import bans on some commodities"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The term, balance of trade, can be defined as the",
+      "options": [
+        "Relation between value of exports and value of imports over a given period of time",
+        "Balance owed to the rest of the world in payment for imports",
+        "Price paid for imports in terms of exports",
+        "Relation between payments of all kinds made by a country to the rest of the world, over a given period of time."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The terms of trade is often measured by the ratio of the index of export prices",
+      "options": [
+        "Divided by the index of import prices multiplied by 100",
+        "Multiplied by the index of import prices",
+        "Plus the index of import prices multiplied by100",
+        "Minus the index of import prices"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A society which forgoes present consumption",
+      "options": [
+        "Is forced to do so because of excessive consumption within the country in the post",
+        "Is devoting new resources to new capital formation",
+        "Is merely devoting resources to the replacement of capital",
+        "Expects to consume only that amount tomorrow which was forgone today"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "ECOWAS will enable the countries involved to achieve",
+      "options": [
+        "Comparative political advantage over other countries not in the region",
+        "A large market for their products",
+        "Military superiority over countries not in the region",
+        "Lower the transportation cost of goods within the region"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following methods is most likely to lead to an increase rate of growth in the national economy?",
+      "options": [
+        "An increase in wages and profits",
+        "An increase in consumer demand",
+        "A greater fraction of the National Product going into investment",
+        "A continuous rise in bank loans"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The differences between the Gross Domestic Product and the Gross National Production is the",
+      "options": [
+        "Allowance for total depreciation",
+        "Total interest payments",
+        "Total tax and interest payments",
+        "Net income from abroad"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following strategies will provide more employment opportunities for Nigerians?",
+      "options": [
+        "Investment in social services",
+        "Industrialization",
+        "Economic planning",
+        "Eradication of illiteracy"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A nation’s distribution of income shows",
+      "options": [
+        "The value of all goods produced in the economy",
+        "How income is dividend among different groups",
+        "Where the economy system is on its production possibility curve",
+        "The consumption behaviour of the people"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

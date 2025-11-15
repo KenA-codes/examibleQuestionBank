@@ -1,0 +1,774 @@
+{
+  "_id": "6851b3c003d37a7af32e761a",
+  "subjectName": [
+    "Physics"
+  ],
+  "year": 2012,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which Question paper type of physics as indicated above is given to you",
+      "options": [
+        "Type Green",
+        "Type Purple",
+        "Type Red",
+        "Type Yellow"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In order to remove the error of parallax when taking measurements with a metre rule, the eye should be focused",
+      "options": [
+        "slantingly towards the left on the markings",
+        "slantingly towards the right on the markings",
+        "vertically downwards on the markings",
+        "vertically upwards on the markings."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A load is pulled at a uniform speed along horizontal floor by a rope at 45⁰ to floor. If the force in the rope is 1500N, what is the frictional force on the load?",
+      "options": [
+        "1524N",
+        "1350N",
+        "1260N",
+        "1061N"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "From the velocity-time graph shown above, which of the following quantities CANNOT be determined?",
+      "options": [
+        "Deceleration.",
+        "Initial velocity.",
+        "Total distance travelled.",
+        "Initial acceleration"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "1ms-2.",
+      "options": [
+        "5500m",
+        "4500m",
+        "4200m",
+        "3000m."
+      ],
+      "answer": "",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A car starts from rest and moves with a uniform acceleration of 30ms-2 for 20s. Calculate the distance covered at the end of the motion.",
+      "options": [
+        "6km",
+        "12km",
+        "18km",
+        "24km."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A rocket is fired from the earth’s surface to a distant planet. By Newton’s law of universal gravitation, the force F will",
+      "options": [
+        "increase as a reduces",
+        "increase as G varies",
+        "remains constant",
+        "increases as r increases"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a freely suspended object is pulled to one side and released, it oscillates about the point of suspension because the",
+      "options": [
+        "acceleration is directly proportional to the displacement",
+        "motion is directed away from the equilibrium point",
+        "acceleration is directly proportional to the square of the displacement",
+        "velocity is minimum at the equilibrium point."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An object moves in a circular path of radius 0.5m with a speed of 1ms-1. What is its angular velocity?",
+      "options": [
+        "8 rads-1",
+        "4 rads -1",
+        "2 rads-1",
+        "1 rads-1"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An object of mass 20kg slides down an inclined plane at an angle of 30° to the horizontal. The coefficient of an active friction is",
+      "options": [
+        "0.2",
+        "0.3",
+        "0.5",
+        "0.6 [g ≈10ms-2]"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A block and tackle is used to raise a load of 25N through a vertical distance of 30m. What is the efficiency of the system if the work done against friction is 1500J? [g ≈10ms-2]",
+      "options": [
+        "62.5%",
+        "73.3%",
+        "83.3%",
+        "94.3%"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a load of 1kg stretches a cord by 1.2cm, what is the force constant of the cord? [g ≈10ms-2]",
+      "options": [
+        "866 Nm-1",
+        "833 Nm-1",
+        "769 Nm-1",
+        "667 Nm-1"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An object of volume 1m3 and mass 2kg is totally immersed in a liquid of density 1kgm-3. Calculate its apparent weight.",
+      "options": [
+        "20 N",
+        "10 N",
+        "2 N",
+        "1 N"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The pressure at any point in a liquid at rest depends only on the",
+      "options": [
+        "depth and the density",
+        "mass and the volume",
+        "quantity and the surface area",
+        "surface area and the viscosity."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A balloon whose volume is 300m3 is filled with hydrogen. If the density of air is 1.3kgm-3, find the up thrust on the balloon. [g ≈10ms-2]",
+      "options": [
+        "3000N",
+        "3800N",
+        "3900N",
+        "4200N"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Clinical thermometers are examples of",
+      "options": [
+        "pressure gas thermometer",
+        "resistance thermometer",
+        "alcohol thermometer",
+        "mercury-in-glass thermometer."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Two metals P and Q are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of their lengths is 3:4 respectively, the ratio of the increase in lengths of P to Q is",
+      "options": [
+        "1:2",
+        "2:1",
+        "8:9",
+        "9:8"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "2000cm3 of a gas is collected at 27°C and 700mmHg. What is the volume of the gas at standard temperature and pressure?",
+      "options": [
+        "1896.5cm3",
+        "1767.3cm3",
+        "1676.3cm3",
+        "1456.5cm3"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the temperature change when 500 J of heat is supplied to 100g of water.",
+      "options": [
+        "12.1°C",
+        "2.1°C",
+        "1.2°C",
+        "0.1°C (Specific heat capacity of water = 4200Jkg-1K-1)"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a factor that can increase the rate of evaporation of water in a lake?",
+      "options": [
+        "Increase in the pressure of the atmosphere",
+        "Rise in temperature",
+        "Increase in the average speed of the molecules of water",
+        "Increase in the kinetic energy of the molecules of water."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The quantity of heat energy required to melt completely 1kg of ice at -30°C is",
+      "options": [
+        "4.13 x 105J",
+        "4.13 x 105J",
+        "3.56 x 104J",
+        "3.56 x 102J (latent heat of fusion = 3.5 x 105 Jkg-1, specific heat capacity of ice = 2.1 x 103Jkg-1 K-1)"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "I. It is a rapid, constant and irregular motion of tiny particles. II. It gives evidence that tiny particles of matter called molecules exist. III. It takes place only in gases. IV. It gives evidence that molecules are in a constant state of random motion. Which of the combinations above is correct about Brownian motion?",
+      "options": [
+        "I, II and III",
+        "II, III and IV only",
+        "I, III and IV only",
+        "I, II and IV only"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The equation of a wave travelling in a horizontal direction is expressed as y=15 sin 2 (60t-x) what is its 5 wavelength?",
+      "options": [
+        "60m",
+        "15m",
+        "5m",
+        "2m"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following factors will affect the velocity of sound?",
+      "options": [
+        "An increase in the pitch of the sound",
+        "An increase in the loudness of the sound",
+        "Wind travelling in the same direction of the sound",
+        "A change in the atmospheric pressure at constant temperature."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The characteristics of a vibration that determines its intensity is the",
+      "options": [
+        "Frequency",
+        "Overtone",
+        "Wavelength",
+        "Amplitude"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Where a man can place his face to get an enlarged image when using a concave mirror to shave.",
+      "options": [
+        "between the centre of curvature and the principle focus",
+        "at principle focus",
+        "between the principle focus and the pole",
+        "At the centre of the curvature"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A pinhole camera is placed 300m in front of a building so that the image is formed on a screen 5cm from the pinhole. If the image is 2.5cm high, the height of the building will be",
+      "options": [
+        "25m",
+        "50m",
+        "100m",
+        "150m"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The magnification of an object 2cm tall when placed 10cm in front of a plane mirror is",
+      "options": [
+        "6.0",
+        "1.0",
+        "0.7",
+        "0.6"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "After reflection from the concave mirror, rays of light from the sun converges",
+      "options": [
+        "At the radius of curvature",
+        "At the focus",
+        "Beyond the radius of curvature",
+        "Between the focus and radius of curvature"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A glass block of thickness 10cm is placed on an object. If an observer views the object vertically, the displacement of the object is",
+      "options": [
+        "3.33cm",
+        "5.00cm",
+        "6.67cm",
+        "8.50cm"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "I. Rays of light travel from a less dense medium to a denser medium II. The angle of incidence is greater than critical angle. III. Rays of light travel from a denser medium to a less dense medium Which of the statements above are conditions for total internal reflection to occur?",
+      "options": [
+        "I & II only",
+        "I & III only",
+        "II & III only",
+        "II only"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The use of lenses is NOT applicable in the",
+      "options": [
+        "projector",
+        "human eye",
+        "periscope",
+        "telescope"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Dispersion of white light is the ability of white light to",
+      "options": [
+        "Penetrate air, water and glass",
+        "Move in a straight line",
+        "Move around corners",
+        "Separate to its component colours"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A newly charged 12V accumulator can easily start a car whereas eight new dry cells in series with an effective e.m.f. of 12V cannot start the same car because",
+      "options": [
+        "The current capacity is high",
+        "The current capacity is low",
+        "It cannot be re-charged",
+        "It cannot easily be connected to a car"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Six identical cells, each of e.m.f. 2V are connected as shown above. The effective e.m.f. of the cell is",
+      "options": [
+        "0V",
+        "4V",
+        "6V",
+        "12V"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The fuse in an electric devise is always connected to the ----",
+      "options": [
+        "Neutral side of an electric supply",
+        "Earth side of an electric supply",
+        "Live side of an electric supply",
+        "Terminal side of an electric supply"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "0 x 10-8C enters a magnetic field at 3.0 x 102ms-1 at right angles to the field. If the force on this particle is 1.8 x 10-8N, what is the magnitude of the field?",
+      "options": [
+        "6.0 x 10-1T",
+        "6.0 x 10-2T",
+        "6.0 x 10-3T",
+        "6.0 x 10-4T"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The current output form of an a.c. source is given as I = 10 sin ωt. The d.c. equivalent of the current is",
+      "options": [
+        "5.0A",
+        "7.1A",
+        "10.0A",
+        "14.1A"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A conductor of length 1m moves with a velocity of 50ms-1 at an angle of 30° to the direction of a uniform magnetic field of flux density 1.5 Wbm-2. What is the e.m.f. induced in the conductor?",
+      "options": [
+        "37.5V",
+        "50.5V",
+        "75.0V",
+        "80.5V"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The process of detecting a pin mistakenly swallowed by a child x– ray",
+      "options": [
+        "Diagnosis",
+        "Therapy",
+        "Crystallography",
+        "mammography"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following particles CANNOT be deflected by both electric and magnetic fields?",
+      "options": [
+        "Gamma rays",
+        "Alpha particles",
+        "Wave particles",
+        "Beta particles"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A piece of radioactive material contains 1000 atoms. If its half- life is 20 seconds, the time taken for 125 atoms to remain is",
+      "options": [
+        "20 seconds",
+        "40 seconds",
+        "60 seconds",
+        "80 seconds"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The p-n junction diodes can act as rectifiers because they",
+      "options": [
+        "Conduct current when forward biased",
+        "Conduct current when reverse- biased",
+        "Block current when forward biased",
+        "Conduct current in both directions"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a reverse-biased voltage is applied across a p-n junction, the depletion layer width is",
+      "options": [
+        "Increased",
+        "Decreased",
+        "Constant",
+        "halved"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "I. Small size II. Low power requirement III. Not easily damaged by high Temperature IV. Highly durable Which of the above are the advantages of semiconductors?",
+      "options": [
+        "I, II and III only",
+        "II, III and IV only",
+        "I, II and IV only",
+        "I, II III and IV ANSWER KEYS:"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

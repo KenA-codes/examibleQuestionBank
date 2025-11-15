@@ -1,0 +1,860 @@
+{
+  "_id": "68629ce7a1cf51c182fe46e7",
+  "subjectName": [
+    "Commerce"
+  ],
+  "year": 1997,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the primary goal of a business?",
+      "options": [
+        "To make a profit",
+        "To provide employment",
+        "To produce goods",
+        "To offer services"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a characteristic of a sole proprietorship?",
+      "options": [
+        "Limited liability",
+        "Shared decision making",
+        "Unlimited liability",
+        "Separate legal entity"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the term for the money a business earns after all expenses are paid?",
+      "options": [
+        "Revenue",
+        "Profit",
+        "Capital",
+        "Income"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which financial statement shows a company's assets, liabilities, and equity?",
+      "options": [
+        "Income statement",
+        "Balance sheet",
+        "Cash flow statement",
+        "Statement of retained earnings"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the term for the cost of borrowing money?",
+      "options": [
+        "Interest",
+        "Dividend",
+        "Rent",
+        "Salary"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a fixed cost for a business?",
+      "options": [
+        "Raw materials",
+        "Utilities",
+        "Rent",
+        "Sales commissions"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the primary purpose of market research?",
+      "options": [
+        "To increase sales",
+        "To identify customer needs",
+        "To reduce costs",
+        "To improve product quality"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a factor of production?",
+      "options": [
+        "Land",
+        "Labor",
+        "Capital",
+        "Entrepreneurship"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the term for a market structure with many firms competing against each other?",
+      "options": [
+        "Monopoly",
+        "Oligopoly",
+        "Perfect competition",
+        "Monopolistic competition"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a disadvantage of a partnership?",
+      "options": [
+        "Unlimited liability",
+        "Shared profits",
+        "Limited expertise",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the primary function of management?",
+      "options": [
+        "To plan, organize, lead, and control",
+        "To produce goods and services",
+        "To sell products",
+        "To manage finances"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a method of non-verbal communication?",
+      "options": [
+        "Email",
+        "Phone call",
+        "Body language",
+        "Meeting"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the term for the process of developing and maintaining a strategic fit between the organization's goals and capabilities and its changing marketing opportunities?",
+      "options": [
+        "Market segmentation",
+        "Target marketing",
+        "Marketing mix",
+        "Strategic marketing"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a stage in the product life cycle?",
+      "options": [
+        "Introduction",
+        "Growth",
+        "Maturity",
+        "Decline",
+        "Death"
+      ],
+      "answer": "E",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the primary goal of financial management?",
+      "options": [
+        "To maximize profit",
+        "To minimize cost",
+        "To maximize shareholder wealth",
+        "To ensure survival"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a characteristic of a corporation?",
+      "options": [
+        "Limited liability",
+        "Double taxation",
+        "Unlimited life",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the term for the additional amount paid to shareholders above the par value of a stock?",
+      "options": [
+        "Dividend",
+        "Premium",
+        "Discount",
+        "Interest"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a method of raising capital by selling shares of stock?",
+      "options": [
+        "Debt financing",
+        "Equity financing",
+        "Venture capital",
+        "All of the above"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the term for the risk that an investor takes on when they purchase a bond?",
+      "options": [
+        "Default risk",
+        "Interest rate risk",
+        "Inflation risk",
+        "Liquidity risk"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of bond?",
+      "options": [
+        "Corporate bond",
+        "Municipal bond",
+        "Treasury bond",
+        "Equity bond"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the primary purpose of the Federal Reserve?",
+      "options": [
+        "To regulate banks",
+        "To control inflation",
+        "To manage the money supply",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a tool used by the Federal Reserve to control the money supply?",
+      "options": [
+        "Open market operations",
+        "Discount rate",
+        "Reserve requirements",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the term for a general increase in prices and fall in the purchasing value of money?",
+      "options": [
+        "Deflation",
+        "Disinflation",
+        "Inflation",
+        "Stagflation"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a function of a wholesaler?",
+      "options": [
+        "Breaking bulk",
+        "Providing storage",
+        "Selling directly to consumers",
+        "Granting credit to retailers"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the primary role of a retailer?",
+      "options": [
+        "To manufacture products",
+        "To sell products to consumers",
+        "To provide storage for goods",
+        "To transport goods"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a disadvantage of using intermediaries in the distribution channel?",
+      "options": [
+        "Increased cost",
+        "Reduced control",
+        "Potential for channel conflict",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a means of payment in international trade?",
+      "options": [
+        "Letter of credit",
+        "Cheque",
+        "Invoice",
+        "Receipt"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the primary purpose of export subsidies?",
+      "options": [
+        "To increase domestic consumption",
+        "To reduce the price of exports",
+        "To limit imports",
+        "To raise government revenue"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a non-tariff barrier to trade?",
+      "options": [
+        "Quota",
+        "Tariff",
+        "Embargo",
+        "All of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the term for the practice of selling goods in a foreign market at a price below their cost of production?",
+      "options": [
+        "Dumping",
+        "Subsidizing",
+        "Price fixing",
+        "Market skimming"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a potential benefit of globalization?",
+      "options": [
+        "Increased competition",
+        "Access to larger markets",
+        "Lower production costs",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a type of insurance?",
+      "options": [
+        "Life insurance",
+        "Fire insurance",
+        "Marine insurance",
+        "Travel insurance"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the primary purpose of insurance?",
+      "options": [
+        "To provide savings",
+        "To protect against loss",
+        "To generate profit",
+        "To avoid taxes"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a type of life insurance?",
+      "options": [
+        "Whole life",
+        "Term life",
+        "Universal life",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the term for the amount of money a policyholder must pay out of pocket before insurance coverage begins?",
+      "options": [
+        "Premium",
+        "Deductible",
+        "Copayment",
+        "Coinsurance"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a factor in determining insurance premiums?",
+      "options": [
+        "Age",
+        "Gender",
+        "Health status",
+        "Income"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the primary function of reinsurance?",
+      "options": [
+        "To insure the insurer",
+        "To provide coverage for natural disasters",
+        "To offer lower premiums",
+        "To increase profits"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a type of property insurance?",
+      "options": [
+        "Homeowners insurance",
+        "Auto insurance",
+        "Renters insurance",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the term for the process of spreading risk among multiple parties?",
+      "options": [
+        "Risk retention",
+        "Risk transfer",
+        "Risk avoidance",
+        "Risk reduction"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a benefit of insurance?",
+      "options": [
+        "Peace of mind",
+        "Financial protection",
+        "Tax deductions",
+        "Guaranteed income"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the primary purpose of advertising?",
+      "options": [
+        "To inform",
+        "To persuade",
+        "To remind",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a form of digital advertising?",
+      "options": [
+        "Social media ads",
+        "Email marketing",
+        "Search engine marketing",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the term for the practice of promoting a product by providing free samples?",
+      "options": [
+        "Sampling",
+        "Discounting",
+        "Bundling",
+        "Loyalty programs"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is NOT a goal of promotion?",
+      "options": [
+        "To increase sales",
+        "To create brand awareness",
+        "To reduce competition",
+        "To inform customers"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the primary function of public relations?",
+      "options": [
+        "To manage communication between an organization and the public",
+        "To sell products",
+        "To provide customer service",
+        "To conduct market research"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a disadvantage of advertising?",
+      "options": [
+        "High cost",
+        "Limited reach",
+        "Inflexibility",
+        "All of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the term for the process of evaluating and selecting among various promotional activities?",
+      "options": [
+        "Promotion mix",
+        "Advertising strategy",
+        "Public relations plan",
+        "Sales promotion"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a type of sales promotion?",
+      "options": [
+        "Coupons",
+        "Rebates",
+        "Contests",
+        "All of the above"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the primary goal of personal selling?",
+      "options": [
+        "To close sales",
+        "To generate leads",
+        "To provide customer service",
+        "To conduct market research"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a function of advertising?",
+      "options": [
+        "To increase demand",
+        "To reduce production",
+        "To decrease sales",
+        "To limit competition"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

@@ -1,106 +1,106 @@
 {
   "subjectName": ["Literature in English"],
-  "year": 2024,
+  "year": 2020,
   "questions": [
     {
       "number": "1",
-      "subheadingA": "<span style=\"font-weight: bold;\">Wole Soyinka: <span style=\"text-decoration: underline;\">The Lion and the Jewel</span></span>",
+      "subheadingA": "Question 1 and 2 are based on WIlliams Shakespare's <span style=\"font-weight: bold; text-decoration: underline;\">Othello</span>",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The age of Lakunle's Pupils in The Lion and the Jewel is_____",
+      "question": "The first character in the play to refere to Othello by name is",
       "options": [
-        "pre-teens",
-        "teens",
-        "young adults",
-        "adults"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "2",
-      "subheadingA": "Baroka: The time has come when I can fool myself no more. I am no man, Sadiku.\nMy manhood ended near a week ago.",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "Baroka's speech above illustrates the use of____",
-      "options": [
-        "a dramatic irony",
-        "dramatic monologue",
-        "dramatic licence",
-        "dramatic exigency"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "3",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The humorous character in the play is _______",
-      "options": [
-        "Sidi",
-        "Lakunle",
-        "Sadiku",
-        "Surveyor"
+        "Lago",
+        "the Duke",
+        "Brabanio",
+        "Desdemona"
       ],
       "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "4",
+      "number": "2",
       "subheadingA": "",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Lakunle condenms the culture of paying the bride in a _________ language.",
+      "question": "The hypocritical character in the play is",
       "options": [
-        "vulgar",
-        "condensed",
-        "simple",
-        "bombastic"
+        "Roderigo",
+        "montango",
+        "Lago",
+        "Cassio"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "This question is based on Selected Poems from johnson, R.et al(eds.): New Poetry from African (ed); Poems of Black Africa; Senanu, K.E and Vincent, T.(ed.); A selection of African Poetry; Adeoti, G; Naked Soles; Hayward, J.(ed.); The penguin Book of English Verse and Nwoga, D. (ed.); West African Verse.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The title of Herbert's The Pulley is an example of",
+      "options": [
+        "fable",
+        "euphemism",
+        "allegory",
+        "symbolism"
       ],
       "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "5",
-      "subheadingA": "",
+      "number": "4",
+      "subheadingA": "This question is based on Selected Poems from johnson, R.et al(eds.): New Poetry from African (ed); Poems of Black Africa; Senanu, K.E and Vincent, T.(ed.); A selection of African Poetry; Adeoti, G; Naked Soles; Hayward, J.(ed.); The penguin Book of English Verse and Nwoga, D. (ed.); West African Verse.",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "\"....Well, do as you please. But Sidi will not make herself a cheap bowl for the village spit\"\nWHat prompts the above speech?",
+      "question": "The tone of the persona in Blake's The school Boy is that of.",
       "options": [
-        "payment of bride price",
-        "seduction of Sidi",
-        "dance of virility",
-        "dance of the lost traveller"
+        "fear",
+        "fulfillment",
+        "contempt",
+        "neutrality"
       ],
       "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
+      "number": "5",
+      "subheadingA": " Questions 5 to 9 are based on William Shakespeare's A Midsummer Night's Dream",
+      "diagramUrlA": "",
+      "subheadingB": "Ay me, for aught that I could ever read,\nCould ever hear by tale or history\nThe course of true love Never did run smooth\nNever did run smooth...",
+      "diagramUrlB": "",
+      "question": "The image in the quotation above depicts the speaker's",
+      "options": [
+        "Hatred",
+        "desperation",
+        "love",
+        "disregard"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
       "number": "6",
-      "subheadingA": "<span style=\"font-weight: bold;\">John Osborne: <span style=\"text-decoration: underline;\">Look Back in Anger</span></span>",
+      "subheadingA": "",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "In the play, the character associated with peace is",
+      "question": "'Lord, what fools these mortals be! In the line above, the character is",
       "options": [
-        "Helena",
-        "Lewis",
-        "Alison",
-        "Redfern"
+        "expressing the behaviour of the lovers",
+        "expressing the love between two lovers",
+        "expressing the exaggerated silliness of the lovers behaviour",
+        "expressing the gift of God in their lives"
       ],
-      "answer": "B",
+      "answer": "C",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -110,14 +110,14 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The relationship dynamics between Jimmy and Alison is affected by ythe diferences in their",
+      "question": "The traditional verse form of speech as dialogue in Midsummer Night's Dream is used to symbolize the",
       "options": [
-        "class",
-        "education",
-        "age",
-        "background"
+        "impressiveness of the characters",
+        "intense feelings of the characters",
+        "traaditionality of the play",
+        "function of poetry in the play"
       ],
-      "answer": "D",
+      "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -127,12 +127,12 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The first act of th eplay starts on _____",
+      "question": "Duke Theseus\n 'Hippolyta, I woo'd thee with my sword\nAnd won thy love doing thee injuries,\nBut I will wed thee in another key\nWith pomp, with triumph, and with reveling\nDuke's statement above the Hippolyta means that he",
       "options": [
-        "Monday",
-        "Wednesday",
-        "Friday",
-        "Sunday"
+        "make trouble to see Hippolyta",
+        "jump the fence to see Hippolyta",
+        "should be injured by Hippolyta",
+        "will win the love of Hippolyta"
       ],
       "answer": "D",
       "aiGeneratedResponses": [],
@@ -144,46 +144,46 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Jimmy's first girl friend is",
+      "question": "<span style=\"text-decoration: underline;\">A Midsummer Night's Dream</span> is preoccupied with the juxtaposition of",
       "options": [
-        "Webster",
-        "Drury",
-        "Madeline",
-        "Helena"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "10",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The play, Look Back in Anger is set in the mid-______",
-      "options": [
-        "1940s",
-        "1950s",
-        "1960s",
-        "1970s"
+        "death and disappointment",
+        "love and hate",
+        "appearance and reality",
+        "love and death Questions 10 to 15 are based on selected poems from the list of approved African and Non African poems"
       ],
       "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "11",
-      "subheadingA": "<span style=\"font-weight: bold;\">Alex Agyer-Agyir- <span style=\"text-decoration: underline;\">Unexpected Joy At Dawn</span></span>",
+      "number": "10",
+      "subheadingA": "Questions 10 to 15 are based on selected poems from the list of approved African and Non African poems",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The protagonist of the novel, Unexpected Joy At Dawn is",
+      "question": "In Augustino Neto's 'The Grieved Lands' dramatic and emotive intensity is derived from the employment of",
       "options": [
-        "Moses Nii",
-        "Joe Boye",
-        "Mama Orojo",
-        "Aaron Tsuru"
+        "repetition",
+        "double rhymes",
+        "assonance",
+        "end rhymes"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the cental theme in Niyi Osadare's The Leader and the led?",
+      "options": [
+        "Power tussle",
+        "hypocrisy",
+        "leadership",
+        "followership"
       ],
       "answer": "A",
       "aiGeneratedResponses": [],
@@ -195,14 +195,14 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The novel, Unexpected Joy At Dawn falls into the category of novel.",
+      "question": "The rhyming pattern in the last stanza of Lade Wosornu's 'Raider of the Treasure Trove' makes the stanza",
       "options": [
-        "epistolary",
-        "gothic",
-        "historical",
-        "bildungsroman"
+        "an octave",
+        "a quatrain",
+        "a couplet",
+        "a sestet"
       ],
-      "answer": "D",
+      "answer": "C",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -212,29 +212,29 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The age of Massa at the beginning of the novel is",
+      "question": "The theme of beauty and strength in 'Black Woman by Leopold Sedar Senghor's is a",
       "options": [
-        "twenty",
-        "twenty one",
-        "twenty two",
-        "twenty three"
+        "dramatic poem",
+        "narrative poem",
+        "short poem",
+        "negritude poem"
       ],
-      "answer": "B",
+      "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "14",
-      "subheadingA": "<span style=\"font-weight: bold;\">Buchi Emecheta:<span style=\"text-decoration: underline;\">Second Class Citizen</span></span>",
+      "subheadingA": "",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The novel, Second Class Citizen is an example of a ______",
+      "question": "Oumar Farouk Sesay's 'The Song of the Women of my Land'portrays a society that is",
       "options": [
-        "memoir",
-        "fiction",
-        "farce",
-        "faction"
+        "tough with women in olden days African society",
+        "hunted by the evil land",
+        "gripped with fear",
+        "unstable"
       ],
       "answer": "A",
       "aiGeneratedResponses": [],
@@ -246,14 +246,14 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The structure of the novel's plot can be described as _______",
+      "question": "In 'Raider of the Treasure Trove' by Lade Wosornu,'the gems of your dreams in line 2, the poet is describing the",
       "options": [
-        "rambling",
-        "lineal",
-        "epiodie",
-        "cyclical"
+        "the cost of anger in man's life",
+        "homily to eschew anger",
+        "the value of life",
+        "a man's purpose being the reason for his life"
       ],
-      "answer": "B",
+      "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -263,31 +263,31 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The character that is infected with meningitis virus is",
+      "question": "From the tone of Onu Kingsley Chibuike's 'A Government Driver on his Retirements', words such as 'brooze', boomed'",
       "options": [
-        "Pa Noble",
-        "Bubu",
-        "Titi",
-        "Vicky"
+        "happy",
+        "sorrowful",
+        "indifferent",
+        "joyful"
       ],
-      "answer": "D",
+      "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "17",
-      "subheadingA": "<span style=\"font-weight: bold;\">Emily Bronte: <span style=\"text-decoration: underline;\">Wuthering Heights</span></span>",
+      "subheadingA": "",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Wuthering Heights is a      novel",
+      "question": "Midsummer Night's Dream is what type of play?",
       "options": [
-        "picaresque",
-        "gothic",
-        "epistolary",
-        "bildungsroman"
+        "tragedy",
+        "farce",
+        "comnedy",
+        "tragic-comedy"
       ],
-      "answer": "B",
+      "answer": "C",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -297,14 +297,14 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The matriarch of the Lintons is",
+      "question": "One of the following terms applies to the discussion of both tragedy and comedy",
       "options": [
-        "Frances",
-        "Catherine",
-        "Mary",
-        "Nelly"
+        "climax",
+        "happy ending",
+        "tragic hero",
+        "alliteration"
       ],
-      "answer": "C",
+      "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -314,14 +314,14 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "What is inscribed on the principal door of Wuthering Heights castle?",
+      "question": "Maya Angelou's Caged Bird's is reffered to as allegory because",
       "options": [
-        "Hareton Earnshaw 1801",
-        "Catherine Earnshaw 1800",
-        "Hareton Earnshaw 1500",
-        "Linton Heathcliff 1500"
+        "it teaches moral",
+        "it is a fable",
+        "it is metaphorical",
+        "it is a short poem"
       ],
-      "answer": "A",
+      "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -331,165 +331,165 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "\"Mamma never told me I had a father? Where does he live?\n I'd rather stay with uncle?\" This statement was made by Linton Heathcliff feeling _________",
+      "question": "Why did Nii in <span style=\"font-weight: bold; text-decoration: underline;\">Unexpected Joy at Dawn</span> decide to come back to Nigeria?",
       "options": [
-        "perplexed",
-        "joyful",
-        "displeased",
-        "satisfied"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "21",
-      "subheadingA": "<span style=\"font-weight: bold;\">AFRICAN POETRY\nLeopold Sedar Senghor: <span style=\"text-decoration: underline\">Black Woman</span></span>",
-      "diagramUrlA": "",
-      "subheadingB": "In your shadow I have grown up, the gentleness of your hands was laid over my eyes.",
-      "diagramUrlB": "",
-      "question": "The dominant literary device in the above excerpt from Senghor's “Black Woman\"is _______ ",
-      "options": [
-        "innuendo",
-        "contrast",
-        "paradox",
-        "personification"
+        "he was missed home",
+        "he is the only son",
+        "He was offered a job",
+        "he came to rejig his life"
       ],
       "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "22",
-      "subheadingA": "<span style=\"font-weight: bold;\">Niyi Osundare:<span style=\"text-decoration: underline\">The Leader and the Led</span></span>",
+      "number": "21",
+      "subheadingA": "",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The major theme of Osundare's poem, The Leader and the Led is the problem associated with",
+      "question": "The dominant feeling in Leopold Sedar Senghor's Black Woman is",
       "options": [
-        "ruling elite",
-        "economic crisis",
-        "political instability",
-        "political transition"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "23",
-      "subheadingA": "<span style=\"font-weight: bold;\">Agostinho Neto:<span style=\"text-decoration: underline\">The Grieved Land</span></span>",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The prevailing mood that pervades Neto's poem, The Grieved Lands is",
-      "options": [
-        "sadness",
-        "anger",
-        "excitement",
-        "impatience"
+        "joy and satisfaction",
+        "nostalgia",
+        "sadness and hatred",
+        "despair"
       ],
       "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "24",
-      "subheadingA": "<span style=\"font-weight: bold;\">Farouk Sesay:<span style=\"text-decoration: underline\">The Song of the Women of my Land</span></span>",
+      "number": "22",
+      "subheadingA": "",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The prevailing mood that pervades Neto's poem, The Grieved Lands is",
+      "question": "A play is drama because",
       "options": [
-        "Ghana",
-        "Sierra Leone",
-        "Liberia",
-        "The Gambia"
+        "it is written in verse",
+        "it can be acted on stage",
+        "it contains characters",
+        "it does not contain any story"
       ],
       "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "25",
-      "subheadingA": "<span style=\"font-weight: bold;\">Lade Wosornu:<span style=\"text-decoration: underline\">Raider of the Treasure Trove</span></span>",
+      "number": "23",
+      "subheadingA": "",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "In Wosornu's Raider of the Treasure Trove, rage is directly portrayed as human because it_______",
+      "question": "In D.H. Lawrence's 'BAT'the line 'hang themselves up like an old rag' indicates the poet's _____ for bats.",
       "options": [
-        "sets sail",
-        "spells calamity",
-        "is a thief",
-        "drags rags after you"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "26",
-      "subheadingA": "<span style=\"font-weight: bold;\">Onu Chibuike:<span style=\"text-decoration: underline\">A Government Driver on His Retirement</span></span>",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The feeling created in the last stanza of Chibuike's poem\nA Government Driver on His Retirement is _________",
-      "options": [
+        "love",
         "hatred",
-        "surprise",
-        "sadness",
-        "excitement"
+        "kindness",
+        "acceptance"
       ],
-      "answer": "C",
+      "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "27",
-      "subheadingA": "<span style=\"font-weight: bold;\">NON-AFRICANPOETRY</span>",
-      "diagramUrlA": "",
-      "subheadingB": "<span style=\"font-weight: bold;\">John Donne:<span style=\"text-decoration: underline\">The Good Morrow</span></span>",
-      "diagramUrlB": "",
-      "question": "The dominant feature of the metaphysical poem in Donne's\nThe Good Morrow is the use of______",
-      "options": [
-        "conceit",
-        "litotes",
-        "parallelism",
-        "irony"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "28",
-      "subheadingA": "<span style=\"font-weight: bold;\">Maya Angelou:<span style=\"text-decoration: underline\">Caged Bird</span></span>",
+      "number": "24",
+      "subheadingA": "Questions 24 and 25 are based on Buchi Emecheta's Second Class Citizen",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Angelou's, Caged bird is a poem of",
+      "question": "In Adah's view, the white society in the novel is one in which",
       "options": [
-        "reconciliation",
-        "instigation",
-        "schism",
-        "protest"
+        "there is communal feeling",
+        "neighbourliness is lacking",
+        "neighbours live happily",
+        "members are unfriendly"
       ],
       "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "29",
-      "subheadingA": "<span style=\"font-weight: bold;\">T.S Elliot:<span style=\"text-decoration: underline\">The Journey of Magi</span></span>",
+      "number": "25",
+      "subheadingA": "",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "“And the cities hostile and the towns unfriendly. And the villages dirty and charging high price.” The above excerpt from Eliot's Journey of the Magi illustrates the use of _______",
+      "question": "To raise the readers anxiety about the story, the author",
       "options": [
-        "transferred epithet",
-        "dramatic monologue",
-        "paradox",
-        "euphemism"
+        "stops the main story to narrate other event",
+        "creates a lot of funny episodes",
+        "puts too many difficulties in Adah's way",
+        "shows that Francis is weak"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "Questions 26 to 28 are based on Emily Bronte's Wutherin Heights",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Why did Catherine refuse to marry Heathcliff?",
+      "options": [
+        "Heathcliff is of a low class",
+        "Heathcliff is",
+        "Heathcliff is not educated",
+        "Heathcliff is her cousin"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "I could not picture a father treating a dying child as tyrannicall and wickedly as I afterwards learnt Heathcliff had treated him who said this?",
+      "options": [
+        "Edgar Linton",
+        "Hindley",
+        "Heathcliff",
+        "Nelly"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the universal themes of the novel is",
+      "options": [
+        "vengeance",
+        "property and inheritence",
+        "religious hyposcrisy",
+        "marriage"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The theme of a literary work is the",
+      "options": [
+        "dominant pre-occuption of the work",
+        "interesting issues raised in the work",
+        "different veiws on a particular topic",
+        "psychological issues in the work"
       ],
       "answer": "A",
       "aiGeneratedResponses": [],
@@ -497,35 +497,35 @@
     },
     {
       "number": "30",
-      "subheadingA": "<span style=\"font-weight: bold;\">D.H Lawrence:<span style=\"text-decoration: underline\">Bats</span></span>",
+      "subheadingA": "<span style=\"font-weight: bold;\">Questions 30 to 40 are based on <span style=\"text-decoration: underline;\">Ralph Ellison's Invisible Man</span></span>",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Beyond Pisa, beyond the mountains of Carrara\nThe excerpt above from Lawrence's poem Bats refers to setting",
+      "question": "The use of first person singular in the book indicates",
       "options": [
-        "temporal",
-        "spatial",
-        "dynamic",
-        "unique"
+        "omniscient point of view",
+        "flash back narrative technique",
+        "foreshadowing narrative techique",
+        "participant point of view"
       ],
-      "answer": "B",
+      "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "31",
-      "subheadingA": "<span style=\"font-weight: bold;\">GENERAL LITERARY PRINCIPLES</span>",
+      "subheadingA": "Question 31 to 40 are based on general Literary Appreciation",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Fiction that deals with the adventure of rogues, scoundrels, reprobates and rascals is called",
+      "question": "The figure of speech which is characterised by excessive exaggeration is known as",
       "options": [
-        "gothic",
-        "epistolary",
-        "picaresque",
-        "bildungsroman"
+        "hyperbole",
+        "metaphor",
+        "stress",
+        "Irony"
       ],
-      "answer": "C",
+      "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -535,12 +535,12 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Two successive rhyming lines in a poem is called",
+      "question": "The summary version of literary work is known as",
       "options": [
-        "quatrain",
-        "septet",
-        "couplet",
-        "tercet"
+        "stanza",
+        "autobiography",
+        "synopsis",
+        "anti-thesis"
       ],
       "answer": "C",
       "aiGeneratedResponses": [],
@@ -552,12 +552,12 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Comic relief is used in tragic play to _____",
+      "question": "As we entered the beautiful city we saw the bright sun smilling at us. The figure of speech used here is",
       "options": [
-        "reduce tension",
-        "create humour",
-        "checkmate villian",
-        "protect protagonist"
+        "personification",
+        "fable",
+        "alliteration.",
+        "Onomatopoeia"
       ],
       "answer": "A",
       "aiGeneratedResponses": [],
@@ -569,12 +569,12 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "A long narrative poem that can be set to music is a______",
+      "question": "As the policeman shot the gun we all hear a loud boom. The figure of speech typified above as",
       "options": [
-        "sonnet",
-        "nonsense",
-        "dirge",
-        "ballad"
+        "epigram",
+        "imagery",
+        "simile",
+        "Onomatopoeia"
       ],
       "answer": "D",
       "aiGeneratedResponses": [],
@@ -586,80 +586,80 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The piece of writing that begins a literary work is called a/an ______",
+      "question": "In literary work any question that does not require an answer is known as ____ question",
       "options": [
-        "epitaph",
-        "prologue",
-        "epilogue",
-        "epigram"
+        "normative",
+        "an ironical",
+        "paradoxical",
+        "Rhetorical"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The speech made by a character when he turns aside to speak quietly to himself or to the audience is known as",
+      "options": [
+        "soliloque",
+        "Aside",
+        "caricature",
+        "appreciation"
       ],
       "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "36",
-      "subheadingA": "<span style=\"font-weight: bold;\">LITERARY APPRECIATION</span>",
-      "diagramUrlA": "",
-      "subheadingB": "O elephant, huge as a high, even in a crouching posture\nO elephant, enfolded by honour, demọn, flapping fans of war\n(Adeboye Babalola)",
-      "diagramUrlB": "",
-      "question": "The dominant figure of speech in the excerpt above is _____",
-      "options": [
-        "personification",
-        "exaggeration",
-        "metaphor",
-        "simile"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
       "number": "37",
-      "subheadingA": "It is time for reckoning Africa time for taking stock\nNever mind New York, America -\nit's our; is here, and running short.\n (Lenrie Peters)",
+      "subheadingA": "",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The rhyming pattern of the above poem can be described as _____ rhyme",
+      "question": "A sonnet is a poem with ____ lines of rhymed iambic pentametre",
       "options": [
-        "half",
-        "internal",
-        "couplet",
-        "alternate"
+        "seven",
+        "ten",
+        "four",
+        "fourteen"
       ],
-      "answer": "A",
+      "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "38",
-      "subheadingA": "As I tumbled down the hill, the loose rocks raced alongside me, pricking my hands and face like a hundred tiny knives.",
+      "subheadingA": "",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The dominant imagery in the above excerpt is ______",
+      "question": "He died of laughter as I told him the story. The figure of speech used in the above is",
       "options": [
-        "tactile and visual",
-        "olfactory and auditory",
-        "visual and auditory",
-        "tactile and olfactory"
+        "euphemism",
+        "hyperbole",
+        "personification",
+        "paradox"
       ],
-      "answer": "A",
+      "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
       "number": "39",
-      "subheadingA": "When from behind that craggy Steep, till then\nThe bound of the horizon, a huge Cliff\nRose up between me and the stars and still,\nWith measure'd motion, like a living thing strode after me.",
+      "subheadingA": "",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The language of the above excerpt is ______",
+      "question": "The story of a man's life written by another person is known as",
       "options": [
-        "simple",
-        "technical",
-        "poetic",
-        "abusive"
+        "Autobiography",
+        "Appraisal",
+        "Biography",
+        "History"
       ],
       "answer": "C",
       "aiGeneratedResponses": [],
@@ -667,18 +667,18 @@
     },
     {
       "number": "40",
-      "subheadingA": "For want of a nail, the shoe was lost, for want of a shoe,the\nhorse was lost, for want of a horse, the rider was lost.",
+      "subheadingA": "",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The figure of speech in the above is",
+      "question": "Our information minister is a faithful liar. The line above is an example of",
       "options": [
-        "paradox",
-        "climax",
-        "euphemism",
-        "innuendo"
+        "oxymoron",
+        "appostrophe",
+        "antithesis",
+        "personification"
       ],
-      "answer": "B",
+      "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     }

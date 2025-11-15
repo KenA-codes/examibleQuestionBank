@@ -1,0 +1,808 @@
+{
+  "_id": "6851ad4d03d37a7af32e7618",
+  "subjectName": [
+    "Physics"
+  ],
+  "year": 2011,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which Question Paper Type of",
+      "options": [
+        "Type A",
+        "Type B",
+        "Type C",
+        "X will be 500m ahead of Y."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "m high dropped a hammer of",
+      "options": [
+        "450 J",
+        "600 J",
+        "the lift is in vacuum the ground is ....... [g = 10ms-2]",
+        "there is no reaction from the floor of the lift."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An object of mass 2kg moves with a velocity of 10ms-1 round a circle of radius 4m. Calculate the centripetal force on the object.",
+      "options": [
+        "40 N",
+        "25 N",
+        "100 N",
+        "50 N"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If it takes an object 3s to fall freely to the ground from a certain height, what is the distance covered by the object? [g = 10ms-2]",
+      "options": [
+        "60 m",
+        "90 m",
+        "30 m",
+        "45 m."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The diagrams above show the positions of a cone. The position which can be described as neutral equilibrium is represented as",
+      "options": [
+        "Y and X",
+        "Z only",
+        "X only",
+        "Y and Z."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a tube of small radius opened at both ends is placed in a liquid, the liquid will",
+      "options": [
+        "rise above the liquid level if the liquid does not wet the glass",
+        "remain at the same level irrespective of whether the liquid wets the glass or not",
+        "fall below the liquid level if the liquid wets the glass",
+        "fall below the liquid level if the liquid does not wet the glass."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "I. Density of the liquid II. Depth below the surface of the liquid. III. Surface area of the liquid In which of the statement above will pressure be dependent?",
+      "options": [
+        "I and III only",
+        "I and II only",
+        "II and III only",
+        "I, II and III."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "I. High thermal capacity II. High sensitivity III. Easy readability IV. Accuracy over a wide range of temperatures From the statements above, the qualities of a good thermometer are",
+      "options": [
+        "II, III and IV",
+        "I and II",
+        "I, II, III and IV",
+        "I, III and IV."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A machine is used to lift a load of 20 N through a height of 10m. if the efficiency of the machine is 40%, how much work is done?",
+      "options": [
+        "120 J",
+        "80 J",
+        "500 J",
+        "300 J."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following could be effectively used to reduce friction?",
+      "options": [
+        "Petrol",
+        "Kerosene",
+        "Grease",
+        "Water."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the tensile strain of the wire. [Young modulus = 1.1 x 1011Nm-2]",
+      "options": [
+        "2.2 x 10-4",
+        "2.0 x 10-5",
+        "7.0 x 10-3",
+        "7.0 x 10-4"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An object weighs 22kg in water an 30kg in air. What is the up thrust exerted by the liquid on the object? [g = 10 ms-2]",
+      "options": [
+        "80 N",
+        "50 N",
+        "520 N",
+        "220 N."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A block of aluminium is heated electrically by a 30 W heater. If the temperature rises by 100°C in 5 minutes, the heat capacity of the aluminium is",
+      "options": [
+        "200 JK-1",
+        "900 JK-1",
+        "90 JK-1",
+        "100 JK-1"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A perfect emitter or absorber of radiant energy is a",
+      "options": [
+        "red body",
+        "conductor",
+        "black body",
+        "white body."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The phenomenon that shows that increase in pressure lowers the melting point can be observed in",
+      "options": [
+        "regelation",
+        "sublimation",
+        "condensation",
+        "coagulation."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the volume of a gas increases steadily as the temperature decreases at constant pressure, the gas obeys",
+      "options": [
+        "Charles’ law",
+        "Graham’s law",
+        "Boyle’s law",
+        "pressure law."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Steam burn is more severe than that of boiling water because",
+      "options": [
+        "steam burn is dependent on relative humidity",
+        "steam burn is independent of relative humidity",
+        "steam possess greater heat energy per unit mass",
+        "water boils at a higher temperature"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following types of waves needs a medium for propagation?",
+      "options": [
+        "X-rays",
+        "Sound waves",
+        "Light waves",
+        "Radio waves."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The ground is always cold at night because the",
+      "options": [
+        "atmosphere reflects the sun’s energy at night",
+        "atmosphere absorbs the sun’s energy at night",
+        "earth radiates heat to the atmosphere at night",
+        "sun no longer shines at night."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "0 x 10-5K-1]",
+      "options": [
+        "0.40cm3",
+        "0 14cm3",
+        "0.12cm3",
+        "1.20cm3"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "I. Change of state II. Diffusion III. Radiation IV. Osmosis Which of the processes above can be explained using the kinetic theory?",
+      "options": [
+        "I, II and IV",
+        "I, II, III and IV",
+        "I, II and III",
+        "I, III and IV."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When the human eye loses its power of accommodation, the detect is known as",
+      "options": [
+        "long-sightedness",
+        "short-sightedness",
+        "presbyopia",
+        "astigmatism."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A length of wire has a frequency of 255Hz when stretched by a force of 225 N. If the force increases to 324 N, what is the new frequency of vibration?",
+      "options": [
+        "356 Hz",
+        "306 Hz",
+        "512 Hz",
+        "488 Hz."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A certain far-sighted person cannot see objects that are closer to the eye than 50cm clearly. Determine the power of the converging lens which will enable him to see at 25cm.",
+      "options": [
+        "0.04 D",
+        "0.06 D",
+        "0.02 D",
+        "0.03 D."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following electromagnetic waves has the highest frequency?",
+      "options": [
+        "X-rays",
+        "Ultra-violet rays",
+        "Radio waves",
+        "Infrared-rays."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When a red rose flower is observed in blue light, what colour does the observer see?",
+      "options": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Magenta."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The eclipse of the sun occurs when the",
+      "options": [
+        "moon’s umbra falls on some part of the earth",
+        "moon is between the sun and the earth",
+        "earth is between the sun and the moon",
+        "moon is not completely hidden in the earth’s shadow."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A cannon is fired from town X. After how long is the sound heard at a town Y 4.95 km away? [velocity of sound in air = 333 ms-1]",
+      "options": [
+        "15 s",
+        "0 s",
+        "10 s",
+        "12 s"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An image in a convex lens is upright magnified 3 times. If the focal length of the lens is 15cm, what is the object distance?",
+      "options": [
+        "14 cm",
+        "10cm",
+        "25 cm",
+        "26cm."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The capacitance of a parallel plate capacitor is 20 μF in air and 60 μF in the presence of a dielectric. What is the dielectric constant?",
+      "options": [
+        "2.0",
+        "0.3",
+        "6.0",
+        "3.0."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the circuit below, three resistors, 2Ω, 4 Ω and 12 Ω are connected in parallel and a 12 V battery is connected across the combination. The current flowing through the 12 Ω resistor is",
+      "options": [
+        "9.6 A",
+        "14.4 A",
+        "1.0 A",
+        "3.2 A."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the charge of electricity per kWh is N4, what is the cost of operating an electrical appliance rated 2.50 V, 2 A for 6 hours?",
+      "options": [
+        "₦24",
+        "₦0.12",
+        "₦12",
+        "₦16."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The correct expression for the potential at a point, distance r from a charge q, in an electric field is",
+      "options": [
+        "q 4 GOr2",
+        "q 4 GOr",
+        "q 2 4 GOr2",
+        "q 2 4 GOr"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Three similar cells each of e.m.f 2V and internal resistance 2 Ω are connected in parallel, the total e.m.f and total internal resistance are respectively",
+      "options": [
+        "6 V, 0.7 Ω",
+        "6 V, 6.0 Ω",
+        "2 V, 0.7 Ω",
+        "2 V, 6.0 Ω"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In homes, electrical appliances and lamps are connected in parallel because",
+      "options": [
+        "less voltage will be used",
+        "parallel connection does not heat up the wires",
+        "series connection uses high voltage",
+        "less current will be used."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Two resistors 5 Ω and 10 Ω are arranged first in series and later in parallel to a 24 V source. The ratio of total power dissipated in the series and parallel arrangement respectively is",
+      "options": [
+        "3:5",
+        "5:3",
+        "1:50",
+        "50:1."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following will be applied when a metal x in electrolysis?",
+      "options": [
+        "Y is the anode and very high current is used",
+        "X is the anode and very high current is used",
+        "X is the cathode and Y is the anode",
+        "Y is the cathode and X is the anode"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A radioactive isotope has a decay constant of 10-5s-1. Calculate its half-life.",
+      "options": [
+        "6.93 x 104s",
+        "6.93 x 10-6s",
+        "6.93 x 10-5s",
+        "6.93 x 105s"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a property of steel?",
+      "options": [
+        "It can easily be magnetized and demagnetized",
+        "It cannot retain its magnetism longer than iron",
+        "It can be used for making temporary magnets",
+        "It can be used permanent magnets. for making"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the threshold frequency for tungsten is 1.3 x 1015Hz, what is its work function?",
+      "options": [
+        "8.85 x 10-18 J",
+        "8.58 x 10-19 J",
+        "8.58 x 10-15 J",
+        "8.58 x 10-17 J [h = 6.6 x 10-34 Js]"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In an a.c. circuit, the ratio of r.m.s value to peak value of current is total power dissipated in the series",
+      "options": [
+        "1 √2",
+        "√2",
+        "2",
+        "1 2"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Two inductors of inductances 4H and 8H are arranged in series and a current of 10A is passed through them. What is the energy stored in them?",
+      "options": [
+        "250 J",
+        "500 J",
+        "50 J",
+        "133 J."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Under which of the following conditions do gasses conduct electricity?",
+      "options": [
+        "High pressure and high p.d",
+        "Low pressure and low p.d",
+        "low pressure and high p.d",
+        "High pressure and low p.d"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In measuring high frequency a.c., the instrument used is the",
+      "options": [
+        "hot wire ammeter",
+        "d.c. ammeter",
+        "moving coil ammeter",
+        "moving iron ammeter."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The bond between silicon and germanium is",
+      "options": [
+        "electrovalent",
+        "covalent",
+        "ionic",
+        "dative."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following materials has an increase in resistance with temperature?",
+      "options": [
+        "Electrolyte",
+        "Water",
+        "Metals",
+        "Wood."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The electrical properties of germination can be altered drastically by the addition of impurities. The process is referred to as",
+      "options": [
+        "doping",
+        "saturation",
+        "bonding",
+        "amplification. ANSWER KEYS:"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

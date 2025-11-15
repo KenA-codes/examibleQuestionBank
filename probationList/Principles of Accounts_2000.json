@@ -1,0 +1,859 @@
+{
+  "_id": "6866565fb5263f8335ab4ba6",
+  "subjectName": [
+    "Principles of Accounts"
+  ],
+  "year": 2000,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "On November 1, 1998, Zaria Holdings owed N 13,600 in respect of creditor. On November 15, it purchased goods worth N69,000 and paid a cheques of N51,600. On November 29, one of the Holdings’ cheque’s worth N3,000 was returned while the creditor granted N1,500 discount. The amount owed by Zaria Holdings as at November 29 is",
+      "options": [
+        "N32,5000",
+        "N32,000",
+        "N31,000",
+        "N29,500"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "To write off bad debt, debit",
+      "options": [
+        "Debtor’s account and credit provision for bad debt.",
+        "Bad debt account and credit debtor’s account.",
+        "Debtor’ account and credit bad debt.",
+        "Provision for bad debt."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In order to make the cash book balance equal to the bank statement, it is usual to add",
+      "options": [
+        "Uncredited cheques.",
+        "Direct payments by bank",
+        "Bank charges",
+        "Unpresented cheques."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the net profit.",
+      "options": [
+        "N12,500",
+        "N10,000",
+        "N8,000",
+        "N7,500"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the gross profit margin?",
+      "options": [
+        "100%",
+        "50%",
+        "40%",
+        "30%"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main object of book keeping is to record economic.",
+      "options": [
+        "Transactions systematically for routine managerial decision making.",
+        "Events clearly to ensure adequate checks and balances",
+        "Events clearly to facilitate strategic managerial decision-making",
+        "Transactions systematically to ascertain the financial position of a business."
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is an example of intangible asset?",
+      "options": [
+        "Trade debtors",
+        "Stock of goods",
+        "trade creditors",
+        "Motor vehicles"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A source document that aids the ascertainment of amount paid out of a current is the",
+      "options": [
+        "Teller",
+        "Cheque stub",
+        "Cheque",
+        "teller stub"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a premise is to be depreciated at 10% on cost and a 5% provision is to be allowed on debtors, the total asset in the balance sheet is",
+      "options": [
+        "N 125,000",
+        "N 114,500",
+        "N 105,500",
+        "N 105,250"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most convenient cash book used by a petty trader operating in an area where there is no banking facility is",
+      "options": [
+        "Four column",
+        "Three column",
+        "Single column.",
+        "two column"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A general journal contains",
+      "options": [
+        "Date narration, folio, debit and credit.",
+        "Date narration, folio, debit and purchases.",
+        "Folio, credit, date, debit and sales.",
+        "Debit, credit, narration, date and discount."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following errors will affect the trial balance totals?",
+      "options": [
+        "Posting discount allowed to the debit side of the discount allowed account.",
+        "Omission of one account from the list when extracting from the ledgers.",
+        "Failure to post sales of N 2,000 and purchases of N 2,000 from subsidiary ledgers.",
+        "Omission of sales of N 3,000 and purchase of N 2,000."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An expense account is closed by a debit to",
+      "options": [
+        "An asset account and credit to the expense account.",
+        "The expense account and a credit to an asset account.",
+        "Profit and loss account and a credit to the expense account.",
+        "The expense account and a credit to profit and loss account."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The accounting convention which stipulates that money or goods taken from the business by the owner for personal use should be treated as deductions from capital is",
+      "options": [
+        "Cost",
+        "Prudence",
+        "Consistency",
+        "Entity"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the cost of the opening raw materials?",
+      "options": [
+        "N 418,350",
+        "N 404,950",
+        "N 400,250",
+        "N 398,250"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The production cost of finished goods is",
+      "options": [
+        "N 524,600",
+        "N 408,000",
+        "N 381,600",
+        "N 327,600"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The closing control account balance is",
+      "options": [
+        "N 41,000",
+        "N 65,000",
+        "N 71,000",
+        "77,000"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Determine the total factory overhead cost",
+      "options": [
+        "N4,485",
+        "N5,256",
+        "N6,085",
+        "N6,556"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Determine the receipt from debtors",
+      "options": [
+        "N22,470",
+        "N17,470",
+        "N8,440",
+        "N5,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The items entered in an opening statement of affairs of an enterprise that keeps incomplete record are",
+      "options": [
+        "Sales income",
+        "Receipt from debtors",
+        "Fixtures and fittings",
+        "Rent paid"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a manufacturing company, the total cost of goods produced is equivalent to",
+      "options": [
+        "Purchases",
+        "Sales",
+        "Cost of goods sold",
+        "Cost of materials used"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Determine the sales returns",
+      "options": [
+        "N24,577",
+        "N13,877",
+        "N7,067",
+        "N2,890"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The simplest form of single entry procedure consist of keeping a",
+      "options": [
+        "Day book or general journal",
+        "Cash book and ledger accounts showing debtors and creditors balances",
+        "Cash journal, sales journal and purchases journal",
+        "Day book in which transaction are described in chronological order."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A fixed cost is fixed only in relation to",
+      "options": [
+        "The quantity of goods produced",
+        "The quantity of goods sold",
+        "A given period of time a range of activities",
+        "A given period of time and the nature of activity."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the shortcomings of single entry procedures is that",
+      "options": [
+        "A trial balance is not available",
+        "Profits are overestimated",
+        "There are no subsidiary books",
+        "There are no control accounts."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When a customer’s cheque is returned unpaid in a debtor’s control accounting system, the treatment will be",
+      "options": [
+        "debit bank, credit customer and credit control account.",
+        "credit bank, debit customer and debit control account.",
+        "debit customer, credit control account and credit bank.",
+        "credit control account, debit bank and debit customer."
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Didi Ltd. Offered 10,000 ordinary shares of N1.50 each at a discount of 2% which were fully subscribed. With regard to the offer above,",
+      "options": [
+        "Shares are never offered at a discount; the offer is invalid",
+        "The value of shares in the capital account will be lowered by 2%.",
+        "The company incurs a loss to the tune of 2% of the offer.",
+        "Each of the subscribers loses 2% of investment."
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The refund due to an application for 25,000 shares is",
+      "options": [
+        "N45,000",
+        "N30,000",
+        "N7,500",
+        "N5,000"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What will be the number of shares to be issued to a subscriber who applied for 30,000 shares?",
+      "options": [
+        "N20,000",
+        "N18,000",
+        "N15,000",
+        "N12,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following items does not feature in the balance sheet of a club?",
+      "options": [
+        "Arrears of current year’s subscription",
+        "Salary arrears paid in the current year",
+        "Rental income received in advance",
+        "Advance subscription in respect of a coming year"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An outright sale of partnership amounts to the",
+      "options": [
+        "compensation of vendors by the purchase",
+        "admission of a new partner",
+        "purchase of rights of a dead partner",
+        "change of sharing ratio of vendors"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The club’s cash balance is",
+      "options": [
+        "N39,180",
+        "N34,830",
+        "N34,830",
+        "N31,980"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The companys’ yields is",
+      "options": [
+        "20.00%",
+        "25.00%",
+        "31.33%",
+        "39.17%"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What will be the price earnings ratio of the company?",
+      "options": [
+        "3.91",
+        "3.19",
+        "2.95",
+        "2.55"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The partnership Deed normally specifies",
+      "options": [
+        "how profits or losses are to be shared",
+        "the capital to be contributed annually",
+        "how salaries are paid to employees.",
+        "the profit that should be earned annually"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The accumulated fund of a non-trading concern can equally be referred to as",
+      "options": [
+        "members’ equity",
+        "share capital",
+        "general fund",
+        "surplus fund"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When a purchased business is revalued the effects is that.",
+      "options": [
+        "a decrease in the value of assets has no effect no value of goodwill",
+        "an increase in the value of asset is treated as an increase in the value of goodwill",
+        "a decrease in the value of asset is treated as a decrease in the value of goodwill",
+        "an increase in the value of asset is treated as decrease in the value of goodwill"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An item of appropriation in partnership profit and loss account is.",
+      "options": [
+        "interest on partners’ capital",
+        "interest on partners’ loan",
+        "employees’ salaries",
+        "partners drawings"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The interest on Joy’s drawing is",
+      "options": [
+        "N6.00",
+        "N7.25",
+        "N9.00",
+        "N9.75"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Assuming that Rakiya was not credited with any income during the period, what is her closing current account balance?",
+      "options": [
+        "N340.00 credit",
+        "N349.75 debit",
+        "N500.00 credit",
+        "N511.25 debit"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A business is acquired at par when the",
+      "options": [
+        "purchase consideration equals good will",
+        "purchase consideration equals net value",
+        "purchase consideration is greater than the net",
+        "value is greater than the liabilities"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The subscription transferable to the income and expenditure account is",
+      "options": [
+        "N48,000",
+        "59,000",
+        "N60,000",
+        "N69,000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most appropriate basis for apportioning inventory holding cost among departments is to use the value of",
+      "options": [
+        "purchase",
+        "opening stock",
+        "closing stock",
+        "average stock"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The body constitutionally charge with the accounts of the Federation and other Assembly in the",
+      "options": [
+        "Public Accounts Committee",
+        "Public Audit Committee",
+        "Internal Audit Committee",
+        "External Audit Committee"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "1. Meet growth and diversification needs. 11. Reach out to particular customers or markets 111. Comply with some regulatory directives. 1V. Increase employees’ income Which of the reasons above do consider in estalishing branches.",
+      "options": [
+        "1 and 11",
+        "1, 11 and 111",
+        "11, 111 and 1V",
+        "111 and 1V"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The channel through which all government borrowing and domestic lending transactions pass is called",
+      "options": [
+        "special trust fund",
+        "agency fund",
+        "national loan fund",
+        "contingency fund"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A joint cost N72 million incurred by the two departments was apportioned N30 million to A and N42 million to B. The basis used for apportionment must have been",
+      "options": [
+        "labour hours",
+        "floor space",
+        "turnover",
+        "machine hours"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Recurrent expenditure are expenses for the period not exceeding.",
+      "options": [
+        "10 years",
+        "5 years",
+        "2years",
+        "1 year"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A major benefit derived from the reconciliation of branch and head office books is to",
+      "options": [
+        "determine accurate returns by the branch",
+        "ascertain the correct profit or loss on branch activites",
+        "enable the branch to keep control over stock",
+        "enable the branch to ascertain debtors balance"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Haial Limited with three departments has a total of N7,2000,000 as the net debtors for the year ended 31/12/97. The company’s policy provides for 15% bad debt annually. Which of the following represents the total balance of debtors before adjustments?",
+      "options": [
+        "N6,120,000",
+        "6,120,300",
+        "N8,280,000",
+        "N8,820.00"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

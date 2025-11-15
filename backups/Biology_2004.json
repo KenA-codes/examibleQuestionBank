@@ -1,0 +1,859 @@
+{
+  "_id": "690e0597d1ecd35f97960bd6",
+  "subjectName": [
+    "Biology"
+  ],
+  "year": 2004,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The gall bladder of a mammal has a duct connected to the",
+      "options": [
+        "odenum",
+        "ver",
+        "ncreas",
+        "all intestine"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad907f"
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The opening of the stoma is controlled by the",
+      "options": [
+        "esence of guard cells",
+        "crease in solute concentration in the guard cells",
+        "crease in solute concentration in the guard cells",
+        "esence of a pore"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9080"
+    },
+    {
+      "number": "3",
+      "subheadingA": "Use the diagram below to answer questions 3 and 4",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878422/img2004_1_tawm4y.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Yam is used in this set-up because it",
+      "options": [
+        "ts as a semi-permeable membrane",
+        "ts as a storage organ",
+        "permeable to the salt solution",
+        "a plant material"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9081"
+    },
+    {
+      "number": "4",
+      "subheadingA": "Use the diagram below to answer questions 3 and 4",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following results is to be expected if the set-up is left for several hours?",
+      "options": [
+        "vement of water from the salt solution",
+        "crease in the size of the yam",
+        "vement of the salt solution into the water",
+        "crease in the volume of water inside the yam"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9082"
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The eggs of birds contain relatively larger quantities of yolk than those of amphibians and reptiles because",
+      "options": [
+        "bryonic development is longer in birds",
+        "rds lay shelled eggs",
+        "rds are generally bigger in size",
+        "ose of birds are fertilized internally"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9083"
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the internal structure of plants, a wide pith in the centre is common to",
+      "options": [
+        "cot root and monocot stems",
+        "cot stems and monocot stems",
+        "cot stem and monocot roots",
+        "cot roots and monocot roots"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9084"
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a nursing mother is not producing enough milk, her hormonal system is probably deficient in",
+      "options": [
+        "stosterone",
+        "yroxin",
+        "sulin",
+        "olactin"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9085"
+    },
+    {
+      "number": "8",
+      "subheadingA": "Use the diagram below to answer questions 8 and 9",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878422/img2004_2_q00azx.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The type of joint between adjacent bones in the part labelled II is the",
+      "options": [
+        "nge joint",
+        "ture joint",
+        "iding joint",
+        "ll-and-socket joint"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9086"
+    },
+    {
+      "number": "9",
+      "subheadingA": "Use the diagram below to answer questions 8 and 9",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The bones labelled II are called",
+      "options": [
+        "oracic vertebrae",
+        "mbar vertebrae",
+        "rvical vertebrae",
+        "cral vertebrae"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9087"
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The breakdown of fats and oils into simpler absorbable compounds is catalyzed by the group of enzymes called",
+      "options": [
+        "ptidases",
+        "ylases",
+        "pases",
+        "drolases"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9088"
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The two key cations involved in the action potential of nervous transmissions are",
+      "options": [
+        "²⁺ and K⁺",
+        "⁺ and Fe²⁺",
+        "²⁺ and Mg²⁺",
+        "⁺ and K⁺"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9089"
+    },
+    {
+      "number": "12",
+      "subheadingA": "Use the diagram below to answer questions 12 and 13",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878422/img2004_3_ayubs6.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The part labelled II is the",
+      "options": [
+        "ther",
+        "yle",
+        "lament",
+        "igma"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad908a"
+    },
+    {
+      "number": "13",
+      "subheadingA": "Use the diagram below to answer questions 12 and 13",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The process of pollination involves the transfer of pollens from",
+      "options": [
+        "I to IV",
+        "to I",
+        "to III",
+        "to II"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad908b"
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The anaerobic fermentation of a glucose molecule yields",
+      "options": [
+        "ruvic acid and alcohol",
+        "ATP molecules",
+        "ter and carbon (IV) oxide",
+        "ATP molecules and alcohol"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad908c"
+    },
+    {
+      "number": "15",
+      "subheadingA": "Use the diagram below to answer questions 15 and 16",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878423/img2004_4_gqudmb.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The function of the part labelled III is to",
+      "options": [
+        "oduce oil for the skin",
+        "rry blood and nitrogenous waste",
+        "ntract to pull the hair erect",
+        "nduct nervous impulses"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad908d"
+    },
+    {
+      "number": "16",
+      "subheadingA": "Use the diagram below to answer questions 15 and 16",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The sweat gland is the structure labelled",
+      "options": [
+        "",
+        "I",
+        "",
+        ""
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad908e"
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The type of reproduction that is common to both Hydra and yeast is",
+      "options": [
+        "afting",
+        "dding",
+        "njugation",
+        "nary fission"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad908f"
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Epigeal germination of a seed is characterized by",
+      "options": [
+        "ck of growth of the hypocotyls",
+        "re rapid elongation of the hypocotyls than the epicotyl",
+        "re rapid elongation of the epicotyl than the hypocotyl",
+        "ual growth rate of both the hypocotyl and epicotyl"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9090"
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "All living cells require water because it",
+      "options": [
+        "is a medium that neutralizes acids in cells",
+        "is the main source of energy for the cells",
+        "prevents the development of diseases in cell",
+        "is a medium for all metabolic reactions"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9091"
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The surface of an alveolus in a mammal is well supplied with tiny blood vessels known as",
+      "options": [
+        "capillaries",
+        "arteries",
+        "arterioles",
+        "venules"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9092"
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Nervous control differs from hormonal control in that the former",
+      "options": [
+        "is a slower process",
+        "involves only chemical transmission",
+        "has no specific pathway",
+        "produces short-term changes"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9093"
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Identical twins inherit their genes from",
+      "options": [
+        "one egg and two sperms",
+        "two eggs and a sperm",
+        "the same egg and sperm",
+        "different eggs and sperms"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9094"
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Paternity disputes can most accurately be resolved through the use of",
+      "options": [
+        "DNA analysis",
+        "fingerprinting",
+        "tongue-rolling",
+        "blood group typing"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9095"
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Sex-linked genes are located on",
+      "options": [
+        "X-and Y-chromosomes",
+        "homologous chromosomes",
+        "X-chromosomes",
+        "Y-chromosome"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9096"
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a Mendelian cross of red and white varieties of the four o’clock plant, the F1 generation expresses incomplete dominance by having flowers which are",
+      "options": [
+        "multicoloured",
+        "pink",
+        "red",
+        "white"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9097"
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Insects are considered the most successful among the invertebrates because they",
+      "options": [
+        "survive in various environmental conditions",
+        "possess the ability to change their forms",
+        "possess exoskeletons",
+        "have wing for flight"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9098"
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The absence of special food and water-conducting systems restricts the body size in",
+      "options": [
+        "the bryophytes and the pteridophyes",
+        "the thallophytes and the pteridophytes",
+        "liverworts, mosses and ferns",
+        "algae, liverworts and mosses"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad9099"
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A peculiar characteristic of mammals is that they",
+      "options": [
+        "have sebaceous glands",
+        "have teeth",
+        "are warm-blooded",
+        "have lungs"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad909a"
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The rods in the retina of the eye are examples of",
+      "options": [
+        "organs",
+        "cells",
+        "systems",
+        "tissues"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad909b"
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The larval stage of a mosquito is called",
+      "options": [
+        "caterpillar",
+        "maggot",
+        "wriggler",
+        "grub"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad909c"
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most common characteristic of the fungal hyphae is the possession of",
+      "options": [
+        "cell-like partitions formed by cross-walls",
+        "cell-like compartments with one nucleus each",
+        "a multicellular mycelium in the substrate",
+        "cell walls that are both rigid and chitinous"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad909d"
+    },
+    {
+      "number": "32",
+      "subheadingA": "Use the diagram below to answer questions 32 and 33.",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878423/img2004_5_mxtrwe.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The part labelled II is responsible for",
+      "options": [
+        "respiration",
+        "protein synthesis",
+        "excretion",
+        "photosynthesis"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad909e"
+    },
+    {
+      "number": "33",
+      "subheadingA": "Use the diagram below to answer questions 32 and 33.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The endoplasmic reticulum is represented by the part labelled",
+      "options": [
+        "III",
+        "VI",
+        "I",
+        "II"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad909f"
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The function of the long-winged reproductives in a termite colony is to",
+      "options": [
+        "protect the young",
+        "participate in swarming",
+        "feed the young",
+        "disperse the population"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90a0"
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A plant-like feature in Euglena is the",
+      "options": [
+        "large vacuole",
+        "gullet",
+        "pellicle",
+        "pigment spot"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90a1"
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is an example of intraspecific competition?",
+      "options": [
+        "Yam and potato shoots growing out through the same window",
+        "A lizard and an ant-eater chasing an insect",
+        "A worker termite and a soldier in a limited space",
+        "A hawk and an eagle targeting the same chicken"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90a2"
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The spots and stripes of the leopard and tiger are examples of",
+      "options": [
+        "warning colouration",
+        "countershading",
+        "cryptic colouration",
+        "disruptive colouration"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90a3"
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Rodents gnaw on food with their",
+      "options": [
+        "strong jaws",
+        "flat-ridged teeth",
+        "chisel-like front teeth",
+        "molar teeth"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90a4"
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An evidence of the relationship between living organisms and their extinct relatives can best be obtained from",
+      "options": [
+        "palaeontology",
+        "embryology",
+        "comparative anatomy",
+        "comparative physiology"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90a5"
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Plants survive hot dry conditions by",
+      "options": [
+        "producing numerous leaves",
+        "having numerous stomata",
+        "having evergreen leaves",
+        "storing water in large parenchyma cells"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90a6"
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A caterpillar and an aphid living in different parts of the same plant can be said to",
+      "options": [
+        "be in similar microhabitats",
+        "occupy different ecological niches",
+        "occupy the same ecological niche",
+        "be in different habitats"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90a7"
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The progressive loss of energy at each level in a food chain leads to",
+      "options": [
+        "a decrease in biomass at each successive level",
+        "an increase in the number of organisms at each successive level",
+        "an increase in the total weight of living matter at each successive level",
+        "an increase in biomass at each successive level"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90a8"
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The soil type that will be most difficult to plough in a wet season is one that is",
+      "options": [
+        "sandy",
+        "loamy",
+        "silty",
+        "clayey"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90a9"
+    },
+    {
+      "number": "44",
+      "subheadingA": "Use the table below to answer questions 44 and 45.",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878424/img2004_6_drfzcv.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the zones is likely to be a desert?",
+      "options": [
+        "III",
+        "IV",
+        "I",
+        "II"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90aa"
+    },
+    {
+      "number": "45",
+      "subheadingA": "Use the table below to answer questions 44 and 45.",
+      "diagramUrlA": "",
+      "subheadingB": "(No actual table provided — inferred climate zones used)",
+      "diagramUrlB": "",
+      "question": "High relative humidity will be expected in zones",
+      "options": [
+        "and III",
+        "and IV",
+        "and IV",
+        "and III"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90ab"
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One adaptation of reptiles to water loss is the presence of",
+      "options": [
+        "ng tails",
+        "ng sticky tongues",
+        "ratinous scales",
+        "aws on limbs"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90ac"
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The scarcity of food causes a sudden decrease in population size by",
+      "options": [
+        "nimizing the rate of competition",
+        "ising the mortality rate",
+        "inging about immigration",
+        "creasing the reproductive rate"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90ad"
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The association between termites and the cellulose-digesting protozoan in their guts is an example of",
+      "options": [
+        "tualism",
+        "prophytism",
+        "mmensalism",
+        "rasitism"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90ae"
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A state in Nigeria that is most susceptible to desert encroachment is",
+      "options": [
+        "duna",
+        "tsina",
+        "ara",
+        "raba"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90af"
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A farm practice that results in the loss of soil fertility is",
+      "options": [
+        "ntinuous cropping",
+        "xed farming",
+        "sh fallowing",
+        "ifting cultivation"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e1815aa33f08283ad90b0"
+    }
+  ]
+}

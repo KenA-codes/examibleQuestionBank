@@ -1,0 +1,793 @@
+{
+  "_id": "685066ef7e01022af0d377d9",
+  "subjectName": [
+    "Government"
+  ],
+  "year": 2011,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which Government Question Paper Type is given to you?",
+      "options": [
+        "Type A",
+        "Type B",
+        "Type C",
+        "Type D"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The development of attitudes and beliefs about a political system is----",
+      "options": [
+        "political emancipation",
+        "political socialization",
+        "political participation",
+        "political orientation"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Political behavior is governed by",
+      "options": [
+        "political socialization",
+        "political ideology",
+        "political economy",
+        "political culture"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a nation, sovereignty is vested in the--",
+      "options": [
+        "community",
+        "state",
+        "elite",
+        "electorate"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a feature of democracy?",
+      "options": [
+        "interdependence of states",
+        "state responsibilities to society",
+        "power vested in minority parties",
+        "popular consultation"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Private ownership of the means of production is central to",
+      "options": [
+        "fascism",
+        "feudalism",
+        "capitalism",
+        "communism"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A system based on hierarchies of land ownership is--",
+      "options": [
+        "feudalism",
+        "totalitarianism",
+        "communism Expobite.Net",
+        "fascism"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following performs quasi-legislative functions?",
+      "options": [
+        "The Judiciary",
+        "The Traditional Institutions",
+        "The Civil Service",
+        "The Executive"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A major weakness of confederation is",
+      "options": [
+        "over-concentration of authority",
+        "tendency towards secession",
+        "lack of local independence",
+        "lack of common currency"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Members of a parliament are required to report the proceedings of the house to their ---",
+      "options": [
+        "constituencies",
+        "local government chairmen",
+        "traditional rulers",
+        "political parties"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following Country is a unitary state?",
+      "options": [
+        "Nigeria",
+        "India",
+        "United States of America",
+        "Ghana"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Ending a session of parliament by royal proclamation means the",
+      "options": [
+        "expiration of parliament",
+        "prorogation of parliament",
+        "adjournment of parliament",
+        "dissolution of parliament"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A main feature of the parliamentary system is that",
+      "options": [
+        "the executive consists of all party members",
+        "judges are drawn from the ruling party",
+        "electoral commissioners leave at the end of their tenure",
+        "the executive is appointed by the legislature"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a socialist economy, private accumulation of wealth is Expobite.Net",
+      "options": [
+        "prohibited",
+        "regulated",
+        "limited",
+        "encouraged"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The earliest classification of constitutions was the work of",
+      "options": [
+        "Aristotle",
+        "J.J. Rouseau",
+        "K.C. Wheare",
+        "Plato"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Constitutionalism refers to ---",
+      "options": [
+        "the process of drafting a constitution",
+        "amendment of an existing constitution",
+        "the process of operating a constitution",
+        "strict adherence to a constitution"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An advantage of delegated legislation is that",
+      "options": [
+        "much time is saved in the process",
+        "technical issues are handled by experts",
+        "ministers and lawmakers work together",
+        "it hastens the implementation of policy"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One essential duty of a citizen to his state is to",
+      "options": [
+        "support the government in power",
+        "recite the pledge",
+        "pay his tax",
+        "encourage other citizens"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Franchise in an electoral process means the –",
+      "options": [
+        "right to vote",
+        "ownership of means of production",
+        "the sovereignty of a nation",
+        "rights and duties of a citizen"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The type of party system in practice is defined by the --- Expobite.Net",
+      "options": [
+        "relationship between the parties and electorate",
+        "structure of the political parties",
+        "manner in which the parties operate",
+        "number of political parties in a country"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Pressure groups harmonize different individual concerns through",
+      "options": [
+        "interest formulation",
+        "interest manipulation",
+        "interest mobilisation",
+        "interest aggregation"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Opinion polls are organized to find out the –",
+      "options": [
+        "benefits derived by people from government",
+        "people's thought about a particular government policy",
+        "people's expectations from the government",
+        "feelings of people about particular issues and policies"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In pre-colonial Igboland, autocratic rule was made difficult by the ---",
+      "options": [
+        "fear of dethronement",
+        "absence of a centralized system of authority",
+        "pressure from age grades",
+        "activities of cult societies"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The Yoruba traditional system of government was—",
+      "options": [
+        "republican",
+        "democratic",
+        "monarchical",
+        "egalitarian"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Under the pre-colonial Sokoto Caliphate system, the next in command to the sultan was the",
+      "options": [
+        "Alkali",
+        "Galadima",
+        "Madaki",
+        "Waziri Expobite.Net"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following societies was classified as acephalous?",
+      "options": [
+        "Benin",
+        "Ibibio",
+        "Igbo",
+        "Ijaw"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Indirect rule encouraged",
+      "options": [
+        "communal integration",
+        "exploitation and oppression",
+        "inter-communal cooperation",
+        "the rise of nationalism"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main achievement of the nationalists in Nigeria was",
+      "options": [
+        "registration of political parties",
+        "economic liberation of the nation",
+        "political liberation of the nation",
+        "building the nation"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The major external factor that promoted nationalism in Nigeria was",
+      "options": [
+        "Pan-Africanism",
+        "the Yom-Kippur War",
+        "the Second World War",
+        "Anti-apartheid Movement"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The presidential system of government was introduced in Nigeria with the Constitution of",
+      "options": [
+        "1989",
+        "1999",
+        "1960",
+        "1979"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The Action Group crisis of 1963 led to the formation of",
+      "options": [
+        "UPP",
+        "NEPU",
+        "NPC",
+        "NCNC"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Under the 1963 Republican Constitution, the power of judicial review was vested in the",
+      "options": [
+        "President",
+        "Chief Justice",
+        "Supreme Court Expobite.Net",
+        "Parliament"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The rules and regulations of the civil service are called?",
+      "options": [
+        "General Order",
+        "Bureaucratic Order",
+        "Service Order",
+        "Administrative Order"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The Code of Conduct Bureau was essentially established to",
+      "options": [
+        "reduce corruption in public life",
+        "protect the rights of public servants",
+        "enhance probity and accountability in public service",
+        "ensure the independence of the public service"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following political parties was the first to be formed when the ban on politics was lifted in 1978?",
+      "options": [
+        "NPP",
+        "PRP",
+        "NPN",
+        "UPN"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The principle of federal character was adopted in order to promote equitable allocation of",
+      "options": [
+        "positions and appointments among people of various regions",
+        "appointments between the North and the South",
+        "opportunities between the males and females",
+        "revenue between groups in the country"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The component units of the Nigerian Federation comprise",
+      "options": [
+        "national assembly, military, police and civil service",
+        "constituency, ward, emirate and chiefdom",
+        "federal, state, local government and federal capital territory",
+        "federal capital territory, national assembly, supreme court and civil service Expobite.Net"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In Nigeria, privatization and commercialization policies were introduced to",
+      "options": [
+        "hand over the control of commercial ventures to citizens",
+        "increase the asset base of government",
+        "divest government major control of commercial ventures",
+        "allow government control of the private sector"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An example of a public corporation in Nigeria is",
+      "options": [
+        "National Universities Commission",
+        "Nigerian Television Authority",
+        "National Population Commission",
+        "First Bank of Nigeria"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Following the reform of the Native Authority system in Northern Nigeria, traditional rulers became",
+      "options": [
+        "Council",
+        "Chief-and-Council",
+        "Prefects",
+        "Chief-in-Council"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Under whose regime were Akwa-Ibom and Katsina States created?",
+      "options": [
+        "Gen Murtala Muhammed",
+        "Gen Ibrahim Babangida",
+        "Gen Sani Abacha",
+        "Gen Yakubu Gowon"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Under the 1999 Constitutions of the Federal Republic of Nigeria, the appointment and posting of members of election tribunal on the elections conducted by INEC is the responsibility of the",
+      "options": [
+        "Chairman, Independent National Electoral Commission",
+        "President of Nigeria",
+        "Chief Justice of Nigeria",
+        "President, Court of Appeal"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Rhodesia was the former name of Expobite.Net",
+      "options": [
+        "Zimbabwe",
+        "Swaziland",
+        "Zambia",
+        "Namibia"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The adoption of non- alignment as a principle of Nigeria's foreign policy was aimed at",
+      "options": [
+        "promoting Nigeria's leadership aspiration in Africa",
+        "attaining equal status with the world powers",
+        "fulfilling a basic requirement for acceptance in the UN Security Council",
+        "insulating Nigeria against having to take side in the Cold War"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In 1979, the non-aligned member states were",
+      "options": [
+        "21",
+        "27",
+        "37",
+        "19 E. none of the above"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following was the secretary general of OPEC?",
+      "options": [
+        "Jibril Aminu",
+        "Aret Adams",
+        "Dalhatu Bayero",
+        "Rilwan Lukwan"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following countries pioneered the idea of ECOWAS alongside Nigeria?",
+      "options": [
+        "Liberia",
+        "Togo",
+        "Cote d'Ivoire",
+        "Mali"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following international organizations were in existence before the Second World War?",
+      "options": [
+        "The UNO",
+        "The OAU",
+        "The League of Nations",
+        "The ECOWAS"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The organ of the United Nations responsible for the Expobite.Net approval of its annual budget is the",
+      "options": [
+        "Secretariat",
+        "Security Council",
+        "General Assembly",
+        ""
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    }
+  ]
+}

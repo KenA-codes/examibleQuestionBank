@@ -1,0 +1,753 @@
+{
+  "_id": "685068967e01022af0d377db",
+  "subjectName": [
+    "Government"
+  ],
+  "year": 2013,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which Question Paper Type of Government is given to you?",
+      "options": [
+        "Type D",
+        "Type I",
+        "Type B",
+        "Type U"
+      ],
+      "answer": "B"
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Power that is delegated is exercised",
+      "options": [
+        "By devolution",
+        "Directly",
+        "By coercion",
+        "Indirect"
+      ],
+      "answer": "A"
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "De Jure sovereign is acquired through",
+      "options": [
+        "Law",
+        "Grant",
+        "Treaty",
+        "Force"
+      ],
+      "answer": "A"
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A group of people who live together under a common law within a definite territory is a",
+      "options": [
+        "Community",
+        "Nation - State",
+        "Nation",
+        "State"
+      ],
+      "answer": "D"
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Political socialization is associated with",
+      "options": [
+        "Military take-over of civilian government",
+        "The transmission of political values",
+        "Political transition",
+        "Free choice of party programmes"
+      ],
+      "answer": "B"
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "According to Aristotle, a form of government in which the few rule for the benefit of all is",
+      "options": [
+        "Diarchy",
+        "Aristocracy",
+        "Autocracy",
+        "polyarch"
+      ],
+      "answer": "B"
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Rule by the old people is known as Expobite.Net",
+      "options": [
+        "Monarchy",
+        "Gerontocracy",
+        "Feudalism",
+        "Theocracy"
+      ],
+      "answer": "B"
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "As an executive, the commissioner is charged with the responsibility of",
+      "options": [
+        "Implementing laws",
+        "Writing laws",
+        "Giving loans",
+        "Making laws"
+      ],
+      "answer": "A"
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Rules adjudication is a primary function of the",
+      "options": [
+        "Judiciary",
+        "Executive",
+        "Government",
+        "Legislature"
+      ],
+      "answer": "A"
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The judiciary controls the executive in federal state through",
+      "options": [
+        "Delegated legislation",
+        "Judicial overview",
+        "Judicial review",
+        "Motions"
+      ],
+      "answer": "C"
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One major advantage of the unitary system is that it tends of make government",
+      "options": [
+        "Free of controversy",
+        "Distant from the people",
+        "Popular among the masses",
+        "Strong and stable"
+      ],
+      "answer": "D"
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The presidential system differs from the parliamentary system of government in that",
+      "options": [
+        "The principle of collective responsibility applies",
+        "Executive and legislative powers are fused",
+        "Powers of the three arms of government are merged",
+        "The tenure of office of the president is limited"
+      ],
+      "answer": "B"
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following advocates equitable distribution of wealth?",
+      "options": [
+        "Capitalism",
+        "Aristocracy",
+        "Socialism Expobite.Net",
+        "Plutocracy"
+      ],
+      "answer": "C"
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A constitution that is difficult to amend is",
+      "options": [
+        "Rigid",
+        "Written",
+        "Unwritten",
+        "Flexible"
+      ],
+      "answer": "A"
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following constitutions is more suitable for centralization of political power?",
+      "options": [
+        "Unwritten constitution",
+        "Rigid constitution",
+        "Written constitution",
+        "Flexible constitution"
+      ],
+      "answer": "B"
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The act of transferring autonomous powers to subordinate agencies is",
+      "options": [
+        "Concentration",
+        "Deconcentration",
+        "Delegation",
+        "Devolution"
+      ],
+      "answer": "C"
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following types of citizenship cannot be withdrawn?",
+      "options": [
+        "Citizenship by conquest",
+        "Citizenship by birth",
+        "Honorary citizenship",
+        "Citizenship by naturalization"
+      ],
+      "answer": "B"
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The right of citizens to vote is",
+      "options": [
+        "Universal suffrage",
+        "Nationality suffrage",
+        "Electoral suffrage",
+        "Adult suffrage"
+      ],
+      "answer": "A"
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A political party is different from a pressure group in its",
+      "options": [
+        "Objective",
+        "Organization",
+        "Strategy",
+        "Source of finance"
+      ],
+      "answer": "A"
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the functions of pressure groups is to",
+      "options": [
+        "Nominate the president",
+        "Prepare the budget Expobite.Net",
+        "Articulate the opinion of their members",
+        "Contest elections to serve the people"
+      ],
+      "answer": "C"
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Public opinion refers to the",
+      "options": [
+        "Aggregate views of groups on particular government activities",
+        "views held by the president of a country",
+        "views of the chief justice of a country",
+        "Aggregate of attitudes held by members of the national assembly"
+      ],
+      "answer": "A"
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The class that oversees the implementation of government decisions and policies is the",
+      "options": [
+        "Executive",
+        "Clerical",
+        "Technical",
+        "Administrative"
+      ],
+      "answer": "A"
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The performance of ritual rites in the Yoruba empire is the responsibility of the",
+      "options": [
+        "Aare-Onakakanfo",
+        "Oba",
+        "Ogboni",
+        "Oyo mesi"
+      ],
+      "answer": "C"
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Under the emirate system, the commander of the army is the",
+      "options": [
+        "Hakimi",
+        "Sarkin fada",
+        "Madawaki",
+        "Alkali"
+      ],
+      "answer": "C"
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The indirect rule system of administration was more successful in the Northern Nigeria because",
+      "options": [
+        "Of the existence of an organized structure in the area",
+        "the Europeans ensures that the farmlands",
+        "The natives show little or no resistance",
+        "The people were mainly interested in being governed indirectly Expobite.Net"
+      ],
+      "answer": "A"
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The earliest nationalist activities in Nigeria were spearheaded by",
+      "options": [
+        "Trade unions",
+        "Traditional rulers",
+        "Political parties",
+        "Educated elite"
+      ],
+      "answer": "D"
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The first notable nationalist movement in west Africa was the",
+      "options": [
+        "West African student union",
+        "Nigeria youth movement",
+        "Aborigines rights protection society",
+        "National congress of British West Africa"
+      ],
+      "answer": "D"
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In Nigeria’s first republic, the prime minister was both the",
+      "options": [
+        "Head of state and commander- in-chief of the armed forces",
+        "Commander-in-chief of the armed forces and party leader",
+        "Head of state and party leader",
+        "Head of government and a lawmaker"
+      ],
+      "answer": "D"
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Under the 1979 Constitution, statutory allocation of revenue to local government councils is the responsibility of the",
+      "options": [
+        "House of Assembly",
+        "National Economic Council",
+        "Federal Legislature",
+        "Council of State"
+      ],
+      "answer": "A"
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Under Nigeria's Second Republic, the Senate was under the leadership of",
+      "options": [
+        "J.S. Tarka",
+        "Joseph Wayas",
+        "Godwin Ume-Ezeoke",
+        "John Wash Pam"
+      ],
+      "answer": "B"
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The Revenue Mobilization, Allocation and Fiscal Commission is statutorily empowered to determine the remuneration of",
+      "options": [
+        "Only elected representatives",
+        "Political office holders",
+        "Employees of public corporations",
+        "All civil servants Expobite.Net"
+      ],
+      "answer": "D"
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary function of the Code of Conduct Bureau is to",
+      "options": [
+        "Ensure minimum standard of morality",
+        "Retain custody of declarations",
+        "Receive declaration of assets",
+        "Ensure due process by public officers"
+      ],
+      "answer": "D"
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The party system practiced in Nigeria's Third Republic was",
+      "options": [
+        "Two-party",
+        "Zero-party",
+        "One-party",
+        "Multi-party"
+      ],
+      "answer": "D"
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Nigeria adopted the federal system of government because of",
+      "options": [
+        "Uneven development",
+        "The availability of limited resources",
+        "The adoption of a stat religion",
+        "The fear of domination of minorities"
+      ],
+      "answer": "D"
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The highest policy the making body under the Gowon Regime was",
+      "options": [
+        "Armed Forces Ruling Council",
+        "Provisional Ruling Council",
+        "Supreme Military Council",
+        "Federal Executive Council"
+      ],
+      "answer": "C"
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Nigeria became a federation of thirty-six state during the era of",
+      "options": [
+        "Abdulsalami Abubakar",
+        "Yakubu Gowon",
+        "Ibrahim Babangida",
+        "Sani Abacha"
+      ],
+      "answer": "C"
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following headed the committee that recommended the suitability of Abuja as a new federal city?",
+      "options": [
+        "Justice Baba Ardo",
+        "Justice Atanda Fatai Williams",
+        "Justice Udo Udoma",
+        "Justice Akinola Aguda"
+      ],
+      "answer": "D"
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A public corporation is managed by Expobite.Net",
+      "options": [
+        "A minister",
+        "A general manager",
+        "The board of governors",
+        "The board of directors"
+      ],
+      "answer": "D"
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A major source of revenue in the post - 1976 local government in Nigeria is",
+      "options": [
+        "Internally generated revenue",
+        "the federation account",
+        "Grants and loans",
+        "The joint state-local government account"
+      ],
+      "answer": "B"
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The provisional Ruling Council was the highest ruling body during the regime of",
+      "options": [
+        "Muhammadu Buhari",
+        "Ibrahim Babangida",
+        "Murtala Muhammed",
+        "Sani Abacha"
+      ],
+      "answer": "A"
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Nigeria's non-alignment policy in the sixties lacked real substance because of her",
+      "options": [
+        "Afrocentric policy",
+        "Poor economic potential",
+        "Partnership with Asian countries",
+        "Close ties with Britain"
+      ],
+      "answer": "D"
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Under the Technical Aid Corps, Nigerian experts are deployed to",
+      "options": [
+        "African, the pacific and the Caribbean",
+        "Europe, South America and Asia",
+        "The pacific, the Caribbean and Europe",
+        "Asia, Africa and the pacific"
+      ],
+      "answer": "D"
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The centre-piece of Nigeria's foreign policy covers only",
+      "options": [
+        "Europe",
+        "Africa",
+        "Latin America",
+        "Asia"
+      ],
+      "answer": "B"
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following countries pioneered the establishment of ECOWAS alongside Nigeria? Expobite.Net",
+      "options": [
+        "Ghana",
+        "Togo",
+        "Algeria",
+        "Cameroun"
+      ],
+      "answer": "B"
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Nigeria's role in the African Union was most prominent during the regime of",
+      "options": [
+        "President Olusegun Obasanjo",
+        "President Shehu Shagari",
+        "President Umaru Yar'adua",
+        "President Ibrahim Babangida"
+      ],
+      "answer": "A"
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A representative of a Commonwealth country in another member state is known as",
+      "options": [
+        "Consul-General",
+        "Ambassador",
+        "Attache",
+        "High Commissioner"
+      ],
+      "answer": "D"
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The organ of UN that promotes voluntary co-operation among member states in diverse areas is the",
+      "options": [
+        "International Court of Justice",
+        "General Assembly",
+        "Economic and Social Council",
+        "Security Council"
+      ],
+      "answer": "C"
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main representative body of the United Nations is the",
+      "options": [
+        "Security Council",
+        "General Assembly",
+        "Trusteeship Council",
+        "Secretariat"
+      ],
+      "answer": "B"
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The AU differs from the OAU in having",
+      "options": [
+        "Effective tools for decision enforcement",
+        "No permanent headquarters",
+        "A minimum of divergent viewpoints",
+        "No assembly of Heads of State"
+      ],
+      "answer": "A"
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "OPEC has strong influence with the",
+      "options": []
+    }
+  ]
+}

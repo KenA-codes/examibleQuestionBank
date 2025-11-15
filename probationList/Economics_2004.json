@@ -1,0 +1,859 @@
+{
+  "_id": "68657c1c06c1894666c00584",
+  "subjectName": [
+    "Economics"
+  ],
+  "year": 2004,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "By advertising, a monopolistic competitive firm tries to shift its",
+      "options": [
+        "supply curve to the right",
+        "demand curve to the right",
+        "supply curve to the left",
+        "demand curve to the left"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given than Y = C + I and C = bY where b = 0.8, what is the multiplier?",
+      "options": [
+        "5",
+        "10",
+        "4",
+        "2"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The role of the Central Bank in the economic development of Nigeria is to",
+      "options": [
+        "give short-and medium-term loans to the public",
+        "give financial and technical advice to customers",
+        "use the cheques and bank drafts to facilitate business transactions",
+        "maintain a stable price system"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The primary function of non-bank financial institutions is to",
+      "options": [
+        "manage investment portfolios for government",
+        "mobilize saving for investment",
+        "grant loans to banks",
+        "receive deposits from banks"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "At the maximum point of the total product curve of a firm, marginal revenue is",
+      "options": [
+        "decreasing",
+        "increasing",
+        "constant",
+        "zero"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In an open economy, the GNP is measured as",
+      "options": [
+        "C+I+G+X",
+        "C+I+G+(X-M)",
+        "C+I+G+M",
+        "C+I+G"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The diagram above represents the short-run position of a monopolist. The profit-maximizing output is",
+      "options": [
+        "Q3",
+        "Q4",
+        "Q1",
+        "Q2"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The capital market provides business firm with the avenue to",
+      "options": [
+        "lease capital equipment",
+        "obtain long-term funds",
+        "obtain short-term funds",
+        "purchase capital equipment"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the financial institution is charged with the formulation of monetary policies in Nigeria?",
+      "options": [
+        "The Central Bank of Nigeria",
+        "The Nigeria Deposit Insurance Corporation",
+        "The Abuja Commodity Exchange",
+        "The Lagos Stock Exchange"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "GDP differs from GNP because GDP",
+      "options": [
+        "is inclusive of depreciation",
+        "emphasizes the final goods and services",
+        "produced within the country at a particular period",
+        "emphasizes the market value of all final goods and services produced by nationals"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The distinction between perfect competition and monopolistic competition is that the latter is characterized by",
+      "options": [
+        "a single market price",
+        "many buyers and sellers",
+        "product differentiation",
+        "homogeneity of product"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The downstream activities of oil companies in Nigeria involve",
+      "options": [
+        "refining and distribution",
+        "prospecting and drilling",
+        "off-shore drilling",
+        "management of spillage and pollution"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The movement of goods and services from the producers to the consumers is referred to as",
+      "options": [
+        "external trade",
+        "the distribution chain",
+        "the circular flow",
+        "consumption"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The purpose of conducting a census is to enable a country to",
+      "options": [
+        "plan her capital inflow and outflow",
+        "determine the growth rate of population",
+        "determine the optimum level of population",
+        "plan her growth and development"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A major cause of the slow pace of industrialization in Nigeria is inadequate",
+      "options": [
+        "raw materials",
+        "landmass",
+        "skilled labour",
+        "communal labour"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The maximum wage legislation seeks to",
+      "options": [
+        "fix wages above the equilibrium wage rate",
+        "set wages below the equilibrium wage rate",
+        "deter employers from exploiting their employees",
+        "ensure an upper limit to the wages payable"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The marketing of agricultural commodities in Nigeria is hampered by",
+      "options": [
+        "lack of adequate storage facilities",
+        "the existence of farmers’ associations",
+        "the existence of commodity exchange",
+        "the abolition of marketing boards"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Import duty concessions on industrial inputs directly benefit the",
+      "options": [
+        "consumers",
+        "external sector",
+        "commercial sector",
+        "manufacturers"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The labour force in Nigeria falls between the ages of",
+      "options": [
+        "18 and 45",
+        "18 and 55",
+        "18 and 60",
+        "18 and 30"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Government’s involvement in agricultural business in Nigeria’s is most manifested in the",
+      "options": [
+        "establishment of farm settlements in each state of the federation",
+        "establishment of credit guarantee schemes for small-scale farmers",
+        "formation of farmers’ cooperative societies",
+        "procurement and distribution of fertilizers"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The difference between birth and death rates of a given population is referred to as the",
+      "options": [
+        "mortality rate",
+        "fertility rate",
+        "natural growth rate",
+        "linear growth rate"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Fiscal policy is the government’s plan to control aggregate demand by manipulating",
+      "options": [
+        "the demand and supply of money",
+        "revenue and expenditure",
+        "tastes and preferences of consumers",
+        "the structure of production and employment"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A country is said to have absolute advantage when she",
+      "options": [
+        "has a higher opportunity cost in the production of a good",
+        "can sell to other countries without buying from them",
+        "can produce more of any good with fewer resources",
+        "has a lower opportunity cost in the production of a good"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The European Union was formed to",
+      "options": [
+        "promote free trade within member nations",
+        "promote economic integration in non-member countries",
+        "assist countries to achieve their economic goals",
+        "finance development projects in member nations"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If budget deficits are financed by borrowing, the crowding-out effects can be offset by an increase in",
+      "options": [
+        "government expenditure",
+        "savings",
+        "interest rates",
+        "exchange rates"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When the importation of a commodity is limited to a definite quantity, the trade control means used is known as",
+      "options": [
+        "exchange control",
+        "tax relief",
+        "devaluation",
+        "quotas"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The excess of aggregate expenditure over full employment level of output is referred to as",
+      "options": [
+        "GNP gap",
+        "Deflationary gap",
+        "Inflationary gap",
+        "recessionary gap"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The tax levied on goods and services at each stage of production is",
+      "options": [
+        "surfax",
+        "VAT",
+        "Ad valorem tax",
+        "PAYE"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The number of shareholders in a private limited liability company ranges from",
+      "options": [
+        "two to seven",
+        "two to three",
+        "two to fifty",
+        "two to twenty"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A major reason for having national development plan is to",
+      "options": [
+        "ensure efficient use of available resources",
+        "involve people in national programmes",
+        "make government spend more on production",
+        "ensure that more citizens are involved in planning"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The difference between payments and receipts for visible trade is called",
+      "options": [
+        "bilateral trade",
+        "current balance",
+        "balance of payment",
+        "balance of trade"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the cause of the present high rate of inflation in Nigeria is",
+      "options": [
+        "Increasing budget surplus",
+        "Increasing factors costs",
+        "Exchange rate appreciation",
+        "High capacity utilization"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The final stage in the production process of any commodity involves its movement from the",
+      "options": [
+        "retailer to the wholesaler",
+        "producer to the wholesaler",
+        "retailer to the consumer",
+        "wholesaler to the retailer"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A change in demand for a normal good means",
+      "options": [
+        "a shift in the demand curve",
+        "a change in the price elasticity",
+        "the demand changes as price changes",
+        "a movement along a given demand curve"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the diagram above, ST is the budget line while I, II and III represent indifference curves. A rational consumer will choose to consume at point",
+      "options": [
+        "M",
+        "J",
+        "K",
+        "L"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In order to increase revenue, the seller of a commodity whose demand is fairly elastic is advised to",
+      "options": [
+        "increase price",
+        "reduce output",
+        "reduce price",
+        "retain price"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In any set of data, the median represent the",
+      "options": [
+        "value that is most representative of the data",
+        "mid-position when the values are arranged in ascending or descending order",
+        "mid-position when the values are arranged randomly",
+        "difference between the highest and the lowest values when arranged ascending order"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The opportunity cost of moving from K to L is",
+      "options": [
+        "2 units of rice",
+        "5 units of beans",
+        "17 units of rice",
+        "20 units of beans"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the assumption of ordinary utility in consumer behaviour is that",
+      "options": [
+        "consumer are irrational",
+        "marginal utility rises continuously",
+        "utility is measurable",
+        "utility can only be ranked"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A large standard deviation is an indication of",
+      "options": [
+        "the size of the sample",
+        "a wide spread around the mean",
+        "a wide difference between the mean and the mode",
+        "the difference between the highest and the lowest values"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A major characteristic of a mixed economy is that",
+      "options": [
+        "economic decisions are made by both the rich and the poor",
+        "both primary and secondary production are undertaken",
+        "the federal and the state governments undertake joint projects",
+        "economic activities are undertaken by both the public and private sectors"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given the cost function C = 160 + 36Q, what is the average cost at 20 units of output?",
+      "options": [
+        "N720",
+        "N216.00",
+        "N44.00",
+        "N880.00"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If an increase in the price of good X leads to an increase in the supply of good Y, X and Y are said to be",
+      "options": [
+        "jointly supplied",
+        "competitive",
+        "composite",
+        "jointly demanded"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The diagram above shows the shifts in both demand and supply curves. What is the new equilibrium point after the shifts?",
+      "options": [
+        "E3",
+        "E1",
+        "E4",
+        "E2"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When there is a change from T to N, it implies that",
+      "options": [
+        "supply has increased",
+        "quantity supplied has increased",
+        "quantity demanded has increased",
+        "price has fallen"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A movement from M to T implies that there has been",
+      "options": [
+        "a decrease in supply",
+        "an increase in demand",
+        "a decrease in price",
+        "an increase in price"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A necessary condition for specialization in an economy is the existence of",
+      "options": [
+        "a regulated market",
+        "a competitive market",
+        "a medium of exchange",
+        "adequate capital"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A firm operating at full capacity will experience rising short-run total costs when",
+      "options": [
+        "prices of its variable inputs rise",
+        "prices of its variable inputs fall",
+        "there is a change in management",
+        "labour productivity increases"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a textile factory, the cost of cotton used is a typical example of",
+      "options": [
+        "an average cost",
+        "a variable cost",
+        "a total cost",
+        "a fixed cost"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A black market can occur when",
+      "options": [
+        "supply is excess of demand",
+        "consumption of the commodity is restricted",
+        "prices are set by government above the equilibrium",
+        "prices are set by government below the equilibrium"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

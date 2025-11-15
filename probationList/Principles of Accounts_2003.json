@@ -1,0 +1,859 @@
+{
+  "_id": "686656a576900026b68c4d8e",
+  "subjectName": [
+    "Principles of Accounts"
+  ],
+  "year": 2003,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is used to update the cash book in bank reconciliation?",
+      "options": [
+        "Interest received and unpresented cheques",
+        "Commission and debit note",
+        "Unpresented cheques and direct credit",
+        "Interest received and direct credit"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The two legally recognized professional accounting bodies in Nigeria are the",
+      "options": [
+        "Institute of Certified Public Accountants of Nigeria and the Institute of Cost and Management Accountants of Nigeria.",
+        "Association of Accountants of Nigeria and the Institute of Management Accountants of Nigeria",
+        "Institute of Chartered Accountants of Nigeria and the Association of National Accountants of Nigeria",
+        "Nigeria Accounting Association and the Executive Cost and Management Accountants of Nigeria."
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Verifiability in accounting is only possible when there are",
+      "options": [
+        "minutes of meetings",
+        "payment vouchers",
+        "source documents",
+        "audit certificates"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The trial balance total is",
+      "options": [
+        "N 9 700",
+        "N 8 700",
+        "N 7 900",
+        "N 7 800"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Compute the amount withdrawn",
+      "options": [
+        "N 2 000",
+        "N 1 500",
+        "N 1 200",
+        "N1 000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The credit sales for the period would be",
+      "options": [
+        "N5 000",
+        "N1 900",
+        "N1 000",
+        "N950"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The transaction would be recorded in the cash book as debit",
+      "options": [
+        "cash and credit bank",
+        "bank and credit cash",
+        "cash and credit cash",
+        "bank and credit bank"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which accounting concept supports the assertion that economic reality takes precedence over legal issues?",
+      "options": [
+        "Realization concept",
+        "Substance over form",
+        "Conservatism",
+        "Measurement concept"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The transaction that completes its double entry in the same ledger account appears in.",
+      "options": [
+        "cash account and personal account",
+        "bank account and general ledger",
+        "discount received and discount allowed",
+        "cash account and bank account"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The accounting equation can be expressed as",
+      "options": [
+        "N1 000 + N500 + N1 500 = N3 000",
+        "N1 000 – N500 + N1 500 = N2 000",
+        "N1 000 + N500 = N1 500",
+        "N1 500 + N500 = N2 000"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The recording phase of accounting is known as",
+      "options": [
+        "bookkeeping",
+        "trial balancing",
+        "ledger accounting",
+        "final accounting"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Assuming that depreciation is charged on the addition of the year at the rate of 15% on reducing balance, what should be the net book value of the vehicle as at 31st December 2003?",
+      "options": [
+        "N111 000",
+        "N280 000",
+        "N289 000",
+        "N340 000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the actual profit or loss arising from the vehicle disposed of?",
+      "options": [
+        "N250 000 loss",
+        "N50 000 loss",
+        "N450 000 profit",
+        "N575 000 profit"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given: I. Order of performance II. Order of liquidity III. Vertical order IV. Horizontal order",
+      "options": [
+        "I and II",
+        "I and IV",
+        "II and III",
+        "III and IV"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the capital employed?",
+      "options": [
+        "N44 600",
+        "N43 052",
+        "N43 044",
+        "N38 600"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the value of fixed assets",
+      "options": [
+        "N15 992",
+        "N18 470",
+        "N27 000",
+        "N27 052"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Provision for discount allowed can be recorded as a debit to",
+      "options": [
+        "the profit and loss account and a credit to provision for discount allowed",
+        "provision for discount allowed and a credit to the profit and loss account",
+        "discount allowed and a credit to the profit and loss account",
+        "expenses and a credit to customers’ account"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the price per unit of closing stock using the periodic weighted average method.",
+      "options": [
+        "N3. 20",
+        "N3. 00",
+        "N2. 20",
+        "N2. 00"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Using the periodic simple average method, the cost per unit is",
+      "options": [
+        "N4. 25",
+        "N3. 25",
+        "N2. 25",
+        "N1. 25"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the closing balance of the ledger account",
+      "options": [
+        "N6 900",
+        "N6 400",
+        "N5 000",
+        "N4 000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Determine the credit purchases",
+      "options": [
+        "N15 500",
+        "N13 500",
+        "N13 400",
+        "N12 000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a control account, provision for bad debts is found on the",
+      "options": [
+        "debit side of the purchases ledger control account",
+        "debit side of the sales ledger control account",
+        "credit side of the purchases ledger control account",
+        "credit side of the sales ledger control account"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The stock valuation data is important because it enables management to",
+      "options": [
+        "separate debtors from creditors",
+        "determine the cost of stock at the end of business",
+        "determine the cost of stock at the beginning of business",
+        "determine the total cost of goods purchased"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "During the year ended 31st December 2001, Nuju Enterprises paid rent as follows: Jan. 20 N24 000 for a period of 4 months May 16 N30 000 for a period of 5 months Oct. 15 N36 000 for a period of 6 months. What is the overpaid portion of the rent?",
+      "options": [
+        "N36 000",
+        "N18 000",
+        "N12 000",
+        "N6 000"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Advertising expenses incurred on a product in a business organization should be charged to",
+      "options": [
+        "production department",
+        "sales department",
+        "administration department",
+        "purchases department"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Four broad classifications of overheads are",
+      "options": [
+        "production, selling, distribution and material",
+        "production, selling, distribution and administration",
+        "selling, distribution, production and wages",
+        "distribution, selling, administration and material"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given: N Cost of raw material issue to production 37,000 Opening stock of raw material 2,000 Purchases of raw material 38,000 Wages 5,000. What is the closing stock of raw material?",
+      "options": [
+        "N4 000",
+        "N3 000",
+        "N2 000",
+        "N1 000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The overhead cost is",
+      "options": [
+        "N71 050",
+        "N68 250",
+        "N67 970",
+        "N66 080"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The company consumed raw materials worth",
+      "options": [
+        "=N=54 600",
+        "=N=56 000",
+        "=N=57 400",
+        "=N=59 500"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Income and expenditure account is more informative than receipts and payments account because it discloses",
+      "options": [
+        "Cash",
+        "Cheques",
+        "Debtors",
+        "stocks"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A company has two departments X AND Y. Y transferred goods to X at a profit margin of 25%. =N=10 000 worth of goods was not sold at the end of the accounting period. How much is the unrealized profit?",
+      "options": [
+        "=N=2 000",
+        "=N=2 500",
+        "=N=12 000",
+        "=N=12 500"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Given: Rich Social Club Cash =N= 100 000 Loan 30 000 Subscription in arrears 5 000 Subscription in advance 15 000",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A company has departments M and N. The expense incurred wholly in M is =N=5 000. General expenses incurred amount to =N=25 000. Expenses are apportioned in the ratio 2:3 for departments M and N respectively. What is N’s share of the expenses?",
+      "options": [
+        "=N=10 000",
+        "=N=15 000",
+        "18 000",
+        "20 000"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the receipts and payment account balance?",
+      "options": [
+        "=N=260 000",
+        "=N=233 000",
+        "=N=155 000",
+        "=N=100 000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the balance of the income and expenditure account?",
+      "options": [
+        "=N=300 000",
+        "=N=293 000",
+        "=N=193 000",
+        "=N=133 000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The first step in converting a single entry to a double entry system of bookkeeping is to prepare a",
+      "options": [
+        "Suspense account",
+        "Statement of affairs",
+        "Realization account",
+        "Trial balance"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the capital at start?",
+      "options": [
+        "=N=53 000",
+        "=N=63 000",
+        "=N=73 000",
+        "=N=83 000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Receipts and payments account is the summary of",
+      "options": [
+        "Income and expenditure",
+        "Cash book",
+        "Balance sheet",
+        "Profit and loss"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Determine the sales figure",
+      "options": [
+        "=N=295 000",
+        "=N=265 000",
+        "=N=245 000",
+        "=N=215 000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of these is a capital expenditure warrant?",
+      "options": [
+        "Provisional general warrant",
+        "Development fund general warrant",
+        "Reserved expenditure general warrant",
+        "Supplementary warrant"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "For the purpose of conversion of a partnership to a company, a total purchase consideration of =N=3.6m was paid. If 30% of the purchase consideration was in cash and the rest by 50k shares, how many shares were issued?",
+      "options": [
+        "1,080,000",
+        "2,160,000",
+        "3,600,000",
+        "5,040,000"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the consolidated revenue fund balance?",
+      "options": [
+        "=N=1 100 000",
+        "=N=680 000",
+        "=N=440 000",
+        "=N=410 000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The profit realized from the trade is",
+      "options": [
+        "N4 069",
+        "N1 817",
+        "N1 440",
+        "N1 328"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What is the total expenses?",
+      "options": [
+        "N1 875",
+        "N1 764",
+        "N1 626",
+        "N1 426"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The necessary accounts to be opened on the issue of ordinary share capital are",
+      "options": [
+        "preference share capital, cash and allotment accounts",
+        "bank and ordinary share capital accounts",
+        "cash and ordinary share capital accounts",
+        "nominal value and ordinary share capital accounts"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The amount of each invoiced goods sent to the branch is debited to",
+      "options": [
+        "branch expense account and credited to branch debtors’ account",
+        "branch stock account and credited to the goods sent to branch account",
+        "branch debtors’ account and credited to branch expense account",
+        "goods sent to branch account and credited to branch expense account"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The goodwill on purchase is",
+      "options": [
+        "N90 000",
+        "N30 000",
+        "N19 000",
+        "N18 000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Calculate the networth of the business",
+      "options": [
+        "N120 000",
+        "N90 000",
+        "N80 000",
+        "N30 000"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Gross profit in the branch adjustment account is transferred to the branch",
+      "options": [
+        "trading account",
+        "receipts and payments account",
+        "profit and loss account",
+        "income and expenditure account"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Mamza Nigeria Limited issued 20,000 ordinary shares of N1.50 per share On 2nd July 2002. 1,500 ordinary shares were fully subscribed for and their monies received as below: On application 0.40 On allotment 0.20 First call (including premium of N 0.50) 0 70 The last and final call was yet to be made. What is the balance of the ordinary share capital account after the first call was received?",
+      "options": [
+        "N300",
+        "N1050",
+        "N1200",
+        "N1950"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

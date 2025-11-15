@@ -1,0 +1,859 @@
+{
+  "_id": "685061327e01022af0d377d7",
+  "subjectName": [
+    "Chemistry"
+  ],
+  "year": 2012,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which Question Paper Type of Chemistry is given to you?",
+      "options": [
+        "Type Green",
+        "Type Purple",
+        "Type Red",
+        "Type Yellow"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following methods can be used to obtain pure water from a mixture of sand, water and methanoic acid?",
+      "options": [
+        "neutralization with NaOH followed by filtration",
+        "neutralization with NaOH followed by distillation",
+        "fractional distillation",
+        "filtration followed by distillation"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "How many atoms are present in 6.0g of magnesium? [Mg = 24, NA = 6.02 x 10^23 mol-1]",
+      "options": [
+        "1.20 x 10^22",
+        "2.41 x 10^22",
+        "1.51 x 10^23",
+        "3.02 x 10^23"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "50 cm3 of gas was collected over water at 10oC and 765 mm Hg. Calculate the volume of the gas at s.t.p. if the saturated vapour pressure of water at 10⁰C is 5mm Hg",
+      "options": [
+        "49.19 cm3",
+        "48.87 cm3",
+        "48.55 cm3",
+        "48.23 cm3"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An increase in the pressure exerted on gas at a constant temperature result in",
+      "options": [
+        "a decrease in the number of effective collisions",
+        "a decrease in volume",
+        "an increase in the average intermolecular distance",
+        "an increase in volume"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "2H2(g) + O2(g) → 2H2O(g) In the reaction above, what volume of hydrogen would be left over when 300 cm3 of oxygen and 1000 cm3 of hydrogen are exploded in a sealed tube?",
+      "options": [
+        "200 cm3",
+        "400 cm3",
+        "600 cm3",
+        "700 cm3"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "l. Evaporation. ll. Sublimation. Ill. Diffusion. IV. Brownian motion. Which of the above can correctly be listed as evidences for the particulate nature of matter?",
+      "options": [
+        "I and lll only",
+        "ll and lV only",
+        "l, ll and lll only",
+        "l, ll, lll and lV"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the elements X and Y have atomic numbers 11 and 17 respectively, what type of bond can they form?",
+      "options": [
+        "Dative",
+        "Covalent",
+        "Ionic",
+        "Metallic"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A hydrogen atom which has lost an electron contains",
+      "options": [
+        "one proton only",
+        "one neutron only",
+        "one proton and one neutron",
+        "one proton, one electron and one neutron"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The electronic configuration of Mg2+ is",
+      "options": [
+        "1s2 2s2 2P6 3s2 3P2",
+        "1s2 2s2 2P6 3s2",
+        "1s2 2s2 2p6",
+        "1s2 2s2 2P4"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Group VII elements are",
+      "options": [
+        "monoatomic",
+        "good oxidizing agents",
+        "highly electropositive",
+        "electron donors"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is used to study the arrangement of particles in crystal lattices?",
+      "options": [
+        "Alpha-particles",
+        "Beta-particles",
+        "Gamma-rays",
+        "X-rays"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "I. It has a varied composition from one place to another. ll. its constituents can be separated by physical means Ill. It contains unreactive noble gases which of the above shows that air is a mixture?",
+      "options": [
+        "I and ll only",
+        "ll and lll only",
+        "l and lll only",
+        "l, ll and lll"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The chemicals used to soften hard water involves the addition of",
+      "options": [
+        "insoluble sodium compounds which from soluble solutions of calcium and magnesium",
+        "soluble sodium compounds which from soluble solutions of calcium and magnesium ions",
+        "soluble sodium compounds which from insoluble precipitates of calcium and magnesium ions",
+        "insoluble precipitates of calcium and magnesium ions"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Chlorination of water for town supply is carried out to",
+      "options": [
+        "make the water colourless",
+        "remove germs from the water",
+        "make the water tasteful",
+        "remove odour from the water"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The solubilities of different solutes in a given solvent can be compared by",
+      "options": [
+        "plotting their solubility curves on separate axes",
+        "plotting their solubility curves on the same axes",
+        "plotting some of the solubility curves on the x-axis and others on the y-axis",
+        "plotting their solubility curves on the x-axis only"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Potassium trioxochlorate (V) has a solubility of 1.5 moldm-3 at 45⁰C. On cooling this solution to a temperature of 20⁰C, the solubility was found to be 0.5 mol dm-3. What mass of KCIO3 was crystalized out? [K = 39, Cl = 35.5 O =16]",
+      "options": [
+        "1.00g",
+        "10.00g",
+        "12.25g",
+        "122.50g"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following pollutants is associated with brain damage?",
+      "options": [
+        "Carbon (ll) oxide",
+        "Radioactive fallout",
+        "Biodegradable waste",
+        "Sulphur (lV) oxide"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following will produce a solution with pH less than 7 at equivalent point?",
+      "options": [
+        "HNO3 + NaOH",
+        "H2SO4 + KOH",
+        "HC +Mg(OH)2",
+        "HNO3 + KOH"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The number of hydroxonium ions produced by one molecule of an acid in aqueous solution is its",
+      "options": [
+        "basicity",
+        "acid strength",
+        "pH",
+        "concentration"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "During a titration experiment, 0.05 moles of carbon (lV) oxide is liberated. What is the volume of gas liberated?",
+      "options": [
+        "22.40 dm3",
+        "11.20 dm3",
+        "2.24 dm3",
+        "1.12 dm3"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A major factor considered in selecting a suitable method for preparing a simple salt is its",
+      "options": [
+        "Crystalline form",
+        "melting point",
+        "reactivity with dilute acids",
+        "solubility in water"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The oxidation number of boron in NaBH4 is",
+      "options": [
+        "-3",
+        "-1",
+        "+1",
+        "+3"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "2Na2O2(s) + 2H2O2(l) → 4 NaOH(s) +O2(s) The substance that is oxidized in the reaction above is",
+      "options": [
+        "2NaO2(s)",
+        "NaOH(aq)",
+        "H2O(l)",
+        "O2(g)"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What number of moles of Cu2+ will be deposited by 360 coulombs of electricity? [f = 96500 C mol-1]",
+      "options": [
+        "5.36 x 10-4 mole",
+        "1.87 x 10-3 mole",
+        "9.35 x 10-4 mole",
+        "3.73 x 10-3 mole"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A metal M displaces zinc from ZnCl, solution. This shows that",
+      "options": [
+        "electrons flow from zinc to M",
+        "M is more electropositive than zinc",
+        "M is more electronegative than zinc",
+        "zinc is more electropositive than M"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "CO(g) + H2O(g) → CO2(g) + H2(g) Calculate the standard heat change of the reaction above, if the standard enthalpies of formation of CO2(g), H2O(g) and CO(g) and CO(g) in KJ mol-1 are - 394, -242 and -110 respectively.",
+      "options": [
+        "+ 262 KJ mol-1",
+        "- 262 KJ mol-1",
+        "+ 42 KJ mol-1",
+        "- 42 KJ mol-1"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An increase in entropy can best be illustrated by",
+      "options": [
+        "mixing of gases",
+        "freezing of water",
+        "the condensation of vapour",
+        "solidifying candle wax"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The highest rate of production of carbon (lV) oxide can be achieved using",
+      "options": [
+        "0.05 mol-3 HCI and 5g powdered CaCO3",
+        "0.05 mol-3 HCl and 5g lump CaCO3",
+        "0.10 mol-3 HCI and 5g powdered CaCO3",
+        "0.025 mol-3 HCI and 5g powdered CaCO3"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "2HCl(aq) + CaCO3(S) → CaCl2(s) + CO2(g) + H2O(l) From the reaction above, which of the curves represents the production of CO2 gas as dilute HCl is added?",
+      "options": [
+        "L",
+        "M",
+        "N",
+        "P"
+      ],
+      "answer": "",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "2CO(g) + O2(g) ⇋ 2CO2(g) In the reaction above, high pressure will favour the forward reaction because",
+      "options": [
+        "high pressure favours gas formation",
+        "the reaction is in dynamic equilibrium",
+        "the reaction is exothermic",
+        "the process occurs with a decrease in volume"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A piece of filter paper moistened with lead (ll) ethanoate solution turns black when the paper is dropped into a gas likely to be",
+      "options": [
+        "sulphur (VI) oxide",
+        "hydrogen chloride",
+        "sulphur (VI) oxide",
+        "hydrogen sulphide"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following gases has a characteristic pungent smell, turns red litmus paper blue and forms dense white fumes with hydrogen chloride gas?",
+      "options": [
+        "N2",
+        "N2O",
+        "CI2",
+        "NH3"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Commercial bleaching can be carried out using",
+      "options": [
+        "sulphur (IV) oxide and ammonia",
+        "hydrogen sulphide and chlorine",
+        "chlorine and sulphur (IV) oxide",
+        "ammonia and chlorine"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Mineral acids are usually added to commercial hydrogen peroxide to",
+      "options": [
+        "oxidize it",
+        "decompose it",
+        "minimize its decomposition",
+        "reduce it to water and oxygen"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following compounds will burn with a brick-red colour in a nonluminous Bunsen flame?",
+      "options": [
+        "LiCI",
+        "NaCl",
+        "CaClN2",
+        "MgClN2"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The purest form of iron which contains only about 0.1% carbon is",
+      "options": [
+        "pig iron",
+        "wrought iron",
+        "cast iron",
+        "iron pyrite"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A common characteristic between zinc and the other transition elements is the ability to",
+      "options": [
+        "have variable oxidation states",
+        "from complex ions",
+        "act as a catalyst",
+        "from coloured ions"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following metals is the least reactive?",
+      "options": [
+        "Pb",
+        "Sn",
+        "Hg",
+        "Au"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Geometric isomerism can exist in",
+      "options": [
+        "hex-3-ene",
+        "hexane",
+        "prop-1-ene",
+        "3-methyl but -1-ene"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Alkanals can be distinguished from alkanones by the reaction with",
+      "options": [
+        "Sudan lll stain",
+        "starch iodide paper",
+        "lithium tetrahydrido aluminate (lll)",
+        "Fehling’s solution"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The isomers of C3H8O are",
+      "options": [
+        "1 - propanol and 2 - propanol",
+        "1 - propanol and 1 - propanol",
+        "2 - propanol and 2 - propanone",
+        "2 - propanol and 1 - propanol"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Carbohydrates are large molecules with the molecular formula Cx(H2O)y. In which of the following pairs is x not equal to y?",
+      "options": [
+        "glucose and starch",
+        "maltose and starch",
+        "sucrose and fructose",
+        "maltose and starch"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A compound contains 40.0% C, 6.7% H 53.3% O. If the molecular mass of the compound is 180, its molecular formula is [C =12, H =1, 0]",
+      "options": [
+        "CH2O",
+        "C3H6O3",
+        "C6H6O3",
+        "C6H12O6"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The alkyne that will give a white precipitate silver trioxonitrate (V) is",
+      "options": [
+        "CH3 CH2 C ≡ CCH2 CH3",
+        "CH3C ≡ CCH2 CH2 CH3",
+        "CH3 CH2 CH2 CH2 C ≡ CH",
+        "CH3 CH2 CH2C ≡ CCH2 CH3"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The saponification of an alkanoate to produce soap and alkanol involves",
+      "options": [
+        "dehydration",
+        "esterification",
+        "hydrolysis",
+        "oxidation"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "2 - methyl propan -2- ol is an example of a",
+      "options": [
+        "primary alkanol",
+        "secondary alkanol",
+        "tertiary alkanol",
+        "quaternary alkanol"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The final oxidation product of alkanol, alkanal and alkanoes is",
+      "options": [
+        "alkanoic acid",
+        "alkanoyyl halide",
+        "alkanoate",
+        "alkanamide"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Ethanol reacts with concentrated tetraoxosulphate (V) acid at a temperature above 170⁰C to form",
+      "options": [
+        "ethanone",
+        "ethene",
+        "ethyne",
+        "ethanal"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An example of oxidation–reduction enzyme is",
+      "options": [
+        "amylase",
+        "protease",
+        "lipase",
+        "dehydrogenase"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": ""
+    }
+  ]
+}

@@ -1,0 +1,835 @@
+{
+  "_id": "690e1772aed76098998375ec",
+  "year": 2002,
+  "subjectName": [
+    "Biology"
+  ],
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An Amoeba and an unlaid chicken egg are",
+      "options": [
+        "imal tissues",
+        "ganelles",
+        "ngle cell",
+        "ganisms"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554bf"
+    },
+    {
+      "number": "2",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In corns food is usually stored in the",
+      "options": [
+        "aves",
+        "ems",
+        "ots",
+        "ds"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554c0"
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The animals that move by means of flagella include",
+      "options": [
+        "lamydomonas and Euglena",
+        "anaria and Amoeba",
+        "oeba and Hydra",
+        "ramecium and Planaria"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554c1"
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The structures found only in plant cells are",
+      "options": [
+        "ll membrane and cytoplasm",
+        "romatin and nucleolus",
+        "ll wall and chloroplast",
+        "ll membrane and lysosome"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554c2"
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A flower that has both stamens and pistil is said to be",
+      "options": [
+        "aminate",
+        "stillate",
+        "rfect",
+        "perfect"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554c3"
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When oil is poured into the breeding site of mosquitoes, it",
+      "options": [
+        "prives the larvae of water",
+        "lls the adults",
+        "ffocates the pupae",
+        "ows down egg development"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554c4"
+    },
+    {
+      "number": "7",
+      "subheadingA": "Use the diagram below to answer questions 7 and 8",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878418/img2002_1_a7b2sm.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The correct evolutionary sequence of the organisms represented is",
+      "options": [
+        "→ III → II → IV",
+        "→ III → IV → I",
+        "I → II → IV → IV",
+        "→ II → III → I"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554c5"
+    },
+    {
+      "number": "8",
+      "subheadingA": "Use the diagram below to answer questions 7 and 8",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Ovoviparity is the type of fertilization exhibited by the organism labelled",
+      "options": [
+        "",
+        "",
+        "I",
+        ""
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554c6"
+    },
+    {
+      "number": "9",
+      "subheadingA": "Use the diagram below to answer questions 9 and 10",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878418/img2002_2_rkk6tr.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the diagram, the hawk is",
+      "options": [
+        "omnivore",
+        "primary consumer",
+        "tertiary consumer",
+        "scavenger"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554c7"
+    },
+    {
+      "number": "10",
+      "subheadingA": "Use the diagram below to answer questions 9 and 10",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Example of competitors are",
+      "options": [
+        "zard and mouse",
+        "ake and lizard",
+        "asshopper and mouse",
+        "bbit and snake"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554c8"
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the adaptations to life on trees by a monkey is its possession of digits which are",
+      "options": [
+        "tensible",
+        "g",
+        "posable",
+        "ng"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554c9"
+    },
+    {
+      "number": "12",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The community of plants in which the same species occur from year to year is the",
+      "options": [
+        "nual species",
+        "oneer vegetation",
+        "rennial species",
+        "imax vegetation"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554ca"
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most common means of transmitting Acquired Immune Deficiency Syndrome (AIDS) is",
+      "options": [
+        "om mother to child",
+        "rough blood transfusion",
+        "rough sexual intercourse",
+        "rough the sharing of needles"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554cb"
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Plants tend to prevent overcrowding by means of efficient",
+      "options": [
+        "ter uptake",
+        "ed germination",
+        "llination",
+        "ed dispersal"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554cc"
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The physical and climatic factors of a region primarily determine the",
+      "options": [
+        "nds of animals inhabiting the area",
+        "pes of plants found in the area",
+        "ture of the soil in the region",
+        "mmunity of organisms in the region"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554cd"
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A step in the movement of energy through an ecosystem is a description that best fits the term",
+      "options": [
+        "od chain",
+        "ophic level",
+        "ramid of numbers",
+        "od web"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554ce"
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a field experiment, the frequency of waterleaf was observed to be 48 after 20 tosses of a 2m² quadrat. What is the density of the plant in the field?",
+      "options": [
+        "2 per m²",
+        "4 per m²",
+        "8 per m²",
+        "6 per m²"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554cf"
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The supporting tissue of xylem is most poorly developed in",
+      "options": [
+        "ngrove swamp plants",
+        "assland plants",
+        "bmerged water plants",
+        "sert plants"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554d0"
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The addition of lime to clay soil serves to",
+      "options": [
+        "d water retention",
+        "ose up the texture",
+        "event water-logging",
+        "prove capillary action"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554d1"
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The excessive use of agro-chemicals could lead to the pollution of",
+      "options": [
+        "e lithosphere",
+        "e atmosphere",
+        "esh water",
+        "ace"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554d2"
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a population study using the transect method, a student is likely to record the highest number of species in",
+      "options": [
+        "tropical rain forest",
+        "guinea savanna",
+        "sahel savanna",
+        "estuarine swamp"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554d3"
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In his theory of evolution, Darwin implied that",
+      "options": [
+        "e struggle for existence among living organisms is sporadic",
+        "e most successful organisms are those that best adapt to their environment",
+        "gans not regularly used by an organism will disappear",
+        "y traits acquired during lifetime can be passed on"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554d4"
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The carnassial teeth of a carnivorous animal consist of the",
+      "options": [
+        "st upper premolar and first lower molar",
+        "st upper molar and last lower molar",
+        "rst upper premolar and first lower molar",
+        "rst upper molar and first lower molar"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554d5"
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A feature of the caste systems of bees and termites is that",
+      "options": [
+        "e workers are sterile",
+        "e kings are bigger than the queens",
+        "ly the workers perform duties",
+        "ptial flight is performed by all members"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554d6"
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The structure common in embryos of vertebrates, indicating common ancestry, is the",
+      "options": [
+        "e",
+        "orion",
+        "lantois",
+        "ll slits"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554d7"
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Animals are restive when the environment becomes",
+      "options": [
+        "t and dry",
+        "ld and wet",
+        "rm and humid",
+        "ndy and snowy"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e173d5da2139109d554d8"
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Birds with long straight pointed beaks, long necks and long legs are likely to be",
+      "options": [
+        "sect eaters",
+        "sh catchers",
+        "ctar feeders",
+        "uit eaters"
+      ],
+      "answer": "B",
+      "_id": "690e173d5da2139109d554d9"
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Examples of organisms with extracellular digestion are",
+      "options": [
+        "ngus, Loranthus, and housefly",
+        "izopus, sponges, and earthworm",
+        "undworm, tapeworm, and Hydra",
+        "izopus, housefly, and Hydra"
+      ],
+      "answer": "D",
+      "_id": "690e173d5da2139109d554da"
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The mammalian erythrocytes differ in that they are",
+      "options": [
+        "scoid and nucleated",
+        "scoid and enucleated",
+        "oeboid and nucleated",
+        "oeboid and enucleated"
+      ],
+      "answer": "B",
+      "_id": "690e173d5da2139109d554db"
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The presence of endoskeleton is characteristic of",
+      "options": [
+        "vertebrata",
+        "rtebrata",
+        "secta",
+        "elenterata"
+      ],
+      "answer": "B",
+      "_id": "690e173d5da2139109d554dc"
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The capture and digestion of insects by a pitcher plant is a special form of nutrition called",
+      "options": [
+        "totrophic",
+        "terotrophic",
+        "emosynthetic",
+        "prophytic"
+      ],
+      "answer": "B",
+      "_id": "690e173d5da2139109d554dd"
+    },
+    {
+      "number": "32",
+      "subheadingA": "Use the diagram below to answer questions 32 and 33",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878419/img2002_3_wguq9f.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following statements is correct about the experiment?",
+      "options": [
+        "e flask must be of the conical type",
+        "ustic soda can be replaced with distilled water",
+        "e enclosed leaf will lose its green colour",
+        "e leaves outside the flask serve as control"
+      ],
+      "answer": "D",
+      "_id": "690e173d5da2139109d554de"
+    },
+    {
+      "number": "33",
+      "subheadingA": "Use the diagram below to answer questions 32 and 33",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The experimental set-up can be used to demonstrate that",
+      "options": [
+        "ght is necessary for photosynthesis",
+        "ygen is necessary for photosynthesis",
+        "otosynthesis occurs in leaves",
+        "rbon(IV) oxide is necessary for photosynthesis"
+      ],
+      "answer": "D",
+      "_id": "690e173d5da2139109d554df"
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A marine fish in fresh water dies quickly because",
+      "options": [
+        "e tank is too small",
+        "s body cells swell and burst",
+        "s body cells shrink",
+        "ere is no food"
+      ],
+      "answer": "B",
+      "_id": "690e173d5da2139109d554e0"
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which pair of organs is located in the anterior half of the mammalian body cavity?",
+      "options": [
+        "dneys and lungs",
+        "art and ovary",
+        "ngs and heart",
+        "dneys and heart"
+      ],
+      "answer": "C",
+      "_id": "690e173d5da2139109d554e1"
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The mode of nutrition of a tapeworm is",
+      "options": [
+        "mbiotic",
+        "prophytic",
+        "rasitic",
+        "lozoic"
+      ],
+      "answer": "C",
+      "_id": "690e173d5da2139109d554e2"
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The organ located within the duodenal loop is the",
+      "options": [
+        "leen",
+        "ncreas",
+        "ver",
+        "ll bladder"
+      ],
+      "answer": "B",
+      "_id": "690e173d5da2139109d554e3"
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In which group is the pericarp inseparable from the seed coat?",
+      "options": [
+        "t",
+        "llicle",
+        "psela",
+        "yopsis"
+      ],
+      "answer": "C",
+      "_id": "690e173d5da2139109d554e4"
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An obese person should avoid meals containing",
+      "options": [
+        "rrots and oranges",
+        "rgarine and butter",
+        "ef and beans",
+        "ce and yam"
+      ],
+      "answer": "B",
+      "_id": "690e173d5da2139109d554e5"
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Tissue respiration is important for",
+      "options": [
+        "ygen absorption",
+        "rbon dioxide release",
+        "ergy release",
+        "rbon dioxide exhalation"
+      ],
+      "answer": "C",
+      "_id": "690e173d5da2139109d554e6"
+    },
+    {
+      "number": "41",
+      "subheadingA": "Use the diagram below to answer questions 41 and 42",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878419/img2002_4_rghvll.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The tissue labelled I is",
+      "options": [
+        "",
+        "",
+        "I",
+        ""
+      ],
+      "answer": "A",
+      "_id": "690e173d5da2139109d554e7"
+    },
+    {
+      "number": "42",
+      "subheadingA": "Use the diagram below to answer questions 41 and 42",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The structure labelled I represents the",
+      "options": [
+        "loem",
+        "lem",
+        "rtex",
+        "ricycle"
+      ],
+      "answer": "B",
+      "_id": "690e173d5da2139109d554e8"
+    },
+    {
+      "number": "43",
+      "subheadingA": "Use the diagram below to answer questions 43 and 44",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878419/img2002_5_wmrjzo.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The gland usually found in the position labelled is the",
+      "options": [
+        "renal",
+        "yroid",
+        "ncreatic",
+        "tuitary"
+      ],
+      "answer": "D",
+      "_id": "690e173d5da2139109d554e9"
+    },
+    {
+      "number": "44",
+      "subheadingA": "Use the diagram below to answer questions 43 and 44",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A hormone secreted at IV serves to",
+      "options": [
+        "cilitate the development of facial hairs",
+        "ise the level of calcium ions in the blood",
+        "wer blood glucose level",
+        "ke the body react to emergencies"
+      ],
+      "answer": "D",
+      "_id": "690e173d5da2139109d554ea"
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "To select and retain the desirable trait of large body size which the farmer has observed in his herd, the farmer needs to",
+      "options": [
+        "ed the animals in the herd with more food",
+        "oss-breed his animals with a different herd",
+        "breed the animals in his herd",
+        "event diseases in his herd"
+      ],
+      "answer": "C",
+      "_id": "690e173d5da2139109d554eb"
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a population of living things, the parameters of size, height, weight and colour are examples of",
+      "options": [
+        "scontinuous variations",
+        "ntinuous variations",
+        "ysiological variations",
+        "n-heritable variations"
+      ],
+      "answer": "B",
+      "_id": "690e173d5da2139109d554ec"
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If Xᴺ is the dominant allele for normal vision and Xⁿ the recessive allele for colour-blindness, a boy with the genotype YXⁿ will",
+      "options": [
+        "ve normal vision",
+        "colour-blind",
+        "totally blind",
+        "a carrier of colour-blindness"
+      ],
+      "answer": "B",
+      "_id": "690e173d5da2139109d554ed"
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The first four children of a couple were all girls. The probability that the fifth will also be a girl is",
+      "options": [
+        "/5",
+        "¼",
+        "/3",
+        "½"
+      ],
+      "answer": "D",
+      "_id": "690e173d5da2139109d554ee"
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Genetic counselling is important when a marriage is planned between a",
+      "options": [
+        "⁻ woman and Rh⁺ man",
+        "⁺ woman and Rh⁻ man",
+        "⁺ woman and Rh⁺ man",
+        "⁻ woman and Rh⁻ man"
+      ],
+      "answer": "A",
+      "_id": "690e173d5da2139109d554ef"
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "What proportion of the offspring of a cross between two heterozygous parents will exhibit the recessive condition phenotypically?",
+      "options": [
+        "¼",
+        "½",
+        "¾",
+        "/4"
+      ],
+      "answer": "A",
+      "_id": "690e173d5da2139109d554f0"
+    }
+  ]
+}

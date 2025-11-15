@@ -1,0 +1,859 @@
+{
+  "_id": "68602a8e7bfed038a0f95b71",
+  "subjectName": [
+    "Biology"
+  ],
+  "year": 2014,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which Question paper Type of Biology is given to you?",
+      "options": [
+        "pe F",
+        "pe E",
+        "pe L",
+        "pe S"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6de"
+    },
+    {
+      "number": "2",
+      "subheadingA": "Use the diagram below to answer question 2 and 3.",
+      "diagramUrlA": "[Diagram of Euglena labeled I (flagellum), II (eyespot), III (contractile vacuole), IV (nucleus)]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The part labelled II is the",
+      "options": [
+        "cleus",
+        "espot",
+        "sal granule",
+        "ntractile vacuole"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6df"
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The part responsible for photosynthesis is labelled",
+      "options": [
+        "I",
+        "",
+        "",
+        ""
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6e0"
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The lowest level of organization in living organisms is",
+      "options": [
+        "gan",
+        "ll",
+        "stem",
+        "ssue"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6e1"
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is the most complex according to their cellular level of organization?",
+      "options": [
+        "art",
+        "ir",
+        "glena",
+        "dra"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6e2"
+    },
+    {
+      "number": "6",
+      "subheadingA": "Use the diagram below to answer questions 6 and 7",
+      "diagramUrlA": "[Diagram of the scolex of a tapeworm labeled I (suckers/hooks), II (suckers), III (hooks), IV (proglottid/neck)]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The organs for attachments to the lining of the host's intestine are labelled",
+      "options": [
+        "and III",
+        "I and IV",
+        "and II",
+        "and III"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6e3"
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The young proglottid is represented by",
+      "options": [
+        "I",
+        "",
+        "",
+        ""
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6e4"
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following organisms is multi-cellular?",
+      "options": [
+        "lamydomonas",
+        "irogyra",
+        "oeba",
+        "glena"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6e5"
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In bryophytes, sex organs are produced in the",
+      "options": [
+        "otonema",
+        "orophyte",
+        "metophyte",
+        "izoid"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6e6"
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Seed plants are the most dominant vegetation on land because of",
+      "options": [
+        "eir motile gametes",
+        "eir ability to photosynthesize",
+        "ficient seed dispersal",
+        "ailability of water"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6e7"
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is an arboreal organism?",
+      "options": [
+        "ephant",
+        "sh",
+        "telope",
+        "rd"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6e8"
+    },
+    {
+      "number": "12",
+      "subheadingA": "Use the diagram below to answer questions 12 and 13",
+      "diagramUrlA": "[Diagram showing a cross-section of a Dicotyledonous root with I (phloem) and II (xylem)]",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The part labelled I is the",
+      "options": [
+        "lem",
+        "loem",
+        "ot hairs",
+        "rtex"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6e9"
+    },
+    {
+      "number": "13",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The diagram is the transverse section of a",
+      "options": [
+        "nocotyledonous stem",
+        "cotyledonous stem",
+        "nocotyledonous root",
+        "cotyledonous root"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6ea"
+    },
+    {
+      "number": "14",
+      "subheadingA": "\\text{I} \\frac{2}{1}, \\text{C} \\frac{1}{1}, \\text{PM} \\frac{3}{2}, \\text{M} \\frac{3}{3} ",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The general formula above represents that of",
+      "options": [
+        "omnivore",
+        "detritus feeder",
+        "carnivore",
+        "herbivore"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6eb"
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A circulatory system is very essential in mammals but not in smaller organisms like *Amoeba* because",
+      "options": [
+        "oeba lives in freshwater",
+        "ffusion is sufficient to transport materials in Amoeba",
+        "oeba lacks blood containing haemoglobin",
+        "oeba exhibits anaerobic respiration"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6ec"
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In vascular plants, the sieve tubes and companion cells are present in the",
+      "options": [
+        "mbium",
+        "rtex",
+        "lem",
+        "loem"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6ed"
+    },
+    {
+      "number": "17",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The stomata of leaves are similar in function to the",
+      "options": [
+        "arynx of humans",
+        "ales of fish",
+        "iracle of insects",
+        "achea of toads"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6ee"
+    },
+    {
+      "number": "18",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The use of moist skin for respiration in amphibians is known as",
+      "options": [
+        "llular respiration",
+        "taneous respiration",
+        "ccal respiration",
+        "lmonary respiration"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6ef"
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Water in plants is removed as water vapour through the process of",
+      "options": [
+        "ffusion",
+        "mosis",
+        "aporation",
+        "anspiration"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6f0"
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An example of an organ of perennation in plants is",
+      "options": [
+        "izome",
+        "ed",
+        "tal of a flower",
+        "lyx of flower"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6f1"
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Alternation of generation is a feature shown in",
+      "options": [
+        "sses",
+        "ngi",
+        "asses",
+        "nifers"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6f2"
+    },
+    {
+      "number": "22",
+      "subheadingA": "I. Growth is mainly apical;<br> II. Growth is specific with definite shape;<br> III. Growth is throughout life.<br>",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the above correctly describes the growth pattern in plants?",
+      "options": [
+        ", II and III only",
+        "and III only",
+        "and II only",
+        "and III only"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6f3"
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Coordination and regulation of body activities in mammals are achieved by the",
+      "options": [
+        "rves and muscle",
+        "rves and hormones",
+        "rves only",
+        "rmones only"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6f4"
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The Cerebellum of the Brain controls",
+      "options": [
+        "flex action",
+        "scular activity",
+        "otional expressions",
+        "e Endocrine system"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6f5"
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The part of the brain responsible for peristalsis is the",
+      "options": [
+        "factory Lobe",
+        "dulla Oblongata",
+        "pothalamus",
+        "alamus"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6f6"
+    },
+    {
+      "number": "26",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following instruments is used for measuring atmospheric pressure?",
+      "options": [
+        "drometer",
+        "grometer",
+        "ermometer",
+        "rometer"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6f7"
+    },
+    {
+      "number": "27",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The influence of soil on organisms in a habitat is referred to as",
+      "options": [
+        "aphic",
+        "ysiographic",
+        "otic",
+        "pographic"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6f8"
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The genetic make-up of an organism is described as",
+      "options": [
+        "lele",
+        "romosome",
+        "enotype",
+        "notype"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6f9"
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The major limiting factor of productivity in the aquatic habitat is",
+      "options": [
+        "od",
+        "mperature",
+        "ter",
+        "nlight"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6fa"
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following group of organisms feeds directly on green plants?",
+      "options": [
+        "imary Consumers",
+        "condary Consumers",
+        "oducers",
+        "composers"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6fb"
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A characteristic feature of tropical rainforest is that it",
+      "options": [
+        "ntains trees with narrow leaves",
+        "ntains large number of plant species",
+        "ntains fewer number of plant species",
+        "s total annual rainfall of less than 50cm"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6fc"
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The study of how and why population size change over time is",
+      "options": [
+        "pulation estimation",
+        "pulation dynamics",
+        "pulation ecology",
+        "pulation Cycle"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6fd"
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A severe and long dry season is a characteristic feature of",
+      "options": [
+        "hel Savanna",
+        "ngrove Swamps",
+        "dan Savanna",
+        "inea Savanna"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6fe"
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is a nitrogen-fixing blue-green algae of soil?",
+      "options": [
+        "izobium",
+        "trosomonas",
+        "ostridium",
+        "abaena"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a6ff"
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The soil with highest water-retaining capacity is",
+      "options": [
+        "ayey Soil",
+        "oney soil",
+        "ndy soil",
+        "amy Soil"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a700"
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The causative agent of Poliomyelitis is",
+      "options": [
+        "rus",
+        "ngus",
+        "otozoan",
+        "cterium"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a701"
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the ways of controlling noise pollution in urban areas is",
+      "options": [
+        "siting industries away from residential areas",
+        "at fuel should be completely combusted by engines",
+        "planting trees on both sides of the road",
+        "wearing ear devices"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a702"
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A constituent of the exhaust fumes from electricity generating sets which causes serious pollution is",
+      "options": [
+        "rbon (II) Oxide",
+        "ter Vapour",
+        "one",
+        "rbon (IV) Oxide"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a703"
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following is true of small pox?",
+      "options": [
+        "is transmitted by bacteria",
+        "can effectively be controlled with antibiotics",
+        "can effectively be controlled by vaccination",
+        "is a water-borne infection"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a704"
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A pollutant that is mostly associated with acid rain is",
+      "options": [
+        "trogen (IV) Oxide",
+        "one",
+        "uorine",
+        "lphur (IV) Oxide"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a705"
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "When the adults have reach a certain degree of weakness, the process of binary fission is replaced by conjugation in",
+      "options": [
+        "ramecium",
+        "glena",
+        "oeba",
+        "asmodium"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a706"
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Whorls, arches, loops and compounds are types of variation in",
+      "options": [
+        "lour",
+        "nger prints",
+        "ir Colour",
+        "ood group"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a707"
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A couple has 10 children, all female. Which of the following best explains the situation?",
+      "options": [
+        "e sex determination was by the man's X chromosome",
+        "e man's sperm count is low",
+        "e woman is not capable of producing male children",
+        "e sex determination was by the man's Y chromosome"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a708"
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A biological agent with antiviral property is",
+      "options": [
+        "terferon",
+        "zyme",
+        "tibiotic",
+        "sinfectant"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a709"
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One of the advantages of outbreeding is",
+      "options": [
+        "sts tolerance",
+        "sease resistance",
+        "st growth",
+        "ll height"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a70a"
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An individual with blood group AB can receive blood from those in blood group(s)",
+      "options": [
+        ", B, AB, O",
+        ", AB and O only",
+        "only",
+        "and B only"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a70b"
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The stream-lined shape of fishes is an adaptation for",
+      "options": [
+        "curing mates",
+        "sy movement",
+        "taining food",
+        "fence and attack"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a70c"
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An example of a poikilothermic organism is a",
+      "options": [
+        "zard",
+        "ckroach",
+        "bbit",
+        "rd"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a70d"
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "All living organisms are constantly involved in a struggle for existence. This was proposed by",
+      "options": [
+        "rgan",
+        "rwin",
+        "marck",
+        "llace"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a70e"
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Adaptive radiation is illustrated in",
+      "options": [
+        "dified insect mouthparts",
+        "ntition in mammals",
+        "ngs in birds and bats",
+        "pendages in insects"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e18e9a63ca7ba5545a70f"
+    }
+  ]
+}

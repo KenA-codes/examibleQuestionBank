@@ -1,0 +1,859 @@
+{
+  "_id": "690e17eaaed76098998375ee",
+  "year": 2003,
+  "subjectName": [
+    "Biology"
+  ],
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878420/img2003_1_mufnow.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The umbrella-shaped fruiting body of a fully developed mushroom is the",
+      "options": [
+        "celium",
+        "sidium",
+        "leus",
+        "ipe"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a8b"
+    },
+    {
+      "number": "2",
+      "subheadingA": "Use the diagram above to answer questions 2 and 3.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The processes of water loss and intake indicated by the arrows labelled I and II are respectively",
+      "options": [
+        "aporation and osmosis",
+        "halation and osmosis",
+        "mosis and diffusion",
+        "ination and diffusion"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a8c"
+    },
+    {
+      "number": "3",
+      "subheadingA": "Use the diagram above to answer questions 2 and 3.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A noticeable adaptation of the animal to its aquatic habitat is the possession of",
+      "options": [
+        "bbed digits",
+        "ur limbs",
+        "wide mouth",
+        "rge eyes"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a8d"
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The similarity among organisms belonging to the same group will be least within each",
+      "options": [
+        "der",
+        "mily",
+        "ecies",
+        "ngdom"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a8e"
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Hermaphroditic reproduction can be found among the",
+      "options": [
+        "nelids and molluscs",
+        "sces and amphibians",
+        "elenterates and platyhelminthes",
+        "thropods and nematodes"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a8f"
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One distinctive feature in the life history of liverworts is that they exhibit",
+      "options": [
+        "getative reproduction",
+        "ternation of generation",
+        "xual reproduction",
+        "exual reproduction"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a90"
+    },
+    {
+      "number": "7",
+      "subheadingA": "Use the diagram above to answer questions 7 and 8.",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878420/img2003_2_y0nemv.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Food is stored in the structure labelled",
+      "options": [
+        "II",
+        "",
+        "",
+        ""
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a91"
+    },
+    {
+      "number": "8",
+      "subheadingA": "Use the diagram above to answer questions 7 and 8.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The structures that are common to both plant and animal cell are labelled",
+      "options": [
+        "and III",
+        "I and IV",
+        "and I",
+        "and II"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a92"
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The cell component that is present in a prokaryotic cell is the",
+      "options": [
+        "bosome",
+        "tochondrion",
+        "loroplast",
+        "clear envelope"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a93"
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the egg of a bird, the embryo is located in the",
+      "options": [
+        "lk",
+        "bryo disc",
+        "alaza",
+        "bumen"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a94"
+    },
+    {
+      "number": "11",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An insect whose economic importance is both harmful and benefit is the",
+      "options": [
+        "tterfly",
+        "squito",
+        "ackfly",
+        "etsefly"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a95"
+    },
+    {
+      "number": "12",
+      "subheadingA": "Use the diagram below to answer questions 12 and 13.",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878421/img2003_3_nvvkef.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The experiment is used to demonstrate that",
+      "options": [
+        "anspiration occurs through the leaves",
+        "ants lose water through guttation",
+        "aves are important to photosynthesis",
+        "ter is necessary for photosynthesis"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a96"
+    },
+    {
+      "number": "13",
+      "subheadingA": "Use the diagram below to answer questions 12 and 13.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the experiment, the layer of oil serves to prevent water loss by",
+      "options": [
+        "mosis",
+        "anspiration",
+        "aporation",
+        "ttation"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a97"
+    },
+    {
+      "number": "14",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If water that has been coloured red is poured at the base of a wilting plant, it will appear as a red stain in the cells of the",
+      "options": [
+        "loem",
+        "renchyma",
+        "lem",
+        "idermis"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a98"
+    },
+    {
+      "number": "15",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The stunted growth of a leguminous plant suffering from nitrogen deficiency may be corrected by inoculating the soil with",
+      "options": [
+        "prophytic bacteria",
+        "izobium",
+        "nitrifying bacteria",
+        "trosomonas"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a99"
+    },
+    {
+      "number": "16",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Organisms I, II, III and IV have surface/volume ratios of 1:2, 1:3, 1:4 and 1:5 respectively. The organism that is likely to have the most complex transport system is",
+      "options": [
+        "I",
+        "",
+        "",
+        ""
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a9a"
+    },
+    {
+      "number": "17",
+      "subheadingA": "Use the diagram below to answer questions 17 and 18.",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878421/img2003_4_sb0zma.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The aim of the experiment is to demonstrate",
+      "options": [
+        "e presence of carbon (IV) oxide in exhaled air",
+        "at in mammals gaseous exchange takes place in the lungs",
+        "e part played by the pleural cavity and diaphragm in respiration",
+        "at a large amount of oxygen is absorbed by the lungs"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a9b"
+    },
+    {
+      "number": "18",
+      "subheadingA": "Use the diagram below to answer questions 17 and 18.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In the experimental set-up, the rubber sheet represents the organ called",
+      "options": [
+        "aphragm",
+        "ngs",
+        "tercostal",
+        "eural cavity"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a9c"
+    },
+    {
+      "number": "19",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The part of the mammalian digestive system where absorption of nutrients takes place is the",
+      "options": [
+        "odenum",
+        "lon",
+        "eum",
+        "sophagus"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a9d"
+    },
+    {
+      "number": "20",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The dark reaction of photosynthesis involves the",
+      "options": [
+        "lease of oxygen and the splitting of water",
+        "otolysis of water and the production of starch",
+        "duction of carbon (IV) oxide to organic compounds",
+        "litting of water into hydrogen ions"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a9e"
+    },
+    {
+      "number": "21",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most important hormone that induces the ripening of fruit is",
+      "options": [
+        "tokinin",
+        "dole acetic acid",
+        "hylene",
+        "bberellin"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705a9f"
+    },
+    {
+      "number": "22",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Metabolic production of urea is carried out in the",
+      "options": [
+        "inary bladder and kidney",
+        "ncreas",
+        "lpighian tubule and kidney",
+        "ver"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aa0"
+    },
+    {
+      "number": "23",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In mammalian males, the excretory and reproductive system share the",
+      "options": [
+        "eter",
+        "stes",
+        "s deferens",
+        "ethra"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aa1"
+    },
+    {
+      "number": "24",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The best method of propagating sugarcane is by",
+      "options": [
+        "em cuttings",
+        "ed sowing",
+        "yering",
+        "afting"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aa2"
+    },
+    {
+      "number": "25",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The response of plants to external stimuli in a non-directional manner is known as",
+      "options": [
+        "stic movement",
+        "ototropism",
+        "ctic",
+        "otropism"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aa3"
+    },
+    {
+      "number": "26",
+      "subheadingA": "Use the diagram below to answer questions 26 and 27.",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878422/img2003_5_xbhpgu.png",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The structure can be found in the",
+      "options": [
+        "ripheral and central nervous systems",
+        "ripheral nervous system only",
+        "mpathetic and parasympathetic nervous systems",
+        "ntral nervous system only"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aa4"
+    },
+    {
+      "number": "27",
+      "subheadingA": "Use the diagram below to answer questions 26 and 27.",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The point marked I is referred to as",
+      "options": [
+        "elin sheath",
+        "ndrites",
+        "de of Ranvier",
+        "on"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aa5"
+    },
+    {
+      "number": "28",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Homologous pairs of chromosomes separate during",
+      "options": [
+        "iosis",
+        "tolysis",
+        "tosis",
+        "eavage"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aa6"
+    },
+    {
+      "number": "29",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An example of a caryopsis is",
+      "options": [
+        "conut",
+        "mato",
+        "ava",
+        "ize grain"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aa7"
+    },
+    {
+      "number": "30",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A limiting factor in a plant population near a chemical factory is likely to be",
+      "options": [
+        "midity",
+        "",
+        "nd",
+        "ght"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aa8"
+    },
+    {
+      "number": "31",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The pioneer organisms in ecological succession are usually the",
+      "options": [
+        "chens",
+        "gae",
+        "rns",
+        "sses"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aa9"
+    },
+    {
+      "number": "32",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Mycorrhiza is an association between fungi and",
+      "options": [
+        "s of higher plants",
+        "mentous algae",
+        "eria",
+        "ozoans"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aaa"
+    },
+    {
+      "number": "33",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A density-dependent factor that regulates the population size of organisms is",
+      "options": [
+        "en flood",
+        "ase",
+        "outbreak",
+        "ght"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aab"
+    },
+    {
+      "number": "34",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The most effective method of dealing with non-biodegradable pollution is by",
+      "options": [
+        "ing",
+        "ing",
+        "neration",
+        "cling"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aac"
+    },
+    {
+      "number": "35",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Soil fertility can best be conserved and renewed by the activities of",
+      "options": [
+        "obes",
+        "hworms",
+        "",
+        "nts"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aad"
+    },
+    {
+      "number": "36",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The correct sequence of biomes from northern to southern Nigeria is",
+      "options": [
+        "arine → tropical rain forest → guinea savanna → sahel savanna",
+        "l savanna → sudan savanna → guinea savanna → tropical rainforest → estuarine",
+        "l savanna → tropical rain forest → estuarine → guinea savanna",
+        "ea savanna → sudan savanna → tropical rainforest → sahel savanna → estuarine"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aae"
+    },
+    {
+      "number": "37",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "One example of fossil fuels is",
+      "options": [
+        "l",
+        "stone",
+        "wood",
+        ""
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aaf"
+    },
+    {
+      "number": "38",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If the pair of alleles for baldness is given as Bb, a female carrier will be denoted by",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705ab0"
+    },
+    {
+      "number": "39",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An organism that has been extensively used to test the chromosome theory of heredity is",
+      "options": [
+        "sapiens",
+        "ophila melanogaster",
+        "mays",
+        "a domestica"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705ab1"
+    },
+    {
+      "number": "40",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A feature associated with the Y-chromosome in humans is",
+      "options": [
+        "al hairs",
+        "inent fingernails",
+        "eyelashes",
+        "rged breast"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705ab2"
+    },
+    {
+      "number": "41",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "A man and his wife are both heterozygous for the sickle-cell trait. The likely percentage of their offspring that will be either carriers or sicklers is",
+      "options": [
+        "%",
+        "%",
+        "%",
+        "%"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705ab3"
+    },
+    {
+      "number": "42",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The type of reproduction that leads to variation in animal and plant populations is",
+      "options": [
+        "ing",
+        "tative",
+        "ual",
+        "al"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705ab4"
+    },
+    {
+      "number": "43",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If a DNA strand has a base sequence TCA, its complementary strand must be",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705ab5"
+    },
+    {
+      "number": "44",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following requires the use of carbon dating to prove that evolution has occurred?",
+      "options": [
+        "hemical similarities",
+        "cular records",
+        "il records",
+        "arative anatomy"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705ab6"
+    },
+    {
+      "number": "45",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The presence of sunken stomata and the folding of leaves are adaptations to",
+      "options": [
+        "ent entry of pathogens",
+        "ent guttation",
+        "ve excess water",
+        "ce water loss"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705ab7"
+    },
+    {
+      "number": "46",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Spines and shells on animals are adaptations for",
+      "options": [
+        "ical defence",
+        "uflage",
+        "ical defence",
+        "cry"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705ab8"
+    },
+    {
+      "number": "47",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The inactive state exhibited by an animal during hot dry seasons is termed",
+      "options": [
+        "ivation",
+        "ancy",
+        "ing",
+        "rnation"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705ab9"
+    },
+    {
+      "number": "48",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An insect with a mandibulate mouth part will obtain its food by",
+      "options": [
+        "ing",
+        "ing and sucking",
+        "ing",
+        "ng and chewing"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705aba"
+    },
+    {
+      "number": "49",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An example of cryptic colouration is the",
+      "options": [
+        "ht marks on a poisonous tropical frog on variegated leaves",
+        "ht colour of an insect-pollinated flower",
+        "led colours on moths that rest on lichens",
+        "n colour of a plant"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705abb"
+    },
+    {
+      "number": "50",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "An argument against Lamarck’s theory of evolution is that",
+      "options": [
+        "ired traits cannot be passed onto the offspring",
+        "se of body part cannot weaken the part",
+        "sed part is dropped off in the offspring",
+        "ts cannot be acquired through constant use of body parts"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": [],
+      "_id": "690e17a0df4cde968e705abc"
+    }
+  ]
+}
