@@ -1,0 +1,179 @@
+{
+  "_id": "682f56cacfebb4385afffd39",
+  "subjectName": [
+    "Biology"
+  ],
+  "year": 19,
+  "questions": [
+    {
+      "number": "1",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Root hairs are developed from the …",
+      "options": [
+        "root apex",
+        "epidermis of roots",
+        "vascular bundles",
+        "endodermis",
+        "pericycle"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "2",
+      "subheadingA": "Use Fig. 1 to answer questions 2-4",
+      "diagramUrlA": "https://res.cloudinary.com/dhlfbfuem/image/upload/v1746878409/img1997_1_aiz6py.png",
+      "subheadingB": "Fig 1 represents a cross-section of a part of a dicot plant.",
+      "diagramUrlB": "",
+      "question": "Which of the following features can be used to identify Fig 1?",
+      "options": [
+        "Position of 7",
+        "Its circular nature",
+        "Number of 5",
+        "Presence of 3",
+        "Width of 2"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "3",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main function of 6 is to",
+      "options": [
+        "separate 5 from 7",
+        "produce more of 5 and 7",
+        "produce cork",
+        "translocate water and mineral salt",
+        "conduct carbon dioxide to the other parts"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "4",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "The main function of 4 is to",
+      "options": [
+        "surround the inner tissues",
+        "produce cork",
+        "produce root hairs",
+        "produce lateral roots",
+        "produce more of 3"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "5",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "In a dicot leaf, guard cells differ from other epidermal cells because they",
+      "options": [
+        "have no definite shape",
+        "lack nuclei",
+        "are smaller",
+        "contain chloroplasts",
+        "lack vacuole"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "6",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following structures is NOT found in the female agama lizard?",
+      "options": [
+        "Pre-anal pads",
+        "Eardrum",
+        "Gular fold",
+        "Nasal scale",
+        "Nuchal crest"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "7",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Herbs differ from shrubs because they",
+      "options": [
+        "do not produce fruits",
+        "are useful to herbalists",
+        "do not become woody",
+        "are only annuals",
+        "are only perennials"
+      ],
+      "answer": "C",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "8",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If an isolated living cell is left in distilled water for two hours, it is likely to",
+      "options": [
+        "lose some of its water to the surrounding water",
+        "lose all of its water to the surrounding water",
+        "reproduce by binary fission",
+        "become more turgid",
+        "die due to excess water"
+      ],
+      "answer": "D",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "9",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "If an organic compound has its Hydrogen: Oxygen ratio as 2:1, it is likely to be",
+      "options": [
+        "a protein",
+        "a carbohydrate",
+        "a fat",
+        "a fatty acid and glycerol",
+        "an amino acid"
+      ],
+      "answer": "B",
+      "aiGeneratedResponses": []
+    },
+    {
+      "number": "10",
+      "subheadingA": "",
+      "diagramUrlA": "",
+      "subheadingB": "",
+      "diagramUrlB": "",
+      "question": "Which of the following elements are necessary for the formation of chlorophyll in a plant?",
+      "options": [
+        "Magnesium and iron",
+        "Calcium and potassium",
+        "Calcium and sulphur",
+        "Potassium and sulphur",
+        "Phosphorus and potassium"
+      ],
+      "answer": "A",
+      "aiGeneratedResponses": []
+    }
+  ]
+}

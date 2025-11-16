@@ -1,191 +1,191 @@
 {
-  "subjectName": ["Literature in English"],
-  "year": 2020,
+  "subjectName": ["English"],
+  "year": 2023,
   "questions": [
     {
-      "number": "1",
-      "subheadingA": "Question 1 and 2 are based on WIlliams Shakespare's <span style=\"font-weight: bold; text-decoration: underline;\">Othello</span>",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The first character in the play to refere to Othello by name is",
-      "options": [
-        "Lago",
-        "the Duke",
-        "Brabanio",
-        "Desdemona"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "2",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The hypocritical character in the play is",
-      "options": [
-        "Roderigo",
-        "montango",
-        "Lago",
-        "Cassio"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "3",
-      "subheadingA": "This question is based on Selected Poems from johnson, R.et al(eds.): New Poetry from African (ed); Poems of Black Africa; Senanu, K.E and Vincent, T.(ed.); A selection of African Poetry; Adeoti, G; Naked Soles; Hayward, J.(ed.); The penguin Book of English Verse and Nwoga, D. (ed.); West African Verse.",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The title of Herbert's The Pulley is an example of",
-      "options": [
-        "fable",
-        "euphemism",
-        "allegory",
-        "symbolism"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "4",
-      "subheadingA": "This question is based on Selected Poems from johnson, R.et al(eds.): New Poetry from African (ed); Poems of Black Africa; Senanu, K.E and Vincent, T.(ed.); A selection of African Poetry; Adeoti, G; Naked Soles; Hayward, J.(ed.); The penguin Book of English Verse and Nwoga, D. (ed.); West African Verse.",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The tone of the persona in Blake's The school Boy is that of.",
-      "options": [
-        "fear",
-        "fulfillment",
-        "contempt",
-        "neutrality"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "5",
-      "subheadingA": " Questions 5 to 9 are based on William Shakespeare's A Midsummer Night's Dream",
-      "diagramUrlA": "",
-      "subheadingB": "Ay me, for aught that I could ever read,\nCould ever hear by tale or history\nThe course of true love Never did run smooth\nNever did run smooth...",
-      "diagramUrlB": "",
-      "question": "The image in the quotation above depicts the speaker's",
-      "options": [
-        "Hatred",
-        "desperation",
-        "love",
-        "disregard"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "6",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "'Lord, what fools these mortals be! In the line above, the character is",
-      "options": [
-        "expressing the behaviour of the lovers",
-        "expressing the love between two lovers",
-        "expressing the exaggerated silliness of the lovers behaviour",
-        "expressing the gift of God in their lives"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "7",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The traditional verse form of speech as dialogue in Midsummer Night's Dream is used to symbolize the",
-      "options": [
-        "impressiveness of the characters",
-        "intense feelings of the characters",
-        "traaditionality of the play",
-        "function of poetry in the play"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "8",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "Duke Theseus\n 'Hippolyta, I woo'd thee with my sword\nAnd won thy love doing thee injuries,\nBut I will wed thee in another key\nWith pomp, with triumph, and with reveling\nDuke's statement above the Hippolyta means that he",
-      "options": [
-        "make trouble to see Hippolyta",
-        "jump the fence to see Hippolyta",
-        "should be injured by Hippolyta",
-        "will win the love of Hippolyta"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "9",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "<span style=\"text-decoration: underline;\">A Midsummer Night's Dream</span> is preoccupied with the juxtaposition of",
-      "options": [
-        "death and disappointment",
-        "love and hate",
-        "appearance and reality",
-        "love and death Questions 10 to 15 are based on selected poems from the list of approved African and Non African poems"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "10",
-      "subheadingA": "Questions 10 to 15 are based on selected poems from the list of approved African and Non African poems",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "In Augustino Neto's 'The Grieved Lands' dramatic and emotive intensity is derived from the employment of",
-      "options": [
-        "repetition",
-        "double rhymes",
-        "assonance",
-        "end rhymes"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
+  "number": "1",
+  "subheadingA": "It is said that experience is the best teacher, but to learn consciously through wisdom may even be a better and more convenient way. To learn by experience is to learn from mistakes. It means you have burnt your fingers and now your eyes are open. This is a tough, costly and inconvenient way to learn. Rather than leaving our learning to experience, why do we not learn consciously through wisdom? We can learn by consciously going out of our way to acquire knowledge and wisdom rather than leave learning to chance.Surely, we can learn from mistakes but why wait till when we make mistakes before we learn? We should give more premium to learning by wisdom than by experience.\nThis will involve one making up ones' mind to be decisive in learning. We must decide to learn consciously and not necessarily from negative experiences. The first step is to realize that life is simply the outcome and outplay of decisions. Our life now is the sum total of our decisions and our future will be determined by our decisions of today. If we decide to learn today we are not likely to make mistakes and when we do not make mistakes,experience need not be our best teacher.\nTo avoid making experience our best teacher will take more than a decision. We must couple our decision with a complete and wholehearted devotion. We must be resolved,resolute and resilient in our bid to learn by wisdom and not necessarily by experience. This is crucial because situations and circumstances will want us to make a detour and leave our learning and life to chance. We must therefore be disciplined and to remain with our resolve to make a clean break with experience as our best teacher. Discipline in this regard means learning something new everyday by wisdom rather than experience. It means consciously getting better by the day in your chosen field. Discipline will demand taking advantage of every learning opportunity that comes our way. It will mean we must pay the price for learning by wisdom- invest in books, magazines, seminars and other means by which we may become wiser.\nIt is much easier and cheaper to learn consciously by wisdom than to learn by experience.When we learn by experience, the deed is done and we are just picking up the pieces-learning in regret how to avoid such predicament next time. Consider the child who grasp a burning coal, he had learned the hard way through the painful experience, but his fingers will remain burnt. Thus, the saying, that experience is the best teacher, may not be justifiable after all.",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "It can be deduced from the passage that",
+  "options": [
+    "all experiences are best teachers",
+    "learning through pains is better",
+    "experience is superior to wisdom",
+    "wise thoughts are more desirable than experience"
+  ],
+  "answer": "D",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "2",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "The phrase *a complete and wholehearted devotion*, as used in the passage means",
+  "options": [
+    "acting without doubts",
+    "learning with tension",
+    "learning without pains",
+    "teaching with ease"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "3",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "The attitude of the writer of the passage can best be described as",
+  "options": [
+    "objective",
+    "critical",
+    "non-committal",
+    "emotional"
+  ],
+  "answer": "B",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "4",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "Which of the following statements is true according to the passage?",
+  "options": [
+    "Man must make mistakes in order to survive",
+    "The totality of our actions should be decided by our judgement",
+    "If we do not make mistakes, experience must be our teacher",
+    "Our future will be judged by our past mistakes"
+  ],
+  "answer": "B",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "5",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "According to the passage we must be disciplined to",
+  "options": [
+    "make experience our best teacher in reality.",
+    "learn from our experiences in future",
+    "choose the learning opportunity that comes our way",
+    "decide against making experience our teacher"
+  ],
+  "answer": "D",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+   {
+  "number": "6",
+  "subheadingA": "Gossip! Yes, gossip is universal. In some langn  outright connotation but in English it basically means idle talk', chat about trivial things or matters. When moderate and kind, 'casual talk' may serve to exchange useful information as a means of updating one's knowledge. The whole neighbourhood may grow gessipy with who got married, pregnant, died, or it may just be a humorous chi-chat devoid of malicious intent.\nHewever,idle talk more often than not, degenerates beyond the bounds of propriety and good taste. Facts get embellished,exaggerated or deliberately distorted. Humiliation is made the source of humour,  privacy is violated, confidences betrayed and reputations injured or ruined.Condemnation takes the place of commendation,murmuring and fault finding are extolled. The end result is like the mud thrown on a clean piece of white cloth. It does not stick but it leaves a dirty and sometimes permanent stain behind.\nGossip has been blamed for sleepless nights,heartache and indigestion. Certainly,it must have caused you some personal anguish at one time or the other, that is someone must at some time have tried gettinga knife between your shoulder blades. Negative gossip is almost universally frowned upon. Among the Indians in the United States,gossiping about someone is classified with lying and stealing.Among the Yorubas of Nigeria, the tale bearer is detested and often avoided. Indeed, throughout history, measures have been taken to curb this 'deadly' discase. Between the 15th and 18th centuries, the ducking stool was popularly used in England and Germany and later in the United States.\nThe gossip was tied to a chair and repeatedly ducked in water. In modern times, the war against gossiping has also been fought. Rumour control centres have been established to respond to rumours that were potentially harmful to government activities. Laws have even been passed to curb gossip. Nicknames have been given to those who peddle the trade. Ever heard of 'Amebo'! \nSuch efforts notwithstanding,gossip survives. It is alive and flourishing. Gossip is everywhere. There is neighbourhood gossip, office gossip, shop gossip,party gossip, family gossip and funnily enough, religious gossip.Gossip transcends all cultures,races and civilizations, and it has flourished and is still flourishing at every level of society. Gossip is deeply a part of human nature. Yet gossip is not inherently evil. There is a positive side to casual talk. Knowing where to draw the line between harmless and harmfuI gossips is the key to avoiding victimizing others and being a victim yourself.",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "When gossip 'degenerates beyond the bounds of propriety and good taste', it becomes",
+  "options": [
+    "harmful",
+    "ruthless",
+    "irritating",
+    "astonishing"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "7",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "'Grow gossipy' as used in the passage means the area",
+  "options": [
+    "cultivates and controls gossip",
+    "is a rumour mill",
+    "is ruined by gossip",
+    "engages in fruitful talk"
+  ],
+  "answer": "B",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "8",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "Which title best sums up this passage?",
+  "options": [
+    "Gossips: A thing of the past",
+    "Gossip: A societal evil",
+    "Gossip and be damned",
+    "Gossip: The good and the bad"
+  ],
+  "answer": "D",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "9",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "Gossip appeals to people because:",
+  "options": [
+    "it is entertaining but could be deadly",
+    "human beings take delight in passing and acquiring information",
+    "it provides avenues for idle talk",
+    "it is not destructive in the type of information passed"
+  ],
+  "answer": "B",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "10",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "The writer suggests that the survival of gossip is primarily due to:",
+  "options": [
+    "the ineffectiveness of punishment like the ducking stool",
+    "its function as a method of controlling government activities",
+    "its deeply ingrained role as a part of human nature",
+    "the sheer volume of different social groups engaging in it"
+  ],
+  "answer": "C",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
       "number": "11",
-      "subheadingA": "",
+      "subheadingA": "The passage below has gaps numbered 11 to 20. Immediately folowing each gap four options are provided. Choose the most appropriate option for each gap.",
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "What is the cental theme in Niyi Osadare's The Leader and the led?",
+      "question": "In today's society, few people at home need feel.... from other people.",
       "options": [
-        "Power tussle",
-        "hypocrisy",
-        "leadership",
-        "followership"
+        "discouraged",
+        "bad",
+        "estranged",
+        "intrigued"
       ],
-      "answer": "A",
+      "answer": "C",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -195,14 +195,14 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The rhyming pattern in the last stanza of Lade Wosornu's 'Raider of the Treasure Trove' makes the stanza",
+      "question": "and.... from the world about them.",
       "options": [
-        "an octave",
-        "a quatrain",
-        "a couplet",
-        "a sestet"
+        "cut out",
+        "cut away",
+        "cut down",
+        "cut off"
       ],
-      "answer": "C",
+      "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -212,14 +212,14 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "The theme of beauty and strength in 'Black Woman by Leopold Sedar Senghor's is a",
+      "question": "Telephone, television, car, common social and educational...",
       "options": [
-        "dramatic poem",
-        "narrative poem",
-        "short poem",
-        "negritude poem"
+        "interest",
+        "interests",
+        "associations",
+        "escapades"
       ],
-      "answer": "D",
+      "answer": "C",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -229,14 +229,14 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Oumar Farouk Sesay's 'The Song of the Women of my Land'portrays a society that is",
+      "question": "all keep married couples in living ... with the rest of the community.",
       "options": [
-        "tough with women in olden days African society",
-        "hunted by the evil land",
-        "gripped with fear",
-        "unstable"
+        "contract",
+        "activity",
+        "contact",
+        "together"
       ],
-      "answer": "A",
+      "answer": "C",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -246,14 +246,14 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "In 'Raider of the Treasure Trove' by Lade Wosornu,'the gems of your dreams in line 2, the poet is describing the",
+      "question": "If a person feels ..., it may be that he or she has allowed himself or herself to become so.",
       "options": [
-        "the cost of anger in man's life",
-        "homily to eschew anger",
-        "the value of life",
-        "a man's purpose being the reason for his life"
+        "isolated",
+        "deprived",
+        "neglected",
+        "cheated"
       ],
-      "answer": "D",
+      "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -263,14 +263,14 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "From the tone of Onu Kingsley Chibuike's 'A Government Driver on his Retirements', words such as 'brooze', boomed'",
+      "question": "The person who... the home is the master of the immediate environment, and is free to plan the daily ...",
       "options": [
-        "happy",
-        "sorrowful",
-        "indifferent",
-        "joyful"
+        "administers",
+        "orders",
+        "arranges",
+        "runs"
       ],
-      "answer": "B",
+      "answer": "D",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -280,14 +280,14 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Midsummer Night's Dream is what type of play?",
+      "question": "The person who runs the home is the master of the immediate environment, and is free to plan the daily ...",
       "options": [
-        "tragedy",
-        "farce",
-        "comnedy",
-        "tragic-comedy"
+        "chores",
+        "routine",
+        "timetable",
+        "organization"
       ],
-      "answer": "C",
+      "answer": "B",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -297,14 +297,14 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "One of the following terms applies to the discussion of both tragedy and comedy",
+      "question": "if she uses her time to good effect, she could develop.... by reading or home study",
       "options": [
-        "climax",
-        "happy ending",
-        "tragic hero",
-        "alliteration"
+        "physically",
+        "economically",
+        "mentally",
+        "intelligently"
       ],
-      "answer": "A",
+      "answer": "C",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -314,14 +314,14 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Maya Angelou's Caged Bird's is reffered to as allegory because",
+      "question": "loving daily contact with her children .... children is regarded by many people as a rewarding...",
       "options": [
-        "it teaches moral",
-        "it is a fable",
-        "it is metaphorical",
-        "it is a short poem"
+        "bringng up",
+        "washing up",
+        "dressing up",
+        "bearing"
       ],
-      "answer": "B",
+      "answer": "A",
       "aiGeneratedResponses": [],
       "_id": ""
     },
@@ -331,356 +331,696 @@
       "diagramUrlA": "",
       "subheadingB": "",
       "diagramUrlB": "",
-      "question": "Why did Nii in <span style=\"font-weight: bold; text-decoration: underline;\">Unexpected Joy at Dawn</span> decide to come back to Nigeria?",
+      "question": "children is regarded by many people as a rewarding... and a labour of love.",
       "options": [
-        "he was missed home",
-        "he is the only son",
-        "He was offered a job",
-        "he came to rejig his life"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "21",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The dominant feeling in Leopold Sedar Senghor's Black Woman is",
-      "options": [
-        "joy and satisfaction",
-        "nostalgia",
-        "sadness and hatred",
-        "despair"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "22",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "A play is drama because",
-      "options": [
-        "it is written in verse",
-        "it can be acted on stage",
-        "it contains characters",
-        "it does not contain any story"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "23",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "In D.H. Lawrence's 'BAT'the line 'hang themselves up like an old rag' indicates the poet's _____ for bats.",
-      "options": [
-        "love",
-        "hatred",
-        "kindness",
-        "acceptance"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "24",
-      "subheadingA": "Questions 24 and 25 are based on Buchi Emecheta's Second Class Citizen",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "In Adah's view, the white society in the novel is one in which",
-      "options": [
-        "there is communal feeling",
-        "neighbourliness is lacking",
-        "neighbours live happily",
-        "members are unfriendly"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "25",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "To raise the readers anxiety about the story, the author",
-      "options": [
-        "stops the main story to narrate other event",
-        "creates a lot of funny episodes",
-        "puts too many difficulties in Adah's way",
-        "shows that Francis is weak"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "26",
-      "subheadingA": "Questions 26 to 28 are based on Emily Bronte's Wutherin Heights",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "Why did Catherine refuse to marry Heathcliff?",
-      "options": [
-        "Heathcliff is of a low class",
-        "Heathcliff is",
-        "Heathcliff is not educated",
-        "Heathcliff is her cousin"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "27",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "I could not picture a father treating a dying child as tyrannicall and wickedly as I afterwards learnt Heathcliff had treated him who said this?",
-      "options": [
-        "Edgar Linton",
-        "Hindley",
-        "Heathcliff",
-        "Nelly"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "28",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "One of the universal themes of the novel is",
-      "options": [
-        "vengeance",
-        "property and inheritence",
-        "religious hyposcrisy",
-        "marriage"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "29",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The theme of a literary work is the",
-      "options": [
-        "dominant pre-occuption of the work",
-        "interesting issues raised in the work",
-        "different veiws on a particular topic",
-        "psychological issues in the work"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "30",
-      "subheadingA": "<span style=\"font-weight: bold;\">Questions 30 to 40 are based on <span style=\"text-decoration: underline;\">Ralph Ellison's Invisible Man</span></span>",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The use of first person singular in the book indicates",
-      "options": [
-        "omniscient point of view",
-        "flash back narrative technique",
-        "foreshadowing narrative techique",
-        "participant point of view"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "31",
-      "subheadingA": "Question 31 to 40 are based on general Literary Appreciation",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The figure of speech which is characterised by excessive exaggeration is known as",
-      "options": [
-        "hyperbole",
-        "metaphor",
-        "stress",
-        "Irony"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "32",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The summary version of literary work is known as",
-      "options": [
-        "stanza",
-        "autobiography",
-        "synopsis",
-        "anti-thesis"
+        "activity",
+        "promotion",
+        "experience",
+        "engagement"
       ],
       "answer": "C",
       "aiGeneratedResponses": [],
       "_id": ""
     },
     {
-      "number": "33",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "As we entered the beautiful city we saw the bright sun smilling at us. The figure of speech used here is",
-      "options": [
-        "personification",
-        "fable",
-        "alliteration.",
-        "Onomatopoeia"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
+  "number": "21",
+  "subheadingA": "In each of questions 21-30, choose the option opposite in meaning to the word(s) or phrase in italics.",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "The officer asked for a more <span style=\"font-style: italic;\">temperate</span> assessment of the matter.",
+  "options": [
+    "extreme",
+    "moderate",
+    "radical",
+    "humane"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "22",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "Most warring countries end up in a state of <span style=\"font-style: italic;\">satiation</span>.",
+  "options": [
+    "hunger",
+    "thirst",
+    "danger",
+    "famine"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "23",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "The lecturers were advised to carry out a <span style=\"font-style: italic;\">cursory</span> survey of Nigerian languages.",
+  "options": [
+    "detailed study",
+    "careful teaching",
+    "careful description",
+    "partial consideration"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "24",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "My eldest brother is now faced with the <span style=\"font-style: italic;\">vicissitudes</span> of married life.",
+  "options": [
+    "amazement",
+    "sweetness",
+    "amiability",
+    "stability"
+  ],
+  "answer": "D",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "25",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "The long straight trunk of the tree is <span style=\"font-style: italic;\">ideal</span> for round wood used like railway sleepers, rafters and fence post.",
+  "options": [
+    "best",
+    "perfect",
+    "most unsuitable",
+    "satisfactory"
+  ],
+  "answer": "C",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "26",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "I am happy to inform you that your boys are <span style=\"font-style: italic;\">conscientious</span>.",
+  "options": [
+    "industrious",
+    "carefree",
+    "careful",
+    "corrupt"
+  ],
+  "answer": "B",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "27",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "The doctor was very <span style=\"font-style: italic;\">gentle</span> with his patients in the examining room.",
+  "options": [
+    "harsh",
+    "rude",
+    "tough",
+    "unkind"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "28",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "He and his lieutenants have been accused of remaining <span style=\"font-style: italic;\">intransigent</span>.",
+  "options": [
+    "rigid",
+    "stubborn",
+    "compromising",
+    "popular"
+  ],
+  "answer": "C",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "29",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "Many species in creation have <span style=\"font-style: italic;\">mutated</span> over the years into new forms of life.",
+  "options": [
+    "stabilized",
+    "manifested",
+    "transformed",
+    "standardized"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "30",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "In spite of many days of fasting, Musa is still <span style=\"font-style: italic;\">fastidious</span> about his food.",
+  "options": [
+    "particular",
+    "undecided",
+    "indifferent",
+    "unmindful"
+  ],
+  "answer": "C",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
     {
-      "number": "34",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "As the policeman shot the gun we all hear a loud boom. The figure of speech typified above as",
-      "options": [
-        "epigram",
-        "imagery",
-        "simile",
-        "Onomatopoeia"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
+  "number": "31",
+  "subheadingA": "In each of questions 31 to 40.choose the most appropriate option nearest in meaning to the word(s) or phrase in italics",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "The town was in such a <span style=\"font-style: italic;\">turmoil</span> that the dance was called off.",
+  "options": [
+    "mourning state",
+    "rainy state",
+    "state of darkness",
+    "state of confusion"
+  ],
+  "answer": "D",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "32",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "His plan <span style=\"font-style: italic;\">boomeranged</span> on him.",
+  "options": [
+    "bounced",
+    "fell",
+    "catapulted",
+    "backfired"
+  ],
+  "answer": "D",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "33",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "The <span style=\"font-style: italic;\">mottled</span> skin of a person with HIV indicates an advanced stage of its development.",
+  "options": [
+    "brown",
+    "spotted",
+    "scaly",
+    "pimpy"
+  ],
+  "answer": "B",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "34",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "His wife of ten years refused <span style=\"font-style: italic;\">point blank</span> to leave the matrimonial house even when he brought another woman to the home.",
+  "options": [
+    "directly",
+    "boldly",
+    "bluntly",
+    "pointedly"
+  ],
+  "answer": "C",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "35",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "After the woman has covered her misdeeds by <span style=\"font-style: italic;\">prevaricating</span> on several occasions, the poor husband accused her point blank of adultery.",
+  "options": [
+    "bluntly",
+    "pointedly",
+    "emphatically",
+    "unmistakingly"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "36",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "Because our representative is immature and biased, he takes a <span style=\"font-style: italic;\">jaundiced</span> view of our problems.",
+  "options": [
+    "hazy",
+    "unclear",
+    "prejudiced",
+    "bleak"
+  ],
+  "answer": "C",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "37",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "If your life is in <span style=\"font-style: italic;\">turmoil</span>, always take courage.",
+  "options": [
+    "devastation",
+    "crisis",
+    "trial",
+    "tragedy"
+  ],
+  "answer": "B",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "38",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "He was asked to give <span style=\"font-style: italic;\">copious</span> examples to appear convincingly.",
+  "options": [
+    "concrete",
+    "rigid",
+    "cogent",
+    "many"
+  ],
+  "answer": "D",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "39",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "The newly elected leader has <span style=\"font-style: italic;\">pledged</span> to ensure better life for the citizens.",
+  "options": [
+    "vowed",
+    "agreed",
+    "undertaken",
+    "undertaking"
+  ],
+  "answer": "C",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "40",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "He is <span style=\"font-style: italic;\">credulous</span>.",
+  "options": [
+    "credible",
+    "creditable",
+    "gullible",
+    "fallible"
+  ],
+  "answer": "C",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
     {
-      "number": "35",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "In literary work any question that does not require an answer is known as ____ question",
-      "options": [
-        "normative",
-        "an ironical",
-        "paradoxical",
-        "Rhetorical"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
+  "number": "41",
+  "subheadingA": "In each of questions 41 to 50. choose the option that best completes the gaps.",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "The chairman addressed the .....",
+  "options": [
+    "one hundred university French teachers",
+    "university one hundred French teachers",
+    "French one hundred university teachers",
+    "university French one hundred teachers"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "42",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "My mother had.... the fire wood before it began to rain",
+  "options": [
+    "split",
+    "splited",
+    "splitted",
+    "splitting"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "43",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "'If you are not careful, you would..... your money",
+  "options": [
+    "loss",
+    "lose",
+    "loose",
+    "lost"
+  ],
+  "answer": "B",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "44",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "He.... the picture on the table.",
+  "options": [
+    "laid",
+    "lay",
+    "lied",
+    "lain"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "45",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": ".....listening to the news when I came in.",
+  "options": [
+    "there were",
+    "they were",
+    "there was",
+    "it was"
+  ],
+  "answer": "B",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "46",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "Could I ring him up? I'd rather you.....",
+  "options": [
+    "visit him",
+    "would visit him",
+    "visiting him",
+    "visited him"
+  ],
+  "answer": "D",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "47",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "......him in the crowd I would have told you at once.",
+  "options": [
+    "If I will see",
+    "If I saw",
+    "Had I seen",
+    "Should I see"
+  ],
+  "answer": "C",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "48",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "How I wish I.... My mother's advice.",
+  "options": [
+    "had heeded",
+    "have heeded",
+    "heed",
+    "will heed"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "49",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "He.....by now, I can hear all the people shouting.",
+  "options": [
+    "would have arrived",
+    "must have arrived",
+    "has arrived",
+    "should have arrived"
+  ],
+  "answer": "B",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "50",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "Many students have joined the .....movement.",
+  "options": [
+    "revivalists",
+    "revival",
+    "revivalist",
+    "revivalist's"
+  ],
+  "answer": "C",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
     {
-      "number": "36",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The speech made by a character when he turns aside to speak quietly to himself or to the audience is known as",
-      "options": [
-        "soliloque",
-        "Aside",
-        "caricature",
-        "appreciation"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
+  "number": "51",
+  "subheadingA": "In each of questions 51 to 55, choose the most appropriate option that best explains the information in the sentence.",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "My son, who is in the USA, is studying Engineering",
+  "options": [
+    "my only son is in U.S.A. studying Engineering",
+    "one of my sons in U.S.A. is studying Engineering",
+    "my sons are in USA but only one is studying Engineering",
+    "only my son in USA studying Engineering"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "52",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "People are not interested in who rules",
+  "options": [
+    "people who rule are not interested in the ruled",
+    "the rulers are not indifferent about the people",
+    "people are indifferent about the rulers",
+    "people are not ruled by the people they are interested in"
+  ],
+  "answer": "C",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "53",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "He is a clinging child.",
+  "options": [
+    "He is possessive",
+    "He likes to cling with his sister",
+    "He is a bully",
+    "He is a handsome young man"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "54",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "Ramatu expressed her feelings in no uncertain terms.",
+  "options": [
+    "she expressed it secretly and courageously",
+    "she expressed it quietly and cautiously.",
+    "she expressed it feebly and sickly",
+    "she expressed clearly and strongly"
+  ],
+  "answer": "D",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "55",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "Everyone was ready to play the devil's advocate in impeachment controversy.",
+  "options": [
+    "everyone was willing to speak against the impeachment to encourage discussion on it",
+    "everyone was willing to defend an unpopular point of view concerning the impeachment",
+    "everyone was willing to fight for the defenceless citizens no matter the consequences",
+    "everyone was willing to be an evil genius in the controversy"
+  ],
+  "answer": "B",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
     {
-      "number": "37",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "A sonnet is a poem with ____ lines of rhymed iambic pentametre",
-      "options": [
-        "seven",
-        "ten",
-        "four",
-        "fourteen"
-      ],
-      "answer": "D",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
+  "number": "56",
+  "subheadingA": "In each of questions 56-57 choose the word that has the stress on the first syllable.",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "A.dismiss B.comment C.intact D.confuse",
+  "options": [
+    "dismiss",
+    "comment",
+    "intact",
+    "confuse"
+  ],
+  "answer": "B",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "57",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "A.competent B.misred C.resign D.compel",
+  "options": [
+    "competent",
+    "misread",
+    "resign",
+    "compel"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
     {
-      "number": "38",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "He died of laughter as I told him the story. The figure of speech used in the above is",
-      "options": [
-        "euphemism",
-        "hyperbole",
-        "personification",
-        "paradox"
-      ],
-      "answer": "B",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "39",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "The story of a man's life written by another person is known as",
-      "options": [
-        "Autobiography",
-        "Appraisal",
-        "Biography",
-        "History"
-      ],
-      "answer": "C",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    },
-    {
-      "number": "40",
-      "subheadingA": "",
-      "diagramUrlA": "",
-      "subheadingB": "",
-      "diagramUrlB": "",
-      "question": "Our information minister is a faithful liar. The line above is an example of",
-      "options": [
-        "oxymoron",
-        "appostrophe",
-        "antithesis",
-        "personification"
-      ],
-      "answer": "A",
-      "aiGeneratedResponses": [],
-      "_id": ""
-    }
+  "number": "58",
+  "subheadingA": "In each of the questions 58 to 60 the word in capital letters has the emphatic stress. Choose the option to which the given sentence relates.",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "<span style=\"font-weight: bold;\">AMINA</span> went to Abuja by air.",
+  "options": [
+    "Is Amina going to Abuja by air?",
+    "Who went to Abuja by air?",
+    "Did Amina go to Abuja by road?",
+    "Did Amina go to Jos by air?"
+  ],
+  "answer": "B",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "59",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "<span style=\"font-weight: bold;\">EMEKA</span> finished his home work yesterday.",
+  "options": [
+    "Was Emeka helped to do his home work?",
+    "Did Emeka do his home work yesterday?",
+    "When did Emeka finish his home work?",
+    "Who finished his home work yesterday?"
+  ],
+  "answer": "D",
+  "aiGeneratedResponses": [],
+  "_id": ""
+},
+{
+  "number": "60",
+  "subheadingA": "",
+  "diagramUrlA": "",
+  "subheadingB": "",
+  "diagramUrlB": "",
+  "question": "The president <span style=\"font-weight: bold;\">SPOKE</span> to the press.",
+  "options": [
+    "Did the president write to the press?",
+    "Did the president speak to the press?",
+    "Who spoke to the press?",
+    "Are these the pressmen the president spoke to?"
+  ],
+  "answer": "A",
+  "aiGeneratedResponses": [],
+  "_id": ""
+}
   ]
 }

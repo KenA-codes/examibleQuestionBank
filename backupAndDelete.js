@@ -9,8 +9,8 @@ const COLLECTION_NAME = "questionsV2";
 const BACKUP_FOLDER = "./probationList";
 
 // Replace these values with the specific document you want to target
-const SUBJECT_TO_DELETE = "Literature in English";
-const YEAR_TO_DELETE = 2018;
+const SUBJECT_TO_DELETE = "English";
+const YEAR_TO_DELETE = 2023;
 // -----------------------
 
 const uri = process.env.DATABASE_URL;
