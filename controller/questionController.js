@@ -233,7 +233,8 @@ exports.getQuestionsByYearAndSubject = async (req, res) => {
 
    const questions = await questionModel.findOne({
   year: numYear,
-  subjectName: { $elemMatch: { $regex: new RegExp(subjectName, "i") } },
+  // subjectName: { $elemMatch: { $regex: new RegExp(subjectName, "i") } },
+  subjectName: { $elemMatch: { $regex: `^${subjectName}$`, $options: 'i' } },
 });
 
     if (!questions) {
