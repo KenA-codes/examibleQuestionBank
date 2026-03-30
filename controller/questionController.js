@@ -217,10 +217,10 @@ const readDOCX = async (filePath) => {
 
 exports.getQuestionsByYearAndSubject = async (req, res) => {
   try {
-    const { year, subjectName } = req.params; 
+    const { year, subjectNames } = req.params; 
     const numYear = +year;
 
-    if (!year || !subjectName) {
+    if (!year || !subjectNames) {
       return res.status(400).json({
         message: "Year and Subject Name are required",
       });
@@ -234,7 +234,7 @@ exports.getQuestionsByYearAndSubject = async (req, res) => {
    const questions = await questionModel.findOne({
   year: numYear,
   // subjectName: { $elemMatch: { $regex: new RegExp(subjectName, "i") } },
-  subjectName: { $elemMatch: { $regex: `^${subjectName}$`, $options: 'i' } },
+  subjectNames: { $elemMatch: { $regex: `^${subjectNames}$`, $options: 'i' } },
 });
 
     if (!questions) {
