@@ -85,6 +85,10 @@ const questionSchema = new mongoose.Schema(
           //   message: "Only 4 AI-generated responses are allowed."
           // }
         },
+        topic: {
+          type: String,
+          default: "Uncategorized",
+        },
       },
     ],
   },

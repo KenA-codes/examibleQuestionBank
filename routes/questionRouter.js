@@ -5,8 +5,8 @@ const upload = multer({ dest: "uploads/" }); // Store uploaded files in the 'upl
 
 
 questionRouter.post("/upload", upload.single("file"), uploadQuestions);
-questionRouter.get("/questions/:year/:subjectName", getQuestionsByYearAndSubject);
-questionRouter.get("/subjects", getAllSubjectsAndYears);
+questionRouter.get("/questions/:year/:subjectNames", getQuestionsByYearAndSubject);
+questionRouter.get("/allsubjects", getAllSubjectsAndYears);
 
 module.exports = questionRouter;
 

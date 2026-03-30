@@ -1,4 +1,26 @@
 node_modules
 .env
+# Scripts not needed in production
 update.js
 upload.js
+labelQuestions.js
+scrubLabels.js
+deleteDuplicates.js
+backupAndDelete.js
+uploadQuestions.js
+exportQuestions.js
+backupAndDelete.js
+
+# Data and Temporary Folders
+question.json
+new.json
+uploads/
+exports/
+backups/
+probationList/
+
+# OS/IDEs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
