@@ -1,17 +1,8 @@
-node_modules
+# Dependencies
+node_modules/
 .env
-# Scripts not needed in production
-update.js
-upload.js
-labelQuestions.js
-scrubLabels.js
-deleteDuplicates.js
-backupAndDelete.js
-uploadQuestions.js
-exportQuestions.js
-backupAndDelete.js
 
-# Data and Temporary Folders
+# ── Data & Export Folders ───────────────────────────────────────────
 question.json
 new.json
 uploads/
@@ -19,7 +10,93 @@ exports/
 backups/
 probationList/
 
-# OS/IDEs
+# Raw question source data
+pq/
+
+# Scratch / temporary scripts and audit results
+scratch/
+
+# Zip archives
+*.zip
+
+# ── One-off processing / migration scripts ───────────────────────────
+# These were used to build the dataset and are not needed in production.
+update.js
+upload.js
+uploadQuestions.js
+exportQuestions.js
+backupAndDelete.js
+scrubLabels.js
+deleteDuplicates.js
+labelQuestions.js
+
+# Audit scripts
+audit_*.js
+audit_all_biology.js
+audit_all_english.js
+audit_english_new.js
+
+# Bulk-update scripts
+bulk_update_english.js
+clean_all_biology.js
+
+# Finalize scripts
+finalize_biology.js
+finalize_chemistry.js
+finalize_crk.js
+finalize_economics.js
+finalize_english.js
+finalize_geography.js
+finalize_government.js
+finalize_literature.js
+finalize_mathematics.js
+
+# Fix / repair scripts
+find_unsolvable_biology_images.js
+fix_2010_final.js
+fix_2021_final.js
+fix_2021_p1.js
+fix_2021_p2.js
+fix_backslashes.js
+fix_economics_taxonomy.js
+fix_english_taxonomy.js
+fix_escapes.js
+fix_geography_taxonomy.js
+fix_json_escapes.js
+fix_json_escapes.js
+inspect_q30.js
+reformat_2021.js
+relabel_english_local.js
+repair_english_json.js
+reorder_json_keys.js
+
+# Remediate scripts
+remediate_2021_v2.js
+remediate_2022.js
+remediate_2023.js
+remediate_2024.js
+remediate_biology_b1.js
+remediate_biology_b2.js
+remediate_biology_b3.js
+remediate_biology_strict.js
+remediate_chemistry_strict.js
+remediate_crk_strict.js
+remediate_economics_strict.js
+remediate_english_strict.js
+remediate_geography_strict.js
+remediate_government_strict.js
+remediate_literature_strict.js
+
+# Research / verify scripts
+research_biology_gaps.js
+research_biology_inheritance.js
+research_biology_q1.js
+research_chemistry.js
+validate_json.js
+verify_economics_v2.js
+verify_english_v1.js
+
+# ── OS / IDE ─────────────────────────────────────────────────────────
 .vscode/
 .idea/
 .DS_Store

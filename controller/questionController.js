@@ -308,3 +308,164 @@ exports.getAllSubjectsAndYears = async (req, res) => {
     });
   }
 };
+
+/**
+ * Retrieves the taxonomy (topics and subtopics) for a specific subject.
+ * Uses aggregation to find unique pairs across all documents.
+ */
+exports.getTaxonomyBySubject = async (req, res) => {
+  try {
+    const { subject } = req.params;
+
+    if (!subject) {
+      return res.status(400).json({ message: "Subject is required" });
+    }
+
+    const taxonomy = await questionModel.aggregate([
+      // Match the subject (case-insensitive)
+      {
+        $match: {
+          subjectName: { $elemMatch: { $regex: `^${subject}$`, $options: 'i' } }
+        }
+      },
+      // Unwind the questions array to treat each question individually
+      { $unwind: "$questions" },
+      // Group by topic and collect unique subtopics
+      {
+        $group: {
+          _id: "$questions.topic",
+          subTopics: { $addToSet: "$questions.subTopic" }
+        }
+      },
+      // Clean up the output
+      {
+        $project: {
+          _id: 0,
+          topic: "$_id",
+          subTopics: 1
+        }
+      },
+      // Sort topics alphabetically
+      { $sort: { topic: 1 } }
+    ]);
+
+    if (taxonomy.length === 0) {
+      return res.status(404).json({ message: `No taxonomy found for subject: ${subject}` });
+    }
+
+    return res.status(200).json({
+      message: "Taxonomy retrieved successfully",
+      data: taxonomy
+    });
+  } catch (error) {
+    console.error("Error fetching taxonomy:", error.message);
+    return res.status(500).json({
+      message: "Internal server error",
+      error: error.message,
+    });
+  }
+};
+
+/**
+ * Retrieves all questions that belong to a specific group/cluster.
+ */
+exports.getQuestionsByGroup = async (req, res) => {
+  try {
+    const { contextId } = req.params;
+
+    if (!contextId) {
+      return res.status(400).json({ message: "contextId is required" });
+    }
+
+    const result = await questionModel.aggregate([
+      // Find documents that contain at least one question with the contextId
+      { $match: { "questions.contextId": contextId } },
+      // Unwind to inspect individual questions
+      { $unwind: "$questions" },
+      // Match exactly the questions belonging to the cluster
+      { $match: { "questions.contextId": contextId } },
+      // Project to flatten or format the output if needed
+      {
+        $project: {
+          _id: 0,
+          subjectName: 1,
+          year: 1,
+          question: "$questions"
+        }
+      }
+    ]);
+
+    return res.status(200).json({
+      message: "Grouped questions retrieved successfully",
+      count: result.length,
+      data: result
+    });
+  } catch (error) {
+    console.error("Error fetching grouped questions:", error.message);
+    return res.status(500).json({
+      message: "Internal server error",
+      error: error.message,
+    });
+  }
+};
+
+/**
+ * NEW: Retrieves unique question clusters (passages/diagrams) for a subject.
+ */
+exports.getClustersBySubject = async (req, res) => {
+  try {
+    const { subject } = req.params;
+
+    if (!subject) {
+      return res.status(400).json({ message: "Subject is required" });
+    }
+
+    const clusters = await questionModel.aggregate([
+      // Match the subject (case-insensitive)
+      {
+        $match: {
+          subjectName: { $regex: `^${subject}$`, $options: 'i' }
+        }
+      },
+      // Unwind questions
+      { $unwind: "$questions" },
+      // Only questions with a contextId (grouped questions)
+      { $match: { "questions.contextId": { $exists: true, $ne: null } } },
+      // Group by contextId to get unique clusters
+      {
+        $group: {
+          _id: "$questions.contextId",
+          previewText: { $first: "$questions.subheadingA" },
+          diagramUrl: { $first: "$questions.diagramUrlB" },
+          year: { $first: "$year" },
+          questionCount: { $sum: 1 }
+        }
+      },
+      // Format output
+      {
+        $project: {
+          _id: 0,
+          contextId: "$_id",
+          previewText: 1,
+          diagramUrl: 1,
+          year: 1,
+          questionCount: 1
+        }
+      },
+      // Sort (maybe by year or contextId)
+      { $sort: { year: -1, contextId: 1 } }
+    ]);
+
+    return res.status(200).json({
+      message: "Clusters retrieved successfully",
+      count: clusters.length,
+      data: clusters
+    });
+  } catch (error) {
+    console.error("Error fetching clusters:", error.message);
+    return res.status(500).json({
+      message: "Internal server error",
+      error: error.message,
+    });
+  }
+};

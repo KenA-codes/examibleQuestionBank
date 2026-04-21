@@ -16,6 +16,7 @@ const questionSchema = new mongoose.Schema(
         "Economics",
         "Commerce",
         "Christian Religious Studies (CRS)",
+        "CRK",
         "Islamic Religious Studies (IRS)",
         "Geography",
         "Agricultural Science",
@@ -35,6 +36,7 @@ const questionSchema = new mongoose.Schema(
         "Business Studies",
         "Further Mathematics",
         "Social Studies",
+        "DemoTest",
       ],
     },
     year: {
@@ -89,6 +91,14 @@ const questionSchema = new mongoose.Schema(
           type: String,
           default: "Uncategorized",
         },
+        subTopic: {
+          type: String,
+          default: "Uncategorized",
+        },
+        contextId: {
+          type: String,
+        },
+
       },
     ],
   },
