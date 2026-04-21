@@ -377,14 +377,17 @@ exports.getQuestionsByGroup = async (req, res) => {
       return res.status(400).json({ message: "contextId is required" });
     }
 
-    const result = await questionModel.aggregate([
-      // Find documents that contain at least one question with the contextId
-      { $match: { "questions.contextId": contextId } },
+    // Use raw collection driver to bypass Mongoose schema casting.
+    // This prevents "Cast to Number failed for NaN" errors caused by
+    // documents with corrupted year fields in the database.
+    const result = await questionModel.collection.aggregate([
+      // Filter out documents with bad year values defensively
+      { $match: { year: { $type: "number" }, "questions.contextId": contextId } },
       // Unwind to inspect individual questions
       { $unwind: "$questions" },
       // Match exactly the questions belonging to the cluster
       { $match: { "questions.contextId": contextId } },
-      // Project to flatten or format the output if needed
+      // Project to flatten the output
       {
         $project: {
           _id: 0,
@@ -393,7 +396,7 @@ exports.getQuestionsByGroup = async (req, res) => {
           question: "$questions"
         }
       }
-    ]);
+    ]).toArray();
 
     return res.status(200).json({
       message: "Grouped questions retrieved successfully",
