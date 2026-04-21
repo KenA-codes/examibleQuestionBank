@@ -1,3 +1,4 @@
+const mongoose = require("mongoose");
 const questionModel = require("../model/question");
 const textract = require("textract");
 const filePath = "../uploads/sample.docx";
@@ -377,17 +378,14 @@ exports.getQuestionsByGroup = async (req, res) => {
       return res.status(400).json({ message: "contextId is required" });
     }
 
-    // Use raw collection driver to bypass Mongoose schema casting.
-    // This prevents "Cast to Number failed for NaN" errors caused by
-    // documents with corrupted year fields in the database.
-    const result = await questionModel.collection.aggregate([
-      // Filter out documents with bad year values defensively
-      { $match: { year: { $type: "number" }, "questions.contextId": contextId } },
-      // Unwind to inspect individual questions
+    // Use the raw MongoDB driver via mongoose.connection.db to fully bypass
+    // Mongoose schema casting (which throws on NaN year values in some documents).
+    const col = mongoose.connection.db.collection('questionsV2');
+    const result = await col.aggregate([
+      // Exclude documents where year is NaN (NaN != NaN is true in $expr)
+      { $match: { $expr: { $eq: ['$year', '$year'] }, "questions.contextId": contextId } },
       { $unwind: "$questions" },
-      // Match exactly the questions belonging to the cluster
       { $match: { "questions.contextId": contextId } },
-      // Project to flatten the output
       {
         $project: {
           _id: 0,

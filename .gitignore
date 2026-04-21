@@ -86,6 +86,7 @@ remediate_english_strict.js
 remediate_geography_strict.js
 remediate_government_strict.js
 remediate_literature_strict.js
+fix_nan_years.js
 
 # Research / verify scripts
 research_biology_gaps.js
