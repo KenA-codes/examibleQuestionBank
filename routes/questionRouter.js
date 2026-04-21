@@ -5,10 +5,10 @@ const upload = multer({ dest: "uploads/" }); // Store uploaded files in the 'upl
 
 
 questionRouter.post("/upload", upload.single("file"), uploadQuestions);
+questionRouter.get("/questions/group/:contextId", getQuestionsByGroup); // Specific route first
 questionRouter.get("/questions/:year/:subjectNames", getQuestionsByYearAndSubject);
 questionRouter.get("/allsubjects", getAllSubjectsAndYears);
 questionRouter.get("/taxonomy/:subject", getTaxonomyBySubject);
-questionRouter.get("/questions/group/:contextId", getQuestionsByGroup);
 questionRouter.get("/clusters/:subject", getClustersBySubject);
 
 module.exports = questionRouter;
