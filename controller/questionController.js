@@ -470,3 +470,74 @@ exports.getClustersBySubject = async (req, res) => {
     });
   }
 };
+
+/**
+ * Searches for questions across all years based on subject, topic, subTopic, and keyword.
+ */
+exports.searchQuestions = async (req, res) => {
+  try {
+    const { subject, topic, subTopic, keyword } = req.query;
+
+    // Base query for the main document
+    let initialMatch = {};
+    if (subject) {
+      initialMatch.subjectName = { $regex: `^${subject}$`, $options: 'i' };
+    }
+
+    const pipeline = [
+      { $match: initialMatch },
+      { $unwind: "$questions" }
+    ];
+
+    // Conditions to match individual questions
+    const questionMatch = {};
+    if (topic) {
+      questionMatch["questions.topic"] = { $regex: `^${topic}$`, $options: 'i' };
+    }
+    if (subTopic) {
+      questionMatch["questions.subTopic"] = { $regex: `^${subTopic}$`, $options: 'i' };
+    }
+    if (keyword) {
+      // Search keyword in the question text (case-insensitive)
+      questionMatch["questions.question"] = { $regex: keyword, $options: 'i' };
+    }
+
+    if (Object.keys(questionMatch).length > 0) {
+      pipeline.push({ $match: questionMatch });
+    }
+
+    // Projects the results into a cleaner format
+    pipeline.push({
+      $project: {
+        _id: 0,
+        year: 1,
+        subjectNames: "$subjectName",
+        question: "$questions.question",
+        options: "$questions.options",
+        answer: "$questions.answer",
+        topic: "$questions.topic",
+        subTopic: "$questions.subTopic",
+        contextId: "$questions.contextId",
+        diagramUrlA: "$questions.diagramUrlA",
+        diagramUrlB: "$questions.diagramUrlB",
+        subheadingA: "$questions.subheadingA",
+        subheadingB: "$questions.subheadingB",
+        aiGeneratedResponses: "$questions.aiGeneratedResponses"
+      }
+    });
+
+    const results = await questionModel.aggregate(pipeline);
+
+    return res.status(200).json({
+      message: "Search results retrieved successfully",
+      count: results.length,
+      data: results
+    });
+  } catch (error) {
+    console.error("Error searching questions:", error.message);
+    return res.status(500).json({
+      message: "Internal server error",
+      error: error.message,
+    });
+  }
+};
