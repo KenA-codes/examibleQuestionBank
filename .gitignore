@@ -26,6 +26,7 @@ exportQuestions.js
 deleteDuplicates.js
 backupAndDelete.js
 labelQuestions.js
+check_db.js
 
 
 # ── OS / IDE ─────────────────────────────────────────────────────────

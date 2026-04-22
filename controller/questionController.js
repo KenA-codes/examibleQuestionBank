@@ -219,18 +219,42 @@ const readDOCX = async (filePath) => {
 exports.getQuestionsByYearAndSubject = async (req, res) => {
   try {
     const { year, subjectNames } = req.params; 
-    const numYear = +year;
-
+    
     if (!year || !subjectNames) {
       return res.status(400).json({
         message: "Year and Subject Name are required",
       });
     }
 
-    const questions = await questionModel.findOne({
-      year: numYear,
-      subjectName: { $elemMatch: { $regex: `^${subjectNames}$`, $options: 'i' } },
-    });
+    let questions;
+
+    if (year === "random") {
+      // Fetch all documents for this subject and pick one at random
+      const allSubjectDocs = await questionModel.find({
+        subjectName: { $regex: `^${subjectNames}$`, $options: 'i' }
+      });
+
+      if (!allSubjectDocs || allSubjectDocs.length === 0) {
+        return res.status(404).json({
+          message: "No questions found for the specified subject",
+        });
+      }
+
+      // Pick a random document
+      questions = allSubjectDocs[Math.floor(Math.random() * allSubjectDocs.length)];
+    } else {
+      const numYear = parseInt(year);
+      if (isNaN(numYear)) {
+        return res.status(400).json({
+          message: "Invalid year format. Year must be a number or 'random'.",
+        });
+      }
+
+      questions = await questionModel.findOne({
+        year: numYear,
+        subjectName: { $elemMatch: { $regex: `^${subjectNames}$`, $options: 'i' } },
+      });
+    }
 
     if (!questions) {
       return res.status(404).json({
@@ -481,6 +505,7 @@ exports.searchQuestions = async (req, res) => {
     // Base query for the main document
     let initialMatch = {};
     if (subject) {
+      // Use simple regex which works on both single Strings and Arrays of Strings
       initialMatch.subjectName = { $regex: `^${subject}$`, $options: 'i' };
     }
 
@@ -491,15 +516,27 @@ exports.searchQuestions = async (req, res) => {
 
     // Conditions to match individual questions
     const questionMatch = {};
-    if (topic) {
-      questionMatch["questions.topic"] = { $regex: `^${topic}$`, $options: 'i' };
+    const escapeRegex = (val) => {
+      if (typeof val !== 'string') return "";
+      return val.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    };
+
+    if (topic && typeof topic === 'string') {
+      const escapedTopic = escapeRegex(topic);
+      // Search in both topic and subTopic fields
+      questionMatch.$or = [
+        { "questions.topic": { $regex: `^${escapedTopic}$`, $options: "i" } },
+        { "questions.subTopic": { $regex: `^${escapedTopic}$`, $options: "i" } }
+      ];
     }
-    if (subTopic) {
-      questionMatch["questions.subTopic"] = { $regex: `^${subTopic}$`, $options: 'i' };
+
+    if (subTopic && typeof subTopic === 'string') {
+      const escapedSubTopic = escapeRegex(subTopic);
+      questionMatch["questions.subTopic"] = { $regex: `^${escapedSubTopic}$`, $options: "i" };
     }
-    if (keyword) {
-      // Search keyword in the question text (case-insensitive)
-      questionMatch["questions.question"] = { $regex: keyword, $options: 'i' };
+
+    if (keyword && typeof keyword === 'string') {
+      questionMatch["questions.question"] = { $regex: escapeRegex(keyword), $options: "i" };
     }
 
     if (Object.keys(questionMatch).length > 0) {
