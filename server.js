@@ -13,9 +13,10 @@ app.use(cors({ origin: "*", methods: "GET,HEAD,PUT,PATCH,POST,DELETE" }));
 
 
 
-// app.use('/api/v1', userRouter);
+const ieltsRouter = require('./routes/ieltsRouter');
 
 app.use(questionRouter);
+app.use(ieltsRouter);
 
 
 app.listen(PORT, () => {

@@ -12,12 +12,20 @@ probationList/
 
 # Raw question source data
 pq/
+*.txt
+Post_UTME/
+FUTO Post UTME_raw.txt
+UNILAG_raw.txt
 
 # Scratch / temporary scripts and audit results
 scratch/
+temp/
+*.log
+doc_analysis.html
 
 # Zip archives
 *.zip
+
 
 # ── One-off processing / migration scripts ───────────────────────────
 # These were temporary data scripts
@@ -27,6 +35,18 @@ deleteDuplicates.js
 backupAndDelete.js
 labelQuestions.js
 check_db.js
+importIELTS.js
+importPostUTME.js
+tagExistingJamb.js
+tagPostUtmeFiles.js
+analyzeUnilagStructure.js
+check_futo_doc.js
+check_postutme.js
+check_tag_status.js
+test_mongoose_query.js
+test_query.js
+verify_db.js
+verify_topic_focus.cjs
 
 
 # ── OS / IDE ─────────────────────────────────────────────────────────

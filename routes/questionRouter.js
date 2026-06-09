@@ -1,6 +1,7 @@
 const multer = require("multer");
 const questionRouter = require('express').Router();
 const { uploadQuestions, getQuestionsByYearAndSubject, getAllSubjectsAndYears, getTaxonomyBySubject, getQuestionsByGroup, getClustersBySubject, searchQuestions } = require('../controller/questionController');
+const { getIeltsMockTest, getIeltsSection } = require('../controller/ieltsController');
 const upload = multer({ dest: "uploads/" }); // Store uploaded files in the 'uploads' directory
 
 
@@ -11,6 +12,10 @@ questionRouter.get("/questions/:year/:subjectNames", getQuestionsByYearAndSubjec
 questionRouter.get("/allsubjects", getAllSubjectsAndYears);
 questionRouter.get("/taxonomy/:subject", getTaxonomyBySubject);
 questionRouter.get("/clusters/:subject", getClustersBySubject);
+
+// IELTS Routes
+questionRouter.get("/ielts/:year/:month/:practiceTestNumber", getIeltsMockTest);
+questionRouter.get("/ielts/:year/:month/:practiceTestNumber/:sectionType", getIeltsSection);
 
 module.exports = questionRouter;
 

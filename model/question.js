@@ -43,6 +43,14 @@ const questionSchema = new mongoose.Schema(
       type: Number,
       required: true,
     },
+    examType: {
+      type: String,
+      default: "JAMB",
+    },
+    institution: {
+      type: String,
+      default: "N/A",
+    },
 
     questions: [
       {

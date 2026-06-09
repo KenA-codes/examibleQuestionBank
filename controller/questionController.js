@@ -218,7 +218,8 @@ const readDOCX = async (filePath) => {
 
 exports.getQuestionsByYearAndSubject = async (req, res) => {
   try {
-    const { year, subjectNames } = req.params; 
+    const { year, subjectNames } = req.params;
+    const { examType = "JAMB", institution = "N/A" } = req.query;
     
     if (!year || !subjectNames) {
       return res.status(400).json({
@@ -226,17 +227,22 @@ exports.getQuestionsByYearAndSubject = async (req, res) => {
       });
     }
 
+    const escapedSubject = subjectNames.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const query = {
+      subjectName: { $elemMatch: { $regex: `^${escapedSubject}$`, $options: 'i' } },
+      examType: { $regex: `^${examType}$`, $options: 'i' },
+      institution: { $regex: `^${institution}$`, $options: 'i' }
+    };
+
     let questions;
 
     if (year === "random") {
-      // Fetch all documents for this subject and pick one at random
-      const allSubjectDocs = await questionModel.find({
-        subjectName: { $regex: `^${subjectNames}$`, $options: 'i' }
-      });
+      // Fetch all documents matching the criteria and pick one at random
+      const allSubjectDocs = await questionModel.find(query);
 
       if (!allSubjectDocs || allSubjectDocs.length === 0) {
         return res.status(404).json({
-          message: "No questions found for the specified subject",
+          message: "No questions found for the specified subject and exam type",
         });
       }
 
@@ -250,10 +256,8 @@ exports.getQuestionsByYearAndSubject = async (req, res) => {
         });
       }
 
-      questions = await questionModel.findOne({
-        year: numYear,
-        subjectName: { $elemMatch: { $regex: `^${subjectNames}$`, $options: 'i' } },
-      });
+      query.year = numYear;
+      questions = await questionModel.findOne(query);
     }
 
     if (!questions) {
@@ -299,35 +303,64 @@ exports.getQuestionsByYearAndSubject = async (req, res) => {
 
 exports.getAllSubjectsAndYears = async (req, res) => {
   try {
-    const result = await questionModel.aggregate([
-      {
-        $group: {
-          _id: "$subjectName",            
-          years: { $addToSet: "$year" }   
-        }
-      },
-      {
-        $project: {
-          _id: 0,
-          subject: "$_id",
-          years: 1
-        }
-      }
-    ]);
+    const { examType, institution, format } = req.query;
 
-    // Convert array to object (optional, if you prefer a map)
-    const data = {};
-    result.forEach(item => {
-      data[item.subject] = item.years.sort(); // sort years if needed
+    const pipeline = [];
+    if (examType) pipeline.push({ $match: { examType: { $regex: `^${examType}$`, $options: 'i' } } });
+    if (institution) pipeline.push({ $match: { institution: { $regex: `^${institution}$`, $options: 'i' } } });
+
+    pipeline.push({ $unwind: "$subjectName" });
+
+    pipeline.push({
+      $group: {
+        _id: {
+          subject: "$subjectName",
+          examType: "$examType",
+          institution: "$institution"
+        },
+        years: { $addToSet: "$year" }
+      }
     });
 
+    pipeline.push({
+      $project: {
+        _id: 0,
+        subject: "$_id.subject",
+        examType: "$_id.examType",
+        institution: "$_id.institution",
+        years: 1
+      }
+    });
+
+    const result = await questionModel.aggregate(pipeline);
+
+    // Legacy Support: If format is not 'structured', return the old object format {"Subject": [years]}
+    if (format !== 'structured') {
+      const legacyData = {};
+      result.forEach(item => {
+        // We take the first subject name from the array
+        const name = Array.isArray(item.subject) ? item.subject[0] : item.subject;
+        if (name) {
+          legacyData[name] = item.years.sort((a, b) => b - a);
+        }
+      });
+
+      return res.status(200).json({
+        success: true,
+        message: `Subjects retrieved (Legacy Format - ${examType || 'All'})`,
+        data: legacyData
+      });
+    }
+
     return res.status(200).json({
-      message: "Subjects and their years retrieved successfully",
-      data
+      success: true,
+      message: "Subjects retrieved (Structured Format)",
+      data: result
     });
   } catch (error) {
     console.error("Error fetching subjects and years:", error.message);
     return res.status(500).json({
+      success: false,
       message: "Internal server error",
       error: error.message,
     });
@@ -346,11 +379,14 @@ exports.getTaxonomyBySubject = async (req, res) => {
       return res.status(400).json({ message: "Subject is required" });
     }
 
+    // Escape special characters for regex to handle subjects like "Mathematics (Post-UTME)"
+    const escapedSubject = subject.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
     const taxonomy = await questionModel.aggregate([
       // Match the subject (case-insensitive)
       {
         $match: {
-          subjectName: { $elemMatch: { $regex: `^${subject}$`, $options: 'i' } }
+          subjectName: { $elemMatch: { $regex: `^${escapedSubject}$`, $options: 'i' } }
         }
       },
       // Unwind the questions array to treat each question individually
@@ -500,13 +536,19 @@ exports.getClustersBySubject = async (req, res) => {
  */
 exports.searchQuestions = async (req, res) => {
   try {
-    const { subject, topic, subTopic, keyword } = req.query;
+    const { subject, topic, subTopic, keyword, examType, institution } = req.query;
 
     // Base query for the main document
     let initialMatch = {};
     if (subject) {
-      // Use simple regex which works on both single Strings and Arrays of Strings
-      initialMatch.subjectName = { $regex: `^${subject}$`, $options: 'i' };
+      const escapedSubject = subject.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      initialMatch.subjectName = { $regex: `^${escapedSubject}$`, $options: 'i' };
+    }
+    if (examType) {
+      initialMatch.examType = { $regex: `^${examType}$`, $options: 'i' };
+    }
+    if (institution) {
+      initialMatch.institution = { $regex: `^${institution}$`, $options: 'i' };
     }
 
     const pipeline = [
