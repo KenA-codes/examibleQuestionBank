@@ -230,9 +230,18 @@ exports.getQuestionsByYearAndSubject = async (req, res) => {
     const escapedSubject = subjectNames.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     const query = {
       subjectName: { $elemMatch: { $regex: `^${escapedSubject}$`, $options: 'i' } },
-      examType: { $regex: `^${examType}$`, $options: 'i' },
-      institution: { $regex: `^${institution}$`, $options: 'i' }
+      examType: { $regex: `^${examType}$`, $options: 'i' }
     };
+
+    if (!institution || institution.toUpperCase() === 'N/A') {
+      query.$or = [
+        { institution: { $regex: "^N/A$", $options: "i" } },
+        { institution: { $exists: false } },
+        { institution: null }
+      ];
+    } else {
+      query.institution = { $regex: `^${institution}$`, $options: 'i' };
+    }
 
     let questions;
 
@@ -307,7 +316,21 @@ exports.getAllSubjectsAndYears = async (req, res) => {
 
     const pipeline = [];
     if (examType) pipeline.push({ $match: { examType: { $regex: `^${examType}$`, $options: 'i' } } });
-    if (institution) pipeline.push({ $match: { institution: { $regex: `^${institution}$`, $options: 'i' } } });
+    if (institution) {
+      if (institution.toUpperCase() === 'N/A') {
+        pipeline.push({
+          $match: {
+            $or: [
+              { institution: { $regex: "^N/A$", $options: 'i' } },
+              { institution: { $exists: false } },
+              { institution: null }
+            ]
+          }
+        });
+      } else {
+        pipeline.push({ $match: { institution: { $regex: `^${institution}$`, $options: 'i' } } });
+      }
+    }
 
     pipeline.push({ $unwind: "$subjectName" });
 
@@ -548,7 +571,15 @@ exports.searchQuestions = async (req, res) => {
       initialMatch.examType = { $regex: `^${examType}$`, $options: 'i' };
     }
     if (institution) {
-      initialMatch.institution = { $regex: `^${institution}$`, $options: 'i' };
+      if (institution.toUpperCase() === 'N/A') {
+        initialMatch.$or = [
+          { institution: { $regex: "^N/A$", $options: 'i' } },
+          { institution: { $exists: false } },
+          { institution: null }
+        ];
+      } else {
+        initialMatch.institution = { $regex: `^${institution}$`, $options: 'i' };
+      }
     }
 
     const pipeline = [
