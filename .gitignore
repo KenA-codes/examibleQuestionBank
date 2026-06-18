@@ -47,6 +47,7 @@ test_mongoose_query.js
 test_query.js
 verify_db.js
 verify_topic_focus.cjs
+clean_db_quotes.js
 
 
 # ── OS / IDE ─────────────────────────────────────────────────────────
