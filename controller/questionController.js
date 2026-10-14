@@ -219,7 +219,7 @@ const readDOCX = async (filePath) => {
 exports.getQuestionsByYearAndSubject = async (req, res) => {
   try {
     const { year, subjectNames } = req.params;
-    const { examType = "JAMB", institution = "N/A" } = req.query;
+    const { examType = "JAMB", institution = "N/A", paperType = "objective", series } = req.query;
     
     if (!year || !subjectNames) {
       return res.status(400).json({
@@ -232,6 +232,20 @@ exports.getQuestionsByYearAndSubject = async (req, res) => {
       subjectName: { $elemMatch: { $regex: `^${escapedSubject}$`, $options: 'i' } },
       examType: { $regex: `^${examType}$`, $options: 'i' }
     };
+
+    if (series) {
+      query.series = { $regex: `^${series}$`, $options: 'i' };
+    }
+
+    if (paperType && paperType.toLowerCase() !== 'objective') {
+      query.paperType = { $regex: `^${paperType}$`, $options: 'i' };
+    } else {
+      query.$or = [
+        { paperType: { $regex: "^objective$", $options: "i" } },
+        { paperType: { $exists: false } },
+        { paperType: null }
+      ];
+    }
 
     if (!institution || institution.toUpperCase() === 'N/A') {
       query.$or = [

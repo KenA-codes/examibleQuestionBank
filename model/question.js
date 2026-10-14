@@ -5,9 +5,10 @@ const questionSchema = new mongoose.Schema(
     subjectName: {
       type: [String],
       enum: [
-        // "English Language",
         "English",
+        "English Language",
         "Mathematics",
+        "General Mathematics",
         "Biology",
         "Physics",
         "Chemistry",
@@ -18,6 +19,7 @@ const questionSchema = new mongoose.Schema(
         "Christian Religious Studies (CRS)",
         "CRK",
         "Islamic Religious Studies (IRS)",
+        "Islamic Studies",
         "Geography",
         "Agricultural Science",
         "History",
@@ -27,6 +29,7 @@ const questionSchema = new mongoose.Schema(
         "Yoruba",
         "Hausa",
         "Computer Studies",
+        "Data Processing",
         "French",
         "Arabic",
         "Home Economics",
@@ -50,6 +53,14 @@ const questionSchema = new mongoose.Schema(
     institution: {
       type: String,
       default: "N/A",
+    },
+    paperType: {
+      type: String,
+      default: "objective",
+    },
+    series: {
+      type: String,
+      default: "SC",
     },
 
     questions: [
@@ -75,25 +86,40 @@ const questionSchema = new mongoose.Schema(
         question: { 
             type: String 
         },
+        diagramUrl: {
+            type: String
+        },
+        scoreWeight: {
+            type: String
+        },
+        sectionInstruction: {
+            type: String
+        },
+        answerMarkingGuide: {
+            type: String
+        },
+        subQuestions: {
+            type: Array,
+            default: []
+        },
         options: { 
             type: [String], 
-            required: true 
+            required: false,
+            default: []
         },
         // The correct answer (e.g., "A", "B", etc.)
         answer: { 
             type: String, 
             default: "" 
         },
+        explanation: {
+          type: String,
+          default: ""
+        },
         // Stores AI-generated explanations (max 4)
         aiGeneratedResponses: {
-          type: [String],
+          type: [mongoose.Schema.Types.Mixed],
           default: [],
-          // validate: {
-          //   validator: function(v) {
-          //     return v.length <= 4;
-          //   },
-          //   message: "Only 4 AI-generated responses are allowed."
-          // }
         },
         topic: {
           type: String,
